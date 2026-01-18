@@ -1,9 +1,8 @@
 import feedparser, requests, os
 from google import genai
 
-# Configurare AI - Forțăm modelul stabil
+# Configurare Client conform noii documentatii Google
 client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
-MODEL_ID = "gemini-1.5-flash" # Modelul stabil
 
 # Configurare Social Media
 TG_TOKEN = os.getenv("TELEGRAM_TOKEN")
@@ -15,12 +14,12 @@ DB_FILE = "stiri_trimise.txt"
 def prelucreaza_articol_complet(titlu, rezumat_sursa):
     prompt = (
         f"Ești un jurnalist profesionist. Rescrie subiectul următor într-un articol complet și detaliat în limba română. "
-        f"Include un titlu puternic. NU menționa sursa, NU pune link-uri, NU menționa autorul sau faptul că ești un AI. "
+        f"Include un titlu puternic la început. NU menționa sursa, NU pune link-uri, NU menționa autorul sau faptul că ești un AI. "
         f"Textul să fie curat și gata de publicat: {titlu} - {rezumat_sursa}"
     )
-    # Am adăugat configurarea de model stabil aici
+    # Folosim identificatorul simplu, fara prefixul 'models/'
     response = client.models.generate_content(
-        model=MODEL_ID, 
+        model="gemini-1.5-flash", 
         contents=prompt
     )
     return response.text
@@ -35,10 +34,9 @@ def extrage_imagine(entry):
 
 def posteaza_telegram(text, img):
     url = f"https://api.telegram.org/bot{TG_TOKEN}/"
+    # Daca avem imagine, punem textul in descriere (limitat de Telegram la 1024)
     if img:
-        # Trimitem poza cu prima parte a textului (limită 1024 caractere)
         requests.post(url + "sendPhoto", data={"chat_id": TG_CHAT_ID, "caption": text[:1020], "photo": img})
-        # Dacă textul e mai lung, trimitem restul ca mesaj separat
         if len(text) > 1020:
             requests.post(url + "sendMessage", data={"chat_id": TG_CHAT_ID, "text": text[1020:]})
     else:
