@@ -8,7 +8,8 @@ import time
 # ================= CONFIG =================
 RSS_URLS = [
     "https://www.digi24.ro/rss",
-    "https://www.hotnews.ro/rss"
+    "https://www.hotnews.ro/rss",
+    "https://www.FINVIZ.COM/rss
 ]
 
 DB_FILE = "stiri.db"
