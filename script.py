@@ -16,56 +16,67 @@ def traduce_text(text, limita=4000):
         return text
 
 def trimite_telegram_complet(titlu, text, foto_url):
-    # 1. Traducem totul
     titlu_ro = traduce_text(titlu)
-    text_ro = traduce_text(text, limita=3500) # Luăm aproape tot articolul
+    text_ro = traduce_text(text, limita=3500)
     
-    # 2. Trimitem Poza prima dată
+    # Pasul 1: Trimite poza
     url_foto = f"https://api.telegram.org/bot{TOKEN}/sendPhoto"
     requests.post(url_foto, data={"chat_id": CHAT_ID, "photo": foto_url})
     
-    # 3. Trimitem Textul Complet ca mesaj separat sub poză
+    # Pasul 2: Trimite textul
     mesaj_final = f"<b>{titlu_ro}</b>\n\n{text_ro}"
     url_msg = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
     requests.post(url_msg, data={"chat_id": CHAT_ID, "text": mesaj_final, "parse_mode": "HTML"})
 
-def extrage_si_trimite(link):
+def extrage_si_trimite(link, istoric_titluri):
     try:
         headers = {'User-Agent': 'Mozilla/5.0'}
         articol = Article(link)
         articol.download()
         articol.parse()
-        if articol.title:
-            foto = articol.top_image if articol.top_image else "https://via.placeholder.com/500"
-            trimite_telegram_complet(articol.title, articol.text, foto)
-            return True
-    except Exception as e:
-        print(f"Eroare extragere: {e}")
-        return False
+        
+        # VERIFICARE DUPLICAT DUPĂ TITLU
+        if not articol.title or articol.title.strip() in istoric_titluri:
+            return False, None
 
-# Verificăm istoricul
+        foto = articol.top_image if articol.top_image else "https://via.placeholder.com/500"
+        trimite_telegram_complet(articol.title, articol.text, foto)
+        return True, articol.title.strip()
+    except:
+        return False, None
+
+# Încărcăm istoricul (link-uri și titluri)
 if not os.path.exists(DB_FILE): open(DB_FILE, "w").close()
-with open(DB_FILE, "r") as f: istoric = f.read().splitlines()
+with open(DB_FILE, "r", encoding="utf-8") as f: istoric = f.read().splitlines()
 
-# PROCESARE RSS
+# Procesare RSS
 for rss_url in RSS_URLS:
     feed = feedparser.parse(rss_url)
     for entry in feed.entries[:3]:
-        if entry.link not in istoric:
-            if extrage_si_trimite(entry.link):
-                with open(DB_FILE, "a") as f: f.write(entry.link + "\n")
+        if entry.link not in istoric and entry.title not in istoric:
+            succes, titlu_salvat = extrage_si_trimite(entry.link, istoric)
+            if succes:
+                with open(DB_FILE, "a", encoding="utf-8") as f:
+                    f.write(entry.link + "\n")
+                    f.write(titlu_salvat + "\n")
 
-# PROCESARE FINVIZ
+# Procesare FINVIZ
 try:
     headers = {'User-Agent': 'Mozilla/5.0'}
     req = requests.get("https://finviz.com/news.ashx", headers=headers)
     soup = BeautifulSoup(req.content, 'html.parser')
     links = soup.find_all('a', class_='nn-tab-link')
-    for link in links[:5]:
+    for link in links[:8]:
         url_stire = link['href']
+        titlu_finviz = link.text.strip()
         if url_stire.startswith('/'): url_stire = "https://finviz.com" + url_stire
-        if url_stire not in istoric:
-            if extrage_si_trimite(url_stire):
-                with open(DB_FILE, "a") as f: f.write(url_stire + "\n")
+        
+        # Verificăm și link-ul și titlul înainte de a procesa
+        if url_stire not in istoric and titlu_finviz not in istoric:
+            succes, titlu_salvat = extrage_si_trimite(url_stire, istoric)
+            if succes:
+                with open(DB_FILE, "a", encoding="utf-8") as f:
+                    f.write(url_stire + "\n")
+                    f.write(titlu_salvat + "\n")
 except Exception as e:
     print(f"Eroare Finviz: {e}")
