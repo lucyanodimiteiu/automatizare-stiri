@@ -27,29 +27,26 @@ CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 DB_FILE = "stiri_trimise.txt"
 
 def editeaza_cu_ai(titlu, text_brut):
-    # Dacă textul extras e prea scurt, ne bazăm pe titlu
-    context = text_brut if len(text_brut) > 200 else "Rezuma aceasta stire bazandu-te pe titlu."
-    
+    context = text_brut if (text_brut and len(text_brut) > 200) else "Rezuma aceasta stire bazandu-te pe titlu."
     prompt = f"""
     Rescrie următoarea știre pentru un canal de Telegram de elită, în limba română.
     Titlu original: {titlu}
     Text: {context}
     
     REGULI:
-    1. Folosește limba română impecabilă și un ton profesional.
-    2. Titlul să fie bold cu un emoji relevant la început.
-    3. Rezumă în 3 idei principale (bullet points) scurte și clare.
-    4. Nu include link-uri în interiorul textului sau nume de jurnaliști.
-    5. Finalizează cu o concluzie de o singură propoziție.
+    1. Folosește limba română impecabilă.
+    2. Titlul să fie bold cu un emoji relevant.
+    3. Rezumă în 3 idei principale (bullet points).
+    4. Nu include nume de jurnaliști sau reclame.
+    5. Finalizează cu o concluzie scurtă.
     """
     try:
         response = model.generate_content(prompt)
         return response.text
     except:
-        return f"<b>{titlu}</b>\n\n(Stire in curs de procesare...)"
+        return f"<b>{titlu}</b>\n\nStire procesata manual."
 
 def trimite_telegram(text_editat, imagine_url, sursa_url):
-    # Curățăm link-ul de trackere gen edir.ro
     sursa_curata = sursa_url.split('?')[0]
     mesaj_final = f"{text_editat}\n\n🔗 <a href='{sursa_curata}'>Sursa originală</a>"
     
@@ -66,30 +63,34 @@ def trimite_telegram(text_editat, imagine_url, sursa_url):
         payload = {
             "chat_id": CHAT_ID, 
             "text": mesaj_final[:4096], 
-            "parse_mode": "HTML",
-            "disable_web_page_preview": False
+            "parse_mode": "HTML"
         }
     requests.post(url, data=payload)
 
 # Pornire procesare
-if not os.path.exists(DB_FILE): open(DB_FILE, "w").close()
-with open(DB_FILE, "r") as f: istoric = f.read().splitlines()
+if not os.path.exists(DB_FILE): 
+    open(DB_FILE, "w").close()
+
+with open(DB_FILE, "r") as f: 
+    istoric = f.read().splitlines()
 
 for rss_url in RSS_URLS:
     feed = feedparser.parse(rss_url)
     for entry in feed.entries[:3]:
-        # Curățăm link-ul pentru verificare în baza de date
         link_id = entry.link.split('?')[0]
         
         if link_id not in istoric:
             try:
-                # Extragem conținutul complet al articolului
                 articol = Article(entry.link)
                 articol.download()
                 articol.parse()
                 
-                # Procesăm cu Gemini
                 text_ai = editeaza_cu_ai(articol.title, articol.text)
+                trimite_telegram(text_ai, articol.top_image, entry.link)
                 
-                # Trimitem pe Telegram
-                trim
+                with open(DB_FILE, "a") as f: 
+                    f.write(link_id + "\n")
+                istoric.append(link_id)
+            except Exception as e:
+                print(f"Eroare la {link_id}: {e}")
+                continue
