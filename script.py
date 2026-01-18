@@ -9,7 +9,7 @@ import time
 RSS_URLS = [
     "https://www.digi24.ro/rss",
     "https://www.hotnews.ro/rss",
-    "https://www.FINVIZ.COM/rss
+    "https://www.finviz.com/rss
 ]
 
 DB_FILE = "stiri.db"
