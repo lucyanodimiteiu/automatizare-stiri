@@ -9,14 +9,13 @@ FB_PAGE_TOKEN = os.getenv("FB_PAGE_TOKEN")
 DB_FILE = "stiri_trimise.txt"
 
 def trimite_telegram(titlu, descriere, link):
-    # Truc pentru poza: un link ascuns intr-un caracter invizibil la inceput
+    # Link ascuns pentru poza + Titlu Bold + Descriere
     mesaj = f'<a href="{link}">\u200b</a><b>{titlu}</b>\n\n{descriere}'
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
     payload = {
         "chat_id": CHAT_ID,
         "text": mesaj,
-        "parse_mode": "HTML",
-        "disable_web_page_preview": False
+        "parse_mode": "HTML"
     }
     try:
         requests.post(url, data=payload)
@@ -36,28 +35,33 @@ def trimite_facebook(titlu, descriere, link):
         except:
             pass
 
-# Verificam ce am trimis deja
 if not os.path.exists(DB_FILE): 
     open(DB_FILE, "w").close()
 
 with open(DB_FILE, "r") as f: 
     istoric = f.read().splitlines()
 
-# Procesam TOATE stirile gasite in RSS
 for rss_url in RSS_URLS:
     feed = feedparser.parse(rss_url)
-    # Am scos [:5], acum proceseaza tot ce gaseste
     for entry in feed.entries:
         if entry.link not in istoric:
-            # Curatam textul
             titlu = entry.title
             descriere = entry.summary if 'summary' in entry else ""
-            descriere_curata = re.sub('<[^<]+?>', '', descriere)[:400] # Luam primele 400 caractere
             
-            # Trimitem
+            # 1. Ștergem orice cod HTML
+            descriere_curata = re.sub('<[^<]+?>', '', descriere)
+            
+            # 2. Ștergem semnătura sursei (ex: "Digi24", "Hotnews") dacă apare la final
+            # tăiem textul după cuvinte cheie tipice sau eliminăm ultimele resturi
+            surse_de_sters = ["Digi24", "HotNews.ro", "HotNews", "Sursa:"]
+            for sursa in surse_de_sters:
+                descriere_curata = descriere_curata.replace(sursa, "")
+
+            # 3. Limităm lungimea și curățăm spațiile goale
+            descriere_curata = descriere_curata.strip()[:400]
+            
             trimite_telegram(titlu, descriere_curata, entry.link)
             trimite_facebook(titlu, descriere_curata, entry.link)
             
-            # Salvam in istoric ca sa nu o mai trimitem a doua oara
             with open(DB_FILE, "a") as f: 
                 f.write(entry.link + "\n")
