@@ -9,7 +9,9 @@ FB_ID = os.getenv("FB_PAGE_ID")
 DB_FILE = "stiri_trimise.txt"
 
 def prelucreaza_articol_complet(titlu, rezumat_sursa):
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GEMINI_KEY}"
+    # Schimbat la v1 (versiunea stabila) pentru a evita eroarea 404
+    url = f"https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key={GEMINI_KEY}"
+    
     prompt = (
         f"Ești un jurnalist profesionist. Rescrie subiectul următor într-un articol complet și detaliat în limba română. "
         f"Include un titlu puternic la început. NU menționa sursa, NU pune link-uri, NU menționa autorul sau faptul că ești un AI. "
@@ -17,10 +19,13 @@ def prelucreaza_articol_complet(titlu, rezumat_sursa):
     )
     
     payload = {"contents": [{"parts": [{"text": prompt}]}]}
-    response = requests.post(url, json=payload)
+    headers = {'Content-Type': 'application/json'}
+    
+    response = requests.post(url, json=payload, headers=headers)
     res_json = response.json()
     
     try:
+        # Extragere text din formatul standard v1
         return res_json['candidates'][0]['content']['parts'][0]['text']
     except:
         print(f"Eroare Gemini: {res_json}")
@@ -37,6 +42,7 @@ def extrage_imagine(entry):
 def posteaza_telegram(text, img):
     url = f"https://api.telegram.org/bot{TG_TOKEN}/"
     if img:
+        # Telegram suporta max 1024 caractere la poze
         requests.post(url + "sendPhoto", data={"chat_id": TG_CHAT_ID, "caption": text[:1020], "photo": img})
         if len(text) > 1020:
             requests.post(url + "sendMessage", data={"chat_id": TG_CHAT_ID, "text": text[1020:]})
