@@ -1,8 +1,7 @@
 import feedparser, requests, os, time
 
-# Configurare API-uri
+# Configurare
 DEEPSEEK_KEY = os.getenv("DEEPSEEK_API_KEY")
-OPENAI_KEY = os.getenv("OPENAI_API_KEY")
 GEMINI_KEY = os.getenv("GEMINI_API_KEY")
 TG_TOKEN = os.getenv("TELEGRAM_TOKEN")
 TG_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
@@ -11,58 +10,37 @@ FB_ID = os.getenv("FB_PAGE_ID")
 DB_FILE = "stiri_trimise.txt"
 
 def cere_ai(prompt):
-    # 1. Incerci DeepSeek (Cel mai stabil)
-    if DEEPSEEK_KEY:
-        try:
-            res = requests.post("https://api.deepseek.com/v1/chat/completions", 
-                json={"model": "deepseek-chat", "messages": [{"role": "user", "content": prompt}]},
-                headers={"Authorization": f"Bearer {DEEPSEEK_KEY}"}, timeout=20)
-            return res.json()['choices'][0]['message']['content']
-        except: pass
-
-    # 2. Incerci GPT-4o mini (Backup rapid)
-    if OPENAI_KEY:
-        try:
-            res = requests.post("https://api.openai.com/v1/chat/completions",
-                json={"model": "gpt-4o-mini", "messages": [{"role": "user", "content": prompt}]},
-                headers={"Authorization": f"Bearer {OPENAI_KEY}"}, timeout=20)
-            return res.json()['choices'][0]['message']['content']
-        except: pass
-
-    # 3. Incerci Gemini 2.0 (Ultima varianta)
-    url_gem = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_KEY}"
+    # Incercam Gemini 2.0 direct (URL stabil)
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_KEY}"
     try:
-        res = requests.post(url_gem, json={"contents": [{"parts": [{"text": prompt}]}]}, timeout=20)
+        res = requests.post(url, json={"contents": [{"parts": [{"text": prompt}]}]}, timeout=20)
         return res.json()['candidates'][0]['content']['parts'][0]['text']
-    except: return None
+    except:
+        return None
 
-def posteaza(text, img):
+def posteaza(text):
     # Telegram
-    try:
-        url_tg = f"https://api.telegram.org/bot{TG_TOKEN}/"
-        if img: requests.post(url_tg + "sendPhoto", data={"chat_id": TG_CHAT_ID, "caption": text[:1020], "photo": img})
-        else: requests.post(url_tg + "sendMessage", data={"chat_id": TG_CHAT_ID, "text": text})
-    except: print("Eroare Telegram")
-
+    requests.post(f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage", 
+                  data={"chat_id": TG_CHAT_ID, "text": text})
     # Facebook
-    try:
-        url_fb = f"https://graph.facebook.com/{FB_ID}/"
-        if img: requests.post(url_fb + "photos", data={"message": text, "url": img, "access_token": FB_TOKEN})
-        else: requests.post(url_fb + "feed", data={"message": text, "access_token": FB_TOKEN})
-    except: print("Eroare Facebook")
+    requests.post(f"https://graph.facebook.com/{FB_ID}/feed", 
+                  data={"message": text, "access_token": FB_TOKEN})
 
+# Citire istoric
 if not os.path.exists(DB_FILE): open(DB_FILE, "w").close()
 with open(DB_FILE, "r") as f: istoric = f.read().splitlines()
 
-RSS_URLS = ["https://www.digi24.ro/rss", "https://finviz.com/news_rss.ashx", "https://feeds.content.dowjones.io/public/rss/mw_topstories"]
+# Surse
+RSS_URLS = ["https://www.digi24.ro/rss", "https://finviz.com/news_rss.ashx"]
 
 for url in RSS_URLS:
     feed = feedparser.parse(url)
-    for entry in feed.entries[:2]:
+    for entry in feed.entries[:1]: # Luam doar 1 stire de test
         if entry.link not in istoric:
-            prompt = f"Rescrie integral in romana, fara sursa sau link. Titlu si articol: {entry.title} - {entry.get('summary', '')}"
+            print(f"Procesam: {entry.title}")
+            prompt = f"Rescrie acest articol integral in romana, fara sursa sau link: {entry.title} - {entry.get('summary', '')}"
             articol = cere_ai(prompt)
             if articol:
-                posteaza(articol, None) # Schimba cu extrage_imagine(entry) daca vrei poze
+                posteaza(articol)
                 with open(DB_FILE, "a") as f: f.write(entry.link + "\n")
-                time.sleep(5) # Pauza anti-blocaj
+                print("Postat cu succes!")
