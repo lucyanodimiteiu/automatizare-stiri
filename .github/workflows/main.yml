@@ -10,12 +10,19 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - run:  pip install feedparser requests newspaper3k lxml_html_clean google-generativeai
-      - env:
+      
+      - name: Instalare librarii
+        run: pip install feedparser requests newspaper3k lxml_html_clean google-generativeai
+
+      - name: Executie Script
+        env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }} # ACEASTA LINIE LIPSRESTE
         run: python script.py
-      - run: |
+
+      - name: Actualizare Baza de Date
+        run: |
           git config --global user.name 'BotStiri'
           git config --global user.email 'bot@stiri.com'
           git add stiri_trimise.txt
