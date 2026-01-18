@@ -1,6 +1,7 @@
 import feedparser, requests, os, json
 
-# Configurare API
+# Configurare API-uri
+DEEPSEEK_KEY = os.getenv("DEEPSEEK_API_KEY")
 GEMINI_KEY = os.getenv("GEMINI_API_KEY")
 TG_TOKEN = os.getenv("TELEGRAM_TOKEN")
 TG_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
@@ -8,27 +9,38 @@ FB_TOKEN = os.getenv("FB_PAGE_TOKEN")
 FB_ID = os.getenv("FB_PAGE_ID")
 DB_FILE = "stiri_trimise.txt"
 
-def prelucreaza_articol_complet(titlu, rezumat_sursa):
-    # Folosim Gemini 2.0 Flash - varianta cea mai noua si sigura
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_KEY}"
-    
-    prompt = (
-        f"Ești un jurnalist profesionist. Rescrie subiectul următor într-un articol complet și detaliat în limba română. "
-        f"Include un titlu puternic la început. NU menționa sursa, NU pune link-uri, NU menționa autorul sau faptul că ești un AI. "
-        f"Textul să fie curat și gata de publicat: {titlu} - {rezumat_sursa}"
-    )
-    
-    payload = {"contents": [{"parts": [{"text": prompt}]}]}
-    headers = {'Content-Type': 'application/json'}
-    
+def cere_ai(prompt):
+    # Incercam intai DeepSeek (Mult mai stabil pentru cereri bulk)
+    if DEEPSEEK_KEY:
+        try:
+            url = "https://api.deepseek.com/v1/chat/completions"
+            headers = {"Authorization": f"Bearer {DEEPSEEK_KEY}", "Content-Type": "application/json"}
+            payload = {
+                "model": "deepseek-chat",
+                "messages": [{"role": "user", "content": prompt}],
+                "stream": False
+            }
+            res = requests.post(url, json=payload, headers=headers, timeout=30)
+            return res.json()['choices'][0]['message']['content']
+        except:
+            print("DeepSeek indisponibil, incercam Gemini...")
+
+    # Backup: Gemini 2.0
+    url_gem = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_KEY}"
+    payload_gem = {"contents": [{"parts": [{"text": prompt}]}]}
     try:
-        response = requests.post(url, json=payload, headers=headers)
-        res_json = response.json()
-        # Verificam daca raspunsul contine textul generat
-        return res_json['candidates'][0]['content']['parts'][0]['text']
+        res = requests.post(url_gem, json=payload_gem, timeout=30)
+        return res.json()['candidates'][0]['content']['parts'][0]['text']
     except Exception as e:
-        print(f"Eroare Gemini (2.0): {res_json}")
+        print(f"Toate AI-urile au esuat: {e}")
         return None
+
+def prelucreaza_articol(titlu, rezumat_sursa):
+    prompt = (
+        f"Esti jurnalist. Rescrie integral in romana, fara sa mentionezi sursa, link-ul sau autorul. "
+        f"Titlu si articol complet: {titlu} - {rezumat_sursa}"
+    )
+    return cere_ai(prompt)
 
 def extrage_imagine(entry):
     if 'media_content' in entry: return entry.media_content[0]['url']
@@ -38,42 +50,31 @@ def extrage_imagine(entry):
             if 'image' in l.get('type', ''): return l.get('href')
     return None
 
-def posteaza_telegram(text, img):
-    url = f"https://api.telegram.org/bot{TG_TOKEN}/"
+def posteaza(text, img):
+    # Telegram
+    url_tg = f"https://api.telegram.org/bot{TG_TOKEN}/"
     if img:
-        # Trimitem poza cu textul limitat la 1024 caractere
-        requests.post(url + "sendPhoto", data={"chat_id": TG_CHAT_ID, "caption": text[:1020], "photo": img})
-        if len(text) > 1020:
-            requests.post(url + "sendMessage", data={"chat_id": TG_CHAT_ID, "text": text[1020:]})
+        requests.post(url_tg + "sendPhoto", data={"chat_id": TG_CHAT_ID, "caption": text[:1020], "photo": img})
     else:
-        requests.post(url + "sendMessage", data={"chat_id": TG_CHAT_ID, "text": text})
-
-def posteaza_facebook(text, img):
-    url = f"https://graph.facebook.com/{FB_ID}/"
+        requests.post(url_tg + "sendMessage", data={"chat_id": TG_CHAT_ID, "text": text})
+    
+    # Facebook
+    url_fb = f"https://graph.facebook.com/{FB_ID}/"
     if img:
-        requests.post(url + "photos", data={"message": text, "url": img, "access_token": FB_TOKEN})
+        requests.post(url_fb + "photos", data={"message": text, "url": img, "access_token": FB_TOKEN})
     else:
-        requests.post(url + "feed", data={"message": text, "access_token": FB_TOKEN})
+        requests.post(url_fb + "feed", data={"message": text, "access_token": FB_TOKEN})
 
 if not os.path.exists(DB_FILE): open(DB_FILE, "w").close()
 with open(DB_FILE, "r") as f: istoric = f.read().splitlines()
 
-RSS_URLS = [
-    "https://www.digi24.ro/rss",
-    "https://hotnews.ro/rss",
-    "https://finviz.com/news_rss.ashx",
-    "https://feeds.content.dowjones.io/public/rss/mw_topstories"
-]
+RSS_URLS = ["https://www.digi24.ro/rss", "https://finviz.com/news_rss.ashx"]
 
 for url in RSS_URLS:
     feed = feedparser.parse(url)
     for entry in feed.entries[:2]:
         if entry.link not in istoric:
-            desc = entry.get('summary', entry.get('description', ''))
-            articol_integral = prelucreaza_articol_complet(entry.title, desc)
-            
-            if articol_integral:
-                imagine = extrage_imagine(entry)
-                posteaza_telegram(articol_integral, imagine)
-                posteaza_facebook(articol_integral, imagine)
+            articol = prelucreaza_articol(entry.title, entry.get('summary', ''))
+            if articol:
+                posteaza(articol, extrage_imagine(entry))
                 with open(DB_FILE, "a") as f: f.write(entry.link + "\n")
