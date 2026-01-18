@@ -1,7 +1,7 @@
 name: Ruleaza Automatizarea
 on:
   schedule:
-    - cron: '*/1 * * * *'
+    - cron: '*/3 * * * *'
   workflow_dispatch:
 jobs:
   run-script:
