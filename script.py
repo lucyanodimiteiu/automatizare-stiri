@@ -1,9 +1,9 @@
 import feedparser, requests, os
 from google import genai
 
-# Configurare AI Nouă
+# Configurare AI - Forțăm modelul stabil
 client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
-MODEL_ID = "gemini-1.5-flash"
+MODEL_ID = "gemini-1.5-flash" # Modelul stabil
 
 # Configurare Social Media
 TG_TOKEN = os.getenv("TELEGRAM_TOKEN")
@@ -18,7 +18,11 @@ def prelucreaza_articol_complet(titlu, rezumat_sursa):
         f"Include un titlu puternic. NU menționa sursa, NU pune link-uri, NU menționa autorul sau faptul că ești un AI. "
         f"Textul să fie curat și gata de publicat: {titlu} - {rezumat_sursa}"
     )
-    response = client.models.generate_content(model=MODEL_ID, contents=prompt)
+    # Am adăugat configurarea de model stabil aici
+    response = client.models.generate_content(
+        model=MODEL_ID, 
+        contents=prompt
+    )
     return response.text
 
 def extrage_imagine(entry):
@@ -32,7 +36,9 @@ def extrage_imagine(entry):
 def posteaza_telegram(text, img):
     url = f"https://api.telegram.org/bot{TG_TOKEN}/"
     if img:
+        # Trimitem poza cu prima parte a textului (limită 1024 caractere)
         requests.post(url + "sendPhoto", data={"chat_id": TG_CHAT_ID, "caption": text[:1020], "photo": img})
+        # Dacă textul e mai lung, trimitem restul ca mesaj separat
         if len(text) > 1020:
             requests.post(url + "sendMessage", data={"chat_id": TG_CHAT_ID, "text": text[1020:]})
     else:
