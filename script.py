@@ -1,10 +1,7 @@
-import feedparser, requests, os
-from google import genai
+import feedparser, requests, os, json
 
-# Configurare Client conform noii documentatii Google
-client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
-
-# Configurare Social Media
+# Configurare API
+GEMINI_KEY = os.getenv("GEMINI_API_KEY")
 TG_TOKEN = os.getenv("TELEGRAM_TOKEN")
 TG_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 FB_TOKEN = os.getenv("FB_PAGE_TOKEN")
@@ -12,17 +9,22 @@ FB_ID = os.getenv("FB_PAGE_ID")
 DB_FILE = "stiri_trimise.txt"
 
 def prelucreaza_articol_complet(titlu, rezumat_sursa):
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GEMINI_KEY}"
     prompt = (
         f"Ești un jurnalist profesionist. Rescrie subiectul următor într-un articol complet și detaliat în limba română. "
         f"Include un titlu puternic la început. NU menționa sursa, NU pune link-uri, NU menționa autorul sau faptul că ești un AI. "
         f"Textul să fie curat și gata de publicat: {titlu} - {rezumat_sursa}"
     )
-    # Folosim identificatorul simplu, fara prefixul 'models/'
-    response = client.models.generate_content(
-        model="gemini-1.5-flash", 
-        contents=prompt
-    )
-    return response.text
+    
+    payload = {"contents": [{"parts": [{"text": prompt}]}]}
+    response = requests.post(url, json=payload)
+    res_json = response.json()
+    
+    try:
+        return res_json['candidates'][0]['content']['parts'][0]['text']
+    except:
+        print(f"Eroare Gemini: {res_json}")
+        return None
 
 def extrage_imagine(entry):
     if 'media_content' in entry: return entry.media_content[0]['url']
@@ -34,7 +36,6 @@ def extrage_imagine(entry):
 
 def posteaza_telegram(text, img):
     url = f"https://api.telegram.org/bot{TG_TOKEN}/"
-    # Daca avem imagine, punem textul in descriere (limitat de Telegram la 1024)
     if img:
         requests.post(url + "sendPhoto", data={"chat_id": TG_CHAT_ID, "caption": text[:1020], "photo": img})
         if len(text) > 1020:
@@ -63,14 +64,11 @@ for url in RSS_URLS:
     feed = feedparser.parse(url)
     for entry in feed.entries[:2]:
         if entry.link not in istoric:
-            try:
-                desc = entry.get('summary', entry.get('description', ''))
-                articol_integral = prelucreaza_articol_complet(entry.title, desc)
+            desc = entry.get('summary', entry.get('description', ''))
+            articol_integral = prelucreaza_articol_complet(entry.title, desc)
+            
+            if articol_integral:
                 imagine = extrage_imagine(entry)
-                
                 posteaza_telegram(articol_integral, imagine)
                 posteaza_facebook(articol_integral, imagine)
-                
                 with open(DB_FILE, "a") as f: f.write(entry.link + "\n")
-            except Exception as e:
-                print(f"Eroare: {e}")
