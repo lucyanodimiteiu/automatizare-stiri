@@ -10,25 +10,24 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      
+        with:
+          fetch-depth: 0
+
       - name: Install dependencies
         run: pip install feedparser requests
-        
+
       - name: Run script
         env:
-          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}  # LINIA ACEASTA LIPSEA!
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          # Am lăsat restul pentru viitor, deși acum folosim doar Telegram
-          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
-          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python script.py
-        
+
       - name: Save history
         run: |
           git config --global user.name 'NewsBot'
           git config --global user.email 'bot@news.com'
+          git pull origin main --rebase
           git add stiri_trimise.txt
           git commit -m "update db" || exit 0
-          git push
+          git push origin main
