@@ -1,96 +1,133 @@
-import feedparser, requests, os, re
-from newspaper import Article
+import feedparser
+import requests
+import os
+import sqlite3
 import google.generativeai as genai
-import nltk
+import time
 
-# Configurare componente necesare pentru extragerea textului
-try:
-    nltk.download('punkt')
-    nltk.download('punkt_tab')
-except:
-    pass
-
-# Configurare Gemini AI
-genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
-model = genai.GenerativeModel('gemini-1.5-flash')
-
+# ================= CONFIG =================
 RSS_URLS = [
-    "https://www.digi24.ro/rss/stiri/economie",
-    "https://www.hotnews.ro/rss/economie",
-    "https://www.marketwatch.com/rss/topstories",
-    "https://www.pv-magazine.com/feed/",
-    "https://cointelegraph.com/rss"
+    "https://www.digi24.ro/rss",
+    "https://www.hotnews.ro/rss"
 ]
 
-TOKEN = os.getenv("TELEGRAM_TOKEN")
-CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
-DB_FILE = "stiri_trimise.txt"
+DB_FILE = "stiri.db"
 
-def editeaza_cu_ai(titlu, text_brut):
-    context = text_brut if (text_brut and len(text_brut) > 200) else "Rezuma aceasta stire bazandu-te pe titlu."
+TG_TOKEN = os.getenv("TELEGRAM_TOKEN")
+TG_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
+FB_TOKEN = os.getenv("FB_PAGE_TOKEN")
+FB_ID = os.getenv("FB_PAGE_ID")
+
+# ============== AI CONFIG =================
+genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+ai = genai.GenerativeModel("gemini-1.5-flash")
+
+# ============== DATABASE ==================
+conn = sqlite3.connect(DB_FILE)
+cursor = conn.cursor()
+cursor.execute("""
+CREATE TABLE IF NOT EXISTS stiri (
+    link TEXT PRIMARY KEY,
+    data TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+)
+""")
+conn.commit()
+
+# ============== FUNCTIONS =================
+def exista(link):
+    cursor.execute("SELECT 1 FROM stiri WHERE link=?", (link,))
+    return cursor.fetchone() is not None
+
+def salveaza(link):
+    cursor.execute("INSERT INTO stiri (link) VALUES (?)", (link,))
+    conn.commit()
+
+def genereaza_articol(titlu, rezumat):
     prompt = f"""
-    Rescrie următoarea știre pentru un canal de Telegram de elită, în limba română.
-    Titlu original: {titlu}
-    Text: {context}
-    
-    REGULI:
-    1. Folosește limba română impecabilă.
-    2. Titlul să fie bold cu un emoji relevant.
-    3. Rezumă în 3 idei principale (bullet points).
-    4. Nu include nume de jurnaliști sau reclame.
-    5. Finalizează cu o concluzie scurtă.
-    """
-    try:
-        response = model.generate_content(prompt)
-        return response.text
-    except:
-        return f"<b>{titlu}</b>\n\nStire procesata manual."
+Ești jurnalist profesionist.
+Scrie un articol complet, clar și coerent în limba română.
 
-def trimite_telegram(text_editat, imagine_url, sursa_url):
-    sursa_curata = sursa_url.split('?')[0]
-    mesaj_final = f"{text_editat}\n\n🔗 <a href='{sursa_curata}'>Sursa originală</a>"
-    
-    if imagine_url and len(imagine_url) > 5:
-        url = f"https://api.telegram.org/bot{TOKEN}/sendPhoto"
-        payload = {
-            "chat_id": CHAT_ID, 
-            "caption": mesaj_final[:1024], 
-            "photo": imagine_url, 
-            "parse_mode": "HTML"
-        }
+REGULI STRICTE:
+- NU inventa informații
+- NU adăuga date care nu apar în textul sursă
+- Fără surse, fără link-uri, fără mențiuni AI
+- Include un titlu puternic la început
+- Ton neutru, informativ
+
+Subiect:
+{titlu}
+
+Rezumat:
+{rezumat}
+"""
+    r = ai.generate_content(prompt)
+    return r.text.strip()
+
+def extrage_imagine(entry):
+    if "media_content" in entry:
+        return entry.media_content[0].get("url")
+    if "links" in entry:
+        for l in entry.links:
+            if "image" in l.get("type", ""):
+                return l.get("href")
+    return None
+
+def telegram_post(text, img):
+    base = f"https://api.telegram.org/bot{TG_TOKEN}/"
+    chunks = [text[i:i+3500] for i in range(0, len(text), 3500)]
+
+    if img:
+        r = requests.post(
+            base + "sendPhoto",
+            data={"chat_id": TG_CHAT_ID, "caption": chunks[0]},
+            files={"photo": requests.get(img).content}
+        )
+        if r.status_code != 200:
+            raise Exception("Telegram photo failed")
+        chunks = chunks[1:]
+
+    for c in chunks:
+        r = requests.post(
+            base + "sendMessage",
+            data={"chat_id": TG_CHAT_ID, "text": c}
+        )
+        if r.status_code != 200:
+            raise Exception("Telegram message failed")
+        time.sleep(1)
+
+def facebook_post(text, img):
+    url = f"https://graph.facebook.com/{FB_ID}/"
+    data = {"message": text, "access_token": FB_TOKEN}
+
+    if img:
+        data["url"] = img
+        r = requests.post(url + "photos", data=data)
     else:
-        url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
-        payload = {
-            "chat_id": CHAT_ID, 
-            "text": mesaj_final[:4096], 
-            "parse_mode": "HTML"
-        }
-    requests.post(url, data=payload)
+        r = requests.post(url + "feed", data=data)
 
-# Pornire procesare
-if not os.path.exists(DB_FILE): 
-    open(DB_FILE, "w").close()
+    if r.status_code not in (200, 201):
+        raise Exception("Facebook post failed")
 
-with open(DB_FILE, "r") as f: 
-    istoric = f.read().splitlines()
+# ============== MAIN ======================
+for rss in RSS_URLS:
+    feed = feedparser.parse(rss)
+    for entry in feed.entries[:2]:
+        if exista(entry.link):
+            continue
 
-for rss_url in RSS_URLS:
-    feed = feedparser.parse(rss_url)
-    for entry in feed.entries[:3]:
-        link_id = entry.link.split('?')[0]
-        
-        if link_id not in istoric:
-            try:
-                articol = Article(entry.link)
-                articol.download()
-                articol.parse()
-                
-                text_ai = editeaza_cu_ai(articol.title, articol.text)
-                trimite_telegram(text_ai, articol.top_image, entry.link)
-                
-                with open(DB_FILE, "a") as f: 
-                    f.write(link_id + "\n")
-                istoric.append(link_id)
-            except Exception as e:
-                print(f"Eroare la {link_id}: {e}")
-                continue
+        try:
+            articol = genereaza_articol(entry.title, entry.summary)
+            imagine = extrage_imagine(entry)
+
+            telegram_post(articol, imagine)
+            facebook_post(articol, imagine)
+
+            salveaza(entry.link)
+            print("✔ Publicat:", entry.title)
+
+        except Exception as e:
+            print("✖ Eroare:", e)
+            continue
+
+conn.close()
+
