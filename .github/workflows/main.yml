@@ -1,0 +1,23 @@
+name: Ruleaza Automatizarea
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install feedparser requests
+      - env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python script.py
+      - run: |
+          git config --global user.name 'BotStiri'
+          git config --global user.email 'bot@stiri.com'
+          git add stiri_trimise.txt
+          git commit -m "update db" || exit 0
+          git push
