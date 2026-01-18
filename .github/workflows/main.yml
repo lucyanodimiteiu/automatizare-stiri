@@ -1,42 +1,26 @@
 name: Automatizare Stiri Integrale
-
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: '*/5 * * * *'
   workflow_dispatch:
-
 jobs:
   run-script:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install dependencies
-        run: |
-          pip install feedparser requests google-generativeai
-
-      - name: Run script
-        env:
+      - run: pip install feedparser requests google-generativeai
+      - env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: |
-          python script.py
-
-      - name: Save database
-        run: |
-          git config --global user.name "NewsBot"
-          git config --global user.email "bot@news.com"
-          git add stiri.db
-          git commit -m "update database" || exit 0
-          git pull --rebase || true
+        run: python script.py
+      - run: |
+          git config --global user.name 'NewsBot'
+          git config --global user.email 'bot@news.com'
+          git add stiri_trimise.txt
+          git commit -m "update db" || exit 0
           git push
