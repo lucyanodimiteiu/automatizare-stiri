@@ -9,8 +9,8 @@ FB_ID = os.getenv("FB_PAGE_ID")
 DB_FILE = "stiri_trimise.txt"
 
 def prelucreaza_articol_complet(titlu, rezumat_sursa):
-    # Folosim modelul stabil si parametrul 'latest' pentru a evita eroarea 404
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key={GEMINI_KEY}"
+    # Folosim Gemini 2.0 Flash - varianta cea mai noua si sigura
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_KEY}"
     
     prompt = (
         f"Ești un jurnalist profesionist. Rescrie subiectul următor într-un articol complet și detaliat în limba română. "
@@ -24,17 +24,11 @@ def prelucreaza_articol_complet(titlu, rezumat_sursa):
     try:
         response = requests.post(url, json=payload, headers=headers)
         res_json = response.json()
+        # Verificam daca raspunsul contine textul generat
         return res_json['candidates'][0]['content']['parts'][0]['text']
     except Exception as e:
-        # Daca gemini-pro esueaza, incercam varianta flash-latest
-        url_alt = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key={GEMINI_KEY}"
-        response = requests.post(url_alt, json=payload, headers=headers)
-        res_json = response.json()
-        try:
-            return res_json['candidates'][0]['content']['parts'][0]['text']
-        except:
-            print(f"Eroare Gemini Finala: {res_json}")
-            return None
+        print(f"Eroare Gemini (2.0): {res_json}")
+        return None
 
 def extrage_imagine(entry):
     if 'media_content' in entry: return entry.media_content[0]['url']
@@ -47,6 +41,7 @@ def extrage_imagine(entry):
 def posteaza_telegram(text, img):
     url = f"https://api.telegram.org/bot{TG_TOKEN}/"
     if img:
+        # Trimitem poza cu textul limitat la 1024 caractere
         requests.post(url + "sendPhoto", data={"chat_id": TG_CHAT_ID, "caption": text[:1020], "photo": img})
         if len(text) > 1020:
             requests.post(url + "sendMessage", data={"chat_id": TG_CHAT_ID, "text": text[1020:]})
