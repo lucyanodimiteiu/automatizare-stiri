@@ -3,6 +3,11 @@ on:
   schedule:
     - cron: '*/5 * * * *'
   workflow_dispatch:
+
+concurrency:
+  group: news-bot
+  cancel-in-progress: false
+
 jobs:
   run-script:
     runs-on: ubuntu-latest
@@ -23,14 +28,13 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python script.py
 
-      - name: Save history safely
+      - name: Save history
         run: |
           git config --global user.name 'NewsBot'
           git config --global user.email 'bot@news.com'
+          git pull origin main --rebase
           git add stiri_trimise.txt
-          git stash                          # Salvează temporar știrile noi
-          git pull origin main --rebase      # Aduce ultimele modificări de pe GitHub
-          git stash pop || echo "No changes" # Pune știrile noi înapoi peste cele descărcate
-          git add stiri_trimise.txt
-          git commit -m "update db" || exit 0
-          git push origin main
+          if ! git diff --cached --exit-code; then
+            git commit -m "update db [skip ci]"
+            git push origin main
+          fi
