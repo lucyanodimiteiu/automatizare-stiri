@@ -1,1 +1,11 @@
-{}
+{
+    "rss_urls": [
+        "https://finance.yahoo.com/rss/topstories",
+        "https://finance.yahoo.com/rss/crypto",
+        "http://feeds.marketwatch.com/marketwatch/topstories/",
+        "https://www.reutersagency.com/feed/?best-topics=business",
+        "https://www.digi24.ro/rss/stiri/economie"
+    ],
+    "keywords": ["economie", "finante", "bursa", "tech", "market", "fed", "bitcoin", "trump", "aur", "fotovoltaice", "imprimare3d"],
+    "limit_chars": 900
+}
