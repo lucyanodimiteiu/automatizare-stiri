@@ -7,5 +7,10 @@ https://www.marketwatch.com/story/trump-plans-10-tariffs-on-european-countries-o
 https://finance.yahoo.com/news/barclays-wells-fargo-lift-price-091921903.html|Barclays and Wells Fargo Lift Price Targets on Micron Technology (MU)
 https://finance.yahoo.com/news/where-uber-technologies-uber-headed-091920543.html|Where is Uber Technologies (UBER) Headed?
 https://finance.yahoo.com/news/barclays-wells-fargo-lift-price-091921903.html|Barclays and Wells Fargo Lift Price Targets on Micron Technology (MU)
+<<<<<<< Updated upstream
 https://www.marketwatch.com/story/a-year-after-his-death-gene-hackmans-longtime-santa-fe-home-is-listed-for-6-25-million-78350927?mod=mw_rss_topstories|A year after his death, Gene Hackman’s longtime Santa Fe home is listed for $6.25 million
 https://www.marketwatch.com/story/is-the-stock-market-open-on-mlk-day-does-the-post-office-deliver-mail-00591917?mod=mw_rss_topstories|Is the stock market open on MLK Day? Does the post office deliver mail?
+=======
+https://www.marketwatch.com/story/is-the-stock-market-open-on-mlk-day-does-the-post-office-deliver-mail-00591917?mod=mw_rss_topstories|Is the stock market open on MLK Day? Does the post office deliver mail?
+https://www.digi24.ro/stiri/economie/noi-recorduri-pentru-aur-si-argint-preturile-metalelor-pretioase-au-explodat-dupa-amenintarile-tarifare-lansate-de-donald-trump-3591145|Noi recorduri pentru aur şi argint: Prețurile metalelor prețioase au explodat după ameninţările tarifare lansate de Donald Trump
+>>>>>>> Stashed changes
