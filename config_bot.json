@@ -4,8 +4,13 @@
         "https://finance.yahoo.com/rss/crypto",
         "http://feeds.marketwatch.com/marketwatch/topstories/",
         "https://www.reutersagency.com/feed/?best-topics=business",
-        "https://www.digi24.ro/rss/stiri/economie"
+        "https://www.digi24.ro/rss/stiri/economie",
+        "https://www.pv-magazine.com/feed/",
+        "https://all3dp.com/feed/",
+        "https://hackaday.com/blog/feed/",
+        "https://www.theverge.com/rss/index.xml",
+        "https://techcrunch.com/feed/"
     ],
-    "keywords": ["economie", "finante", "bursa", "tech", "market", "fed", "bitcoin", "trump", "aur", "fotovoltaice", "imprimare3d"],
+    "keywords": ["economie", "finante", "bursa", "tech", "market", "bitcoin", "trump", "aur", "fotovoltaice", "imprimanta 3d", "3d printing", "solar", "maker", "diy", "gadget"],
     "limit_chars": 900
 }
