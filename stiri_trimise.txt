@@ -1,6 +1,7 @@
 
 <<<<<<< Updated upstream
 
+<<<<<<< Updated upstream
 =======
 https://www.digi24.ro/stiri/externe/cel-putin-5-morti-intr-un-accident-feroviar-in-sudul-spaniei-multe-persoane-ranite-au-ramas-blocate-in-trenurile-de-mare-viteza-3590717
 https://www.digi24.ro/stiri/fost-consilier-prezidential-dupa-apelul-lui-nicusor-dan-in-scandalul-groenlandei-impactul-pentru-romania-poate-fi-extrem-de-serios-3590663
@@ -20,4 +21,7 @@ https://www.bbc.com/news/articles/ceqz0llpnyqo?at_medium=RSS&at_campaign=rss
 https://www.digi24.ro/stiri/externe/erfan-soltani-protestatarul-iranian-condamnat-la-moarte-ar-fi-in-viata-potrivit-unui-organism-de-supraveghere-kurdo-iranian-3590861
 https://hotnews.ro/ce-trebuie-sa-stii-la-inceputul-anului-2026-daca-vrei-sa-ti-cumperi-o-locuinta-cresterea-preturilor-va-fi-mai-lenta-piata-se-va-aseza-dupa-primul-trimestru-2152601
 https://www.marketwatch.com/story/big-tech-stocks-are-quickly-falling-out-of-favor-heres-the-markets-new-momentum-trade-bcf261ac?mod=mw_rss_topstories
+>>>>>>> Stashed changes
+=======
+https://www.marketwatch.com/story/trump-plans-10-tariffs-on-european-countries-over-greenland-what-it-means-for-markets-1b2d3373?mod=mw_rss_topstories
 >>>>>>> Stashed changes
