@@ -12,8 +12,8 @@ DEFAULT_CONFIG = {
         "http://feeds.marketwatch.com/marketwatch/topstories/",
         "https://www.reutersagency.com/feed/?best-topics=business"
     ],
-    "keywords": ["economie", "finante", "bursa", "tech", "market", "fed", "bitcoin", "trump"],
-    "limit_chars": 800
+    "keywords": ["economie", "finante", "bursa", "tech", "market", "fed", "bitcoin", "trump", "aur"],
+    "limit_chars": 900
 }
 
 def incarca_config():
@@ -28,6 +28,17 @@ def incarca_config():
 def salveaza_config(config):
     with open(CONFIG_FILE, "w") as f:
         json.dump(config, f, indent=4)
+
+def extraie_imagine(entry):
+    """Extrage link-ul imaginii din diverse formate RSS"""
+    if 'links' in entry:
+        for link in entry.links:
+            if 'image' in link.get('type', ''): return link.get('href')
+    if 'media_content' in entry: return entry.media_content[0]['url']
+    if 'media_thumbnail' in entry: return entry.media_thumbnail[0]['url']
+    match = re.search(r'<img src="([^"]+)"', entry.get('description', '') + entry.get('summary', ''))
+    if match: return match.group(1)
+    return None
 
 def verifica_comenzi_telegram(config):
     url = f"https://api.telegram.org/bot{TG_TOKEN}/getUpdates"
@@ -55,15 +66,16 @@ def verifica_duplicat_ai(titlu, istoric):
     url = "https://api.deepseek.com/v1/chat/completions"
     headers = {"Authorization": f"Bearer {DEEPSEEK_KEY}", "Content-Type": "application/json"}
     try:
-        res = requests.post(url, json={"model": "deepseek-chat", "messages": [{"role": "user", "content": f"Titlu: {titlu}. Istoric: {istoric}. Daca e acelasi subiect, zi DA, altfel NU."}], "temperature": 0.1}, headers=headers, timeout=10).json()
+        res = requests.post(url, json={"model": "deepseek-chat", "messages": [{"role": "user", "content": f"Titlu: {titlu}. Istoric: {istoric}. Daca e acelasi subiect (reproducere sau variatiune), zi DA, altfel NU."}], "temperature": 0.1}, headers=headers, timeout=10).json()
         return "DA" in res['choices'][0]['message']['content'].upper()
     except: return False
 
 def cere_deepseek(titlu, rezumat, limit):
     url = "https://api.deepseek.com/v1/chat/completions"
     headers = {"Authorization": f"Bearer {DEEPSEEK_KEY}", "Content-Type": "application/json"}
+    prompt = f"Rezuma in romana (max {limit} ch, Bold, Emoji). SENTIMENT (🟢/🔴/🟡) la final: {titlu} - {rezumat}"
     try:
-        res = requests.post(url, json={"model": "deepseek-chat", "messages": [{"role": "user", "content": f"Rezuma in romana (max {limit} ch, Bold, Emoji). Sentiment (🟢/🔴/🟡) la final: {titlu} - {rezumat}"}], "temperature": 0.5}, headers=headers, timeout=60).json()
+        res = requests.post(url, json={"model": "deepseek-chat", "messages": [{"role": "user", "content": prompt}], "temperature": 0.5}, headers=headers, timeout=60).json()
         return res['choices'][0]['message']['content']
     except: return None
 
@@ -72,9 +84,9 @@ def main():
     config = verifica_comenzi_telegram(config)
     
     if not os.path.exists(DB_FILE): open(DB_FILE, "w").close()
-    with open(DB_FILE, "r") as f: istoric = f.read().splitlines()
-    istoric_links = {l.split('|')[0] for l in istoric if '|' in l}
-    titluri_vechi = [l.split('|')[1] for l in istoric[-20:] if '|' in l]
+    with open(DB_FILE, "r") as f: lines = f.read().splitlines()
+    istoric_links = {l.split('|')[0] for l in lines if '|' in l}
+    titluri_vechi = [l.split('|')[1] for l in lines[-20:] if '|' in l]
 
     for url in config["rss_urls"]:
         feed = feedparser.parse(url)
@@ -84,9 +96,14 @@ def main():
                     if not verifica_duplicat_ai(entry.title, titluri_vechi):
                         articol = cere_deepseek(entry.title, entry.get('summary', ''), config["limit_chars"])
                         if articol:
-                            requests.post(f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage", data={"chat_id": TG_CHAT_ID, "text": articol, "parse_mode": "Markdown"})
+                            img = extraie_imagine(entry)
+                            if img:
+                                requests.post(f"https://api.telegram.org/bot{TG_TOKEN}/sendPhoto", data={"chat_id": TG_CHAT_ID, "photo": img, "caption": articol, "parse_mode": "Markdown"})
+                            else:
+                                requests.post(f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage", data={"chat_id": TG_CHAT_ID, "text": articol, "parse_mode": "Markdown"})
+                            
                             with open(DB_FILE, "a") as f: f.write(f"{entry.link}|{entry.title}\n")
-                            return # Postăm una singură și ieșim
+                            return
 
 if __name__ == "__main__":
     main()
