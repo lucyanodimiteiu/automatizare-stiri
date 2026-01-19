@@ -2,7 +2,7 @@ import feedparser, requests, os, json, time
 
 DEEPSEEK_KEY = os.getenv("DEEPSEEK_API_KEY")
 TG_TOKEN = os.getenv("TELEGRAM_TOKEN")
-TG_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID") # Acesta rămâne ID-ul canalului pentru știri
+TG_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 DB_FILE = "stiri_trimise.txt"
 CONFIG_FILE = "config_bot.json"
 
@@ -13,16 +13,16 @@ def incarca_config():
     except:
         return {"rss_urls": [], "keywords": [], "limit_chars": 900}
 
-def trimite_tg(chat_id, text, img=None):
-    """Funcție universală de trimitere către un ID specific"""
+def trimite_tg(destinatar_id, text, img=None):
+    """Trimite mesaj către un ID specific (canal sau user privat)"""
     try:
         if img:
             r = requests.post(f"https://api.telegram.org/bot{TG_TOKEN}/sendPhoto", 
-                             data={"chat_id": chat_id, "photo": img, "caption": text, "parse_mode": "Markdown"}, timeout=15)
+                             data={"chat_id": destinatar_id, "photo": img, "caption": text, "parse_mode": "Markdown"}, timeout=15)
             if r.status_code == 200: return True
         
         requests.post(f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage", 
-                     data={"chat_id": chat_id, "text": text, "parse_mode": "Markdown"}, timeout=15)
+                     data={"chat_id": destinatar_id, "text": text, "parse_mode": "Markdown"}, timeout=15)
     except: pass
 
 def proceseaza_comenzi(config):
@@ -33,13 +33,13 @@ def proceseaza_comenzi(config):
         
         for update in res["result"][-5:]:
             msg = update.get("message", {})
-            user_chat_id = msg.get("chat", {}).get("id")
+            user_privat_id = msg.get("chat", {}).get("id")
             text = msg.get("text", "")
             
-            if text == "/lista_config" and user_chat_id:
+            if text == "/lista_config" and user_privat_id:
                 info = f"📊 *CONFIG ACTIVĂ:*\n\n*Surse:* {len(config['rss_urls'])}\n*Keywords:* {', '.join(config['keywords'])}"
-                # REPARAȚIE: Trimitem răspunsul către user_chat_id (privat), nu către TG_CHAT_ID (canal)
-                trimite_tg(user_chat_id, info)
+                # REPARAȚIE: Trimitem în privat celui care a întrebat
+                trimite_tg(user_privat_id, info)
                 break 
     except: pass
 
@@ -66,7 +66,7 @@ def main():
                         img = None
                         if 'media_content' in entry: img = entry.media_content[0]['url']
                         
-                        # Știrile merg în continuare pe CANAL (TG_CHAT_ID)
+                        # Știrile merg pe CANAL
                         trimite_tg(TG_CHAT_ID, articol, img)
                         
                         with open(DB_FILE, "a") as f: f.write(f"{entry.link}\n")
