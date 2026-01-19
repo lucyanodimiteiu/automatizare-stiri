@@ -33,8 +33,15 @@ jobs:
           git config --global user.name 'NewsBot'
           git config --global user.email 'bot@news.com'
           git pull origin main --rebase
-          git add stiri_trimise.txt config_bot.json
+          
+          # Verificăm dacă fișierele există înainte de a le adăuga
+          [ -f stiri_trimise.txt ] && git add stiri_trimise.txt
+          [ -f config_bot.json ] && git add config_bot.json
+          
+          # Facem commit doar dacă există modificări reale
           if ! git diff --cached --exit-code; then
             git commit -m "update db and config [skip ci]"
             git push origin main
+          else
+            echo "Nicio modificare de salvat."
           fi
