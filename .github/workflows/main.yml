@@ -32,13 +32,19 @@ jobs:
         run: |
           git config --global user.name 'NewsBot'
           git config --global user.email 'bot@news.com'
+          
+          # Rezolvăm eroarea "unstaged changes"
+          git add .
+          git stash || echo "No changes to stash"
+          
+          # Aduce ultimele modificări de pe server
           git pull origin main --rebase
           
-          # Verificăm dacă fișierele există înainte de a le adăuga
-          [ -f stiri_trimise.txt ] && git add stiri_trimise.txt
-          [ -f config_bot.json ] && git add config_bot.json
+          # Pune înapoi modificările noastre (configurația nouă)
+          git stash pop || echo "Nothing to restore"
           
-          # Facem commit doar dacă există modificări reale
+          git add stiri_trimise.txt config_bot.json
+          
           if ! git diff --cached --exit-code; then
             git commit -m "update db and config [skip ci]"
             git push origin main
