@@ -1,5 +1,6 @@
 {
     "rss_urls": [
+<<<<<<< Updated upstream
         "https://www.digi24.ro/rss/stiri/economie", 
         "https://www.digi24.ro/rss/stiri/sci-tech",
         "http://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,3 +9,19 @@
     "keywords": ["economie", "finante", "tehnologie", "tech", "bursa", "profit", "bani", "digital", "industrie", "market"],
     "limit_chars": 800
 }
+=======
+        "https://www.digi24.ro/rss/stiri/economie",
+        "https://www.digi24.ro/rss/stiri/sci-tech",
+        "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "http://feeds.marketwatch.com/marketwatch/topstories/"
+    ],
+    "keywords": [
+        "economie",
+        "finante",
+        "tech",
+        "bursa",
+        "profit"
+    ],
+    "limit_chars": 800
+}
+>>>>>>> Stashed changes
