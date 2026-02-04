@@ -1192,3 +1192,5 @@ https://finance.yahoo.com/news/adm-works-market-volatility-closes-134920736.html
 https://finance.yahoo.com/news/spot-bitcoin-etfs-ingest-562m-134057619.html
 https://www.marketwatch.com/story/soybean-prices-surge-to-highest-level-this-year-as-trump-surprises-market-with-plan-for-more-sales-to-china-21af16b0?mod=mw_rss_topstories
 https://www.marketwatch.com/story/powell-probe-will-get-resolved-clearing-the-way-for-warshs-confirmation-key-republican-senator-says-a4dd0169?mod=mw_rss_topstories
+https://www.marketwatch.com/story/qualcomms-stock-falls-as-memory-constraints-hit-outlook-844badba?mod=mw_rss_topstories
+https://www.theverge.com/transportation/873891/senate-hearing-autonomous-vehicles-robotaxi-waymo-tesla-legislation
