@@ -11,6 +11,11 @@
         "https://www.theverge.com/rss/index.xml",
         "https://techcrunch.com/feed/"
     ],
-    "keywords": ["economie", "finante", "bursa", "tech", "market", "bitcoin", "trump", "aur", "fotovoltaice", "imprimanta 3d", "3d printing", "solar", "maker", "diy", "gadget"],
+    "keywords":,"keywords": [
+    "economie", "finante", "bursa", "tech", "market", "bitcoin", "trump", "aur", 
+    "fotovoltaice", "imprimanta 3d", "3d printing", "solar", "maker", "diy", "gadget",
+    "inteligență artificială", "AI", "artificial intelligence", "chatgpt", "openai", 
+    "claude", "gemini", "machine learning", "inovatie AI", "aplicatie AI"
+]
     "limit_chars": 900
 }
