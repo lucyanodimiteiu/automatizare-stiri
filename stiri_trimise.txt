@@ -1916,3 +1916,5 @@ https://finance.yahoo.com/news/ross-gerber-slams-trump-melania-233111736.html
 https://www.investors.com/stock-lists/ibd-big-cap-20/fabrinet-stock-ai-data-center-play-fn-buy-zone-investing-markets/?src=A00220&yptr=yahoo
 https://www.investors.com/stock-lists/ibd-big-cap-20/fabrinet-stock-ai-data-center-play-fn-buy-zone-investing-markets/?src=A00220&yptr=yahoo
 https://hackaday.com/2026/02/14/reverse-engineering-a-dash-robot-with-ghidra/
+https://www.barrons.com/articles/trump-tariff-cut-steel-stocks-e2568336?siteid=yhoof2&yptr=yahoo
+https://www.investors.com/news/technology/amd-stock-market-share-gains-intel/?src=A00220&yptr=yahoo
