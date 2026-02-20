@@ -2307,3 +2307,6 @@ https://finance.yahoo.com/news/fed-minutes-downplay-impact-trump-200032911.html
 https://www.pv-magazine.com/2026/02/20/new-single-diode-model-tackles-recombination-losses-in-solar-cells/
 https://www.pv-magazine.com/2026/02/20/south-africa-adds-1-6-gw-of-solar-in-2025/
 https://www.pv-magazine.com/2026/02/20/rethinking-solar-and-storage-roi-beyond-old-efficiency-assumptions/
+https://finance.yahoo.com/news/figma-investors-cheer-40-growth-212826040.html
+https://www.pv-magazine.com/2026/02/20/india-adds-7-8-gw-of-open-access-solar-in-2025/
+https://www.pv-magazine.com/2026/02/20/agrivoltaics-for-regenerative-agriculture/
