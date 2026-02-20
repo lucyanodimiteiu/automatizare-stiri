@@ -1,5 +1,6 @@
 {
     "rss_urls": [
+        "https://www.producthunt.com/feed",
         "https://finance.yahoo.com/rss/topstories",
         "https://finance.yahoo.com/rss/crypto",
         "http://feeds.marketwatch.com/marketwatch/topstories/",
@@ -15,7 +16,9 @@
         "economie", "finante", "bursa", "tech", "market", "bitcoin", "trump", "aur", 
         "fotovoltaice", "imprimanta 3d", "3d printing", "solar", "maker", "diy", "gadget",
         "inteligență artificială", "AI", "artificial intelligence", "chatgpt", "openai", 
-        "claude", "gemini", "machine learning", "inovatie AI", "aplicatie AI"
+        "claude", "gemini", "machine learning", "inovatie AI", "aplicatie AI",
+        "new ai tool", "ai launch", "generative ai", "llm", "copilot", "mistral", 
+        "llama", "stable diffusion", "midjourney", "hugging face"
     ],
     "limit_chars": 900
 }
