@@ -2322,3 +2322,5 @@ https://finance.yahoo.com/news/why-tactile-systems-technology-stock-003422583.ht
 https://finance.yahoo.com/news/why-tactile-systems-technology-stock-003422583.html
 https://www.pv-magazine.com/2026/02/20/egypt-tenders-500-mw-solar-project/
 https://techcrunch.com/2026/02/20/uaes-g42-teams-up-with-cerebras-to-deploy-8-exaflops-of-compute-in-india/
+https://www.pv-magazine.com/2026/02/20/german-consortium-launches-web-guide-for-bipv-planning/
+https://techcrunch.com/2026/02/20/the-openai-mafia-15-of-the-most-notable-startups-founded-by-alumni/
