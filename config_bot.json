@@ -12,13 +12,15 @@
         "https://www.theverge.com/rss/index.xml",
         "https://techcrunch.com/feed/"
     ],
+
     "keywords": [
-        "economie", "finante", "bursa", "tech", "market", "bitcoin", "trump", "aur", 
-        "fotovoltaice", "imprimanta 3d", "3d printing", "solar", "maker", "diy", "gadget",
-        "inteligență artificială", "AI", "artificial intelligence", "chatgpt", "openai", 
-        "claude", "gemini", "machine learning", "inovatie AI", "aplicatie AI",
-        "new ai tool", "ai launch", "generative ai", "llm", "copilot", "mistral", 
-        "llama", "stable diffusion", "midjourney", "hugging face"
+        "ai", "inteligență", "artificial", "machine learning", "llm", "chatgpt", "openai",
+        "crypto", "criptomonede", "bitcoin", "ethereum", "blockchain",
+        "market", "bursa", "stocks", "finance", "finanțe", "economy", "economie", "inflație",
+        "solar", "fotovoltaic", "renewable", "energie", "energy",
+        "3d print", "3d printing", "imprimanta", "maker", "diy",
+        "tech", "tehnologie", "gadget", "innovation", "inovație"
     ],
+
     "limit_chars": 900
 }
