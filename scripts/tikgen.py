@@ -1,6 +1,6 @@
 import asyncio
 import edge_tts
-from moviepy.editor import *
+from moviepy import *
 from PIL import Image, ImageDraw, ImageFont
 import textwrap
 import os
@@ -63,10 +63,10 @@ def monteaza_video(audio_path, image_path, output_video):
     duration = audio_clip.duration + 0.5 # Putina pauza la final
 
     # Incarca imaginea si seteaza durata
-    image_clip = ImageClip(image_path).set_duration(duration)
+    image_clip = ImageClip(image_path).with_duration(duration)
     
     # Combina
-    video = image_clip.set_audio(audio_clip)
+    video = image_clip.with_audio(audio_clip)
     video.write_videofile(output_video, fps=24, codec="libx264", audio_codec="aac")
     print(f"🎬 Video final: {output_video}")
 
