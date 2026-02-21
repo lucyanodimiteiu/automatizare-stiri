@@ -64,7 +64,23 @@ def verifica_duplicat_ai(titlu, istoric):
 def cere_deepseek(titlu, rezumat, limit):
     url = "https://api.deepseek.com/v1/chat/completions"
     headers = {"Authorization": f"Bearer {DEEPSEEK_KEY}", "Content-Type": "application/json"}
-    prompt = f"Rezuma in romana (max {limit} ch, Bold, Emoji). SENTIMENT (🟢/🔴/🟡) la final: {titlu} - {rezumat}"
+    prompt = f"""
+    Analizează această știre: "{titlu} - {rezumat}"
+
+    Ești un analist tech/crypto de elită. Scrie un rezumat scurt și percutant pentru Telegram.
+    
+    Reguli de stil:
+    1. TITLU: Scrie un titlu BOLD, scurt și "catchy" (max 8 cuvinte) cu un emoji relevant la început.
+    2. CORP: 
+       - Prima frază: "De ce ne pasă?" (Impactul imediat).
+       - Apoi: 2-3 puncte esențiale (folosește "•"). Fii concis!
+    3. TON: Inteligent, ușor informal, dar expert. Evită limbajul de lemn ("Această platformă oferă...").
+    4. FINAL:
+       - SENTIMENT: 🟢 (Bullish/Bun), 🔴 (Bearish/Rău) sau 🟡 (Neutru/Complex).
+       - O propoziție scurtă de concluzie sau predicție.
+
+    Nu pune introduceri gen "Iată rezumatul". Dă-mi direct textul.
+    """
     try:
         res = requests.post(url, json={"model": "deepseek-chat", "messages": [{"role": "user", "content": prompt}], "temperature": 0.5}, headers=headers, timeout=60).json()
         return res['choices'][0]['message']['content']
