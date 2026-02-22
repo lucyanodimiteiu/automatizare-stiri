@@ -35,3 +35,4 @@ https://finance.yahoo.com/news/evercore-isi-raises-costco-cost-233132417.html|Ev
 https://www.producthunt.com/products/superpowers-ai|Superpowers AI
 https://www.producthunt.com/products/tidy-3|Tidy
 https://www.producthunt.com/products/straion|Straion
+https://www.producthunt.com/products/claude|Claude in PowerPoint
