@@ -72,3 +72,4 @@ https://www.producthunt.com/products/siteline|Siteline
 https://www.producthunt.com/products/pipedrivesheets|PipedriveSheets
 https://www.producthunt.com/products/typeboost-2|TypeBoost
 https://www.producthunt.com/products/app-cleaner-uninstaller|App Cleaner & Uninstaller 9.1
+https://www.producthunt.com/products/shepherd-7|Shepherd
