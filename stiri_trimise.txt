@@ -75,3 +75,4 @@ https://www.producthunt.com/products/app-cleaner-uninstaller|App Cleaner & Unins
 https://www.producthunt.com/products/shepherd-7|Shepherd
 https://www.producthunt.com/products/grok|Grok 4.2
 https://www.producthunt.com/products/yap-2|YAP
+https://www.producthunt.com/products/skillforge-2|SkillForge
