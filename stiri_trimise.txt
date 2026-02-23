@@ -77,3 +77,4 @@ https://www.producthunt.com/products/grok|Grok 4.2
 https://www.producthunt.com/products/yap-2|YAP
 https://www.producthunt.com/products/skillforge-2|SkillForge
 https://www.producthunt.com/products/replit|Replit Animated Videos
+https://www.producthunt.com/products/inboxagents|InboxAgents
