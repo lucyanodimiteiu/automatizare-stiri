@@ -70,3 +70,4 @@ https://www.producthunt.com/products/callio-3|Callio
 https://www.producthunt.com/products/cuto|Cuto
 https://www.producthunt.com/products/siteline|Siteline
 https://www.producthunt.com/products/pipedrivesheets|PipedriveSheets
+https://www.producthunt.com/products/typeboost-2|TypeBoost
