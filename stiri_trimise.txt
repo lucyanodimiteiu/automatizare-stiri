@@ -94,3 +94,4 @@ https://www.producthunt.com/products/settle-4|Settle
 https://www.producthunt.com/products/stitch-by-google|Stitch by Google
 https://www.producthunt.com/products/nag-alarm-ai|Nag Alarm AI
 https://www.producthunt.com/products/dock-developer-optimization-content-kit|Dock 3.0
+https://www.producthunt.com/products/webmcp|WebMCP
