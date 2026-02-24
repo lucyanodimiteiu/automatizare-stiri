@@ -10,7 +10,13 @@
         "https://all3dp.com/feed/",
         "https://hackaday.com/blog/feed/",
         "https://www.theverge.com/rss/index.xml",
-        "https://techcrunch.com/feed/"
+        "https://techcrunch.com/feed/",
+        "http://www.espn.com/espn/rss/news",
+        "https://feeds.bbci.co.uk/sport/rss.xml?edition=int",
+        "https://www.skysports.com/rss/12040",
+        "https://www.theguardian.com/sport/rss",
+        "https://www.eurosport.com/rss.xml",
+        "https://www.sportsnet.ca/feed/"
     ],
 
     "keywords": [
@@ -19,7 +25,12 @@
         "market", "bursa", "stocks", "finance", "finanțe", "economy", "economie", "inflație",
         "solar", "fotovoltaic", "renewable", "energie", "energy",
         "3d print", "3d printing", "imprimanta", "maker", "diy",
-        "tech", "tehnologie", "gadget", "innovation", "inovație"
+        "tech", "tehnologie", "gadget", "innovation", "inovație",
+        "sport", "sports", "football", "soccer", "basketball", "tennis", "olympics", "champions league",
+        "nba", "nfl", "mlb", "nhl", "fifa", "uefa", "formula 1", "f1", "motor sport",
+        "athletics", "swimming", "golf", "rugby", "cricket", "volleyball", "handball",
+        "meci", "campionat", "liga", "cupă", "turneu", "jucător", "antrenor", "transfer",
+        "victorie", "înfrângere", "gol", "punct", "record", "medalie", "finală"
     ],
 
     "limit_chars": 900
