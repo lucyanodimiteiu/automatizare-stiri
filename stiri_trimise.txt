@@ -98,3 +98,4 @@ https://www.producthunt.com/products/webmcp|WebMCP
 https://www.producthunt.com/products/sologuard|SoloGuard
 https://www.producthunt.com/products/semn-ai|semn.ai
 https://www.producthunt.com/products/stash-or-pass|Stash or Pass
+https://www.producthunt.com/products/bazaar-2|Bazaar V4
