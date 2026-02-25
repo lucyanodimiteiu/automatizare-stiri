@@ -101,3 +101,4 @@ https://www.producthunt.com/products/stash-or-pass|Stash or Pass
 https://www.producthunt.com/products/bazaar-2|Bazaar V4
 https://www.producthunt.com/products/prosaic|Prosaic
 https://www.producthunt.com/products/collective-os|Collective OS
+https://www.producthunt.com/products/togglex-openclaw|Toggle for OpenClaw
