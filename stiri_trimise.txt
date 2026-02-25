@@ -104,3 +104,4 @@ https://www.producthunt.com/products/collective-os|Collective OS
 https://www.producthunt.com/products/togglex-openclaw|Toggle for OpenClaw
 https://www.producthunt.com/products/what-yc-is-really-betting-on|What YC Is Really Betting On?
 https://www.producthunt.com/products/gemma|Gemma
+https://www.producthunt.com/products/lemonade-password-manager|Lemonade Password Manager
