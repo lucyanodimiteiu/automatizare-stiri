@@ -130,3 +130,4 @@ https://www.producthunt.com/products/chatpal-2|ChatPal
 https://www.producthunt.com/products/foodhealth-score|FoodHealth Score
 https://www.producthunt.com/products/qwarm|Qwarm
 https://www.producthunt.com/products/deltamemory|DeltaMemory
+https://www.producthunt.com/products/heimdall-3|Heimdall
