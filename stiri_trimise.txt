@@ -128,3 +128,4 @@ https://finance.yahoo.com/news/nordex-posts-record-orders-profit-092837751.html|
 https://www.producthunt.com/products/tessl|Tessl
 https://www.producthunt.com/products/chatpal-2|ChatPal
 https://www.producthunt.com/products/foodhealth-score|FoodHealth Score
+https://www.producthunt.com/products/qwarm|Qwarm
