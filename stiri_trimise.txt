@@ -136,3 +136,4 @@ https://www.barrons.com/livecoverage/stock-market-news-today-022526/card/stocks-
 https://finance.yahoo.com/news/factbox-companies-cutting-jobs-investments-163752693.html|Factbox-Companies cutting jobs as investments shift toward AI
 https://www.producthunt.com/products/read-dashboard|Digital Twin by Read AI
 https://finance.yahoo.com/news/huge-volume-netflix-call-options-183002556.html|Huge Volume in Netflix Call Options Today Shows Investors are Bullish on NFLX Stock
+https://www.producthunt.com/products/koidex-2|Koidex
