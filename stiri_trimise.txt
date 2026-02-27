@@ -158,3 +158,4 @@ https://www.producthunt.com/products/nix-capture|Nix Capture
 https://www.producthunt.com/products/musikey-music-auth|Musikey
 https://finance.yahoo.com/news/iqvia-holdings-iqv-rallied-waning-140333248.html|IQVIA Holdings (IQV) Rallied on Waning Concerns Over Biotech Funding and Clinical Activity
 https://finance.yahoo.com/news/usa-rare-earth-inc-usar-143252113.html|Is USA Rare Earth, Inc. (USAR) One of the Best Manufacturing Stocks to Invest In Now?
+https://finance.yahoo.com/news/stocks-mostly-lower-nvidia-earnings-151744094.html|Stocks Mostly Lower as Nvidia Earnings Fail to Impress
