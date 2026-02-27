@@ -150,3 +150,4 @@ https://www.producthunt.com/products/flarehawk|Flarehawk
 https://www.producthunt.com/products/minimax-agent|MaxClaw by MiniMax
 https://finance.yahoo.com/news/investment-firm-bets-big-esabs-164125993.html|Investment Firm Bets Big on ESAB's Welding and Cutting Technology
 https://www.producthunt.com/products/showcasepro|ShowcasePro
+https://www.producthunt.com/products/helixdb|HelixDB
