@@ -269,6 +269,7 @@ REGULI PENTRU IMAGINI (100% gratuit, fără generare):
 - Imaginea trebuie să fie: clară, profesională, fără text, relevantă.
 - Stilul imaginilor trebuie să fie consistent (realist).
 - Nu folosi imagini cu logo-uri sau branduri.
+- Nu descrie imaginea în text. Nu comenta, nu explica și nu introduce fraze despre imagine. Doar atașeaz-o.
 
 TAG‑URI STANDARDIZATE: #AI, #Tech, #MachineLearning, #EnergieVerde, #Eolian, #Macro, #Finanțe, #Startup, #Crypto, #Bitcoin, #Semiconductori, #Auto, #Cybersecurity, #Geopolitică, #Energie.
 
