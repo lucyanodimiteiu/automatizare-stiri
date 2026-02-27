@@ -146,3 +146,4 @@ https://www.producthunt.com/products/lemonpod-ai|lemonpod.ai
 https://www.producthunt.com/products/perplexity-ai|Perplexity Computer
 https://www.producthunt.com/products/mvntstudio|mvntSTUDIO
 https://www.producthunt.com/products/superset-5|Superset
+https://www.producthunt.com/products/flarehawk|Flarehawk
