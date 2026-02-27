@@ -142,3 +142,4 @@ https://www.producthunt.com/products/alkemi|Alkemi
 https://www.producthunt.com/products/what-s-up-with-that|What's Up With That?
 https://www.producthunt.com/products/claude-code-remote-access|Claude Code Remote Access
 https://www.producthunt.com/products/mastra|Mastra Code
+https://www.producthunt.com/products/lemonpod-ai|lemonpod.ai
