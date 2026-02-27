@@ -154,3 +154,4 @@ https://www.producthunt.com/products/helixdb|HelixDB
 https://www.producthunt.com/products/muno-2|muno
 https://www.producthunt.com/products/nano-banana-2-11|Nano Banana 2
 https://www.producthunt.com/products/bedrock-5|BedRock
+https://www.producthunt.com/products/nix-capture|Nix Capture
