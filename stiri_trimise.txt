@@ -172,3 +172,4 @@ https://finance.yahoo.com/news/cognizant-technology-solutions-corporation-ctsh-0
 https://finance.yahoo.com/news/street-confidence-builds-around-universal-025439049.html|Street Confidence Builds Around Universal Technical Institute, Inc. (UTI)
 https://www.producthunt.com/products/google|Google AI Edge Gallery
 https://www.producthunt.com/products/surfpool|Surfpool
+https://www.producthunt.com/products/solace-8|Solace
