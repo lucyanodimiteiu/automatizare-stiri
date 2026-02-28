@@ -174,3 +174,4 @@ https://www.producthunt.com/products/google|Google AI Edge Gallery
 https://www.producthunt.com/products/surfpool|Surfpool
 https://www.producthunt.com/products/solace-8|Solace
 https://www.producthunt.com/products/study-os|Study OS
+https://www.producthunt.com/products/the-claw-news|The Claw News
