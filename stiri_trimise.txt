@@ -220,3 +220,4 @@ https://www.producthunt.com/products/notra-3|Notra
 https://www.producthunt.com/products/claude-in-powerpoint|Claude Import Memory
 https://www.producthunt.com/products/openfang|OpenFang
 https://www.producthunt.com/products/octrafic|Octrafic
+https://www.producthunt.com/products/hearica|Hearica
