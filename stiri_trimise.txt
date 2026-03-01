@@ -222,3 +222,4 @@ https://www.producthunt.com/products/openfang|OpenFang
 https://www.producthunt.com/products/octrafic|Octrafic
 https://www.producthunt.com/products/hearica|Hearica
 https://www.producthunt.com/products/simplora|Simplora 2.0
+https://www.producthunt.com/products/openai-websocket-mode-for-responses-api|OpenAI WebSocket Mode for Responses API
