@@ -212,3 +212,4 @@ https://finance.yahoo.com/news/goldman-bucks-private-credit-redemption-195856856
 https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-nvidia-partner-coreweave-crwv/?src=A00220&yptr=yahoo|Stock Market Today: Dow Sinks On Hot Inflation; Nvidia Plunges On OpenAI Deal (Live Coverage)
 https://www.wsj.com/business/energy-utilities-roundup-market-talk-15a564ee?siteid=yhoof2&yptr=yahoo|Energy & Utilities Roundup: Market Talk
 https://finance.yahoo.com/news/wheat-leads-grain-rally-friday-230335413.html|Wheat Leads the Grain Rally on Friday
+https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-fall-to-end-volatile-month-as-ai-worries-buffet-markets-211239963.html|Stock market today: Dow, S&P 500, Nasdaq fall to end volatile month as AI worries buffet markets
