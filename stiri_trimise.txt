@@ -225,3 +225,4 @@ https://www.producthunt.com/products/simplora|Simplora 2.0
 https://www.producthunt.com/products/openai-websocket-mode-for-responses-api|OpenAI WebSocket Mode for Responses API
 https://www.producthunt.com/products/browser-use|BU
 https://finance.yahoo.com/news/billionaire-investor-ole-andreas-halvorsen-120500860.html|Billionaire Investor Ole Andreas Halvorsen Sold His Hedge Fund's Entire Stake in Nike, Netflix, and Meta and Bought 3 Insurance Stocks Instead
+https://finance.yahoo.com/news/diversified-energy-company-dec-bull-130041750.html|Diversified Energy Company (DEC): A Bull Case Theory
