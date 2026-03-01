@@ -218,3 +218,4 @@ https://www.producthunt.com/products/voicr|Voicr
 https://www.producthunt.com/products/epismo|Epismo Skills
 https://www.producthunt.com/products/notra-3|Notra
 https://www.producthunt.com/products/claude-in-powerpoint|Claude Import Memory
+https://www.producthunt.com/products/openfang|OpenFang
