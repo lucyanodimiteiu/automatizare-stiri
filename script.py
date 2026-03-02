@@ -240,7 +240,7 @@ def alege_imagine(tag):
     return "https://images.unsplash.com/photo-1518770660439-4636190af475"  # default tech
 
 def genereaza_rezumat_premium(titlu, descriere, tag, limit_chars):
-    """Generează rezumat structurat folosind DeepSeek API."""
+    """Generează rezumat structurat în stil jurnalistic ELI5 folosind DeepSeek API."""
     if not DEEPSEEK_KEY:
         print("⚠️  DeepSeek API key lipsă.")
         return None
@@ -252,59 +252,47 @@ def genereaza_rezumat_premium(titlu, descriere, tag, limit_chars):
     }
     
     prompt = f"""
-Când primești o știre, creează un rezumat scurt, clar, analitic și ușor de citit, folosind structura și regulile de mai jos. Rezumatul trebuie să fie util, concis și să includă o imagine relevantă.
+Ești un jurnalist român de renume mondial, cunoscut pentru capacitatea ta unică de a explica cele mai complexe știri pe înțelesul unui copil de 5 ani, fără a pierde datele esențiale și cifrele importante.
+
+Când primești o știre, rescrie-o folosind structura de mai jos.
 
 STRUCTURA:
 1. Imagine – vezi secțiunea „Reguli pentru imagini”.
-2. Titlu scurt + emoji – max 8 cuvinte – să transmită esența știrii
-3. De ce contează (1–2 fraze) – explică impactul real, nu doar ce s-a întâmplat
-4. Bullet‑uri (3–5) cu fapte cheie – fiecare bullet = o singură idee – scoate cifrele în față – fără adjective inutile
-5. Sentiment (Pozitiv / Negativ / Mixt / Neutru) + emoji – 1 frază scurtă care justifică
-6. Tag‑uri (1–2) – vezi lista standardizată
+2. Titlu scurt + emoji – max 8 cuvinte – să fie foarte clar.
+3. Povestea pe scurt (ELI5) – 1–2 fraze extrem de simple care explică esența, ca și cum ai vorbi cu un copil.
+4. De ce contează (1–2 fraze) – explică impactul real într-un mod logic și simplu.
+5. Cifre și Date cheie (Bullet‑uri) – 3 fapte esențiale cu cifrele scoase în față – limbaj simplu.
+6. Tag‑uri (1–2) – vezi lista standardizată.
 
 REGULI PENTRU IMAGINI (100% gratuit, fără generare):
 - Nu genera imagini. Folosește doar imagini existente.
 - Dacă articolul are imagine originală, folosește-o.
 - Dacă articolul NU are imagine, selectează una din biblioteca presetată în funcție de tag.
 - Imaginea trebuie să fie: clară, profesională, fără text, relevantă.
-- Stilul imaginilor trebuie să fie consistent (realist).
-- Nu folosi imagini cu logo-uri sau branduri.
-- Nu descrie imaginea în text. Nu comenta, nu explica și nu introduce fraze despre imagine. Doar atașeaz-o.
+- **Nu descrie imaginea în text. Nu comenta și nu introduce fraze despre imagine.**
 
-TAG‑URI STANDARDIZATE: #AI, #Tech, #MachineLearning, #EnergieVerde, #Eolian, #Macro, #Finanțe, #Startup, #Crypto, #Bitcoin, #Semiconductori, #Auto, #Cybersecurity, #Geopolitică, #Energie.
+TAG‑URI STANDARDIZATE: #AI, #Tech, #EnergieVerde, #Eolian, #Macro, #Finanțe, #Startup, #Crypto, #Bitcoin, #Semiconductori, #Auto, #Cybersecurity, #Geopolitică, #Energie.
 
 REGULI DE STIL:
-- Scrie concis, analitic, fără exagerări.
-- Evită frazele lungi.
-- Folosește cifrele ca element central.
-- Nu repeta informații.
-- Nu inventa fapte.
+- Folosește cuvinte simple, dar fii precis.
+- Păstrează cifrele și datele tehnice importante, dar explică-le contextul.
 - Max {limit_chars} de cuvinte per știre.
-- Max 2 emoji per știre (titlu + sentiment).
-
-REGULI ÎN FUNȚIE DE TAG:
-- {tag} — explică termenii tehnici și impactul practic.
-- #EnergieVerde — scoate în față cifre, capacități, investiții.
-- #Macro — pune accent pe context economic și riscuri.
-- #Crypto / #Bitcoin — explică mecanismele pieței și volatilitatea.
-- #Startup — evidențiază finanțări, runway, creștere.
-- #Cybersecurity — explică riscurile și cine e afectat.
-- #Tech — evidențiază inovația și impactul în industrie.
+- Max 2 emoji per știre (titlu + poveste).
 
 ȘTIREA DE ANALIZAT:
 Titlu: {titlu}
 Descriere: {descriere}
 Tag principal: {tag}
 
-RETURNEAZĂ DOAR TEXTUL REZUMATULUI ÎN LIMBA ROMÂNĂ, fără comentarii suplimentare.
+RETURNEAZĂ DOAR TEXTUL FINAL ÎN LIMBA ROMÂNĂ, fără alte comentarii.
 """
     
     try:
         response = requests.post(url, json={
             "model": "deepseek-chat",
             "messages": [{"role": "user", "content": prompt}],
-            "temperature": 0.3,
-            "max_tokens": 500
+            "temperature": 0.4,
+            "max_tokens": 1000
         }, headers=headers, timeout=60)
         response.raise_for_status()
         result = response.json()
