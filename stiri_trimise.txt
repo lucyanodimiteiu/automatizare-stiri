@@ -260,3 +260,4 @@ https://www.producthunt.com/products/didit-3|Didit v3
 https://www.producthunt.com/products/jdoodle-claw|JDoodleClaw
 https://www.producthunt.com/products/linkedin-for-ai-agents|Agent Commune
 https://www.producthunt.com/products/mosaic-so|Mosaic
+https://www.producthunt.com/products/katclaw-mac-automation-made-easy|KatClaw™
