@@ -273,3 +273,4 @@ https://www.marketwatch.com/story/i-dont-earn-enough-to-support-us-and-our-baby-
 https://techcrunch.com/2026/03/02/x-ads-paid-partnership-labels-for-creators-so-they-can-ditch-the-hashtags/|X adds ‘Paid Partnership’ labels so creators can ditch the hashtags
 https://www.marketwatch.com/story/apple-launches-new-iphone-and-ipad-air-as-it-gears-up-for-a-major-ai-push-570b24ae?mod=mw_rss_topstories|Apple launches new iPhone and iPad Air as it gears up for a major AI push
 https://www.marketwatch.com/story/cruise-stocks-drop-as-theres-more-the-just-the-iran-conflict-to-worry-about-808189e4?mod=mw_rss_topstories|Cruise stocks drop, as there’s more than just the Iran conflict to worry about
+https://hackaday.com/2026/03/02/snes-controllers-are-almost-spi-compatible/|SNES Controllers are (Almost) SPI-Compatible
