@@ -16,12 +16,13 @@
         "https://www.skysports.com/rss/12040",
         "https://www.theguardian.com/sport/rss",
         "https://www.eurosport.com/rss.xml",
-        "https://www.sportsnet.ca/feed/"
+        "https://www.sportsnet.ca/feed/",
+        "https://altfins.com/blog/category/newsletter/feed/"
     ],
 
     "keywords": [
         "ai", "inteligență", "artificial", "machine learning", "llm", "chatgpt", "openai",
-        "crypto", "criptomonede", "bitcoin", "ethereum", "blockchain",
+        "crypto", "criptomonede", "bitcoin", "ethereum", "blockchain", "trading", "trade", "analiză tehnică", "technical analysis", "support", "resistance", "volume", "trend", "momentum", "overbought", "oversold", "altcoin", "altcoins", "defi", "nft", "stablecoin", "exchange", "wallet", "mining", "hashrate",
         "market", "bursa", "stocks", "finance", "finanțe", "economy", "economie", "inflație",
         "solar", "fotovoltaic", "renewable", "energie", "energy",
         "3d print", "3d printing", "imprimanta", "maker", "diy",
