@@ -265,3 +265,4 @@ https://www.producthunt.com/products/gojiberry|GojiberryAI
 https://www.producthunt.com/products/voca-ai|Voca AI
 https://www.producthunt.com/products/unfold-7|Unfold
 https://www.producthunt.com/products/clean-clode|Clean Clode
+https://www.producthunt.com/products/rankfender|Rankfender
