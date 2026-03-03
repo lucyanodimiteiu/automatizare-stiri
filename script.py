@@ -240,53 +240,33 @@ def alege_imagine(tag):
     return "https://images.unsplash.com/photo-1518770660439-4636190af475"  # default tech
 
 def genereaza_rezumat_premium(titlu, descriere, tag, limit_chars):
-    """Generează rezumat structurat în stil jurnalistic ELI5 folosind DeepSeek API."""
+    """Generează un text jurnalistic șlefuit, cursiv, fără numerotare."""
     if not DEEPSEEK_KEY:
-        print("⚠️  DeepSeek API key lipsă.")
         return None
     
     url = "https://api.deepseek.com/v1/chat/completions"
-    headers = {
-        "Authorization": f"Bearer {DEEPSEEK_KEY}",
-        "Content-Type": "application/json"
-    }
+    headers = {"Authorization": f"Bearer {DEEPSEEK_KEY}", "Content-Type": "application/json"}
     
     prompt = f"""
-Ești un jurnalist român de renume mondial, cunoscut pentru capacitatea ta unică de a explica cele mai complexe știri pe înțelesul unui copil de 5 ani, fără a pierde datele esențiale și cifrele importante.
+Ești un jurnalist de elită, cu zeci de ani de experiență în publicații de prestigiu (stil Bloomberg/Reuters). 
+Analizează știrea de mai jos și scrie un text impecabil, șlefuit și autoritar.
 
-Când primești o știre, rescrie-o folosind structura de mai jos.
+REGULI CRITICE:
+1. FĂRĂ NUMEROTARE: Nu folosi cifre (1, 2, 3), liste cu puncte sau bullet-uri. Textul trebuie să fie un flux narativ de 2-3 paragrafe scurte.
+2. TON: Extrem de profesionist, analitic și sobru.
+3. STRUCTURĂ: 
+   - Titlu impactant la început (un singur emoji relevant).
+   - Introducere care pune contextul în perspectivă.
+   - Corpul textului care explică datele relevante (cifre, companii, impact).
+4. DATE: Păstrează cifrele esențiale, dar integrează-le natural în fraze.
+5. FĂRĂ DESCRIERE IMAGINE: Nu menționa nimic despre poză în text.
+6. TAG-URI: Maxim două la final.
 
-STRUCTURA:
-1. Imagine – vezi secțiunea „Reguli pentru imagini”.
-2. Titlu scurt + emoji – max 8 cuvinte – să fie foarte clar.
-3. Povestea pe scurt (ELI5) – 1–2 fraze extrem de simple care explică esența, ca și cum ai vorbi cu un copil.
-4. De ce contează (1–2 fraze) – explică impactul real într-un mod logic și simplu.
-5. Cifre și Date cheie (Bullet‑uri) – 3 fapte esențiale cu cifrele scoase în față – limbaj simplu.
-6. Tag‑uri (1–2) – vezi lista standardizată.
+ȘTIREA: {titlu} - {descriere}
+TAG: {tag}
 
-REGULI PENTRU IMAGINI (100% gratuit, fără generare):
-- Nu genera imagini. Folosește doar imagini existente.
-- Dacă articolul are imagine originală, folosește-o.
-- Dacă articolul NU are imagine, selectează una din biblioteca presetată în funcție de tag.
-- Imaginea trebuie să fie: clară, profesională, fără text, relevantă.
-- **Nu descrie imaginea în text. Nu comenta și nu introduce fraze despre imagine.**
-
-TAG‑URI STANDARDIZATE: #AI, #Tech, #EnergieVerde, #Eolian, #Macro, #Finanțe, #Startup, #Crypto, #Bitcoin, #Semiconductori, #Auto, #Cybersecurity, #Geopolitică, #Energie.
-
-REGULI DE STIL:
-- Folosește cuvinte simple, dar fii precis.
-- Păstrează cifrele și datele tehnice importante, dar explică-le contextul.
-- Max {limit_chars} de cuvinte per știre.
-- Max 2 emoji per știre (titlu + poveste).
-
-ȘTIREA DE ANALIZAT:
-Titlu: {titlu}
-Descriere: {descriere}
-Tag principal: {tag}
-
-RETURNEAZĂ DOAR TEXTUL FINAL ÎN LIMBA ROMÂNĂ, fără alte comentarii.
+REDACTEAZĂ DOAR TEXTUL FINAL ÎN LIMBA ROMÂNĂ.
 """
-    
     try:
         response = requests.post(url, json={
             "model": "deepseek-chat",
