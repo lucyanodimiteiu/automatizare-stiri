@@ -287,3 +287,4 @@ https://www.producthunt.com/products/upsolve-ai|Upsolve AI for CSVs
 https://www.producthunt.com/products/dialoglab|DialogLab
 https://www.producthunt.com/products/mailercloud|Mailercloud Email API Platform
 https://www.producthunt.com/products/krisp|Krisp Accent Conversion
+https://www.producthunt.com/products/deep-personality|Deep Personality
