@@ -283,3 +283,4 @@ https://finance.yahoo.com/news/uae-suspends-stock-trading-amid-200941902.html|UA
 https://www.producthunt.com/products/skyvern|Skyvern MCP & Skills
 https://www.producthunt.com/products/continue|Continue (Mission Control)
 https://www.producthunt.com/products/viktor|getviktor.com
+https://www.producthunt.com/products/upsolve-ai|Upsolve AI for CSVs
