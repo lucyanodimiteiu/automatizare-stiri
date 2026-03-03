@@ -275,3 +275,4 @@ https://www.marketwatch.com/story/apple-launches-new-iphone-and-ipad-air-as-it-g
 https://www.marketwatch.com/story/cruise-stocks-drop-as-theres-more-the-just-the-iran-conflict-to-worry-about-808189e4?mod=mw_rss_topstories|Cruise stocks drop, as there’s more than just the Iran conflict to worry about
 https://hackaday.com/2026/03/02/snes-controllers-are-almost-spi-compatible/|SNES Controllers are (Almost) SPI-Compatible
 https://finance.yahoo.com/news/ubs-upgrades-southwest-airlines-luv-150432418.html|UBS Upgrades Southwest Airlines (LUV) to Buy, Raises Target by $22
+https://www.producthunt.com/products/weir-ai|WEIR AI
