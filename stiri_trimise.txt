@@ -281,3 +281,4 @@ https://www.producthunt.com/products/aura-28|Aura
 https://www.marketwatch.com/story/facing-backlash-openais-sam-altman-says-he-made-a-sloppy-mistake-in-pentagon-deal-cf8f3ad9?mod=mw_rss_topstories|Facing backlash, OpenAI’s Sam Altman says he made a ‘sloppy’ mistake in Pentagon deal
 https://finance.yahoo.com/news/uae-suspends-stock-trading-amid-200941902.html|UAE Suspends Stock Trading Amid Iran Strikes
 https://www.producthunt.com/products/skyvern|Skyvern MCP & Skills
+https://www.producthunt.com/products/continue|Continue (Mission Control)
