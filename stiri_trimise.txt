@@ -289,3 +289,4 @@ https://www.producthunt.com/products/mailercloud|Mailercloud Email API Platform
 https://www.producthunt.com/products/krisp|Krisp Accent Conversion
 https://www.producthunt.com/products/deep-personality|Deep Personality
 https://www.producthunt.com/products/the-bias-wide-angle-news|The Bias
+https://www.producthunt.com/products/secret-sauce-3d|Secret Sauce 3D
