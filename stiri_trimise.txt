@@ -294,3 +294,4 @@ https://www.producthunt.com/products/qwen3|Qwen3.5 Small
 https://www.producthunt.com/products/ai-agent-skills-refiner|AI Agent Skills Refiner
 https://www.producthunt.com/products/textio|Lavalier AI
 https://www.producthunt.com/products/springfield-oracle|Springfield Oracle
+https://www.producthunt.com/products/ghostype-2|GHOSTYPE
