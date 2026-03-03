@@ -282,3 +282,4 @@ https://www.marketwatch.com/story/facing-backlash-openais-sam-altman-says-he-mad
 https://finance.yahoo.com/news/uae-suspends-stock-trading-amid-200941902.html|UAE Suspends Stock Trading Amid Iran Strikes
 https://www.producthunt.com/products/skyvern|Skyvern MCP & Skills
 https://www.producthunt.com/products/continue|Continue (Mission Control)
+https://www.producthunt.com/products/viktor|getviktor.com
