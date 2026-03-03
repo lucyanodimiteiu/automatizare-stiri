@@ -277,3 +277,4 @@ https://hackaday.com/2026/03/02/snes-controllers-are-almost-spi-compatible/|SNES
 https://finance.yahoo.com/news/ubs-upgrades-southwest-airlines-luv-150432418.html|UBS Upgrades Southwest Airlines (LUV) to Buy, Raises Target by $22
 https://www.producthunt.com/products/weir-ai|WEIR AI
 https://www.producthunt.com/products/expressive-mode-for-elevenagents-2|Expressive Mode for ElevenAgents
+https://www.producthunt.com/products/aura-28|Aura
