@@ -321,3 +321,4 @@ https://www.producthunt.com/products/kodo-3|Kodo
 https://www.producthunt.com/products/enia-code|Enia Code
 https://www.producthunt.com/products/woven-launch|Woven
 https://www.producthunt.com/products/maxclaw-on-mobile|Maxclaw on Mobile
+https://www.producthunt.com/products/floyd-enterprise-world-model|Floyd enterprise world model
