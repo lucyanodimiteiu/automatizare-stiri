@@ -328,3 +328,4 @@ https://finance.yahoo.com/news/maxim-raises-gigacloud-technology-inc-120251129.h
 https://www.producthunt.com/products/screentranslate|ScreenTranslate
 https://www.producthunt.com/products/day1tabs|day1tabs
 https://www.producthunt.com/products/projekt-design-engineered|Projekt
+https://www.producthunt.com/products/personal-ai-memory|Personal AI Memory
