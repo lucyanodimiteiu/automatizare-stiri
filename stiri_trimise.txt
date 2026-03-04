@@ -312,3 +312,4 @@ https://www.producthunt.com/products/assemblyai|AssemblyAI
 https://www.producthunt.com/products/vocova|Vocova
 https://www.producthunt.com/products/nova-18|NOVA
 https://www.producthunt.com/products/gemini-code-harvester|Gemini Code Harvester
+https://www.producthunt.com/products/picsart|Picsart Persona & Storyline
