@@ -317,3 +317,4 @@ https://www.producthunt.com/products/locally-ai-for-mac|Locally AI + Qwen
 https://www.producthunt.com/products/gemini-6|Gemini 3.1 Flash-Lite
 https://www.producthunt.com/products/moltdj|moltdj
 https://www.producthunt.com/products/notte|Anything API
+https://www.producthunt.com/products/kodo-3|Kodo
