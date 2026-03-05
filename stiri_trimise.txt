@@ -331,3 +331,4 @@ https://www.producthunt.com/products/projekt-design-engineered|Projekt
 https://www.producthunt.com/products/personal-ai-memory|Personal AI Memory
 https://www.producthunt.com/products/clawpane|ClawPane
 https://www.producthunt.com/products/clawoffice|ClawOffice
+https://www.producthunt.com/products/agile-flights|agile.flights
