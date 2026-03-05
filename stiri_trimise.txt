@@ -337,3 +337,4 @@ https://finance.yahoo.com/news/17-trillion-home-equity-record-180040414.html|$17
 https://finance.yahoo.com/news/utility-stocks-return-squeeze-190000347.html|Utility Stocks and the Return Squeeze
 https://finance.yahoo.com/news/5-top-defense-stocks-buy-194659430.html|5 Top Defense Stocks to Buy as the World Rearms
 https://www.producthunt.com/products/aident-ai|Aident AI Beta 2
+https://www.producthunt.com/products/supa-social-by-once-ui|Supa Social
