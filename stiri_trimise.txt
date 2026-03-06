@@ -340,3 +340,4 @@ https://www.producthunt.com/products/aident-ai|Aident AI Beta 2
 https://www.producthunt.com/products/supa-social-by-once-ui|Supa Social
 https://www.producthunt.com/products/itsyconnect|Itsyconnect
 https://www.producthunt.com/products/openai|Codex app for Windows
+https://www.producthunt.com/products/parsewise|Parsewise
