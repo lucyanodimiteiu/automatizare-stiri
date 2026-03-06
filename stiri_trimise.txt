@@ -345,3 +345,4 @@ https://www.producthunt.com/products/step-3-5-flash|Step 3.5 Flash
 https://www.producthunt.com/products/golf|Golf
 https://www.producthunt.com/products/hermit-2|Hermit
 https://www.producthunt.com/products/cochat|CoChat
+https://www.producthunt.com/products/imbue-7|Imbue
