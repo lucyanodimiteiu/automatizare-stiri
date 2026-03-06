@@ -341,3 +341,4 @@ https://www.producthunt.com/products/supa-social-by-once-ui|Supa Social
 https://www.producthunt.com/products/itsyconnect|Itsyconnect
 https://www.producthunt.com/products/openai|Codex app for Windows
 https://www.producthunt.com/products/parsewise|Parsewise
+https://www.producthunt.com/products/step-3-5-flash|Step 3.5 Flash
