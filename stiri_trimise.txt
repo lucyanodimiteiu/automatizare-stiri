@@ -351,3 +351,4 @@ https://www.producthunt.com/products/zesty-local-food-discovery-2|Zesty
 https://www.producthunt.com/products/volume-glass|VolumeGlass
 https://www.producthunt.com/products/cockpit-3|Cockpit
 https://www.producthunt.com/products/context-gateway|Context Gateway
+https://www.producthunt.com/products/woz|Woz
