@@ -347,3 +347,4 @@ https://www.producthunt.com/products/hermit-2|Hermit
 https://www.producthunt.com/products/cochat|CoChat
 https://www.producthunt.com/products/imbue-7|Imbue
 https://www.producthunt.com/products/pitwall-f1-macos-app|Pitwall F1
+https://www.producthunt.com/products/zesty-local-food-discovery-2|Zesty
