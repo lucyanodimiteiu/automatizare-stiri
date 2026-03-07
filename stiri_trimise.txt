@@ -382,3 +382,4 @@ https://www.producthunt.com/products/getbeel|GetBeel
 https://www.producthunt.com/products/ltx-desktop|LTX Desktop
 https://www.producthunt.com/products/notchpad|NotchPad
 https://www.producthunt.com/products/21st-dev-the-npm-for-design-engineers|21st Agents SDK
+https://www.producthunt.com/products/allen-institute-of-artificial-intelligence|Olmo Hybrid
