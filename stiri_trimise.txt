@@ -378,3 +378,4 @@ https://finance.yahoo.com/news/barclays-updates-self-storage-reit-024657407.html
 https://www.marketwatch.com/story/s-p-500-changes-are-due-out-soon-these-ai-stocks-could-join-the-index-ded9e245?mod=mw_rss_topstories|Four companies, including AI and data-center plays, are joining the S&P 500 index
 https://www.producthunt.com/products/variant-2|Variant
 https://www.producthunt.com/products/testsprite|TestSprite 2.1
+https://www.producthunt.com/products/getbeel|GetBeel
