@@ -421,3 +421,4 @@ https://finance.yahoo.com/news/booking-cfo-touts-9-9-233553480.html|Booking CFO 
 https://www.producthunt.com/products/gretabyquestera|Vibe Marketplace by Greta
 https://www.producthunt.com/products/song-sweeper|Song Sweeper
 https://www.producthunt.com/products/getmimic|GetMimic
+https://www.producthunt.com/products/claude-marketplace|Claude Marketplace
