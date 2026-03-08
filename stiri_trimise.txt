@@ -414,3 +414,4 @@ https://finance.yahoo.com/news/cathie-wood-goes-bargain-hunting-233000596.html|C
 https://www.investors.com/stock-lists/new-highs/taco-bell-parent-yum-stock-data-center/?src=A00220&yptr=yahoo|Taco Bell Parent, Data Center Play And Two Other Stocks Weather War Storm, Hover Near Highs
 https://www.investors.com/news/oil-stocks-vist-stock-oil-etfs/?src=A00220&yptr=yahoo|These Oil Stocks Are Near Buy Points As Sector Rally Continues
 https://www.investors.com/news/technology/oracle-stock-openai-abilene-crusoe-report/?src=A00220&yptr=yahoo|Oracle, OpenAI Reportedly Scrap Plan To Expand AI Data Center
+https://www.investors.com/research/swing-trading/russell-1000-shifted-views-on-sideways-market/?src=A00220&yptr=yahoo|How The Russell 1000 Shifted Our Views On A Sideways Market
