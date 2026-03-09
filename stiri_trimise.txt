@@ -465,3 +465,4 @@ https://www.producthunt.com/products/kita|Kita
 https://www.producthunt.com/products/simply-4|simply
 https://www.producthunt.com/products/reflct|Reflct
 https://www.producthunt.com/products/cutefolio|cutefolio
+https://www.producthunt.com/products/openclix-smarter-mobile-engagement|OpenClix
