@@ -454,3 +454,4 @@ https://finance.yahoo.com/news/saturday-spread-using-microstructure-analytics-15
 https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-march-7-2026-110033942.html|Best money market account rates today, March 7, 2026 (best account provides 4.01% APY)
 https://finance.yahoo.com/news/trade-desk-ttd-soars-22-005226239.html|The Trade Desk (TTD) Soars 22.9% on OpenAI Partnership
 https://finance.yahoo.com/news/intapp-inta-soars-24-1-010128778.html|Intapp (INTA) Soars 24% on $1-Billion AI Revenue Target
+https://www.producthunt.com/products/timelaps|Timelaps
