@@ -455,3 +455,4 @@ https://finance.yahoo.com/personal-finance/banking/article/best-money-market-acc
 https://finance.yahoo.com/news/trade-desk-ttd-soars-22-005226239.html|The Trade Desk (TTD) Soars 22.9% on OpenAI Partnership
 https://finance.yahoo.com/news/intapp-inta-soars-24-1-010128778.html|Intapp (INTA) Soars 24% on $1-Billion AI Revenue Target
 https://www.producthunt.com/products/timelaps|Timelaps
+https://www.producthunt.com/products/scrapr-universal-web-scraping-api|SCRAPR
