@@ -483,3 +483,4 @@ https://finance.yahoo.com/news/japans-nikkei-225-share-index-005405532.html|US s
 https://www.producthunt.com/products/super-send|SuperSend 3.0
 https://www.producthunt.com/products/book-reading-habit|Book Reading Habit
 https://www.producthunt.com/products/shipper-now|Shipper 2.0
+https://www.producthunt.com/products/sitefire-ai|sitefire.ai
