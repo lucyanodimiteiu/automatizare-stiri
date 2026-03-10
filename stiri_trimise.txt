@@ -498,3 +498,4 @@ https://www.producthunt.com/products/crikket|Crikket
 https://www.producthunt.com/products/humans-fix-ai|humans fix ai
 https://www.producthunt.com/products/macaly|New Macaly Agent
 https://www.producthunt.com/products/arduino|VENTUNO Q
+https://www.producthunt.com/products/chronicle-6|Chronicle 2.0
