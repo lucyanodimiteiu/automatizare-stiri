@@ -484,3 +484,4 @@ https://www.producthunt.com/products/super-send|SuperSend 3.0
 https://www.producthunt.com/products/book-reading-habit|Book Reading Habit
 https://www.producthunt.com/products/shipper-now|Shipper 2.0
 https://www.producthunt.com/products/sitefire-ai|sitefire.ai
+https://www.producthunt.com/products/decoy|Decoy
