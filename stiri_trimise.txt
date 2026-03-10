@@ -491,3 +491,4 @@ https://www.producthunt.com/products/contentdrips|Contentdrips Design Agent
 https://www.producthunt.com/products/brutal-reader|Brutal Reader
 https://www.producthunt.com/products/spine-2|Spine Swarm
 https://www.producthunt.com/products/codeguide-2|CodeGuide
+https://www.producthunt.com/products/sonarly|Sonarly
