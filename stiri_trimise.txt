@@ -496,3 +496,4 @@ https://www.producthunt.com/products/fish-speech|Fish Audio S2
 https://www.producthunt.com/products/macquit|MacQuit
 https://www.producthunt.com/products/crikket|Crikket
 https://www.producthunt.com/products/humans-fix-ai|humans fix ai
+https://www.producthunt.com/products/macaly|New Macaly Agent
