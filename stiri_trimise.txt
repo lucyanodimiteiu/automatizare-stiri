@@ -486,3 +486,4 @@ https://www.producthunt.com/products/shipper-now|Shipper 2.0
 https://www.producthunt.com/products/sitefire-ai|sitefire.ai
 https://www.producthunt.com/products/decoy|Decoy
 https://www.producthunt.com/products/your-next-store|Your Next Store
+https://www.producthunt.com/products/beehiiv|On Demand Ads by beehiv
