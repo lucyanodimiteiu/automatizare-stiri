@@ -493,3 +493,4 @@ https://www.producthunt.com/products/spine-2|Spine Swarm
 https://www.producthunt.com/products/codeguide-2|CodeGuide
 https://www.producthunt.com/products/sonarly|Sonarly
 https://www.producthunt.com/products/fish-speech|Fish Audio S2
+https://www.producthunt.com/products/macquit|MacQuit
