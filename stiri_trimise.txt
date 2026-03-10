@@ -500,3 +500,4 @@ https://www.producthunt.com/products/macaly|New Macaly Agent
 https://www.producthunt.com/products/arduino|VENTUNO Q
 https://www.producthunt.com/products/chronicle-6|Chronicle 2.0
 https://www.producthunt.com/products/gaphunt|GapHunt
+https://www.producthunt.com/products/zappic-co|Zappic.co
