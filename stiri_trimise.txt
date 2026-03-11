@@ -521,3 +521,4 @@ https://www.producthunt.com/products/teract|Teract AI
 https://www.producthunt.com/products/chatgpt-interactive-learning|ChatGPT Interactive Learning
 https://www.producthunt.com/products/nativeline|Nativeline AI + Cloud
 https://www.producthunt.com/products/gemini-embedding-2|Gemini Embedding 2
+https://www.producthunt.com/products/typinator-10|Typinator 10
