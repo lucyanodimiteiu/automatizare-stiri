@@ -518,3 +518,4 @@ https://www.producthunt.com/products/hume-2|TADA
 https://www.producthunt.com/products/mindspase|Mindspase
 https://www.producthunt.com/products/fort-2|Fort
 https://www.producthunt.com/products/teract|Teract AI
+https://www.producthunt.com/products/chatgpt-interactive-learning|ChatGPT Interactive Learning
