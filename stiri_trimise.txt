@@ -513,3 +513,4 @@ https://www.producthunt.com/products/insforge-alpha|InsForge
 https://www.producthunt.com/products/extract-by-firecrawl|Firecrawl CLI
 https://www.producthunt.com/products/ionrouter-by-cumulus-labs|IonRouter
 https://www.producthunt.com/products/knowlify|Knowlify
+https://www.producthunt.com/products/citable|Citable
