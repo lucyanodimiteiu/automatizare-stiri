@@ -515,3 +515,4 @@ https://www.producthunt.com/products/ionrouter-by-cumulus-labs|IonRouter
 https://www.producthunt.com/products/knowlify|Knowlify
 https://www.producthunt.com/products/citable|Citable
 https://www.producthunt.com/products/hume-2|TADA
+https://www.producthunt.com/products/mindspase|Mindspase
