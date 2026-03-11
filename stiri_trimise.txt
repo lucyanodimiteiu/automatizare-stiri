@@ -510,3 +510,4 @@ https://www.producthunt.com/products/chordio-workbench|Product Workbench for Cla
 https://www.producthunt.com/products/no-more-vibe-coding-in-the-blind|ELVES
 https://www.producthunt.com/products/codeyam-cli-memory|CodeYam CLI & Memory
 https://www.producthunt.com/products/insforge-alpha|InsForge
+https://www.producthunt.com/products/extract-by-firecrawl|Firecrawl CLI
