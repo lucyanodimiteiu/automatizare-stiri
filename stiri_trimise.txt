@@ -523,3 +523,4 @@ https://www.producthunt.com/products/nativeline|Nativeline AI + Cloud
 https://www.producthunt.com/products/gemini-embedding-2|Gemini Embedding 2
 https://www.producthunt.com/products/typinator-10|Typinator 10
 https://www.producthunt.com/products/screengeany-ai|ScreenGeany AI
+https://finance.yahoo.com/news/lundin-mining-acquire-additional-stake-141926371.html|Lundin Mining to acquire additional stake in Lumina Copper
