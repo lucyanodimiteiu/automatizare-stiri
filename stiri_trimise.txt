@@ -512,3 +512,4 @@ https://www.producthunt.com/products/codeyam-cli-memory|CodeYam CLI & Memory
 https://www.producthunt.com/products/insforge-alpha|InsForge
 https://www.producthunt.com/products/extract-by-firecrawl|Firecrawl CLI
 https://www.producthunt.com/products/ionrouter-by-cumulus-labs|IonRouter
+https://www.producthunt.com/products/knowlify|Knowlify
