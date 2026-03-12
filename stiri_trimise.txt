@@ -538,3 +538,4 @@ https://www.producthunt.com/products/codex-chat-oss|Codex Chat
 https://www.producthunt.com/products/signet|Signet
 https://www.producthunt.com/products/tokenzip|TokenZip
 https://www.producthunt.com/products/needle-3|Needle 2.0
+https://www.producthunt.com/products/htmlpub|HTML Pub
