@@ -545,3 +545,4 @@ https://www.producthunt.com/products/studio-by-harnessgg|Studio by HarnessGG
 https://www.producthunt.com/products/artcraft|ArtCraft
 https://www.producthunt.com/products/astrio-beta|Astrio
 https://www.producthunt.com/products/agent-browser-2|Agent Browser
+https://www.producthunt.com/products/sara-the-pm-that-never-sleeps|Sara
