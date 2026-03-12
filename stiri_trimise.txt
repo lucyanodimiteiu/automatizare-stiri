@@ -551,3 +551,4 @@ https://www.producthunt.com/products/naoma|Naoma AI Demo Agent
 https://www.producthunt.com/products/keak|Keak
 https://www.producthunt.com/products/flywheel-cx|Flywheel.cx
 https://www.producthunt.com/products/yap-it|Yap-It
+https://www.producthunt.com/products/coresignal|Coresignal Data Search
