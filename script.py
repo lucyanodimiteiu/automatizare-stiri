@@ -233,6 +233,14 @@ def determina_tag(titlu, descriere):
             return tag
     return "#Tech"  # default
 
+def genereaza_imagine_ai(titlu):
+    import requests
+    try:
+        prompt_encoded = requests.utils.quote(f"news illustration, {titlu[:100]}, professional photography, realistic")
+        return f"https://image.pollinations.ai/prompt/{prompt_encoded}?width=800&height=450&nologo=true"
+    except:
+        return "https://images.unsplash.com/photo-1518770660439-4636190af475"
+
 def alege_imagine(tag):
     """Alege o imagine random din bibliotecă pentru tag‑ul dat."""
     if tag in IMAGE_LIBRARY and IMAGE_LIBRARY[tag]:
@@ -356,7 +364,7 @@ def main():
                 # Extrage imagine (dacă există)
                 imagine_url = extrage_imagine(entry)
                 if not imagine_url:
-                    imagine_url = alege_imagine(tag)
+                    imagine_url = genereaza_imagine_ai(entry.title)
                 
                 # Generează rezumat
                 rezumat = genereaza_rezumat_premium(entry.title, entry.get('summary', ''), tag, config.get("limit_chars", 800))
