@@ -547,3 +547,4 @@ https://www.producthunt.com/products/astrio-beta|Astrio
 https://www.producthunt.com/products/agent-browser-2|Agent Browser
 https://www.producthunt.com/products/sara-the-pm-that-never-sleeps|Sara
 https://www.producthunt.com/products/clawther|Clawther
+https://www.producthunt.com/products/naoma|Naoma AI Demo Agent
