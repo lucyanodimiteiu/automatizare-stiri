@@ -543,3 +543,4 @@ https://www.producthunt.com/products/prava-2|Prava
 https://www.producthunt.com/products/launchsafe|LaunchSafe
 https://www.producthunt.com/products/studio-by-harnessgg|Studio by HarnessGG
 https://www.producthunt.com/products/artcraft|ArtCraft
+https://www.producthunt.com/products/astrio-beta|Astrio
