@@ -535,3 +535,4 @@ https://finance.yahoo.com/personal-finance/banking/review/chime-bank-review-1618
 https://www.producthunt.com/products/codirigent|Codirigent
 https://www.producthunt.com/products/foil|Foil
 https://www.producthunt.com/products/codex-chat-oss|Codex Chat
+https://www.producthunt.com/products/signet|Signet
