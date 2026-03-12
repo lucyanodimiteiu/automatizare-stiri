@@ -534,3 +534,4 @@ https://finance.yahoo.com/news/rbc-capital-markets-sees-path-173422041.html|RBC 
 https://finance.yahoo.com/personal-finance/banking/review/chime-bank-review-161831648.html|Chime review (2026): Leveraging technology to bring you better banking services
 https://www.producthunt.com/products/codirigent|Codirigent
 https://www.producthunt.com/products/foil|Foil
+https://www.producthunt.com/products/codex-chat-oss|Codex Chat
