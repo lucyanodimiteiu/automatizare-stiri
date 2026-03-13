@@ -558,3 +558,4 @@ https://www.producthunt.com/products/huddle01-cloud-2|Huddle01 Cloud
 https://www.producthunt.com/products/ooboai-oobo|oobo
 https://www.producthunt.com/products/mobilescreen|MobileScreen
 https://www.producthunt.com/products/glass-3|Glass
+https://www.producthunt.com/products/casero|Casero
