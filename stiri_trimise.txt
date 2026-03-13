@@ -568,3 +568,4 @@ https://www.producthunt.com/products/hackmamba|Fowel by Hackmamba
 https://www.producthunt.com/products/perfectly|Perfectly
 https://www.producthunt.com/products/replylessai|ReplylessAI
 https://www.producthunt.com/products/gstack|GStack
+https://www.producthunt.com/products/manus-agents-for-telegram|Manus Agents for Telegram
