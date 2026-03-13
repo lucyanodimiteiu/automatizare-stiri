@@ -554,3 +554,4 @@ https://www.producthunt.com/products/yap-it|Yap-It
 https://www.producthunt.com/products/coresignal|Coresignal Data Search
 https://www.producthunt.com/products/revfirma|RevFirma
 https://www.producthunt.com/products/orangelabs|OrangeLabs
+https://www.producthunt.com/products/huddle01-cloud-2|Huddle01 Cloud
