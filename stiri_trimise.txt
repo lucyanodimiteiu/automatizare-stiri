@@ -576,3 +576,4 @@ https://www.producthunt.com/products/brutal-verdict|Brutal Verdict
 https://www.producthunt.com/products/ask-maps-by-google|Ask Maps by Google
 https://www.producthunt.com/products/localpdf-io|LocalPDF.io
 https://www.producthunt.com/products/mockphine|Mockphine
+https://www.producthunt.com/products/parker-by-perfectly|Parker by Perfectly
