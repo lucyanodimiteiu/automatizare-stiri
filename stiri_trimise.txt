@@ -571,3 +571,4 @@ https://www.producthunt.com/products/gstack|GStack
 https://www.producthunt.com/products/manus-agents-for-telegram|Manus Agents for Telegram
 https://www.producthunt.com/products/ghostdesk|GhostDesk
 https://www.producthunt.com/products/burnlink|BurnLink
+https://www.producthunt.com/products/scindo|Scindo
