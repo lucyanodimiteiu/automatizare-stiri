@@ -572,3 +572,4 @@ https://www.producthunt.com/products/manus-agents-for-telegram|Manus Agents for 
 https://www.producthunt.com/products/ghostdesk|GhostDesk
 https://www.producthunt.com/products/burnlink|BurnLink
 https://www.producthunt.com/products/scindo|Scindo
+https://www.producthunt.com/products/brutal-verdict|Brutal Verdict
