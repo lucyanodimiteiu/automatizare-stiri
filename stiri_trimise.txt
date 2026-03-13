@@ -564,3 +564,4 @@ https://www.producthunt.com/products/pinnacle|Pinnacle
 https://www.producthunt.com/products/doxmind|doXmind
 https://www.producthunt.com/products/hyper-10|Hyper
 https://www.producthunt.com/products/atlasly|Atlasly
+https://www.producthunt.com/products/hackmamba|Fowel by Hackmamba
