@@ -585,3 +585,4 @@ https://finance.yahoo.com/news/billionaire-charlie-munger-told-30-154509129.html
 https://www.producthunt.com/products/sitsense|SitSense
 https://www.producthunt.com/products/saturn-5|Saturn
 https://www.producthunt.com/products/mozzie|Mozzie
+https://www.producthunt.com/products/solo-voice|Solo Voice
