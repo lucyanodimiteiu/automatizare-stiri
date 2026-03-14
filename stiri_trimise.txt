@@ -598,3 +598,4 @@ https://www.producthunt.com/products/lemon-3|Lemon
 https://www.producthunt.com/products/ai-website-redesign|AI Website Redesign by Shuffle
 https://www.producthunt.com/products/campee-planning-poker-online|Campee
 https://www.producthunt.com/products/rainfrog-2|Rainfrog
+https://www.producthunt.com/products/struct-2|Struct
