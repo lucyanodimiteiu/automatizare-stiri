@@ -593,3 +593,4 @@ https://www.producthunt.com/products/docket-4|Docket
 https://www.producthunt.com/products/lingofable|Lingofable
 https://www.producthunt.com/products/startup-archive-2|Startup Archive
 https://www.producthunt.com/products/mynextbrowser|MyNextBrowser
+https://www.producthunt.com/products/socra-socratic-ai-tutor-partner|Socra
