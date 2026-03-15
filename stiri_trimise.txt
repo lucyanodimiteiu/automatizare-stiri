@@ -606,3 +606,4 @@ https://finance.yahoo.com/news/jensen-huang-says-agentic-ai-152500440.html|Jense
 https://finance.yahoo.com/news/dogecoin-millionaire-maker-cryptocurrency-155044582.html|Is Dogecoin a Millionaire-Maker Cryptocurrency?
 https://finance.yahoo.com/news/etf-given-investors-golden-opportunity-162900662.html|This ETF Has Given Investors a Golden Opportunity
 https://www.producthunt.com/products/cal|Cal.com Agents
+https://www.producthunt.com/products/clawsecure|ClawSecure
