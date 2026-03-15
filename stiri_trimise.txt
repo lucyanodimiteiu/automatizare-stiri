@@ -612,3 +612,4 @@ https://www.producthunt.com/products/github-google-workspace-cli|Google Workspac
 https://www.producthunt.com/products/elevencreative-by-elevenlabs|ElevenCreative by ElevenLabs
 https://www.producthunt.com/products/query-memory|Query Memory
 https://www.producthunt.com/products/nutgrafe|Nutgrafe
+https://www.producthunt.com/products/the-banana-app|The Banana App
