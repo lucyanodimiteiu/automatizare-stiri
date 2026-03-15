@@ -607,3 +607,4 @@ https://finance.yahoo.com/news/dogecoin-millionaire-maker-cryptocurrency-1550445
 https://finance.yahoo.com/news/etf-given-investors-golden-opportunity-162900662.html|This ETF Has Given Investors a Golden Opportunity
 https://www.producthunt.com/products/cal|Cal.com Agents
 https://www.producthunt.com/products/clawsecure|ClawSecure
+https://www.producthunt.com/products/morgen-2|Morgen
