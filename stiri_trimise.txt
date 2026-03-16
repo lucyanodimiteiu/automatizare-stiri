@@ -644,3 +644,4 @@ https://www.producthunt.com/products/fnkey|FnKey
 https://www.producthunt.com/products/donely|Donely
 https://www.producthunt.com/products/spott-3|Spott
 https://www.producthunt.com/products/wendi-ai-yc-application|Wendi AI
+https://www.producthunt.com/products/xhawk|XHawk 0.99
