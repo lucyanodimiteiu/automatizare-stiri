@@ -634,3 +634,4 @@ https://www.producthunt.com/products/glam-ai|Glam AI
 https://www.producthunt.com/products/jetbrains|JetBrains Air
 https://www.producthunt.com/products/mulerun|MuleRun
 https://www.producthunt.com/products/knock-7|Knock
+https://www.producthunt.com/products/zerosettle|ZeroSettle
