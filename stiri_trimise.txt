@@ -632,3 +632,4 @@ https://finance.yahoo.com/news/jefferies-maintains-buy-haleon-plc-203613155.html
 https://www.producthunt.com/products/adaptive-ai|Adaptive — The Agent Computer
 https://www.producthunt.com/products/glam-ai|Glam AI
 https://www.producthunt.com/products/jetbrains|JetBrains Air
+https://www.producthunt.com/products/mulerun|MuleRun
