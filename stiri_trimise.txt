@@ -662,3 +662,4 @@ https://www.producthunt.com/products/nvidia|DLSS 5
 https://www.producthunt.com/products/agen|Agen
 https://www.producthunt.com/products/folderly|Folderly
 https://www.producthunt.com/products/agentdiscuss|AgentDiscuss
+https://www.producthunt.com/products/easy-app-reports|Easy App Reports
