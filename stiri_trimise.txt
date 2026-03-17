@@ -653,3 +653,4 @@ https://finance.yahoo.com/news/why-booking-holdings-inc-bkng-182531800.html|Why 
 https://www.producthunt.com/products/openviktor-com|openviktor.com
 https://www.producthunt.com/products/hirehunch|JusRecruit
 https://www.producthunt.com/products/mcp360|mTarsier
+https://www.producthunt.com/products/solaya|SOLAYA
