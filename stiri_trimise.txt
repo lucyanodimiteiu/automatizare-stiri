@@ -656,3 +656,4 @@ https://www.producthunt.com/products/mcp360|mTarsier
 https://www.producthunt.com/products/solaya|SOLAYA
 https://www.producthunt.com/products/manus|My Computer by Manus AI
 https://www.producthunt.com/products/sokosumi|Sokosumi
+https://www.producthunt.com/products/dev-impact|dev-impact
