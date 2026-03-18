@@ -669,3 +669,4 @@ https://www.producthunt.com/products/clicksay|ClickSay
 https://www.producthunt.com/products/agreeguard-ai-terms-privacy-analyzer|AgreeGuard
 https://www.producthunt.com/products/angy|Angy
 https://www.producthunt.com/products/kipps-ai|Kipps.AI Campaign
+https://www.producthunt.com/products/usercall|Usercall Triggers
