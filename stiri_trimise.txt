@@ -677,3 +677,4 @@ https://www.producthunt.com/products/claude-dispatch|Claude Dispatch
 https://www.producthunt.com/products/articleback|ArticleBack
 https://www.producthunt.com/products/clawmetry|ClawMetry Cloud
 https://www.producthunt.com/products/fantastical|Fantastical MCP for Mac
+https://www.producthunt.com/products/banyan-ai-lite|Banyan AI Lite
