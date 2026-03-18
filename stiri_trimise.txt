@@ -680,3 +680,4 @@ https://www.producthunt.com/products/fantastical|Fantastical MCP for Mac
 https://www.producthunt.com/products/banyan-ai-lite|Banyan AI Lite
 https://www.producthunt.com/products/permit-io|Permit.io MCP Gateway
 https://www.producthunt.com/products/claude-double-checker-is-2x-active|Claude Double Checker
+https://www.producthunt.com/products/unsloth|Unsloth Studio
