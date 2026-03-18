@@ -673,3 +673,4 @@ https://www.producthunt.com/products/usercall|Usercall Triggers
 https://www.producthunt.com/products/activestat|ActiveStat
 https://www.producthunt.com/products/parallax-3|Parallax
 https://www.producthunt.com/products/forvibe|Forvibe for macOS
+https://www.producthunt.com/products/claude-dispatch|Claude Dispatch
