@@ -690,3 +690,4 @@ https://www.producthunt.com/products/clipledger|ClipLedger
 https://www.producthunt.com/products/lore-4|Lore
 https://www.producthunt.com/products/bookshelf-for-notebooklm|Bookshelf for NotebookLM
 https://www.producthunt.com/products/ms-auto-captions|MS AUTO CAPTIONS
+https://www.producthunt.com/products/soul-2-0|Soul 2.0
