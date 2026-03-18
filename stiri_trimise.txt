@@ -688,3 +688,4 @@ https://www.producthunt.com/products/sharepatch|SharePatch
 https://www.producthunt.com/products/databox|Genie by Databox
 https://www.producthunt.com/products/clipledger|ClipLedger
 https://www.producthunt.com/products/lore-4|Lore
+https://www.producthunt.com/products/bookshelf-for-notebooklm|Bookshelf for NotebookLM
