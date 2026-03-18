@@ -685,3 +685,4 @@ https://www.producthunt.com/products/openobserve|OpenObserve
 https://www.producthunt.com/products/lightfield|Lightfield
 https://www.producthunt.com/products/useagents|UseAgents
 https://www.producthunt.com/products/sharepatch|SharePatch
+https://www.producthunt.com/products/databox|Genie by Databox
