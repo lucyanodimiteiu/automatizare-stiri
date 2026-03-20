@@ -697,3 +697,4 @@ https://finance.yahoo.com/news/oracle-burning-cash-pursuit-hypergrowth-170900675
 https://finance.yahoo.com/news/apple-just-announced-airpods-max-181115582.html|Apple Just Announced the AirPods Max 2. Can That Move the Needle for AAPL Stock?
 https://www.producthunt.com/products/stripe|Machine Payments Protocol
 https://finance.yahoo.com/news/nvidia-nvda-hyundai-kia-expand-212926252.html|Nvidia (NVDA), Hyundai, Kia Expand Partnership for Next-Gen Autonomous Systems
+https://www.producthunt.com/products/built-for-devs-2|Built for Devs
