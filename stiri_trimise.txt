@@ -699,3 +699,4 @@ https://www.producthunt.com/products/stripe|Machine Payments Protocol
 https://finance.yahoo.com/news/nvidia-nvda-hyundai-kia-expand-212926252.html|Nvidia (NVDA), Hyundai, Kia Expand Partnership for Next-Gen Autonomous Systems
 https://www.producthunt.com/products/built-for-devs-2|Built for Devs
 https://www.producthunt.com/products/assembly-7|Assembly 2.0
+https://www.producthunt.com/products/adsturbo-2|AdsTurbo
