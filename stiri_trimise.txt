@@ -711,3 +711,4 @@ https://www.producthunt.com/products/productbridge|ProductBridge
 https://www.producthunt.com/products/context-overflow|Context Overflow
 https://www.producthunt.com/products/room-service-2|Room Service
 https://www.producthunt.com/products/gaze-guard|Gaze Guard
+https://www.producthunt.com/products/looq-3|Looq: Preview Files
