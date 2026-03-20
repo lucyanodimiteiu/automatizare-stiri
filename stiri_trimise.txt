@@ -705,3 +705,4 @@ https://www.producthunt.com/products/google-ai-studio-8|Google AI Studio 2.0
 https://www.producthunt.com/products/cursor|Composer 2 by Cursor
 https://www.producthunt.com/products/ai-skills-manager|AI Skills Manager
 https://www.producthunt.com/products/visdiff|Visdiff
+https://www.producthunt.com/products/gitagent-2|GitAgent by Lyzr
