@@ -703,3 +703,4 @@ https://www.producthunt.com/products/adsturbo-2|AdsTurbo
 https://www.producthunt.com/products/nevacode|Gately
 https://www.producthunt.com/products/google-ai-studio-8|Google AI Studio 2.0
 https://www.producthunt.com/products/cursor|Composer 2 by Cursor
+https://www.producthunt.com/products/ai-skills-manager|AI Skills Manager
