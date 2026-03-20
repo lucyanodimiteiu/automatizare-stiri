@@ -701,3 +701,4 @@ https://www.producthunt.com/products/built-for-devs-2|Built for Devs
 https://www.producthunt.com/products/assembly-7|Assembly 2.0
 https://www.producthunt.com/products/adsturbo-2|AdsTurbo
 https://www.producthunt.com/products/nevacode|Gately
+https://www.producthunt.com/products/google-ai-studio-8|Google AI Studio 2.0
