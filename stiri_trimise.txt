@@ -732,3 +732,4 @@ https://www.producthunt.com/products/fractal-2|Fractal
 https://www.producthunt.com/products/optimo|optimo
 https://www.producthunt.com/products/contral|Contral
 https://www.producthunt.com/products/novi-notes|Novi Notes
+https://www.producthunt.com/products/mindspend|Mindspend
