@@ -730,3 +730,4 @@ https://www.producthunt.com/products/lokuma-ai|Design Agent by Lokuma
 https://www.producthunt.com/products/claude-cowork-projects|Claude Cowork Projects
 https://www.producthunt.com/products/fractal-2|Fractal
 https://www.producthunt.com/products/optimo|optimo
+https://www.producthunt.com/products/contral|Contral
