@@ -724,3 +724,4 @@ https://finance.yahoo.com/sectors/technology/articles/forget-nvidia-buy-2-artifi
 https://finance.yahoo.com/sectors/technology/articles/nebius-teams-nvidia-fast-track-223109537.html|Nebius Teams Up With NVIDIA To Fast-Track AI Startups Into Enterprise Adoption With VC-Backed Program
 https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-raises-dividend-qcom-233002709.html|As Qualcomm Stock Raises Its Dividend, Is QCOM Stock a Buy?
 https://www.producthunt.com/products/educato-app|Educato App
+https://www.producthunt.com/products/murmur-7|murmur
