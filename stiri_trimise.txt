@@ -738,3 +738,4 @@ https://finance.yahoo.com/markets/stocks/articles/cn-railway-cni-delivers-strong
 https://www.producthunt.com/products/caplo|Caplo
 https://www.producthunt.com/products/sanota|Sanota
 https://finance.yahoo.com/news/when-it-comes-to-getting-a-pay-raise-youll-probably-have-to-ask-for-it-100049022.html|When it comes to getting a pay raise, you'll probably have to ask for it
+https://www.producthunt.com/products/everest-ai|Everest AI
