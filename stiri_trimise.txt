@@ -725,3 +725,4 @@ https://finance.yahoo.com/sectors/technology/articles/nebius-teams-nvidia-fast-t
 https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-raises-dividend-qcom-233002709.html|As Qualcomm Stock Raises Its Dividend, Is QCOM Stock a Buy?
 https://www.producthunt.com/products/educato-app|Educato App
 https://www.producthunt.com/products/murmur-7|murmur
+https://www.producthunt.com/products/vite-alpha|Vite+
