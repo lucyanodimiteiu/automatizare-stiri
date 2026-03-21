@@ -744,3 +744,4 @@ https://www.producthunt.com/products/replit-agent-4|Replit Agent 4
 https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-skyworks-solutions-163137274.html|Jim Cramer Highlights Skyworks Solutions’ High Yield But Says “I Don’t Own Tech for Yield”
 https://finance.yahoo.com/markets/stocks/articles/nadella-paid-650m-recruit-ai-170000361.html|Nadella paid $650M to recruit his AI chief. After 2 years he's quietly pushing him aside — these brutal numbers are why
 https://finance.yahoo.com/sectors/technology/articles/goldman-sachs-projects-700-billion-173500867.html|Goldman Sachs Projects $700 Billion in Artificial Intelligence (AI) Capex This Year. Here's My Top Stock to Buy.
+https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-aws-taps-182201876.html|Amazon.com (AMZN) AWS Taps SailPoint to Develop Governance Solutions for AI Agents
