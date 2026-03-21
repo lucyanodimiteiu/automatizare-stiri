@@ -718,3 +718,4 @@ https://www.producthunt.com/products/musiclib|MusicLib
 https://finance.yahoo.com/markets/stocks/articles/stocks-retreat-inflation-fears-push-152939047.html|Stocks Retreat as Inflation Fears Push Bond Yields Higher
 https://www.producthunt.com/products/kickfolder|Kickfolder
 https://www.producthunt.com/products/joy-for-gmail|Joy for Gmail
+https://www.producthunt.com/products/gentlelimit|GentleLimit
