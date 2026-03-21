@@ -746,3 +746,4 @@ https://finance.yahoo.com/markets/stocks/articles/nadella-paid-650m-recruit-ai-1
 https://finance.yahoo.com/sectors/technology/articles/goldman-sachs-projects-700-billion-173500867.html|Goldman Sachs Projects $700 Billion in Artificial Intelligence (AI) Capex This Year. Here's My Top Stock to Buy.
 https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-aws-taps-182201876.html|Amazon.com (AMZN) AWS Taps SailPoint to Develop Governance Solutions for AI Agents
 https://finance.yahoo.com/markets/stocks/articles/needham-confident-alphabet-stock-googl-181942624.html|Needham Confident of Alphabet Stock (GOOGL) Free Cash Flow Generation Capabilities Amid AI Disruption
+https://finance.yahoo.com/sectors/technology/articles/salesforce-crm-partners-nvidia-ai-182739106.html|Salesforce (CRM) Partners with NVIDIA for AI Agents in Enterprise Business Workflows
