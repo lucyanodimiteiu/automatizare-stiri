@@ -763,3 +763,4 @@ https://finance.yahoo.com/markets/stocks/articles/greenridge-maintains-hold-rati
 https://www.producthunt.com/products/context-dev|Context.dev
 https://www.producthunt.com/products/claude-code-scheduled-tasks|Claude Code Scheduled Tasks
 https://www.producthunt.com/products/silicon-friendly|Silicon Friendly
+https://www.producthunt.com/products/embedful|Embedful
