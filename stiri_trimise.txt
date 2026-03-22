@@ -762,3 +762,4 @@ https://finance.yahoo.com/markets/stocks/articles/clear-channel-outdoor-holdings
 https://finance.yahoo.com/markets/stocks/articles/greenridge-maintains-hold-rating-china-222927094.html|Greenridge Maintains a Hold Rating on China Yuchai International Limited (CYD)
 https://www.producthunt.com/products/context-dev|Context.dev
 https://www.producthunt.com/products/claude-code-scheduled-tasks|Claude Code Scheduled Tasks
+https://www.producthunt.com/products/silicon-friendly|Silicon Friendly
