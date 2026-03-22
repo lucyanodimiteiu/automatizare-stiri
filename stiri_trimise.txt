@@ -765,3 +765,4 @@ https://www.producthunt.com/products/claude-code-scheduled-tasks|Claude Code Sch
 https://www.producthunt.com/products/silicon-friendly|Silicon Friendly
 https://www.producthunt.com/products/embedful|Embedful
 https://www.producthunt.com/products/bench-for-claude-code|Bench for Claude Code
+https://www.producthunt.com/products/edgee|Edgee Claude Code Compression
