@@ -800,3 +800,4 @@ https://www.producthunt.com/products/iris-e28eb72c-ccff-4a5a-a7e8-6cf066ee9d41|I
 https://www.producthunt.com/products/fastlane-3|Fastlane
 https://www.producthunt.com/products/zoer-ai-2|Zoer.ai
 https://www.producthunt.com/products/tobira-ai|Tobira.ai
+https://www.producthunt.com/products/textmine-extract-data-from-text|DataSieve 2.0
