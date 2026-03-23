@@ -803,3 +803,4 @@ https://www.producthunt.com/products/tobira-ai|Tobira.ai
 https://www.producthunt.com/products/textmine-extract-data-from-text|DataSieve 2.0
 https://www.producthunt.com/products/nomie|Nomie
 https://www.producthunt.com/products/honestly|Honestly
+https://www.producthunt.com/products/claude-usage-tracker|Claude Usage Tracker
