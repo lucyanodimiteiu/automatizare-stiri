@@ -798,3 +798,4 @@ https://finance.yahoo.com/sectors/technology/articles/amazon-amzn-10-best-ai-200
 https://www.producthunt.com/products/weixinclawbot|WeixinClawBot
 https://www.producthunt.com/products/iris-e28eb72c-ccff-4a5a-a7e8-6cf066ee9d41|Iris
 https://www.producthunt.com/products/fastlane-3|Fastlane
+https://www.producthunt.com/products/zoer-ai-2|Zoer.ai
