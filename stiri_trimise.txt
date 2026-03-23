@@ -805,3 +805,4 @@ https://www.producthunt.com/products/nomie|Nomie
 https://www.producthunt.com/products/honestly|Honestly
 https://www.producthunt.com/products/claude-usage-tracker|Claude Usage Tracker
 https://www.producthunt.com/products/alphaclaw-apex|AlphaClaw Apex
+https://www.producthunt.com/products/pause-do-don-t-outsource-your-thinking|Pause.do
