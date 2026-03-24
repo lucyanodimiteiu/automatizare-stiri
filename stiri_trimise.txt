@@ -829,3 +829,4 @@ https://www.producthunt.com/products/vocera|Cekura
 https://www.producthunt.com/products/nextphone-ai-answering-service-2|NextPhone
 https://www.producthunt.com/products/googlegemini-in-chrome|Google Gemini in Chrome
 https://www.producthunt.com/products/gitlaw|GitLaw Integrations
+https://www.producthunt.com/products/what-the-duck-2|What The Duck!
