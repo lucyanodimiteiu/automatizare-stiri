@@ -824,3 +824,4 @@ https://www.producthunt.com/products/imgcmd|imgcmd
 https://www.producthunt.com/products/debugbase|DebugBase
 https://www.producthunt.com/products/opencutai-video|Free AI Video Editor OpenCutAI
 https://www.producthunt.com/products/producthunt|Kitty Points Leaderboard
+https://www.producthunt.com/products/maestri|Maestri
