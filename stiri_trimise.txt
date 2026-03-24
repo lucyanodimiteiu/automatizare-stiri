@@ -831,3 +831,4 @@ https://www.producthunt.com/products/googlegemini-in-chrome|Google Gemini in Chr
 https://www.producthunt.com/products/gitlaw|GitLaw Integrations
 https://www.producthunt.com/products/what-the-duck-2|What The Duck!
 https://www.producthunt.com/products/jotform|Jotform AI
+https://www.producthunt.com/products/navox-network|Navox Network
