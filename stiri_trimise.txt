@@ -827,3 +827,4 @@ https://www.producthunt.com/products/producthunt|Kitty Points Leaderboard
 https://www.producthunt.com/products/maestri|Maestri
 https://www.producthunt.com/products/vocera|Cekura
 https://www.producthunt.com/products/nextphone-ai-answering-service-2|NextPhone
+https://www.producthunt.com/products/googlegemini-in-chrome|Google Gemini in Chrome
