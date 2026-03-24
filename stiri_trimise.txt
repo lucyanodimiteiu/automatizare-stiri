@@ -834,3 +834,4 @@ https://www.producthunt.com/products/jotform|Jotform AI
 https://www.producthunt.com/products/navox-network|Navox Network
 https://www.producthunt.com/products/replay-production-api-failures-locally|Flux
 https://www.producthunt.com/products/redbean-ai|Redbean
+https://www.producthunt.com/products/lelaai-learn-languages-naturally|LelaAI
