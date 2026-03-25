@@ -853,3 +853,4 @@ https://www.producthunt.com/products/basedash|Basedash Insights
 https://www.producthunt.com/products/cliptask|ClipTask
 https://www.producthunt.com/products/pendium-ai|Pendium
 https://www.producthunt.com/products/splitsense|Splitsense
+https://www.producthunt.com/products/coddo|Coddo
