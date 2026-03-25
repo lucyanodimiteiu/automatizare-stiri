@@ -839,3 +839,4 @@ https://www.producthunt.com/products/the-new-typescript-website|TypeScript 6.0
 https://www.producthunt.com/products/drift-ai|Drift
 https://www.producthunt.com/products/jared-so|jared.so
 https://finance.yahoo.com/markets/stocks/articles/why-citizens-remains-bullish-servicenow-160204238.html|Why Citizens Remains Bullish On ServiceNow, Inc. (NOW)
+https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-billionaire-172043743.html|Amazon.com Inc. (AMZN): Billionaire Seth Klarman Bets Big on Tech Giant
