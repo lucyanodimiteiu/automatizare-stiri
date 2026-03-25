@@ -850,3 +850,4 @@ https://www.producthunt.com/products/flowershow|Flowershow
 https://www.producthunt.com/products/turboquant|TurboQuant
 https://www.producthunt.com/products/releaslyy-ai|Releaslyy AI
 https://www.producthunt.com/products/basedash|Basedash Insights
+https://www.producthunt.com/products/cliptask|ClipTask
