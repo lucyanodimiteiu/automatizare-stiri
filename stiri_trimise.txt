@@ -869,3 +869,4 @@ https://www.producthunt.com/products/vit|vit
 https://www.producthunt.com/products/pio|PIO
 https://www.producthunt.com/products/venn-ai-2|Venn.ai
 https://www.producthunt.com/products/ikuna|Ikuna
+https://www.producthunt.com/products/douzo|Douzo
