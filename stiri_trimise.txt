@@ -871,3 +871,4 @@ https://www.producthunt.com/products/venn-ai-2|Venn.ai
 https://www.producthunt.com/products/ikuna|Ikuna
 https://www.producthunt.com/products/douzo|Douzo
 https://www.producthunt.com/products/appoval|Appoval
+https://www.producthunt.com/products/claude-mobile-work-tools|Claude Mobile: Work Tools
