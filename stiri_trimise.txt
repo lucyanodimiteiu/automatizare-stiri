@@ -877,3 +877,4 @@ https://www.producthunt.com/products/anvil-5|Anvil
 https://www.producthunt.com/products/google-3|Lyria 3 Pro by Google Deepmind
 https://www.producthunt.com/products/replay-ios-app|Replay: Life Timeline
 https://www.producthunt.com/products/linear-agent|Linear Agent
+https://www.producthunt.com/products/mokkit-2|Mokkit
