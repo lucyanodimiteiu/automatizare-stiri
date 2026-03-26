@@ -880,3 +880,4 @@ https://www.producthunt.com/products/linear-agent|Linear Agent
 https://www.producthunt.com/products/mokkit-2|Mokkit
 https://www.producthunt.com/products/spotify|Spotify SongDNA
 https://www.producthunt.com/products/macnotch-the-notch-reimagined|MacNotch
+https://www.producthunt.com/products/jentic-mini|Jentic Mini
