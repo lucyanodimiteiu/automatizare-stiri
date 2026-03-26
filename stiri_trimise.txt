@@ -860,3 +860,4 @@ https://www.producthunt.com/products/3flow|3Flow AI
 https://www.producthunt.com/products/magine|Magine
 https://www.producthunt.com/products/luma-ai|Uni-1 by Luma
 https://finance.yahoo.com/markets/stocks/articles/cienas-stock-performance-compared-other-160741123.html|How Is Ciena's Stock Performance Compared to Other Technology Stocks?
+https://www.producthunt.com/products/layerproof-social-content-generation|LayerProof Matte
