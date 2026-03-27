@@ -897,3 +897,4 @@ https://www.producthunt.com/products/insideorg|InsideOrg
 https://www.producthunt.com/products/stakpak-dev|Stakpak Autopilot
 https://www.producthunt.com/products/noctiluca|Noctiluca
 https://www.producthunt.com/products/web-rewind|Web Rewind
+https://www.producthunt.com/products/benchspan|Benchspan
