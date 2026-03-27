@@ -883,3 +883,4 @@ https://www.producthunt.com/products/macnotch-the-notch-reimagined|MacNotch
 https://www.producthunt.com/products/jentic-mini|Jentic Mini
 https://www.producthunt.com/products/denchclaw-ai-crm-on-top-of-openclaw|DenchClaw
 https://www.producthunt.com/products/littlebird|Littlebird
+https://www.producthunt.com/products/autonoma-sourcing|Autonoma.pro
