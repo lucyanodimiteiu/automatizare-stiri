@@ -1,32 +1,27 @@
 #!/usr/bin/env python3
 """
-Script premium de rezumat știri conform specificațiilor Luci.
-Folosește DeepSeek API pentru a genera rezumate structurate cu imagini.
-FIX: sistem robust de fallback pentru imagini (3 nivele)
+Script premium de rezumat știri - Luci v3
+FIX: imagini unice per știre (anti-duplicat), 3 nivele fallback
 """
 import feedparser
 import requests
 import os
 import json
 import re
-import sys
 import random
-import time
-from urllib.parse import urlparse, quote
+from urllib.parse import quote
 
-# Configurare căi relative
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 DB_FILE = os.path.join(SCRIPT_DIR, "stiri_trimise.txt")
 CONFIG_FILE = os.path.join(SCRIPT_DIR, "config_bot.json")
 
-# Configurare API - variabile de mediu (setate în GitHub Secrets)
 DEEPSEEK_KEY = os.getenv("DEEPSEEK_API_KEY") or os.getenv("DEEPSEEKAPIKEY")
 TG_TOKEN = os.getenv("TELEGRAM_TOKEN")
 TG_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
 DEFAULT_CONFIG = {
     "rss_urls": [
-        "https://www.digi24.ro/rss/stiri/economie", 
+        "https://www.digi24.ro/rss/stiri/economie",
         "http://feeds.marketwatch.com/marketwatch/topstories/",
         "https://www.reutersagency.com/feed/?best-topics=business"
     ],
@@ -34,18 +29,21 @@ DEFAULT_CONFIG = {
     "limit_chars": 800
 }
 
-# ─── Imagini statice per tag (Unsplash CDN - întotdeauna disponibile) ─────────
-# Format: ?w=800&q=80 => resize automat, fără copyright
+# ─── Librărie imagini statice Unsplash (garantat funcționale, diverse) ────────
 IMAGE_LIBRARY = {
     "#AI": [
         "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80",
         "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
         "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?w=800&q=80",
+        "https://images.unsplash.com/photo-1655720031554-a929595ffad7?w=800&q=80",
+        "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=800&q=80",
     ],
     "#Tech": [
         "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
         "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&q=80",
         "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+        "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80",
+        "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&q=80",
     ],
     "#Crypto": [
         "https://images.unsplash.com/photo-1621416894562-7a5e768f8b1a?w=800&q=80",
@@ -55,19 +53,23 @@ IMAGE_LIBRARY = {
     "#Bitcoin": [
         "https://images.unsplash.com/photo-1591994843349-f415893b3a6b?w=800&q=80",
         "https://images.unsplash.com/photo-1640826514546-7b7e7ab0b3f3?w=800&q=80",
+        "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=800&q=80",
     ],
     "#Macro": [
         "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
         "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
         "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?w=800&q=80",
+        "https://images.unsplash.com/photo-1535320903710-d993d3d77d29?w=800&q=80",
     ],
     "#Finanțe": [
         "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
         "https://images.unsplash.com/photo-1565514020179-026b92b2d70b?w=800&q=80",
+        "https://images.unsplash.com/photo-1559526324-593bc073d938?w=800&q=80",
     ],
     "#EnergieVerde": [
         "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800&q=80",
         "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=800&q=80",
+        "https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=800&q=80",
     ],
     "#Eolian": [
         "https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=800&q=80",
@@ -80,6 +82,7 @@ IMAGE_LIBRARY = {
     "#Auto": [
         "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800&q=80",
         "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=800&q=80",
+        "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800&q=80",
     ],
     "#Semiconductori": [
         "https://images.unsplash.com/photo-1618044733300-9472054094ee?w=800&q=80",
@@ -88,6 +91,7 @@ IMAGE_LIBRARY = {
     "#Cybersecurity": [
         "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&q=80",
         "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=800&q=80",
+        "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&q=80",
     ],
     "#Geopolitică": [
         "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=800&q=80",
@@ -96,17 +100,18 @@ IMAGE_LIBRARY = {
     "#Startup": [
         "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=800&q=80",
         "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=800&q=80",
+        "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&q=80",
     ],
 }
 
-# ─── Imagine absolute fallback (garantat funcționale) ─────────────────────────
 FALLBACK_IMAGES = [
-    "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",  # news generic
-    "https://images.unsplash.com/photo-1586339949916-3e9457bef6d3?w=800&q=80",  # newspaper
-    "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80",  # media
+    "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "https://images.unsplash.com/photo-1586339949916-3e9457bef6d3?w=800&q=80",
+    "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80",
+    "https://images.unsplash.com/photo-1432821596592-e2c18b78144f?w=800&q=80",
+    "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=800&q=80",
 ]
 
-# Mapping cuvinte cheie -> tag-uri
 KEYWORD_TO_TAG = {
     "ai": "#AI", "inteligență": "#AI", "artificial": "#AI",
     "machine learning": "#AI", "llm": "#AI", "chatgpt": "#AI", "openai": "#AI",
@@ -175,7 +180,7 @@ def verifica_comenzi_telegram(config):
     return config
 
 
-# ─── AI duplicate check ───────────────────────────────────────────────────────
+# ─── Duplicate check ──────────────────────────────────────────────────────────
 
 def verifica_duplicat_ai(titlu, istoric):
     if not istoric or not DEEPSEEK_KEY:
@@ -193,34 +198,23 @@ def verifica_duplicat_ai(titlu, istoric):
         return False
 
 
-# ─── IMAGINE - sistem cu 3 nivele de fallback ─────────────────────────────────
+# ─── Imagine ──────────────────────────────────────────────────────────────────
 
-def verifica_url_imagine(url, timeout=8):
-    """Verifică dacă un URL de imagine este accesibil (returnează True/False)."""
-    try:
-        resp = requests.head(url, timeout=timeout, allow_redirects=True)
-        content_type = resp.headers.get("Content-Type", "")
-        return resp.status_code == 200 and "image" in content_type
-    except:
-        return False
+def img_key(url):
+    """Extrage un identificator unic din URL-ul imaginii."""
+    m = re.search(r'photo-([a-z0-9]+)', url)
+    return m.group(1) if m else url[:100]
 
 def extrage_imagine_rss(entry):
-    """Nivel 1: Extrage imaginea direct din RSS feed."""
-    # media:content
+    """Nivel 1: imagine direct din feed RSS."""
     if hasattr(entry, 'media_content'):
         for media in entry.media_content:
             if media.get('type', '').startswith('image/'):
-                url = media.get('url', '')
-                if url:
-                    return url
-    # enclosures
+                return media.get('url')
     if hasattr(entry, 'enclosures'):
         for enc in entry.enclosures:
             if enc.get('type', '').startswith('image/'):
-                url = enc.get('href', '')
-                if url:
-                    return url
-    # img în summary HTML
+                return enc.get('href')
     if hasattr(entry, 'summary'):
         imgs = re.findall(r'<img[^>]+src=["\']([^"\']+)["\']', entry.summary)
         if imgs:
@@ -228,53 +222,50 @@ def extrage_imagine_rss(entry):
     return None
 
 def genereaza_imagine_pollinations(titlu):
-    """Nivel 2: Generează imagine AI cu Pollinations (gratis, fără key)."""
-    # Prompt scurt în engleză pentru rezultate mai bune
-    prompt = f"professional news photo, {titlu[:80]}, photorealistic, high quality"
-    prompt_encoded = quote(prompt)
-    # Seed random pentru a evita cache
-    seed = random.randint(1000, 9999)
-    url = f"https://image.pollinations.ai/prompt/{prompt_encoded}?width=800&height=450&nologo=true&seed={seed}"
-    print(f"🎨 Pollinations: generez imagine... ({url[:80]}...)")
-    # Pollinations are nevoie de GET (nu HEAD) pentru a genera
+    """Nivel 2: generare AI Pollinations (fără API key, gratis)."""
+    prompt = f"professional news photography, {titlu[:80]}, editorial style, high quality"
+    seed = random.randint(10000, 99999)  # seed unic = imagine unică
+    url = f"https://image.pollinations.ai/prompt/{quote(prompt)}?width=800&height=450&nologo=true&seed={seed}"
+    print(f"   🎨 Pollinations: generez (seed={seed})...")
     try:
         resp = requests.get(url, timeout=20, stream=True)
         if resp.status_code == 200 and "image" in resp.headers.get("Content-Type", ""):
             return url
     except Exception as e:
-        print(f"   ⚠️  Pollinations a picat: {e}")
+        print(f"      ⚠️  Pollinations picat: {e}")
     return None
 
-def alege_imagine_statica(tag):
-    """Nivel 3: Alege imagine statică din librărie Unsplash (garantat funcțională)."""
-    pool = IMAGE_LIBRARY.get(tag, []) or IMAGE_LIBRARY.get("#Tech", [])
-    if pool:
-        return random.choice(pool)
-    return random.choice(FALLBACK_IMAGES)
-
-def obtine_imagine(entry, titlu, tag):
+def obtine_imagine(entry, titlu, tag, imagini_folosite: set):
     """
-    Sistem cu 3 nivele de fallback:
-    1. Imagine din RSS feed
-    2. Generare AI cu Pollinations
-    3. Imagine statică Unsplash per tag
+    Alege imaginea cu 3 nivele de fallback + garanție anti-duplicat.
+    imagini_folosite: set cu cheile imaginilor deja trimise (din DB + sesiunea curentă).
     """
-    # NIVEL 1: RSS
-    img = extrage_imagine_rss(entry)
-    if img:
-        print(f"   📷 Nivel 1 (RSS): {img[:60]}...")
-        return img
+    # NIVEL 1: RSS feed
+    url = extrage_imagine_rss(entry)
+    if url and img_key(url) not in imagini_folosite:
+        print(f"   📷 Nivel 1 (RSS): {url[:70]}...")
+        imagini_folosite.add(img_key(url))
+        return url
 
-    # NIVEL 2: Pollinations AI
-    img = genereaza_imagine_pollinations(titlu)
-    if img:
-        print(f"   🎨 Nivel 2 (Pollinations AI): imagine generată")
-        return img
+    # NIVEL 2: Pollinations AI (seed random = mereu unică)
+    url = genereaza_imagine_pollinations(titlu)
+    if url:
+        print(f"   🎨 Nivel 2 (Pollinations): OK")
+        return url  # seed garantează unicitate
 
-    # NIVEL 3: Static Unsplash
-    img = alege_imagine_statica(tag)
-    print(f"   🖼️  Nivel 3 (Static Unsplash): {img[:60]}...")
-    return img
+    # NIVEL 3: Unsplash static - alegem prima neutilizată
+    pool = IMAGE_LIBRARY.get(tag, []) + IMAGE_LIBRARY.get("#Tech", []) + FALLBACK_IMAGES
+    random.shuffle(pool)
+    for candidate in pool:
+        if img_key(candidate) not in imagini_folosite:
+            print(f"   🖼️  Nivel 3 (Unsplash static): {candidate[:70]}...")
+            imagini_folosite.add(img_key(candidate))
+            return candidate
+
+    # Pool epuizat (extrem de rar) - refolosim random
+    fallback = random.choice(FALLBACK_IMAGES)
+    print(f"   🔄 Pool epuizat, refolosim imagine.")
+    return fallback
 
 
 # ─── Tag ──────────────────────────────────────────────────────────────────────
@@ -287,17 +278,15 @@ def determina_tag(titlu, descriere):
     return "#Tech"
 
 
-# ─── Rezumat DeepSeek ─────────────────────────────────────────────────────────
+# ─── DeepSeek rezumat ─────────────────────────────────────────────────────────
 
 def genereaza_rezumat_premium(titlu, descriere, tag, limit_chars):
     if not DEEPSEEK_KEY:
         return None
-
     url = "https://api.deepseek.com/v1/chat/completions"
     headers = {"Authorization": f"Bearer {DEEPSEEK_KEY}", "Content-Type": "application/json"}
-
     prompt = f"""
-Ești un jurnalist de elită, cu zeci de ani de experiență în publicații de prestigiu (stil Bloomberg/Reuters). 
+E�ti un jurnalist de elită, cu zeci de ani de experiență în publicații de prestigiu (stil Bloomberg/Reuters). 
 Analizează știrea de mai jos și scrie un text impecabil, șlefuit și autoritar.
 
 REGULI CRITICE:
@@ -324,8 +313,7 @@ REDACTEAZĂ DOAR TEXTUL FINAL ÎN LIMBA ROMÂNĂ.
             "max_tokens": 1000
         }, headers=headers, timeout=60)
         response.raise_for_status()
-        result = response.json()
-        return result['choices'][0]['message']['content']
+        return response.json()['choices'][0]['message']['content']
     except Exception as e:
         print(f"Eroare DeepSeek: {e}")
         return None
@@ -338,62 +326,55 @@ def trimite_pe_telegram(imagine_url, rezumat_text):
         print("⚠️  Token sau chat ID Telegram lipsă.")
         return False
 
-    # Încearcă sendPhoto
+    caption = rezumat_text[:1024]  # limita Telegram
+
+    # Încearcă sendPhoto cu caption
     if imagine_url:
-        url = f"https://api.telegram.org/bot{TG_TOKEN}/sendPhoto"
-        data = {
-            "chat_id": TG_CHAT_ID,
-            "photo": imagine_url,
-            "caption": rezumat_text[:1024],  # Telegram limită caption 1024 chars
-            "parse_mode": "Markdown"
-        }
         try:
-            resp = requests.post(url, data=data, timeout=30)
+            resp = requests.post(
+                f"https://api.telegram.org/bot{TG_TOKEN}/sendPhoto",
+                data={"chat_id": TG_CHAT_ID, "photo": imagine_url,
+                      "caption": caption, "parse_mode": "Markdown"},
+                timeout=30
+            )
             result = resp.json()
             if result.get("ok"):
-                print("   ✅ Imagine trimisă cu succes!")
+                print("   ✅ Foto + caption trimise!")
                 return True
-            else:
-                # Afișează eroarea Telegram pentru debug
-                print(f"   ⚠️  sendPhoto eșuat: {result.get('description', 'unknown error')}")
+            print(f"   ⚠️  sendPhoto eșuat: {result.get('description')}")
         except Exception as e:
             print(f"   ⚠️  Eroare sendPhoto: {e}")
 
-    # Dacă caption e prea lung, trimite foto + text separat
-    if imagine_url:
+        # Fallback: foto fără caption, apoi text separat
         try:
-            url_foto = f"https://api.telegram.org/bot{TG_TOKEN}/sendPhoto"
-            resp = requests.post(url_foto, data={
-                "chat_id": TG_CHAT_ID,
-                "photo": imagine_url
-            }, timeout=30)
-            if resp.json().get("ok"):
-                # Trimite textul separat
-                url_text = f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage"
-                requests.post(url_text, data={
-                    "chat_id": TG_CHAT_ID,
-                    "text": rezumat_text,
-                    "parse_mode": "Markdown"
-                }, timeout=30)
-                print("   ✅ Foto + text trimise separat!")
+            r1 = requests.post(
+                f"https://api.telegram.org/bot{TG_TOKEN}/sendPhoto",
+                data={"chat_id": TG_CHAT_ID, "photo": imagine_url},
+                timeout=30
+            )
+            if r1.json().get("ok"):
+                requests.post(
+                    f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage",
+                    data={"chat_id": TG_CHAT_ID, "text": rezumat_text, "parse_mode": "Markdown"},
+                    timeout=30
+                )
+                print("   ✅ Foto + text separat trimise!")
                 return True
         except Exception as e:
             print(f"   ⚠️  Eroare foto separat: {e}")
 
     # Fallback final: doar text
-    url = f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage"
-    data = {
-        "chat_id": TG_CHAT_ID,
-        "text": rezumat_text,
-        "parse_mode": "Markdown"
-    }
     try:
-        resp = requests.post(url, data=data, timeout=30)
+        resp = requests.post(
+            f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage",
+            data={"chat_id": TG_CHAT_ID, "text": rezumat_text, "parse_mode": "Markdown"},
+            timeout=30
+        )
         if resp.json().get("ok"):
-            print("   ⚠️  Trimis fără imagine (doar text).")
+            print("   ⚠️  Trimis fără imagine.")
             return True
     except Exception as e:
-        print(f"Eroare trimitere Telegram: {e}")
+        print(f"Eroare Telegram: {e}")
     return False
 
 
@@ -408,57 +389,58 @@ def main():
         open(DB_FILE, "w").close()
     with open(DB_FILE, "r") as f:
         lines = f.read().splitlines()
+
     istoric_links = {l.split('|')[0] for l in lines if '|' in l}
     titluri_vechi = [l.split('|')[1] for l in lines[-20:] if '|' in l]
 
+    # Cheile imaginilor din ultimele 50 știri → nu le repetăm
+    imagini_folosite = set()
+    for l in lines[-50:]:
+        parts = l.split('|')
+        if len(parts) >= 3 and parts[2].strip():
+            imagini_folosite.add(parts[2].strip())
+    print(f"🗂️  Imagini excluse (deja trimise): {len(imagini_folosite)}")
+
     for rss_url in config["rss_urls"]:
         try:
-            print(f"\n📡 Procesez feed: {rss_url}")
+            print(f"\n📡 Feed: {rss_url}")
             feed = feedparser.parse(rss_url)
             for entry in feed.entries[:10]:
                 if entry.link in istoric_links:
                     continue
-
                 text = (entry.title + ' ' + entry.get('summary', '')).lower()
                 if not any(kw.lower() in text for kw in config["keywords"]):
                     continue
-
                 if verifica_duplicat_ai(entry.title, titluri_vechi):
-                    print(f"   🔁 Duplicat: {entry.title[:50]}")
+                    print(f"   🔁 Duplicat titlu: {entry.title[:50]}")
                     continue
 
-                print(f"\n📰 Articol găsit: {entry.title[:60]}")
-
+                print(f"\n📰 Articol: {entry.title[:65]}")
                 tag = determina_tag(entry.title, entry.get('summary', ''))
                 print(f"   🏷️  Tag: {tag}")
 
-                # Obține imagine (3 nivele fallback)
-                imagine_url = obtine_imagine(entry, entry.title, tag)
+                imagine_url = obtine_imagine(entry, entry.title, tag, imagini_folosite)
 
-                # Generează rezumat
                 rezumat = genereaza_rezumat_premium(
-                    entry.title,
-                    entry.get('summary', ''),
-                    tag,
-                    config.get("limit_chars", 800)
+                    entry.title, entry.get('summary', ''), tag, config.get("limit_chars", 800)
                 )
                 if not rezumat:
-                    print("   ❌ Nu s-a putut genera rezumatul.")
+                    print("   ❌ Rezumat eșuat.")
                     continue
 
-                # Trimite pe Telegram
                 success = trimite_pe_telegram(imagine_url, rezumat)
                 if success:
+                    # Salvăm: link | titlu | cheia imaginii
+                    key = img_key(imagine_url)
                     with open(DB_FILE, "a") as f:
-                        f.write(f"{entry.link}|{entry.title}\n")
-                    print(f"   ✅ Trimis cu succes: {entry.title[:50]}")
-                    return  # Oprește după primul articol reușit
+                        f.write(f"{entry.link}|{entry.title}|{key}\n")
+                    print(f"   ✅ Gata: {entry.title[:50]}")
+                    return
                 else:
-                    print("   ❌ Eroare la trimitere Telegram.")
+                    print("   ❌ Telegram eșuat.")
 
         except Exception as e:
-            print(f"Eroare procesare feed {rss_url}: {e}")
-            continue
+            print(f"Eroare feed {rss_url}: {e}")
 
     print("\n✅ Run complet.")
 
