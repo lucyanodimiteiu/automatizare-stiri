@@ -889,3 +889,4 @@ https://www.producthunt.com/products/appdesk|AppDesk
 https://www.producthunt.com/products/playtester-gg|Playtester.gg
 https://www.producthunt.com/products/picklematch|PickleMatch
 https://www.producthunt.com/products/1devtool|1DevTool
+https://www.producthunt.com/products/suno|Suno v5.5
