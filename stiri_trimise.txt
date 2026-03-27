@@ -892,3 +892,4 @@ https://www.producthunt.com/products/1devtool|1DevTool
 https://www.producthunt.com/products/suno|Suno v5.5
 https://www.producthunt.com/products/agentation|Agentation
 https://www.producthunt.com/products/gemini-export-studio|Gemini Export Studio
+https://www.producthunt.com/products/supapin|Supapin
