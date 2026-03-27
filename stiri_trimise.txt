@@ -905,3 +905,4 @@ https://www.producthunt.com/products/claude-code-auto-fix-in-the-cloud|Claude Co
 https://www.producthunt.com/products/socap|Audos Publishing House|1655720031554
 https://www.producthunt.com/products/mistral-7b|Voxtral TTS by Mistral AI|1531746790731
 https://www.producthunt.com/products/hoop-dev-for-databases|hoop.dev - Claude Code Gateway|1498050108023
+https://www.producthunt.com/products/cockpit-ai|Cockpit AI|1677442135703
