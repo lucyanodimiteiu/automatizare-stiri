@@ -882,3 +882,4 @@ https://www.producthunt.com/products/spotify|Spotify SongDNA
 https://www.producthunt.com/products/macnotch-the-notch-reimagined|MacNotch
 https://www.producthunt.com/products/jentic-mini|Jentic Mini
 https://www.producthunt.com/products/denchclaw-ai-crm-on-top-of-openclaw|DenchClaw
+https://www.producthunt.com/products/littlebird|Littlebird
