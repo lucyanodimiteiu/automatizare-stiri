@@ -904,3 +904,4 @@ https://www.producthunt.com/products/composio|Universal CLI by Composio|14573698
 https://www.producthunt.com/products/claude-code-auto-fix-in-the-cloud|Claude Code auto-fix|1504711434969
 https://www.producthunt.com/products/socap|Audos Publishing House|1655720031554
 https://www.producthunt.com/products/mistral-7b|Voxtral TTS by Mistral AI|1531746790731
+https://www.producthunt.com/products/hoop-dev-for-databases|hoop.dev - Claude Code Gateway|1498050108023
