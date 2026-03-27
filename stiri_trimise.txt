@@ -885,3 +885,4 @@ https://www.producthunt.com/products/denchclaw-ai-crm-on-top-of-openclaw|DenchCl
 https://www.producthunt.com/products/littlebird|Littlebird
 https://www.producthunt.com/products/autonoma-sourcing|Autonoma.pro
 https://www.producthunt.com/products/arm-agi-cpu|Arm AGI CPU
+https://www.producthunt.com/products/appdesk|AppDesk
