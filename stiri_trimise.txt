@@ -911,3 +911,4 @@ https://www.producthunt.com/products/stripe-projects|Stripe Projects|15193899504
 https://www.producthunt.com/products/capcut-video-and-image-editor|CapCut Video Studio|1518770660439
 https://finance.yahoo.com/markets/stocks/articles/stock-market-today-march-26-225035525.html|Stock Market Today, March 26: Micron Technology Slides as Analysts Shift Toward GPU Names and Earnings Concerns Grow|1461749280684
 https://www.producthunt.com/products/cohere-2|Cohere Transcribe|1586339949916
+https://www.producthunt.com/products/lexaclaw|Lexaclaw|1581091226825
