@@ -908,3 +908,4 @@ https://www.producthunt.com/products/hoop-dev-for-databases|hoop.dev - Claude Co
 https://www.producthunt.com/products/cockpit-ai|Cockpit AI|1677442135703
 https://www.producthunt.com/products/focus-flow|Focus Flow 6.7 (Jira Plugin)|1620712943543
 https://www.producthunt.com/products/stripe-projects|Stripe Projects|1519389950473
+https://www.producthunt.com/products/capcut-video-and-image-editor|CapCut Video Studio|1518770660439
