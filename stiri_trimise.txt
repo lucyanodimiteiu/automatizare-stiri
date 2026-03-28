@@ -923,3 +923,4 @@ https://www.producthunt.com/products/aera-browser|Aera Browser|1504711434969
 https://www.producthunt.com/products/able-3|Able|1495020689067
 https://www.producthunt.com/products/slapmac|SlapMac|1457369804613
 https://www.producthunt.com/products/dwellrecord|DwellRecord|1586339949916
+https://www.producthunt.com/products/expect|Expect|1586339949916
