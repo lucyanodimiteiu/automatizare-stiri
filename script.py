@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """
-Script premium de rezumat știri - Luci v3
-FIX: imagini unice per știre (anti-duplicat), 3 nivele fallback
+Script premium de rezumat stiri - Luci v4
+- Prompt vizual generat LOCAL (fara API extra)
+- Pollinations Flux model pentru imagini AI de calitate
+- Anti-duplicat imagini + 3 nivele fallback
 """
 import feedparser
 import requests
@@ -29,7 +31,7 @@ DEFAULT_CONFIG = {
     "limit_chars": 800
 }
 
-# ─── Librărie imagini statice Unsplash (garantat funcționale, diverse) ────────
+# ─── Librarie imagini statice Unsplash (fallback final) ───────────────────────
 IMAGE_LIBRARY = {
     "#AI": [
         "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80",
@@ -61,7 +63,7 @@ IMAGE_LIBRARY = {
         "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?w=800&q=80",
         "https://images.unsplash.com/photo-1535320903710-d993d3d77d29?w=800&q=80",
     ],
-    "#Finanțe": [
+    "#Finante": [
         "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
         "https://images.unsplash.com/photo-1565514020179-026b92b2d70b?w=800&q=80",
         "https://images.unsplash.com/photo-1559526324-593bc073d938?w=800&q=80",
@@ -93,7 +95,7 @@ IMAGE_LIBRARY = {
         "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=800&q=80",
         "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&q=80",
     ],
-    "#Geopolitică": [
+    "#Geopolitica": [
         "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=800&q=80",
         "https://images.unsplash.com/photo-1523995462485-3d171b5c8fa9?w=800&q=80",
     ],
@@ -113,24 +115,163 @@ FALLBACK_IMAGES = [
 ]
 
 KEYWORD_TO_TAG = {
-    "ai": "#AI", "inteligență": "#AI", "artificial": "#AI",
-    "machine learning": "#AI", "llm": "#AI", "chatgpt": "#AI", "openai": "#AI",
+    "ai": "#AI", "artificial": "#AI", "machine learning": "#AI",
+    "llm": "#AI", "chatgpt": "#AI", "openai": "#AI",
     "tech": "#Tech", "tehnologie": "#Tech", "gadget": "#Tech",
-    "innovation": "#Tech", "inovație": "#Tech",
-    "crypto": "#Crypto", "criptomonede": "#Crypto", "ethereum": "#Crypto", "blockchain": "#Crypto",
+    "crypto": "#Crypto", "ethereum": "#Crypto", "blockchain": "#Crypto",
     "bitcoin": "#Bitcoin",
-    "finanțe": "#Finanțe", "finante": "#Finanțe",
     "economie": "#Macro", "bursa": "#Macro", "market": "#Macro",
-    "fed": "#Macro", "inflație": "#Macro",
-    "solar": "#EnergieVerde", "fotovoltaic": "#EnergieVerde", "renewable": "#EnergieVerde",
+    "fed": "#Macro", "inflatie": "#Macro",
+    "finante": "#Finante", "finance": "#Finante",
+    "solar": "#EnergieVerde", "renewable": "#EnergieVerde",
     "energie": "#Energie", "energy": "#Energie",
     "eolian": "#Eolian", "wind": "#Eolian",
-    "auto": "#Auto", "mașină": "#Auto", "electric": "#Auto",
-    "semiconductori": "#Semiconductori", "chip": "#Semiconductori",
-    "cybersecurity": "#Cybersecurity", "securitate": "#Cybersecurity", "hack": "#Cybersecurity",
-    "geopolitică": "#Geopolitică", "conflict": "#Geopolitică",
-    "startup": "#Startup", "finanțare": "#Startup",
+    "auto": "#Auto", "electric vehicle": "#Auto", "tesla": "#Auto",
+    "semiconductori": "#Semiconductori", "chip": "#Semiconductori", "nvidia": "#Semiconductori",
+    "cybersecurity": "#Cybersecurity", "hack": "#Cybersecurity", "ransomware": "#Cybersecurity",
+    "geopolitica": "#Geopolitica", "conflict": "#Geopolitica", "war": "#Geopolitica",
+    "startup": "#Startup",
 }
+
+# ─── Dictionar de scene vizuale per concept ───────────────────────────────────
+# Folosit de constructorul de prompt local - fara niciun API
+SCENE_MAP = {
+    # Companii / persoane notabile
+    "trump": "Donald Trump speaking at a podium with American flags",
+    "elon musk": "Elon Musk in a modern tech office with screens",
+    "fed": "Federal Reserve building exterior in Washington DC, classical architecture",
+    "nvidia": "rows of glowing GPU server racks in a data center, green light",
+    "apple": "Apple headquarters glass building in Cupertino, California",
+    "tesla": "Tesla electric car on a highway at sunset",
+    "amazon": "Amazon warehouse with robotic arms sorting packages",
+    "google": "Google campus colorful modern buildings",
+    "microsoft": "Microsoft office building modern glass architecture",
+    "openai": "futuristic AI research lab with holographic displays",
+    # Concepte financiare
+    "bitcoin": "golden bitcoin coin on a dark reflective surface, dramatic lighting",
+    "crypto": "cryptocurrency trading screen with green and red charts, dark room",
+    "blockchain": "abstract network of connected glowing nodes, blue light, digital",
+    "bursa": "New York Stock Exchange trading floor, busy traders, screens everywhere",
+    "stock market": "Wall Street stock exchange trading floor with digital displays",
+    "inflation": "shopping cart with groceries, price tags, supermarket aisle",
+    "recession": "empty office building, deserted financial district streets, grey sky",
+    "interest rate": "bank building exterior, classical columns, financial district",
+    "gold": "shiny gold bars stacked in a vault, warm yellow light",
+    "dollar": "US dollar bills close up, crisp detail, green tones",
+    "oil": "oil refinery at sunset with flames, industrial pipes",
+    "petrol": "oil pump jack in open field at golden hour",
+    # Tech
+    "ai": "humanoid robot and human shaking hands in a bright futuristic lab",
+    "artificial intelligence": "glowing neural network visualization in dark space, blue purple",
+    "semiconductor": "extreme close up of microchip circuit board, neon light reflections",
+    "chip": "silicon wafer with microchips under bright lab lighting",
+    "data center": "long corridor of server racks with blue LED lights, fog effect",
+    "robot": "industrial robot arm welding in a factory, sparks flying",
+    "electric car": "sleek electric car charging at a station at dusk, blue glow",
+    "solar": "solar panel farm in a sunny desert landscape, aerial view",
+    "wind": "offshore wind turbines in the ocean at sunset, dramatic sky",
+    "cybersecurity": "hooded hacker at a keyboard, multiple screens with code, dark room",
+    "hack": "digital lock broken on a dark screen, red alert glow",
+    # Macro / geopolitica
+    "war": "diplomatic meeting room, flags, negotiation table",
+    "sanctions": "cargo ships blocked at a port, cranes idle, overcast sky",
+    "trade": "busy international cargo port, containers stacked high, cranes",
+    "tariff": "shipping containers at a port with customs inspection",
+    "china": "Shanghai skyline at night with glowing skyscrapers",
+    "europe": "European Parliament building in Brussels, EU flags",
+    "inflation": "empty supermarket shelves, worried shopper",
+    # Energie
+    "nuclear": "nuclear power plant cooling towers with steam, sunrise",
+    "gas": "natural gas pipelines through a green landscape",
+    "coal": "coal power plant with smoke stacks at dusk",
+    # Default
+    "economy": "aerial view of a busy city financial district at dawn",
+    "business": "modern glass office building exterior, city skyline",
+    "market": "financial trading floor with screens showing charts",
+}
+
+# ─── Stiluri fotografice pentru varietate ─────────────────────────────────────
+PHOTO_STYLES = [
+    "photorealistic, Reuters editorial photography, 85mm lens, natural light",
+    "photorealistic, Bloomberg news photography, wide angle, dramatic lighting",
+    "photorealistic, AP wire photo style, sharp focus, professional camera",
+    "photorealistic, documentary photography, cinematic color grading",
+    "photorealistic, Financial Times editorial style, clean composition",
+]
+
+
+# ─── FUNCTIA PRINCIPALA: construieste prompt vizual LOCAL, fara API ───────────
+
+def construieste_prompt_vizual(titlu, descriere, tag):
+    """
+    Construieste un prompt detaliat pentru Pollinations bazat pe continutul
+    articolului. Zero API calls, zero costuri extra.
+
+    Logica:
+    1. Cauta entitati cheie (companii, persoane, concepte) in text
+    2. Mapeaza la scene vizuale concrete
+    3. Adauga context din tag + stil fotografic random
+    4. Returneaza prompt gata de trimis la Pollinations
+    """
+    text = (titlu + " " + descriere).lower()
+    text_clean = re.sub(r'<[^>]+>', '', text)  # scoate HTML daca exista
+
+    # Colecteaza scene relevante gasite in text
+    scene_hits = []
+    for keyword, scene in SCENE_MAP.items():
+        if keyword in text_clean:
+            scene_hits.append((keyword, scene))
+
+    # Extrage cifre/procente importante din titlu (ex: "10%", "$500B", "2024")
+    numbers = re.findall(r'\$[\d,.]+[BMK]?|\d+[\.,]\d+%?|\b\d{4}\b', titlu)
+    number_context = ""
+    if numbers:
+        number_context = f"with visible context of {', '.join(numbers[:2])}"
+
+    # Construieste scena principala
+    if scene_hits:
+        # Sorteaza dupa lungimea keywordului (mai lung = mai specific)
+        scene_hits.sort(key=lambda x: len(x[0]), reverse=True)
+        main_scene = scene_hits[0][1]
+
+        # Daca avem 2+ hits, combina elementele
+        if len(scene_hits) >= 2:
+            secondary = scene_hits[1][1].split(",")[0]  # doar prima parte
+            main_scene = main_scene + f", with {secondary} in background"
+    else:
+        # Fallback bazat pe tag
+        tag_scenes = {
+            "#AI": "humanoid robot in a modern research laboratory, glowing screens",
+            "#Tech": "modern technology office with holographic displays and developers",
+            "#Crypto": "cryptocurrency trading screens in a dark room, green charts",
+            "#Bitcoin": "golden bitcoin symbol on dark background, dramatic spotlight",
+            "#Macro": "aerial view of financial district skyscrapers at dawn",
+            "#Finante": "bank vault interior with gold bars, professional lighting",
+            "#EnergieVerde": "solar panel farm and wind turbines in green landscape",
+            "#Energie": "power plant at sunset with dramatic sky",
+            "#Auto": "modern electric car on empty road at sunset",
+            "#Semiconductori": "microchip manufacturing cleanroom, workers in white suits",
+            "#Cybersecurity": "network security operations center, multiple screens, dark room",
+            "#Geopolitica": "world map with diplomatic meeting, flags of nations",
+            "#Startup": "modern startup office with young professionals collaborating",
+            "#Eolian": "wind turbines in the ocean at golden hour",
+        }
+        main_scene = tag_scenes.get(tag, "modern city financial district at dawn, busy streets")
+
+    # Alege stil fotografic random pentru varietate
+    style = random.choice(PHOTO_STYLES)
+
+    # Asambleaza promptul final
+    prompt_parts = [main_scene]
+    if number_context:
+        prompt_parts.append(number_context)
+    prompt_parts.append(style)
+    prompt_parts.append("no text, no logos, no watermarks, high resolution, sharp focus")
+
+    final_prompt = ", ".join(prompt_parts)
+
+    print(f"   💡 Prompt vizual: {final_prompt[:120]}...")
+    return final_prompt
 
 
 # ─── Config ───────────────────────────────────────────────────────────────────
@@ -165,16 +306,19 @@ def verifica_comenzi_telegram(config):
                 text = msg.get("text", "")
                 chat_id = msg.get("chat", {}).get("id")
                 if text == "/lista_config":
-                    txt = f"📊 CONFIG:\nSurse: {len(config['rss_urls'])}\nKeywords: {', '.join(config['keywords'][:10])}..."
-                    requests.post(f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage",
-                                  data={"chat_id": chat_id, "text": txt})
+                    txt = "CONFIG:\nSurse: {}\nKeywords: {}...".format(
+                        len(config["rss_urls"]), ", ".join(config["keywords"][:10]))
+                    requests.post(
+                        "https://api.telegram.org/bot{}/sendMessage".format(TG_TOKEN),
+                        data={"chat_id": chat_id, "text": txt})
                 elif text.startswith("/adauga_keyword"):
                     k = text.replace("/adauga_keyword ", "").strip().lower()
                     if k and k not in config["keywords"]:
                         config["keywords"].append(k)
                         salveaza_config(config)
-                        requests.post(f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage",
-                                      data={"chat_id": chat_id, "text": f"✅ Adaugat: {k}"})
+                        requests.post(
+                            "https://api.telegram.org/bot{}/sendMessage".format(TG_TOKEN),
+                            data={"chat_id": chat_id, "text": "Adaugat: {}".format(k)})
     except:
         pass
     return config
@@ -186,92 +330,84 @@ def verifica_duplicat_ai(titlu, istoric):
     if not istoric or not DEEPSEEK_KEY:
         return False
     url = "https://api.deepseek.com/v1/chat/completions"
-    headers = {"Authorization": f"Bearer {DEEPSEEK_KEY}", "Content-Type": "application/json"}
+    headers = {"Authorization": "Bearer {}".format(DEEPSEEK_KEY), "Content-Type": "application/json"}
     try:
         res = requests.post(url, json={
             "model": "deepseek-chat",
-            "messages": [{"role": "user", "content": f"Titlu: {titlu}. Istoric: {istoric}. Daca e acelasi subiect, zi DA, altfel NU."}],
+            "messages": [{"role": "user", "content": "Titlu: {}. Istoric: {}. Daca e acelasi subiect, zi DA, altfel NU.".format(titlu, istoric)}],
             "temperature": 0.1
         }, headers=headers, timeout=10).json()
-        return "DA" in res['choices'][0]['message']['content'].upper()
+        return "DA" in res["choices"][0]["message"]["content"].upper()
     except:
         return False
 
 
-# ─── Imagine ──────────────────────────────────────────────────────────────────
+# ─── Imagine - sistem cu 3 nivele ─────────────────────────────────────────────
 
 def img_key(url):
-    """Extrage un identificator unic din URL-ul imaginii."""
-    m = re.search(r'photo-([a-z0-9]+)', url)
+    m = re.search(r"photo-([a-z0-9]+)", url)
     return m.group(1) if m else url[:100]
 
 def extrage_imagine_rss(entry):
-    """Nivel 1: imagine direct din feed RSS."""
-    if hasattr(entry, 'media_content'):
+    if hasattr(entry, "media_content"):
         for media in entry.media_content:
-            if media.get('type', '').startswith('image/'):
-                return media.get('url')
-    if hasattr(entry, 'enclosures'):
+            if media.get("type", "").startswith("image/"):
+                return media.get("url")
+    if hasattr(entry, "enclosures"):
         for enc in entry.enclosures:
-            if enc.get('type', '').startswith('image/'):
-                return enc.get('href')
-    if hasattr(entry, 'summary'):
+            if enc.get("type", "").startswith("image/"):
+                return enc.get("href")
+    if hasattr(entry, "summary"):
         imgs = re.findall(r'<img[^>]+src=["\']([^"\']+)["\']', entry.summary)
         if imgs:
             return imgs[0]
     return None
 
-def genereaza_imagine_pollinations(titlu):
-    """Nivel 2: generare AI Pollinations (fără API key, gratis)."""
-    prompt = f"professional news photography, {titlu[:80]}, editorial style, high quality"
-    seed = random.randint(10000, 99999)  # seed unic = imagine unică
-    url = f"https://image.pollinations.ai/prompt/{quote(prompt)}?width=800&height=450&nologo=true&seed={seed}"
-    print(f"   🎨 Pollinations: generez (seed={seed})...")
+def genereaza_imagine_pollinations(titlu, descriere, tag):
+    """Genereaza imagine AI cu prompt construit local (fara costuri extra)."""
+    prompt = construieste_prompt_vizual(titlu, descriere, tag)
+    seed = random.randint(10000, 99999)
+    url = "https://image.pollinations.ai/prompt/{}?width=800&height=450&nologo=true&seed={}&model=flux".format(
+        quote(prompt), seed)
+    print("   Pollinations Flux: generez (seed={})...".format(seed))
     try:
-        resp = requests.get(url, timeout=20, stream=True)
+        resp = requests.get(url, timeout=25, stream=True)
         if resp.status_code == 200 and "image" in resp.headers.get("Content-Type", ""):
             return url
     except Exception as e:
-        print(f"      ⚠️  Pollinations picat: {e}")
+        print("   Pollinations picat: {}".format(e))
     return None
 
-def obtine_imagine(entry, titlu, tag, imagini_folosite: set):
-    """
-    Alege imaginea cu 3 nivele de fallback + garanție anti-duplicat.
-    imagini_folosite: set cu cheile imaginilor deja trimise (din DB + sesiunea curentă).
-    """
-    # NIVEL 1: RSS feed
+def obtine_imagine(entry, titlu, descriere, tag, imagini_folosite):
+    # NIVEL 1: RSS
     url = extrage_imagine_rss(entry)
     if url and img_key(url) not in imagini_folosite:
-        print(f"   📷 Nivel 1 (RSS): {url[:70]}...")
+        print("   Nivel 1 (RSS): {}...".format(url[:60]))
         imagini_folosite.add(img_key(url))
         return url
 
-    # NIVEL 2: Pollinations AI (seed random = mereu unică)
-    url = genereaza_imagine_pollinations(titlu)
+    # NIVEL 2: Pollinations AI cu prompt local
+    url = genereaza_imagine_pollinations(titlu, descriere, tag)
     if url:
-        print(f"   🎨 Nivel 2 (Pollinations): OK")
-        return url  # seed garantează unicitate
+        print("   Nivel 2 (Pollinations AI): OK")
+        return url
 
-    # NIVEL 3: Unsplash static - alegem prima neutilizată
+    # NIVEL 3: Unsplash static, imagine neunica
     pool = IMAGE_LIBRARY.get(tag, []) + IMAGE_LIBRARY.get("#Tech", []) + FALLBACK_IMAGES
     random.shuffle(pool)
     for candidate in pool:
         if img_key(candidate) not in imagini_folosite:
-            print(f"   🖼️  Nivel 3 (Unsplash static): {candidate[:70]}...")
+            print("   Nivel 3 (Unsplash static): {}...".format(candidate[:60]))
             imagini_folosite.add(img_key(candidate))
             return candidate
 
-    # Pool epuizat (extrem de rar) - refolosim random
-    fallback = random.choice(FALLBACK_IMAGES)
-    print(f"   🔄 Pool epuizat, refolosim imagine.")
-    return fallback
+    return random.choice(FALLBACK_IMAGES)
 
 
 # ─── Tag ──────────────────────────────────────────────────────────────────────
 
 def determina_tag(titlu, descriere):
-    text = (titlu + ' ' + descriere).lower()
+    text = (titlu + " " + descriere).lower()
     for kw, tag in KEYWORD_TO_TAG.items():
         if kw in text:
             return tag
@@ -284,27 +420,14 @@ def genereaza_rezumat_premium(titlu, descriere, tag, limit_chars):
     if not DEEPSEEK_KEY:
         return None
     url = "https://api.deepseek.com/v1/chat/completions"
-    headers = {"Authorization": f"Bearer {DEEPSEEK_KEY}", "Content-Type": "application/json"}
-    prompt = f"""
-E�ti un jurnalist de elită, cu zeci de ani de experiență în publicații de prestigiu (stil Bloomberg/Reuters). 
-Analizează știrea de mai jos și scrie un text impecabil, șlefuit și autoritar.
-
-REGULI CRITICE:
-1. FĂRĂ NUMEROTARE: Nu folosi cifre (1, 2, 3), liste cu puncte sau bullet-uri. Textul trebuie să fie un flux narativ de 2-3 paragrafe scurte.
-2. TON: Extrem de profesionist, analitic și sobru.
-3. STRUCTURĂ: 
-   - Titlu impactant la început (un singur emoji relevant).
-   - Introducere care pune contextul în perspectivă.
-   - Corpul textului care explică datele relevante (cifre, companii, impact).
-4. DATE: Păstrează cifrele esențiale, dar integrează-le natural în fraze.
-5. FĂRĂ DESCRIERE IMAGINE: Nu menționa nimic despre poză în text.
-6. TAG-URI: Maxim două la final.
-
-ȘTIREA: {titlu} - {descriere}
-TAG: {tag}
-
-REDACTEAZĂ DOAR TEXTUL FINAL ÎN LIMBA ROMÂNĂ.
-"""
+    headers = {"Authorization": "Bearer {}".format(DEEPSEEK_KEY), "Content-Type": "application/json"}
+    prompt = (
+        "Esti un jurnalist de elita, stil Bloomberg/Reuters. "
+        "Scrie un text jurnalistic impecabil in romana, fara numerotare, fara bullet points. "
+        "2-3 paragrafe scurte. Incepe cu un titlu + emoji relevant. "
+        "Integreaza cifrele natural in text. Nu mentiona imaginea. Maxim 2 taguri la final.\n\n"
+        "STIREA: {} - {}\nTAG: {}"
+    ).format(titlu, descriere, tag)
     try:
         response = requests.post(url, json={
             "model": "deepseek-chat",
@@ -313,9 +436,9 @@ REDACTEAZĂ DOAR TEXTUL FINAL ÎN LIMBA ROMÂNĂ.
             "max_tokens": 1000
         }, headers=headers, timeout=60)
         response.raise_for_status()
-        return response.json()['choices'][0]['message']['content']
+        return response.json()["choices"][0]["message"]["content"]
     except Exception as e:
-        print(f"Eroare DeepSeek: {e}")
+        print("Eroare DeepSeek: {}".format(e))
         return None
 
 
@@ -323,58 +446,56 @@ REDACTEAZĂ DOAR TEXTUL FINAL ÎN LIMBA ROMÂNĂ.
 
 def trimite_pe_telegram(imagine_url, rezumat_text):
     if not TG_TOKEN or not TG_CHAT_ID:
-        print("⚠️  Token sau chat ID Telegram lipsă.")
+        print("Token sau chat ID Telegram lipsa.")
         return False
 
-    caption = rezumat_text[:1024]  # limita Telegram
+    caption = rezumat_text[:1024]
 
-    # Încearcă sendPhoto cu caption
     if imagine_url:
         try:
             resp = requests.post(
-                f"https://api.telegram.org/bot{TG_TOKEN}/sendPhoto",
+                "https://api.telegram.org/bot{}/sendPhoto".format(TG_TOKEN),
                 data={"chat_id": TG_CHAT_ID, "photo": imagine_url,
                       "caption": caption, "parse_mode": "Markdown"},
                 timeout=30
             )
-            result = resp.json()
-            if result.get("ok"):
-                print("   ✅ Foto + caption trimise!")
+            if resp.json().get("ok"):
+                print("   Foto + caption trimise!")
                 return True
-            print(f"   ⚠️  sendPhoto eșuat: {result.get('description')}")
+            print("   sendPhoto esuat: {}".format(resp.json().get("description")))
         except Exception as e:
-            print(f"   ⚠️  Eroare sendPhoto: {e}")
+            print("   Eroare sendPhoto: {}".format(e))
 
-        # Fallback: foto fără caption, apoi text separat
+        # Foto fara caption + text separat
         try:
             r1 = requests.post(
-                f"https://api.telegram.org/bot{TG_TOKEN}/sendPhoto",
+                "https://api.telegram.org/bot{}/sendPhoto".format(TG_TOKEN),
                 data={"chat_id": TG_CHAT_ID, "photo": imagine_url},
                 timeout=30
             )
             if r1.json().get("ok"):
                 requests.post(
-                    f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage",
+                    "https://api.telegram.org/bot{}/sendMessage".format(TG_TOKEN),
                     data={"chat_id": TG_CHAT_ID, "text": rezumat_text, "parse_mode": "Markdown"},
                     timeout=30
                 )
-                print("   ✅ Foto + text separat trimise!")
+                print("   Foto + text separat trimise!")
                 return True
         except Exception as e:
-            print(f"   ⚠️  Eroare foto separat: {e}")
+            print("   Eroare foto separat: {}".format(e))
 
-    # Fallback final: doar text
+    # Fallback: doar text
     try:
         resp = requests.post(
-            f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage",
+            "https://api.telegram.org/bot{}/sendMessage".format(TG_TOKEN),
             data={"chat_id": TG_CHAT_ID, "text": rezumat_text, "parse_mode": "Markdown"},
             timeout=30
         )
         if resp.json().get("ok"):
-            print("   ⚠️  Trimis fără imagine.")
+            print("   Trimis fara imagine.")
             return True
     except Exception as e:
-        print(f"Eroare Telegram: {e}")
+        print("Eroare Telegram: {}".format(e))
     return False
 
 
@@ -384,65 +505,62 @@ def main():
     config = incarca_config()
     config = verifica_comenzi_telegram(config)
 
-    # Încarcă istoric
     if not os.path.exists(DB_FILE):
         open(DB_FILE, "w").close()
     with open(DB_FILE, "r") as f:
         lines = f.read().splitlines()
 
-    istoric_links = {l.split('|')[0] for l in lines if '|' in l}
-    titluri_vechi = [l.split('|')[1] for l in lines[-20:] if '|' in l]
+    istoric_links = {l.split("|")[0] for l in lines if "|" in l}
+    titluri_vechi = [l.split("|")[1] for l in lines[-20:] if "|" in l]
 
-    # Cheile imaginilor din ultimele 50 știri → nu le repetăm
     imagini_folosite = set()
     for l in lines[-50:]:
-        parts = l.split('|')
+        parts = l.split("|")
         if len(parts) >= 3 and parts[2].strip():
             imagini_folosite.add(parts[2].strip())
-    print(f"🗂️  Imagini excluse (deja trimise): {len(imagini_folosite)}")
+    print("Imagini excluse (deja trimise): {}".format(len(imagini_folosite)))
 
     for rss_url in config["rss_urls"]:
         try:
-            print(f"\n📡 Feed: {rss_url}")
+            print("\nFeed: {}".format(rss_url))
             feed = feedparser.parse(rss_url)
             for entry in feed.entries[:10]:
                 if entry.link in istoric_links:
                     continue
-                text = (entry.title + ' ' + entry.get('summary', '')).lower()
+                text = (entry.title + " " + entry.get("summary", "")).lower()
                 if not any(kw.lower() in text for kw in config["keywords"]):
                     continue
                 if verifica_duplicat_ai(entry.title, titluri_vechi):
-                    print(f"   🔁 Duplicat titlu: {entry.title[:50]}")
+                    print("   Duplicat: {}".format(entry.title[:50]))
                     continue
 
-                print(f"\n📰 Articol: {entry.title[:65]}")
-                tag = determina_tag(entry.title, entry.get('summary', ''))
-                print(f"   🏷️  Tag: {tag}")
+                print("\nArticol: {}".format(entry.title[:65]))
+                descriere = entry.get("summary", "")
+                tag = determina_tag(entry.title, descriere)
+                print("   Tag: {}".format(tag))
 
-                imagine_url = obtine_imagine(entry, entry.title, tag, imagini_folosite)
+                imagine_url = obtine_imagine(entry, entry.title, descriere, tag, imagini_folosite)
 
                 rezumat = genereaza_rezumat_premium(
-                    entry.title, entry.get('summary', ''), tag, config.get("limit_chars", 800)
-                )
+                    entry.title, descriere, tag, config.get("limit_chars", 800))
                 if not rezumat:
-                    print("   ❌ Rezumat eșuat.")
+                    print("   Rezumat esuat.")
                     continue
 
                 success = trimite_pe_telegram(imagine_url, rezumat)
                 if success:
-                    # Salvăm: link | titlu | cheia imaginii
                     key = img_key(imagine_url)
                     with open(DB_FILE, "a") as f:
-                        f.write(f"{entry.link}|{entry.title}|{key}\n")
-                    print(f"   ✅ Gata: {entry.title[:50]}")
+                        f.write("{}|{}|{}\n".format(entry.link, entry.title, key))
+                    print("   Gata: {}".format(entry.title[:50]))
                     return
                 else:
-                    print("   ❌ Telegram eșuat.")
+                    print("   Telegram esuat.")
 
         except Exception as e:
-            print(f"Eroare feed {rss_url}: {e}")
+            print("Eroare feed {}: {}".format(rss_url, e))
 
-    print("\n✅ Run complet.")
+    print("\nRun complet.")
 
 if __name__ == "__main__":
     main()
