@@ -919,3 +919,4 @@ https://www.producthunt.com/products/domscribe|Domscribe|1432821596592
 https://www.producthunt.com/products/repolens|RepoLens|1504711434969
 https://www.producthunt.com/products/bulk-exporter-for-sora|Bulk Exporter for Sora|1457369804613
 https://www.producthunt.com/products/spokk|Spokk|1432821596592
+https://www.producthunt.com/products/aera-browser|Aera Browser|1504711434969
