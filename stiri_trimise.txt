@@ -927,3 +927,4 @@ https://www.producthunt.com/products/expect|Expect|1586339949916
 https://www.producthunt.com/products/wordpress-studio-cli|WordPress Studio CLI|1432821596592
 https://www.producthunt.com/products/bna-3|BNA|1586339949916
 https://www.producthunt.com/products/glance-give-claude-code-a-real-browser|Glance|1457369804613
+https://finance.yahoo.com/sectors/technology/articles/robosense-crosses-profitability-robotics-demand-174638418.html|RoboSense Crosses Into Profitability As Robotics Demand Powers Record Growth|1457369804613
