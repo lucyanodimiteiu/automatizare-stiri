@@ -934,3 +934,4 @@ https://finance.yahoo.com/news/magnificent-7-stocks-wipe-more-than-850-billion-i
 https://finance.yahoo.com/markets/stocks/articles/oklos-ai-tailwind-fades-fuel-200700729.html|Oklo's AI tailwind fades as fuel and financing risks grow|1586339949916
 https://finance.yahoo.com/news/almost-everything-is-going-wrong-for-markets-right-now-100005327.html|Almost everything is going wrong for markets right now|1526304640581
 https://finance.yahoo.com/sectors/healthcare/articles/bristol-myers-squibb-bmy-faces-205109228.html|Bristol-Myers Squibb (BMY) Faces Mixed Analyst Sentiment Despite Strong Momentum in Healthcare Industry|1432821596592
+https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-stocks-generac-211719827.html|Jim Cramer Says Stocks Like Generac (GNRC) “Make a Ton of Sense to Own Right Here” in Theory|1504711434969
