@@ -907,3 +907,4 @@ https://www.producthunt.com/products/mistral-7b|Voxtral TTS by Mistral AI|153174
 https://www.producthunt.com/products/hoop-dev-for-databases|hoop.dev - Claude Code Gateway|1498050108023
 https://www.producthunt.com/products/cockpit-ai|Cockpit AI|1677442135703
 https://www.producthunt.com/products/focus-flow|Focus Flow 6.7 (Jira Plugin)|1620712943543
+https://www.producthunt.com/products/stripe-projects|Stripe Projects|1519389950473
