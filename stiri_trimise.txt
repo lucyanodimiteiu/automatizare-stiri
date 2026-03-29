@@ -953,3 +953,4 @@ https://www.producthunt.com/products/google-search-live|Google Search Live|15047
 https://www.producthunt.com/products/cline-4|Cline Kanban|1432821596592
 https://www.producthunt.com/products/codingprep|CodingPrep|1457369804613
 https://www.producthunt.com/products/dipshot|Dipshot|1432821596592
+https://www.producthunt.com/products/parallel-code|Parallel Code|1655720031554
