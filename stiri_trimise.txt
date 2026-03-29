@@ -957,3 +957,4 @@ https://www.producthunt.com/products/parallel-code|Parallel Code|1655720031554
 https://finance.yahoo.com/markets/commodities/articles/heres-expect-gold-silver-mining-153500892.html|Here's What to Expect for Gold and Silver Mining Stocks as the Iran Conflict Continues|1523995462485
 https://finance.yahoo.com/news/trump-pays-attention-to-the-stock-market-wall-street-eyes-signs-of-taco-amid-iran-war-140048438.html|Trump 'pays attention to the stock market': Wall Street eyes signs of TACO amid Iran war|1611974789855
 https://finance.yahoo.com/markets/stocks/articles/artificial-intelligence-ai-portfolio-probably-165000266.html|Your Artificial Intelligence (AI) Portfolio Probably Looks Very Different Than It Did 6 Months Ago. Here's Why That's OK.|1677442135703
+https://finance.yahoo.com/sectors/technology/articles/shopify-shop-adds-another-ai-151849403.html|Shopify (SHOP) Adds Another AI Integration Successfully|1531746790731
