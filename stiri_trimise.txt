@@ -982,3 +982,4 @@ https://www.producthunt.com/products/letterbook|Letterbook|1504711434969
 https://www.producthunt.com/products/mulmochat|MulmoChat|1586339949916
 https://www.producthunt.com/products/bluor-ai|Bluor AI|1457369804613
 https://www.producthunt.com/products/dictate|dictate.|1457369804613
+https://www.producthunt.com/products/neuralingo-language-learning|Neuralingo Language Learning|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
