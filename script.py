@@ -23,6 +23,7 @@ TG_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
 DEFAULT_CONFIG = {
     "rss_urls": [
+        "https://cointelegraph.com/rss",
         "https://www.digi24.ro/rss/stiri/economie",
         "http://feeds.marketwatch.com/marketwatch/topstories/",
         "https://www.reutersagency.com/feed/?best-topics=business"
@@ -131,6 +132,17 @@ KEYWORD_TO_TAG = {
     "cybersecurity": "#Cybersecurity", "hack": "#Cybersecurity", "ransomware": "#Cybersecurity",
     "geopolitica": "#Geopolitica", "conflict": "#Geopolitica", "war": "#Geopolitica",
     "startup": "#Startup",
+    "solana": "#Crypto",
+    "ripple": "#Crypto",
+    "xrp": "#Crypto",
+    "defi": "#Crypto",
+    "nft": "#Crypto",
+    "altcoin": "#Crypto",
+    "web3": "#Tech",
+    "stablecoin": "#Crypto",
+    "coinbase": "#Crypto",
+    "binance": "#Crypto",
+    "etf": "#Macro",
 }
 
 # ─── Dictionar de scene vizuale per concept ───────────────────────────────────
@@ -184,19 +196,35 @@ SCENE_MAP = {
     "nuclear": "nuclear power plant cooling towers with steam, sunrise",
     "gas": "natural gas pipelines through a green landscape",
     "coal": "coal power plant with smoke stacks at dusk",
+    # Crypto specific - stil Cointelegraph
+    "solana": "glowing Solana logo SOL coin, dark background, purple neon, 3D render",
+    "xrp": "XRP Ripple coin glowing blue, dark background, digital art, 3D illustration",
+    "ripple": "Ripple XRP logo glowing, dark background, blue neon, futuristic",
+    "defi": "decentralized finance concept, floating coins and chains, dark neon background, 3D illustration",
+    "nft": "NFT digital art floating frames, colorful glow, dark background, 3D render",
+    "altcoin": "multiple cryptocurrency coins floating, neon glow, dark background, 3D digital art",
+    "stablecoin": "USDT USDC stable coins on dark background, green glow, digital illustration",
+    "web3": "Web3 decentralized network nodes, glowing connections, dark space background, 3D render",
+    "etf": "Bitcoin ETF approval concept, golden BTC coin with stock chart, dark background, 3D illustration",
+    "coinbase": "Coinbase exchange logo glowing blue, dark background, 3D digital art",
+    "binance": "Binance BNB golden coin glowing, dark background, neon accent, 3D render",
+    "whale": "large crypto whale underwater with coins, dark ocean, neon blue glow, digital art",
+    "mining": "Bitcoin mining rig with glowing GPUs in dark room, blue and orange neon light",
+    "wallet": "digital crypto wallet glowing, dark background, neon coins floating, 3D illustration",
     # Default
     "economy": "aerial view of a busy city financial district at dawn",
     "business": "modern glass office building exterior, city skyline",
     "market": "financial trading floor with screens showing charts",
 }
 
-# ─── Stiluri fotografice pentru varietate ─────────────────────────────────────
+# ─── Stiluri ilustratie - inspirat din estetica Cointelegraph ────────────────
+# Ilustratii 3D digitale cu elemente crypto, fundal inchis, accente neon
 PHOTO_STYLES = [
-    "photorealistic, Reuters editorial photography, 85mm lens, natural light",
-    "photorealistic, Bloomberg news photography, wide angle, dramatic lighting",
-    "photorealistic, AP wire photo style, sharp focus, professional camera",
-    "photorealistic, documentary photography, cinematic color grading",
-    "photorealistic, Financial Times editorial style, clean composition",
+    "3D digital illustration, dark background, neon glow accents, crypto themed, Cointelegraph art style, octane render, high detail",
+    "isometric 3D illustration, dark navy background, glowing neon elements, futuristic crypto aesthetic, professional digital art",
+    "3D render, dark gradient background, vivid neon colors, blockchain themed, stylized characters, Cointelegraph magazine cover style",
+    "digital art illustration, dark background, golden and blue neon glow, crypto coins floating, cinematic composition, high quality 3D",
+    "stylized 3D illustration, cyberpunk dark background, holographic elements, crypto finance themed, vivid accent colors, concept art",
 ]
 
 
@@ -266,7 +294,7 @@ def construieste_prompt_vizual(titlu, descriere, tag):
     if number_context:
         prompt_parts.append(number_context)
     prompt_parts.append(style)
-    prompt_parts.append("no text, no logos, no watermarks, high resolution, sharp focus")
+    prompt_parts.append("no text overlays, no watermarks, high resolution, sharp details, dramatic lighting")
 
     final_prompt = ", ".join(prompt_parts)
 
