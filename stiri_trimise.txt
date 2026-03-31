@@ -992,3 +992,4 @@ https://finance.yahoo.com/markets/stocks/articles/analysts-remain-bullish-sailpo
 https://www.producthunt.com/products/aispace|AISpace|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
 https://www.producthunt.com/products/freecad-2|FreeCAD 1.1|1504711434969
 https://www.producthunt.com/products/solvea|Solvea|1457369804613
+https://www.producthunt.com/products/dictura|Dictura|1504711434969
