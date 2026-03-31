@@ -1001,3 +1001,4 @@ https://www.producthunt.com/products/pixero-ai-2|Pixero AI|1457369804613
 https://www.producthunt.com/products/jobflow-2|JobFlow|1586339949916
 https://www.producthunt.com/products/unify-5|Unify|1586339949916
 https://www.producthunt.com/products/metabase|Metabase Data Studio|1586339949916
+https://www.producthunt.com/products/google-ads-mcp-server|Google Ads MCP Server|1432821596592
