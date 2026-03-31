@@ -990,3 +990,4 @@ https://www.producthunt.com/products/clawking|ClawKing|https://image.pollination
 https://finance.yahoo.com/markets/stocks/articles/market-isn-t-broken-framework-170016064.html|The Market Isn’t Broken. Your Framework Is.|https://image.pollinations.ai/prompt/financial%20trading%20floor%20with%20screens%20showing%20charts
 https://finance.yahoo.com/markets/stocks/articles/analysts-remain-bullish-sailpoint-sail-173756699.html|Analysts Remain Bullish on SailPoint. (SAIL) Amid Strong Q4 and Full-Year Results|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
 https://www.producthunt.com/products/aispace|AISpace|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://www.producthunt.com/products/freecad-2|FreeCAD 1.1|1504711434969
