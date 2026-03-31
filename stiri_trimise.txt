@@ -994,3 +994,4 @@ https://www.producthunt.com/products/freecad-2|FreeCAD 1.1|1504711434969
 https://www.producthunt.com/products/solvea|Solvea|1457369804613
 https://www.producthunt.com/products/dictura|Dictura|1504711434969
 https://www.producthunt.com/products/reframe-carousel-designer-for-creators|Reframe|1457369804613
+https://www.producthunt.com/products/jupid|Jupid|1495020689067
