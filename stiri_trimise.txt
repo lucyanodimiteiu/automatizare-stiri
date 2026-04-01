@@ -1013,3 +1013,4 @@ https://www.producthunt.com/products/unchikun-poop-tracker|UNCHIKUN|153174679073
 https://www.producthunt.com/products/perplexity-api-platform|Perplexity API Platform|1677442135703
 https://www.producthunt.com/products/remodex-codex-remote-control|Remodex|1620712943543
 https://www.producthunt.com/products/rent-ai-key|Rent AI Key|1519389950473
+https://www.producthunt.com/products/voicezeroai-2|VoiceZeroAI|1655720031554
