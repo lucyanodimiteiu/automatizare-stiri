@@ -1031,3 +1031,4 @@ https://www.producthunt.com/products/zzzappy|Zzzappy|https://image.pollinations.
 https://www.producthunt.com/products/elephant-folio|Elephant Folio|1504711434969
 https://www.producthunt.com/products/future-agi|traceAI|1504711434969
 https://www.producthunt.com/products/wispli|Wispli|1457369804613
+https://www.producthunt.com/products/kanbantab|KanbanTab|1504711434969
