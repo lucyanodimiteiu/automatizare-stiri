@@ -1039,3 +1039,4 @@ https://www.producthunt.com/products/protocol-survival|Protocol: Survival|158633
 https://www.producthunt.com/products/denovo|Denovo|1457369804613
 https://www.producthunt.com/products/mac-pet|Mac Pet|1432821596592
 https://www.producthunt.com/products/chunk-2|Chunk|1586339949916
+https://www.producthunt.com/products/cosyra|Cosyra|1495020689067
