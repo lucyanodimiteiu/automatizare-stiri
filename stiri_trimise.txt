@@ -1056,3 +1056,4 @@ https://www.producthunt.com/products/grok-4-2-beta-2|Grok 4.2 Beta 2|14328215965
 https://www.producthunt.com/products/holotutor-by-victoryxr|HoloTutor by VictoryXR|1504711434969
 https://www.producthunt.com/products/sublime-4|Sublime|1495020689067
 https://www.producthunt.com/products/gerri|Gerri|1432821596592
+https://www.producthunt.com/products/package-mate-open-source-cli-for-macos|Package Mate|1586339949916
