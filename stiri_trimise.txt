@@ -1053,3 +1053,4 @@ https://www.producthunt.com/products/smallest-ai|Lightning V3|1432821596592
 https://www.producthunt.com/products/flowith|Flowith Canvas|1504711434969
 https://www.producthunt.com/products/cushion-5|Cushion|1457369804613
 https://www.producthunt.com/products/grok-4-2-beta-2|Grok 4.2 Beta 2|1432821596592
+https://www.producthunt.com/products/holotutor-by-victoryxr|HoloTutor by VictoryXR|1504711434969
