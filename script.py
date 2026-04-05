@@ -452,8 +452,12 @@ def genereaza_rezumat_premium(titlu, descriere, tag, limit_chars):
     prompt = (
         "Esti un jurnalist de elita, stil Bloomberg/Reuters. "
         "Scrie un text jurnalistic impecabil in romana, fara numerotare, fara bullet points. "
-        "2-3 paragrafe scurte. Incepe cu un titlu + emoji relevant. "
-        "Integreaza cifrele natural in text. Nu mentiona imaginea. Maxim 2 taguri la final.\n\n"
+        "2-3 paragrafe scurte. Incepe cu un titlu + emoji relevant.\n"
+        "REGULI CRITICE:\n"
+        "1. Integreaza cifrele natural in text. Nu mentiona imaginea.\n"
+        "2. LUNGIME SI FINALIZARE: Postarea trebuie sa aiba o concluzie clara si sa se termine INTOTDEAUNA cu o propozitie completa si un punct final (.).\n"
+        "3. ESTE STRICT INTERZIS ca textul sa se taie brusc la final sau sa se termine cu virgula ori in mijlocul unei fraze. Daca te apropii de o limita imaginara de cuvinte, opreste-te mai devreme si incheie corect ideea.\n"
+        "Maxim 2 taguri la final.\n\n"
         "STIREA: {} - {}\nTAG: {}"
     ).format(titlu, descriere, tag)
     try:
