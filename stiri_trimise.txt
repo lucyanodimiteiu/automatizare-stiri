@@ -1195,3 +1195,4 @@ https://www.producthunt.com/products/mozilla-0din-ai-scanner|Mozilla 0DIN AI Sca
 https://www.producthunt.com/products/grass-claude-code-from-your-phone|Grass|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
 https://www.producthunt.com/products/ycode|Ycode Open Source|1461749280684
 https://www.producthunt.com/products/bemorphy|BeMorphy|1495020689067
+https://www.producthunt.com/products/macwipe|MacWipe|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
