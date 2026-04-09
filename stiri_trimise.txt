@@ -1185,3 +1185,4 @@ https://www.producthunt.com/products/screenslice|Screenslice|https://image.polli
 https://www.producthunt.com/products/clawcast|Clawcast|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
 https://www.producthunt.com/products/seolint|SEOLint|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
 https://www.producthunt.com/products/timeliner-io|Timeliner.io|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://www.producthunt.com/products/cyris|Cyris|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
