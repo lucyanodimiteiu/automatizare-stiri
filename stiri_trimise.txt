@@ -1215,3 +1215,4 @@ https://www.producthunt.com/products/crowdcast|Crowdcast 3.0|https://image.polli
 https://www.producthunt.com/products/wm-studio|WM Studio|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
 https://www.producthunt.com/products/prompteditor|PromptEditor|1655720031554
 https://www.producthunt.com/products/complexity-indicator|Complexity Indicator|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://www.producthunt.com/products/codentis|Codentis|1498050108023
