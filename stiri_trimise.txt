@@ -1223,3 +1223,4 @@ https://www.producthunt.com/products/outtalent|Minty|1620712943543
 https://www.producthunt.com/products/vaultr-2|Vaultr|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
 https://www.producthunt.com/products/soullinkai|SoulLink|1586339949916
 https://www.producthunt.com/products/note-taker|Thinking In The Agent Age|1457369804613
+https://finance.yahoo.com/markets/crypto/articles/nexus-mutual-wants-insurance-policy-214900982.html|Nexus Mutual wants to be the insurance policy your crypto never had|https://image.pollinations.ai/prompt/cryptocurrency%20trading%20screen%20with%20green%20and%20red%20
