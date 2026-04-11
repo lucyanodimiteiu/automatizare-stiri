@@ -1233,3 +1233,4 @@ https://www.producthunt.com/products/lareview|LaReview|https://image.pollination
 https://www.producthunt.com/products/shush-5|shush|https://image.pollinations.ai/prompt/diplomatic%20meeting%20room%2C%20flags%2C%20negotiation%20table
 https://www.producthunt.com/products/tech-marketing-framework|Tech Marketing Framework|https://image.pollinations.ai/prompt/financial%20trading%20floor%20with%20screens%20showing%20charts
 https://www.producthunt.com/products/buildermark-open-source|Buildermark|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://www.producthunt.com/products/1-better-habit-tracker|1% Better|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
