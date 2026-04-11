@@ -1226,3 +1226,4 @@ https://www.producthunt.com/products/note-taker|Thinking In The Agent Age|145736
 https://finance.yahoo.com/markets/crypto/articles/nexus-mutual-wants-insurance-policy-214900982.html|Nexus Mutual wants to be the insurance policy your crypto never had|https://image.pollinations.ai/prompt/cryptocurrency%20trading%20screen%20with%20green%20and%20red%20
 https://www.producthunt.com/products/voicr-for-mac|Voicr for Mac|1432821596592
 https://www.producthunt.com/products/uterminal|uTerminal|1432821596592
+https://www.producthunt.com/products/vequil|Vequil|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
