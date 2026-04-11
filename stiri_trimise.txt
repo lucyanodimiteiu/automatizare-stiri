@@ -1228,3 +1228,4 @@ https://www.producthunt.com/products/voicr-for-mac|Voicr for Mac|1432821596592
 https://www.producthunt.com/products/uterminal|uTerminal|1432821596592
 https://www.producthunt.com/products/vequil|Vequil|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
 https://www.producthunt.com/products/linkshell|LinkShell|1504711434969
+https://www.producthunt.com/products/capso|Capso|1495020689067
