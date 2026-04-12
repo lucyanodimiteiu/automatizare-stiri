@@ -1255,3 +1255,4 @@ https://finance.yahoo.com/markets/stocks/articles/stock-market-today-april-10-22
 https://www.producthunt.com/products/music-marketplace-by-eleven-labs|Music Marketplace by Eleven Labs|https://image.pollinations.ai/prompt/financial%20trading%20floor%20with%20screens%20showing%20charts
 https://www.producthunt.com/products/layered-2|Layered|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
 https://www.producthunt.com/products/r0y-ai-financial-studio|R0Y|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://www.producthunt.com/products/clarifierai-rewrite-text-2|ClarifierAI for IOS|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
