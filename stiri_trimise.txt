@@ -1253,3 +1253,4 @@ https://www.producthunt.com/products/lamatic-ai|LLM Ops Toolkit by Lamatic.ai|ht
 https://www.producthunt.com/products/upvotics|Upvotics|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
 https://finance.yahoo.com/markets/stocks/articles/stock-market-today-april-10-225118596.html|Stock Market Today, April 10: Palantir Falls as AI Competition Pressures Valuation|https://image.pollinations.ai/prompt/Wall%20Street%20stock%20exchange%20trading%20floor%20with%20dig
 https://www.producthunt.com/products/music-marketplace-by-eleven-labs|Music Marketplace by Eleven Labs|https://image.pollinations.ai/prompt/financial%20trading%20floor%20with%20screens%20showing%20charts
+https://www.producthunt.com/products/layered-2|Layered|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
