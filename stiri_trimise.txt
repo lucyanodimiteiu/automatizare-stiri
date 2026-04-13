@@ -1285,3 +1285,4 @@ https://www.producthunt.com/products/deconflict|Deconflict|https://image.pollina
 https://www.producthunt.com/products/open-comet|Open Comet|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
 https://www.producthunt.com/products/clarm-ai-technical-support|Clarm|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
 https://www.producthunt.com/products/showmd-ai-markdown-quicklook-preview|showmd|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://www.producthunt.com/products/winscript|WinScript|https://image.pollinations.ai/prompt/Apple%20headquarters%20glass%20building%20in%20Cupertino%2C%20C
