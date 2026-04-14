@@ -1289,3 +1289,4 @@ https://www.producthunt.com/products/winscript|WinScript|https://image.pollinati
 https://www.producthunt.com/products/luma-agents|Luma Agents|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
 https://www.producthunt.com/products/cleo-labs|Cleo Labs|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
 https://www.producthunt.com/products/sigma-ai|SigmaMind MCP|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://www.producthunt.com/products/claunnector|Claunnector|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
