@@ -1392,3 +1392,4 @@ https://www.producthunt.com/products/paperweight|Paperweight|https://image.polli
 https://www.producthunt.com/products/assemble-2|Assemble|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
 https://www.producthunt.com/products/creator-os-3|Creator OS|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
 https://www.producthunt.com/products/avina-2|Avina|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://www.producthunt.com/products/agg-loop|AGG Loop|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
