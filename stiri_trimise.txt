@@ -1467,3 +1467,4 @@ https://www.producthunt.com/products/mimo-3|MiMo-V2.5 & Pro|https://image.pollin
 https://www.producthunt.com/products/the-autonomous-stack|The Autonomous Stack|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
 https://www.producthunt.com/products/usvc-by-angellist|USVC by AngelList|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
 https://www.producthunt.com/products/flomcp|FloMCP|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://www.producthunt.com/products/mailerlogic|MailerLogic|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
