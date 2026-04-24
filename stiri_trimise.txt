@@ -1486,3 +1486,4 @@ https://www.producthunt.com/products/onboarding0|Onboarding0|https://image.polli
 https://www.producthunt.com/products/mailcue-realistic-email-testing-server|MailCue|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
 https://www.producthunt.com/products/emotional-intelligence-ai-for-live-calls|Emotional intelligence AI for live calls|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
 https://www.producthunt.com/products/notchnest-quick-access-hub|NotchNest AI|https://image.pollinations.ai/prompt/Apple%20headquarters%20glass%20building%20in%20Cupertino%2C%20C
+https://www.producthunt.com/products/codex-3-0-by-openai|Codex 3.0 by OpenAI|https://image.pollinations.ai/prompt/futuristic%20AI%20research%20lab%20with%20holographic%20display
