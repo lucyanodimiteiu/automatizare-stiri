@@ -1497,3 +1497,4 @@ https://www.producthunt.com/products/grok-voice-think-fast-1-0|Grok Voice Think 
 https://www.producthunt.com/products/euphony-2|Euphony|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
 https://www.producthunt.com/products/inro|Inrō AI|https://image.pollinations.ai/prompt/financial%20trading%20floor%20with%20screens%20showing%20charts
 https://www.producthunt.com/products/clawdi|Clawdi|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://www.producthunt.com/products/gemini-personal-intelligence|Gemini Personal Intelligence|https://image.pollinations.ai/prompt/Google%20campus%20colorful%20modern%20buildings%2C%20digital%20
