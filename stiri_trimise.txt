@@ -1489,3 +1489,4 @@ https://www.producthunt.com/products/notchnest-quick-access-hub|NotchNest AI|htt
 https://www.producthunt.com/products/codex-3-0-by-openai|Codex 3.0 by OpenAI|https://image.pollinations.ai/prompt/futuristic%20AI%20research%20lab%20with%20holographic%20display
 https://www.producthunt.com/products/boots-list|boots.list|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
 https://www.producthunt.com/products/tyndale|Tyndale|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://www.producthunt.com/products/mozart-ai|Mozart Studio 1.0|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
