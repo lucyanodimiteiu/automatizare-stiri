@@ -1494,3 +1494,4 @@ https://www.producthunt.com/products/scouts-by-yutori|Yutori Delegate|https://im
 https://www.producthunt.com/products/codecanary|CodeCanary|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
 https://www.producthunt.com/products/promptpaste|PromptPaste|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
 https://www.producthunt.com/products/grok-voice-think-fast-1-0|Grok Voice Think Fast 1.0|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://www.producthunt.com/products/euphony-2|Euphony|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
