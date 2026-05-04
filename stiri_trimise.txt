@@ -1651,3 +1651,4 @@ https://www.producthunt.com/products/dropy-price-tracker-price-history|Dropy|htt
 https://www.producthunt.com/products/flowly-6|Flowly|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
 https://www.producthunt.com/products/aaavatar|Aaavatar|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
 https://www.producthunt.com/products/croct|Visitor profiles and timeline by Croct|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://www.producthunt.com/products/mindra|Mindra|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
