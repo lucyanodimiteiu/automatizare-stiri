@@ -1647,3 +1647,4 @@ https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-40-million-17
 https://www.producthunt.com/products/replyke|Replyke V7|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
 https://www.producthunt.com/products/cumbuca|Regulus by Cumbuca|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
 https://www.producthunt.com/products/rudel|Claude Code & Codex Usage Trading Cards by Rudel|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://www.producthunt.com/products/dropy-price-tracker-price-history|Dropy|https://image.pollinations.ai/prompt/Amazon%20warehouse%20with%20robotic%20arms%20sorting%20packages
