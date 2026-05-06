@@ -1670,3 +1670,4 @@ https://www.producthunt.com/products/intuned|Intuned Agent|https://image.pollina
 https://www.producthunt.com/products/pacebar|PaceBar|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
 https://www.producthunt.com/products/talentos-2|TalentOS|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
 https://www.producthunt.com/products/facts-fc3505e0-6206-4a1b-b6b4-01b7ffbb7783|Facts|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://www.producthunt.com/products/kanwas|Kanwas|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
