@@ -1749,3 +1749,4 @@ https://www.producthunt.com/products/graphbit|Graphbit PRFlow - AI Code Review A
 https://www.producthunt.com/products/chatgpt-for-google-sheets|ChatGPT for Google Sheets|https://image.pollinations.ai/prompt/Google%20campus%20colorful%20modern%20buildings%2C%20digital%20
 https://www.producthunt.com/products/kofe-flow-pomodoro-timer|Kofe Flow|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
 https://www.producthunt.com/products/known-agents|Known Agents|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://www.producthunt.com/products/miromiro|MiroMiro v2|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
