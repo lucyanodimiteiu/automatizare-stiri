@@ -1746,3 +1746,4 @@ https://finance.yahoo.com/sectors/technology/articles/top-3-quantum-computing-st
 https://www.producthunt.com/products/better-sol|Better Sol|1586339949916
 https://www.producthunt.com/products/rpcforge-own-your-rpc|RPCForge|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
 https://www.producthunt.com/products/graphbit|Graphbit PRFlow - AI Code Review Agent|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://www.producthunt.com/products/chatgpt-for-google-sheets|ChatGPT for Google Sheets|https://image.pollinations.ai/prompt/Google%20campus%20colorful%20modern%20buildings%2C%20digital%20
