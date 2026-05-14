@@ -444,6 +444,30 @@ def determina_tag(titlu, descriere):
 
 # ─── DeepSeek rezumat ─────────────────────────────────────────────────────────
 
+def trunchiaza_la_propozitie_completa(text, max_chars):
+    """
+    Trunchiaza textul la max_chars caractere, dar se asigura ca se opreste
+    la final de propozitie (dupa ultimul punct) pentru a nu taia brusc.
+    """
+    if len(text) <= max_chars:
+        return text
+    
+    # Caută ultimul punct în limita de caractere
+    subset = text[:max_chars]
+    last_dot = subset.rfind('.')
+    
+    if last_dot > 50:  # Asigură-te că nu tăiem prea devreme (minim 50 chars)
+        return text[:last_dot + 1]  # Include și punctul
+    
+    # Dacă nu găsim punct, caută alte semne de final
+    last_mark = max(subset.rfind('!'), subset.rfind('?'))
+    if last_mark > 50:
+        return text[:last_mark + 1]
+    
+    # Fallback: taie la max_chars și adaugă ellipsis
+    return text[:max_chars - 3] + "..."
+
+
 def genereaza_rezumat_premium(titlu, descriere, tag, limit_chars):
     if not DEEPSEEK_KEY:
         return None
@@ -466,7 +490,7 @@ def genereaza_rezumat_premium(titlu, descriere, tag, limit_chars):
             "model": "deepseek-chat",
             "messages": [{"role": "user", "content": prompt}],
             "temperature": 0.4,
-            "max_tokens": 1000
+            "max_tokens": 2000
         }, headers=headers, timeout=60)
         response.raise_for_status()
         return response.json()["choices"][0]["message"]["content"]
@@ -482,7 +506,9 @@ def trimite_pe_telegram(imagine_url, rezumat_text):
         print("Token sau chat ID Telegram lipsa.")
         return False
 
-    caption = rezumat_text[:1024]
+    # Telegram permite maxim 4096 caractere pentru caption
+    # Trunchiem la propozitie completa pentru a nu taia brusc
+    caption = trunchiaza_la_propozitie_completa(rezumat_text, 4096)
 
     if imagine_url:
         try:
