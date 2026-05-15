@@ -1790,3 +1790,4 @@ https://www.producthunt.com/products/indigo-2|Indigo|https://image.pollinations.
 https://www.producthunt.com/products/asteroid-3|Asteroid|https://image.pollinations.ai/prompt/offshore%20wind%20turbines%20in%20the%20ocean%20at%20sunset%2C%
 https://www.producthunt.com/products/standboy|Standboy|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
 https://www.producthunt.com/products/nimbus-10|Nimbus|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://www.producthunt.com/products/just-the-tips|Just The Tips|https://image.pollinations.ai/prompt/USDT%20USDC%20stable%20coins%20on%20dark%20background%2C%20gree
