@@ -1924,3 +1924,7 @@ https://www.producthunt.com/products/tiny-cv|Tiny CV|https://image.pollinations.
 https://finance.yahoo.com/markets/stocks/articles/market-insights-merlin-labs-mrln-145731114.html|Market Insights on Merlin Labs (MRLN)|1611974789855
 https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-asts-gains-market-145419095.html|AST SpaceMobile (ASTS) Gains on Market Approval|1655720031554
 https://www.marketwatch.com/story/i-inherited-a-house-my-cpa-says-i-should-sell-within-a-year-to-avoid-capital-gains-is-he-right-d0909486?mod=mw_rss_topstories|I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?|https://images.mktw.net/im-92611943
+https://www.producthunt.com/products/llmtest-2|LLMTest|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/stocks/articles/tech-stock-down-every-time-171100344.html|This Tech Stock Is Down -- and Every Time That's Happened in the Past, It's Been a Gift|1432821596592
+https://finance.yahoo.com/markets/stocks/articles/aar-corp-air-rallied-strong-161123076.html|AAR Corp (AIR) Rallied on Strong Earnings Report|1519389950473
+https://www.marketwatch.com/story/is-the-stock-market-closed-on-memorial-day-does-the-post-office-deliver-mail-bba7ef11?mod=mw_rss_topstories|Is the stock market open today? Does the post office deliver mail on Memorial Day?|https://images.mktw.net/im-41109016
