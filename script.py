@@ -11,6 +11,8 @@ import os
 import json
 import re
 import random
+import time
+import difflib
 from urllib.parse import quote
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -354,20 +356,25 @@ def verifica_comenzi_telegram(config):
 
 # ─── Duplicate check ──────────────────────────────────────────────────────────
 
-def verifica_duplicat_ai(titlu, istoric):
-    if not istoric or not DEEPSEEK_KEY:
+def verifica_duplicat_local(titlu, istoric):
+    if not istoric:
         return False
-    url = "https://api.deepseek.com/v1/chat/completions"
-    headers = {"Authorization": "Bearer {}".format(DEEPSEEK_KEY), "Content-Type": "application/json"}
-    try:
-        res = requests.post(url, json={
-            "model": "deepseek-chat",
-            "messages": [{"role": "user", "content": "Titlu: {}. Istoric: {}. Daca e acelasi subiect, zi DA, altfel NU.".format(titlu, istoric)}],
-            "temperature": 0.1
-        }, headers=headers, timeout=10).json()
-        return "DA" in res["choices"][0]["message"]["content"].upper()
-    except:
-        return False
+    titlu_lower = titlu.lower()
+    for vechi in istoric[-30:]: # comparam cu ultimele 30 titluri
+        if not vechi: continue
+        # Jaccard + difflib pentru similaritate
+        ratio = difflib.SequenceMatcher(None, titlu_lower, vechi.lower()).ratio()
+        if ratio > 0.55: # Prag de similaritate (55% asemănare)
+            return True
+        
+        # Simple word intersection ca fallback
+        cuvinte_noi = set(re.findall(r'\w+', titlu_lower))
+        cuvinte_vechi = set(re.findall(r'\w+', vechi.lower()))
+        if len(cuvinte_noi) > 3 and len(cuvinte_vechi) > 3:
+            comune = len(cuvinte_noi.intersection(cuvinte_vechi))
+            if comune >= len(cuvinte_noi) * 0.6: # 60% cuvinte comune
+                return True
+    return False
 
 
 # ─── Imagine - sistem cu 3 nivele ─────────────────────────────────────────────
@@ -579,7 +586,13 @@ def main():
             imagini_folosite.add(parts[2].strip())
     print("Imagini excluse (deja trimise): {}".format(len(imagini_folosite)))
 
+    postari_runda = 0
+
     for rss_url in config["rss_urls"]:
+        if postari_runda >= 4:
+            print("\nS-a atins limita de 4 postari pe aceasta runda.")
+            break
+            
         try:
             print("\nFeed: {}".format(rss_url))
             feed = feedparser.parse(rss_url)
@@ -589,8 +602,8 @@ def main():
                 text = (entry.title + " " + entry.get("summary", "")).lower()
                 if not any(kw.lower() in text for kw in config["keywords"]):
                     continue
-                if verifica_duplicat_ai(entry.title, titluri_vechi):
-                    print("   Duplicat: {}".format(entry.title[:50]))
+                if verifica_duplicat_local(entry.title, titluri_vechi):
+                    print("   Duplicat local: {}".format(entry.title[:50]))
                     continue
 
                 print("\nArticol: {}".format(entry.title[:65]))
@@ -611,8 +624,13 @@ def main():
                     key = img_key(imagine_url)
                     with open(DB_FILE, "a") as f:
                         f.write("{}|{}|{}\n".format(entry.link, entry.title, key))
-                    print("   Gata: {}".format(entry.title[:50]))
-                    return
+                    
+                    titluri_vechi.append(entry.title) # adaugam in memorie sa previna duplicate in restul loop-ului
+                    postari_runda += 1
+                    print("   Gata: {} (Total azi: {})".format(entry.title[:50], postari_runda))
+                    
+                    time.sleep(5) # Pauza scurta anti-spam Telegram
+                    break # Trece la urmatoarea sursa
                 else:
                     print("   Telegram esuat.")
 
