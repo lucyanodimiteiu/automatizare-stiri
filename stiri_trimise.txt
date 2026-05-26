@@ -1968,3 +1968,7 @@ https://www.producthunt.com/products/minicpm-4-0|MiniCPM5-1B|https://image.polli
 https://finance.yahoo.com/markets/stocks/articles/nuclear-verdict-alert-almost-50m-110000796.html|Nuclear verdict alert: almost $50M against a mystery Texas trucking company|1581091226825
 https://finance.yahoo.com/markets/commodities/articles/aben-gold-secures-yukon-mining-103731616.html|Aben Gold secures Yukon mining licence for five-year exploration|1457369804613
 https://www.marketwatch.com/story/americans-feel-worse-than-ever-a-consumer-survey-shows-the-white-house-says-thats-bunk-whos-right-4f4f1406?mod=mw_rss_topstories|Americans feel worse than ever, a consumer survey shows. The White House says that’s bunk. Who’s right?|https://images.mktw.net/im-59476302
+https://www.producthunt.com/products/dodoform|DodoForm|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/stocks/articles/short-sellers-aren-t-relenting-130002206.html|Short Sellers Aren’t Relenting Against Qualcomm. The Chipmaker Needs to Quickly Deliver on Its AI Pivot for Bulls to Win.|1461749280684
+https://finance.yahoo.com/markets/stocks/articles/lexinfintech-q1-earnings-call-highlights-130418168.html|LexinFintech Q1 Earnings Call Highlights|1432821596592
+https://www.marketwatch.com/story/where-to-invest-in-bonds-right-now-after-the-markets-violent-selloff-ccad2a26?mod=mw_rss_topstories|Where to invest in bonds right now after the market’s violent selloff|https://images.mktw.net/im-07427605
