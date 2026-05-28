@@ -2036,3 +2036,7 @@ https://www.producthunt.com/products/spotsnow|SpotsNow|https://image.pollination
 https://finance.yahoo.com/markets/stocks/articles/fair-isaac-corporation-stock-analyst-093756791.html|Fair Isaac Corporation Stock: Analyst Estimates & Ratings|1677442135703
 https://finance.yahoo.com/sectors/healthcare/articles/inside-hiring-process-biotech-ceos-092455319.html|Inside the hiring process for biotech CEOs|1586339949916
 https://www.marketwatch.com/story/anthropic-nears-1-trillion-valuation-leapfrogging-openai-ac2dc81f?mod=mw_rss_topstories|Anthropic nears $1 trillion valuation, leapfrogging OpenAI|https://images.mktw.net/im-94507313
+https://www.producthunt.com/products/angel-match|Angel Match 4.0|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/sectors/healthcare/articles/pph-vs-ixj-pure-pharma-133219452.html|PPH vs. IXJ: A Pure Pharma Bet Against the Entire Global Healthcare Ecosystem|1498050108023
+https://finance.yahoo.com/markets/article/micron-stock-jumps-after-company-tops-1-trillion-in-market-cap-134443842.html|Micron stock jumps after company tops $1 trillion in market cap|1519389950473
+https://www.marketwatch.com/story/the-true-cost-of-the-iran-war-is-billions-more-than-the-pentagon-says-and-were-paying-for-it-7bf90988?mod=mw_rss_topstories|The Iran war costs billions more than the Pentagon admits — and it’s hitting your credit card bill|https://images.mktw.net/im-84507416
