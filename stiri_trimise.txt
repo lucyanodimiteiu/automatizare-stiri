@@ -2012,3 +2012,7 @@ https://www.producthunt.com/products/quicksheet-light-spreadsheet|QuickSheet v1.
 https://finance.yahoo.com/sectors/technology/articles/prologis-anchors-200m-maritime-innovation-153048203.html|Prologis anchors $200M maritime innovation fund|1457369804613
 https://finance.yahoo.com/markets/stocks/articles/could-investing-10-000-costco-153500833.html|Could Investing $10,000 in Costco Make You a Millionaire?|1432821596592
 https://www.marketwatch.com/story/snowflakes-stock-is-on-fire-as-ai-acceleration-drives-record-product-revenue-growth-fdc80a57?mod=mw_rss_topstories|Snowflake’s stock is on fire as AI acceleration drives record product-revenue growth|https://images.mktw.net/im-52891768
+https://www.producthunt.com/products/powabase|Powabase|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/sectors/technology/articles/advancement-agentic-ai-faces-critical-134608591.html|The Advancement Of Agentic AI Faces 'Critical Physical Bottlenecks' And It's Not Memory Or Chips, Goldman Sachs Says|1432821596592
+https://finance.yahoo.com/markets/stocks/articles/reuters-starbucks-ends-ai-inventory-135116717.html|Reuters: Starbucks Ends AI Inventory Program across North American Stores|1586339949916
+https://www.marketwatch.com/story/salesforce-shares-sink-on-soft-revenue-outlook-as-ai-disruption-concerns-linger-45dcf0e5?mod=mw_rss_topstories|Salesforce shares dip on soft revenue outlook as AI disruption concerns linger|https://images.mktw.net/im-64938409
