@@ -2044,3 +2044,7 @@ https://www.producthunt.com/products/revolte|Revolte|https://image.pollinations.
 https://www.barrons.com/articles/bp-stock-manifold-chairman-bully-4eb58a21?siteid=yhoof2&yptr=yahoo|BP Crisis Deepens as Ousted Chairman Comes Out Fighting|1495020689067
 https://finance.yahoo.com/economy/policy/articles/refutes-ag-claims-says-provided-153331816.html|UP refutes new AG claims, says it provided all answers in merger paperwork|1655720031554
 https://www.marketwatch.com/story/this-overvalued-stock-market-just-flashed-a-rare-buy-signal-05bce4b1?mod=mw_rss_topstories|This overvalued stock market just flashed a rare buy signal|https://images.mktw.net/im-09307247
+https://www.producthunt.com/products/launchos|LaunchOS|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-nasdaq-micron-1-trillion/?src=A00220&yptr=yahoo|Dow Jones Futures Rise After S&P 500, Nasdaq Hit Highs; 5 AI Stocks In Buy Areas|1620712943543
+https://finance.yahoo.com/markets/stocks/articles/warren-buffett-sits-record-397b-121500621.html|Warren Buffett sits on a record $397B in cash while Michael Burry shorts AI for $1B, betting it's 1999 all over again|1531746790731
+https://www.marketwatch.com/story/earnings-season-slows-but-these-7-stocks-pack-explosive-sawtooth-volatility-next-week-d519d174?mod=mw_rss_topstories|Earnings season slows but these 7 stocks pack explosive ‘sawtooth’ volatility next week|https://images.mktw.net/im-95529391
