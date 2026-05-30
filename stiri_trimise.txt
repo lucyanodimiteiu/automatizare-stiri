@@ -2124,3 +2124,7 @@ https://www.producthunt.com/products/coffee-piano-harmony-lab|Coffee Piano|https
 https://finance.yahoo.com/markets/stocks/articles/propetro-holding-corp-pump-leopold-193420035.html|ProPetro Holding Corp. (PUMP): Leopold Aschenbrenner Remains Bullish|1581091226825
 https://finance.yahoo.com/markets/stocks/articles/sandisk-corporation-sndk-renaissance-technologies-191055514.html|Sandisk Corporation (SNDK): Renaissance Technologies Trims Stake|1586339949916
 https://www.marketwatch.com/story/in-america-big-techs-ai-data-centers-come-first-and-your-community-will-be-last-to-know-06a3fce4?mod=mw_rss_topstories|As Big Tech’s power demand surges, data centers bring utilities a huge new profit center|https://images.mktw.net/im-61596835
+https://www.producthunt.com/products/integuru|Integuru|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/stocks/articles/liberty-energy-inc-lbrt-leopold-195548949.html|Liberty Energy Inc. (LBRT): Leopold Aschenbrenner Sells Position|1545173168
+https://finance.yahoo.com/markets/stocks/articles/schx-750-stocks-hide-48-195512909.html|SCHX’s 750 stocks hide a 48% concentration risk most dividend investors overlook|1461749280684
+https://www.marketwatch.com/story/why-america-is-losing-the-ai-productivity-war-to-3-5-million-chinese-stem-graduates-4ffeb298?mod=mw_rss_topstories|America is losing the AI productivity war to 3.5 million Chinese STEM graduates|https://images.mktw.net/im-53199500
