@@ -2128,3 +2128,7 @@ https://www.producthunt.com/products/integuru|Integuru|https://image.pollination
 https://finance.yahoo.com/markets/stocks/articles/liberty-energy-inc-lbrt-leopold-195548949.html|Liberty Energy Inc. (LBRT): Leopold Aschenbrenner Sells Position|1545173168
 https://finance.yahoo.com/markets/stocks/articles/schx-750-stocks-hide-48-195512909.html|SCHX’s 750 stocks hide a 48% concentration risk most dividend investors overlook|1461749280684
 https://www.marketwatch.com/story/why-america-is-losing-the-ai-productivity-war-to-3-5-million-chinese-stem-graduates-4ffeb298?mod=mw_rss_topstories|America is losing the AI productivity war to 3.5 million Chinese STEM graduates|https://images.mktw.net/im-53199500
+https://www.producthunt.com/products/gps-2|GPS|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://www.marketwatch.com/story/this-bear-market-signal-wall-street-ignores-is-putting-your-money-at-risk-right-now-46f1fcf3?mod=mw_rss_topstories|This bear market signal Wall Street ignores is putting your money at risk right now|https://images.mktw.net/im-95721773
+https://www.digi24.ro/stiri/economie/bolojan-a-discutat-cu-maia-sandu-despre-consolidarea-apararii-pe-flancul-estic-dupa-incidentul-cu-drona-de-la-galati-3792021|Bolojan a discutat cu Maia Sandu despre consolidarea apărării pe flancul estic, după incidentul cu drona de la Galați|1432821596592
+https://www.pv-magazine.com/2026/05/30/lessons-from-the-solar-frontier-2/|Lessons from the solar frontier|1432821596592
