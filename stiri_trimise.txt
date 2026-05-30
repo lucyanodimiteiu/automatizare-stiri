@@ -2136,3 +2136,7 @@ https://finance.yahoo.com/markets/stocks/articles/sk-hynix-just-hit-1-220500290.
 https://www.pv-magazine.com/2026/05/30/k2-systems-devoile-son-ombriere-photovoltaique-k2-carport/|K2 Systems unveils solar carport|1495020689067
 https://hackaday.com/2026/05/30/breaking-enigma-with-an-fpga-just-like-at-bletchly-park/|Breaking Enigma with an FPGA, Just like at Bletchly Park|https://hackaday.com/wp-content/uploads/2026/05/fpga-enigma-feat.jpg?w=800
 https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves|Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves|1457369804613
+https://www.producthunt.com/products/tracknotch|TrackNotch|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/sectors/technology/articles/every-big-tech-company-solving-232000438.html|Every Big Tech Company Is Solving AI the Same Way. This Stock Is Solving It Differently.|1677442135703
+https://www.pv-magazine.com/2026/05/30/south-africas-eskom-starts-constructing-75-mw-of-solar/|South Africa’s Eskom starts constructing 75 MW of solar|1466611653911
+https://hackaday.com/2026/05/30/keychain-gamecube-controller-made-functional/|Keychain GameCube Controller Made Functional|https://hackaday.com/wp-content/uploads/2026/05/keychain_gamecube_controller_functional_brux_youtube
