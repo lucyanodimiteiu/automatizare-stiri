@@ -2084,3 +2084,7 @@ https://www.producthunt.com/products/rabbittravel|RabbitTravel|https://image.pol
 https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-again-watch-10-year-treasury-yields-190610723.html|When will mortgage rates go down again? Watch 10-year Treasury yields.|1586339949916
 https://www.investors.com/news/technology/ibm-stock-quantum-computing-10-billion/?src=A00220&yptr=yahoo|IBM Stock Climbs As Tech Giant Pledges $10 Billion In Quantum Investment|1457369804613
 https://www.marketwatch.com/story/oil-prices-slide-as-trump-says-the-u-s-is-close-to-an-iran-deal-8af9ece2?mod=mw_rss_topstories|Oil slides, stocks climb as Trump puts off determination on Iran proposal|https://images.mktw.net/im-11776358
+https://www.producthunt.com/products/nodus-hn-radar|NODUS HN Radar|https://image.pollinations.ai/prompt/digital%20lock%20broken%20on%20a%20dark%20screen%2C%20red%20ale
+https://finance.yahoo.com/markets/stocks/articles/nvidia-already-gpu-giant-now-223000987.html|Nvidia Already is the GPU Giant. Now It's Aiming to Dominate in a New $200 Billion Market.|1677442135703
+https://finance.yahoo.com/markets/commodities/articles/corn-posts-gains-thursday-221050042.html|Corn Posts Gains on Thursday|1432821596592
+https://www.marketwatch.com/story/servicenows-stock-soars-toward-historic-month-as-ai-fears-fade-across-software-31854b69?mod=mw_rss_topstories|ServiceNow’s stock soars to a historic month as AI fears fade across software|https://images.mktw.net/im-56113489
