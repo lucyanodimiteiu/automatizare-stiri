@@ -2184,3 +2184,7 @@ https://hackaday.com/2026/05/30/poking-around-with-jtag-on-a-guitar-amp/|Poking 
 https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote|How to watch Nvidia&#8217;s Computex keynote|https://image.pollinations.ai/prompt/Microsoft%20office%20building%20modern%20glass%20architecture%2
 https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/|‘This is fine’ artist KC Green reaches agreement with AI startup Artisan|1461749280684
 https://altfins.com/blog/uni-sei-sui-bonk-trade-setups-delivered-whats-next/|UNI, SEI, SUI, BONK Trade Setups Delivered. What’s Next?|1495020689067
+https://finance.yahoo.com/sectors/energy/articles/t1-energy-inc-te-leopold-213843251.html|T1 Energy Inc. (TE): Leopold Aschenbrenner Reveals New Bet|https://image.pollinations.ai/prompt/power%20plant%20at%20sunset%20with%20dramatic%20sky%2C%20styliz
+https://finance.yahoo.com/markets/stocks/articles/applied-digital-corporation-apld-leopold-213349868.html|Applied Digital Corporation (APLD): Leopold Aschenbrenner Likes This AI Play|1495020689067
+https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches|Apple’s strategy for smart glasses is the same as smart watches|1495020689067
+https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/|Erin Brockovich takes aim at data center secrecy|1457369804613
