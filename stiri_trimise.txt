@@ -2176,3 +2176,7 @@ https://finance.yahoo.com/markets/stocks/articles/visa-v-one-best-long-145131772
 https://finance.yahoo.com/markets/stocks/articles/bank-america-bac-expects-q2-144422007.html|Bank of America (BAC) Expects Q2 Trading Revenue to Jump 15%, Reuters Reports|1581091226825
 https://www.pv-magazine.com/2026/05/29/inside-pv-manufacturing-tindos-solar-manufacturing-facility-in-australia/|Inside PV Manufacturing: Tindo’s solar manufacturing facility in Australia|1531746790731
 https://hackaday.com/2026/05/31/ebike-display-uses-reflective-lcd/|Ebike Display Uses Reflective LCD|https://hackaday.com/wp-content/uploads/2026/05/reflective-display-main.png?w=800
+https://finance.yahoo.com/markets/stocks/articles/trump-praised-ibms-legend-ceo-191000655.html|Trump praised IBM's 'legend' CEO, government floated a $1B quantum award — is the stock still a 'very nice price'?|https://image.pollinations.ai/prompt/Donald%20Trump%20speaking%20at%20a%20podium%20with%20American%2
+https://finance.yahoo.com/sectors/energy/articles/360-energy-pulse-mattered-month-183019766.html|360 Energy Pulse: What mattered this month in energy|1545173168
+https://www.pv-magazine.com/2026/05/29/chinese-pv-industry-brief-polysilicon-prices-remain-stable/|Chinese PV Industry Brief: Polysilicon prices remain stable|1586339949916
+https://hackaday.com/2026/05/30/the-final-steps-to-a-sub-minute-benchy/|The Final Steps to a Sub-Minute Benchy|https://hackaday.com/wp-content/uploads/2026/05/minuteman_printer.png?w=800
