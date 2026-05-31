@@ -2180,3 +2180,7 @@ https://finance.yahoo.com/markets/stocks/articles/trump-praised-ibms-legend-ceo-
 https://finance.yahoo.com/sectors/energy/articles/360-energy-pulse-mattered-month-183019766.html|360 Energy Pulse: What mattered this month in energy|1545173168
 https://www.pv-magazine.com/2026/05/29/chinese-pv-industry-brief-polysilicon-prices-remain-stable/|Chinese PV Industry Brief: Polysilicon prices remain stable|1586339949916
 https://hackaday.com/2026/05/30/the-final-steps-to-a-sub-minute-benchy/|The Final Steps to a Sub-Minute Benchy|https://hackaday.com/wp-content/uploads/2026/05/minuteman_printer.png?w=800
+https://hackaday.com/2026/05/30/poking-around-with-jtag-on-a-guitar-amp/|Poking Around with JTAG on a Guitar Amp|https://hackaday.com/wp-content/uploads/2026/05/yam.png?w=800
+https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote|How to watch Nvidia&#8217;s Computex keynote|https://image.pollinations.ai/prompt/Microsoft%20office%20building%20modern%20glass%20architecture%2
+https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/|‘This is fine’ artist KC Green reaches agreement with AI startup Artisan|1461749280684
+https://altfins.com/blog/uni-sei-sui-bonk-trade-setups-delivered-whats-next/|UNI, SEI, SUI, BONK Trade Setups Delivered. What’s Next?|1495020689067
