@@ -2164,3 +2164,7 @@ https://www.producthunt.com/products/marqly|Marqly 5.0|https://image.pollination
 https://finance.yahoo.com/markets/stocks/articles/innoviz-technologies-sees-lidar-momentum-130319651.html|Innoviz Technologies Sees Lidar Momentum Rebounding as Defense, Physical AI Demand Grows|1593508512255
 https://finance.yahoo.com/markets/stocks/articles/meet-pick-shovel-ai-stock-130800602.html|Meet This Pick-and-Shovel AI Stock That Just Joined Meta, Tesla, and Broadcom as the Newest Member of the $1 Trillion Club|1504711434969
 https://www.marketwatch.com/story/heres-how-gaps-yoga-wear-maker-athleta-went-from-must-have-to-generic-3d94b008?mod=mw_rss_topstories|Here’s how Gap’s yoga-wear maker Athleta went from must-have to ‘generic’|https://images.mktw.net/im-53286613
+https://www.producthunt.com/products/tabtasker|TabTasker|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/crypto/articles/another-company-shuts-down-bitcoin-160000343.html|Another company shuts down Bitcoin treasury|1518546305927
+https://finance.yahoo.com/markets/crypto/articles/stablecoin-demand-may-soon-fade-152940411.html|Stablecoin demand may soon fade, BoE's Greene says|1621416894562
+https://www.pv-magazine.com/2026/05/29/residential-segment-accounts-for-82-of-indias-rooftop-solar-additions-in-q1-2026-mercom/|India installs 2.7 GW of rooftop PV in Q1|1509391366360
