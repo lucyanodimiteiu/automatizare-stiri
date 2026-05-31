@@ -2188,3 +2188,7 @@ https://finance.yahoo.com/sectors/energy/articles/t1-energy-inc-te-leopold-21384
 https://finance.yahoo.com/markets/stocks/articles/applied-digital-corporation-apld-leopold-213349868.html|Applied Digital Corporation (APLD): Leopold Aschenbrenner Likes This AI Play|1495020689067
 https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches|Apple’s strategy for smart glasses is the same as smart watches|1495020689067
 https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/|Erin Brockovich takes aim at data center secrecy|1457369804613
+https://finance.yahoo.com/sectors/technology/articles/broadcom-inc-avgo-launches-broadband-230756753.html|Broadcom Inc (AVGO) Launches Broadband Chip With AI Capabilities|https://image.pollinations.ai/prompt/silicon%20wafer%20with%20microchips%20under%20bright%20lab%20li
+https://finance.yahoo.com/sectors/technology/articles/nvidia-corp-nvda-deepens-enterprise-230721355.html|Nvidia Corp. (NVDA) Deepens Enterprise AI Adoption Through ePlus Partnership|1677442135703
+https://www.marketwatch.com/story/oil-rises-u-s-stock-futures-dip-as-wall-street-looks-to-extend-its-winning-streak-2490f216?mod=mw_rss_topstories|Oil rises, U.S. stock futures flat as Wall Street looks to extend its winning streak|https://images.mktw.net/im-74430381
+https://www.theverge.com/games/938956/alienware-computex-tandem-qd-oled-penta-rgb-stripe-gaming-monitors-specs|The QD-OLED gaming monitor that started it all got a big upgrade|1495020689067
