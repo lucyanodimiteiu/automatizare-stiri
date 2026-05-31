@@ -2148,3 +2148,7 @@ https://www.producthunt.com/products/linear|Linear Diffs|https://image.pollinati
 https://finance.yahoo.com/markets/crypto/articles/solana-sol-millionaire-223918455.html|Will Solana (SOL) Make You a Millionaire?|1519389950473
 https://finance.yahoo.com/markets/options/articles/nvdl-etf-explained-leveraged-nvidia-233313764.html|NVDL ETF Explained: Leveraged Nvidia, Decay Risk, and Who Should Actually Own It|1432821596592
 https://www.digi24.ro/stiri/economie/energie/analisti-traficul-petrolier-prin-stramtoarea-ormuz-ar-putea-sa-nu-mai-revina-la-nivelul-dinaintea-razboiului-cu-iranul-3793493|Analiști: Traficul petrolier prin Strâmtoarea Ormuz ar putea să nu mai revină la nivelul dinaintea războiului cu Iranul|1457369804613
+https://www.producthunt.com/products/oura|Oura Ring 5|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/stocks/articles/ionq-vs-quantum-computing-inc-045711797.html|IonQ vs. Quantum Computing Inc.: What Their Revenue Trends Tell Investors|1457369804613
+https://finance.yahoo.com/markets/stocks/articles/bbb-foods-tbbb-climbs-15-061845382.html|BBB Foods (TBBB) Climbs 15% on Investment Plan, Fundraising|1504711434969
+https://www.pv-magazine.com/2026/05/30/inauguran-en-chile-una-planta-hibrida-con-231-mwp-solares-y-un-bess-de-200-mw-13-gwh/|ContourGlobal inaugurates Chilean hybrid plant with 231 MW of solar and 200 MW/1.3 GWh BESS|1508514177221
