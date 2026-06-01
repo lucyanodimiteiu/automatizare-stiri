@@ -2200,3 +2200,7 @@ https://www.producthunt.com/products/folk-3|folk|https://image.pollinations.ai/p
 https://finance.yahoo.com/markets/stocks/articles/3-space-stocks-flying-under-195000777.html|3 Space Stocks Flying Under the Radar and Worth Buying This Month|1498050108023
 https://www.marketwatch.com/story/jerome-powell-warns-that-politicizing-fed-will-erode-its-credibility-34fa4f14?mod=mw_rss_topstories|Jerome Powell warns that politicizing Fed will erode its credibility|https://images.mktw.net/im-97079629
 https://www.pv-magazine.com/2026/06/01/unsw-device-converts-wasted-infrared-light-into-usable-energy/|Nanoscale device converts wasted infrared light from PV systems into usable energy|1519389950473
+https://www.producthunt.com/products/presentify|Presentify|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://www.investors.com/news/byd-tesla-xpeng-nio-stellantis-leapmotor-li-auto-sales-car-chinese-evs/?src=A00220&yptr=yahoo|China EV Makers Report Monthly Sales. BYD Barely Grows, XPeng Slumps.|1504711434969
+https://finance.yahoo.com/markets/stocks/articles/chatgpt-stock-portfolio-progressive-pgr-123021526.html|ChatGPT Stock Portfolio: Is Progressive (PGR) The Best Stock to Buy in 2026?|1457369804613
+https://www.marketwatch.com/story/a-volatility-spasm-is-set-to-give-the-toughest-test-yet-to-the-nine-week-old-stock-market-rally-1ab1af2e?mod=mw_rss_topstories|A ‘volatility spasm’ is set to provide the toughest test yet to the 9-week-old stock-market rally|https://images.mktw.net/im-88616146
