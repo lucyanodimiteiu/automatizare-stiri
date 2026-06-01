@@ -2192,3 +2192,7 @@ https://finance.yahoo.com/sectors/technology/articles/broadcom-inc-avgo-launches
 https://finance.yahoo.com/sectors/technology/articles/nvidia-corp-nvda-deepens-enterprise-230721355.html|Nvidia Corp. (NVDA) Deepens Enterprise AI Adoption Through ePlus Partnership|1677442135703
 https://www.marketwatch.com/story/oil-rises-u-s-stock-futures-dip-as-wall-street-looks-to-extend-its-winning-streak-2490f216?mod=mw_rss_topstories|Oil rises, U.S. stock futures flat as Wall Street looks to extend its winning streak|https://images.mktw.net/im-74430381
 https://www.theverge.com/games/938956/alienware-computex-tandem-qd-oled-penta-rgb-stripe-gaming-monitors-specs|The QD-OLED gaming monitor that started it all got a big upgrade|1495020689067
+https://finance.yahoo.com/markets/stocks/articles/jim-cramer-admits-whiffed-marvell-150821831.html|Jim Cramer Admits He “Whiffed” on Marvell Technology|https://image.pollinations.ai/prompt/Federal%20Reserve%20building%20exterior%20in%20Washington%20DC%
+https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d|AMD’s new pitch: our old tech is so good you should just keep using it|1504711434969
+https://techcrunch.com/2026/05/31/techcrunch-mobility-it-doesnt-matter-that-people-hate-the-ferrari-luce/|TechCrunch Mobility: It doesn’t matter that people hate the Ferrari Luce|1432821596592
+https://altfins.com/blog/grant-info/|Informácie o Projekte|1495020689067
