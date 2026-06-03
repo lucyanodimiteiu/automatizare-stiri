@@ -2260,3 +2260,7 @@ https://www.producthunt.com/products/franz-messenger|Franz 6|1457369804613
 https://www.investors.com/research/ibd-stock-of-the-day/caterpillar-cat-stock-of-the-day-ai-data-centers/?src=A00220&yptr=yahoo|Stock Of The Day, A Dow Jones Member And AI Play, Reaches Buy Point|1504711434969
 https://www.investors.com/news/technology/chip-stocks-marvell-amd-sox-index/?src=A00220&yptr=yahoo|Marvell, AMD Rally, Lead Chip Stocks To Record High|1601132359864
 https://www.marketwatch.com/story/oil-prices-rally-for-a-third-straight-day-as-peace-deal-hopes-teeter-6a0b1635?mod=mw_rss_topstories|Oil prices look to end at highest levels in over a week: ‘Oil tanks are getting emptier each week Hormuz stays closed’|https://images.mktw.net/im-20080665
+https://www.producthunt.com/products/replicas|Replicas|1620712943543
+https://finance.yahoo.com/markets/stocks/articles/impulse-space-raises-500-million-120504234.html|Impulse Space raises $500 million at $4.26 billion valuation as space investing surges|1504711434969
+https://finance.yahoo.com/markets/stocks/articles/invest-warren-buffett-buy-wide-120002687.html|Invest Like Warren Buffett and Buy Wide-Moat Stocks Via This ETF Ahead of a Major Market Shift|1520607162513
+https://www.marketwatch.com/story/marvells-stock-is-on-a-run-not-seen-in-a-quarter-century-as-the-tech-company-grows-in-stature-7884b9c3?mod=mw_rss_topstories|Marvell’s stock is on a run not seen in a quarter-century as the tech company grows in stature|https://images.mktw.net/im-251491
