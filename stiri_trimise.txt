@@ -2288,3 +2288,7 @@ https://www.producthunt.com/products/build-club|Build Club Campus|1495020689067
 https://finance.yahoo.com/sectors/technology/articles/cpu-demand-rapidly-rising-amid-161121648.html|CPU Demand Rapidly Rising Amid Expanding Agentic AI, Says Barclays, Raises PT On Advanced Micro (AMD) To $665|1432821596592
 https://finance.yahoo.com/markets/stocks/articles/lumentum-holdings-lite-announces-650-161120112.html|Lumentum Holdings (LITE) Announces $650.4 Million Private Share Exchange Transaction|1432821596592
 https://www.marketwatch.com/story/elon-musks-spacex-paid-to-secure-its-ticker-symbol-ahead-of-blockbuster-ipo-61a57e6b?mod=mw_rss_topstories|Elon Musk’s SpaceX paid to secure its ticker symbol ahead of blockbuster IPO|https://images.mktw.net/im-79898000
+https://www.producthunt.com/products/extella-ai|Extella.AI|1461749280684
+https://finance.yahoo.com/markets/stocks/articles/evercore-isi-raises-price-target-082006105.html|Evercore ISI Raises Price Target on Apple (AAPL) Amid AI and Services Growth Expectations|1586339949916
+https://finance.yahoo.com/markets/stocks/articles/hsbc-upgrades-cisco-systems-csco-082011875.html|HSBC Upgrades Cisco Systems (CSCO) on Surging AI Infrastructure Demand|1457369804613
+https://www.marketwatch.com/story/youre-over-40-and-laid-off-is-it-age-discrimination-what-you-can-do-03d02ea2?mod=mw_rss_topstories|Think you are facing age discrimination? Don’t get bitter, do this.|https://images.mktw.net/im-89961689
