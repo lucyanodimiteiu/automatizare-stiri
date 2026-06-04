@@ -2276,3 +2276,7 @@ https://www.producthunt.com/products/elentaria|Elentaria|1593508512255
 https://finance.yahoo.com/markets/crypto/articles/charles-schwab-unveils-24-7-185400016.html|Charles Schwab Unveils 24/7 Crypto Futures Trading|1622630998477
 https://finance.yahoo.com/markets/stocks/articles/69-old-furniture-store-chain-170700563.html|69-year-old furniture store chain files for Chapter 11 bankruptcy|1432821596592
 https://www.marketwatch.com/story/about-95-of-day-traders-lose-money-but-a-new-rule-will-make-it-easier-to-do-so-anyway-b576498b?mod=mw_rss_topstories|Only 5% of day traders make money, but the SEC is now making it easier for more people to try it anyway|https://images.mktw.net/im-73942616
+https://www.producthunt.com/products/curata-3|Curata|1581091226825
+https://finance.yahoo.com/sectors/technology/articles/australias-megaport-secures-four-ai-221757083.html|Megaport secures 4 AI deals, to raise $594 million to build inference cloud|1504711434969
+https://finance.yahoo.com/markets/crypto/articles/bitcoin-cant-compete-ai-trade-222214239.html|Bitcoin Can't Compete With the AI Trade|1457369804613
+https://www.marketwatch.com/story/maxed-out-on-tsmc-samsung-and-sk-hynix-what-emerging-market-funds-are-buying-now-baf9e828?mod=mw_rss_topstories|Maxed out on TSMC, Samsung and SK Hynix, what emerging-market funds are buying now|https://images.mktw.net/im-45486902
