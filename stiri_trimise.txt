@@ -2272,3 +2272,7 @@ https://www.producthunt.com/products/town|Town|1518770660439
 https://finance.yahoo.com/markets/stocks/articles/evaluating-zoom-zm-event-driven-135756745.html|Evaluating Zoom’s (ZM) Event-Driven Trade|1586339949916
 https://finance.yahoo.com/markets/stocks/articles/stocks-pressured-uncertainty-us-iran-140850036.html|Stocks Pressured by Uncertainty of US-Iran Ceasefire Prospects|1504711434969
 https://www.marketwatch.com/story/quantinuum-raises-1-68-billion-in-ipo-that-seeks-to-give-quantum-computing-more-street-cred-8b7d7e16?mod=mw_rss_topstories|Quantinuum raises $1.68 billion in IPO that seeks to give quantum computing more street cred|https://images.mktw.net/im-87360680
+https://www.producthunt.com/products/elentaria|Elentaria|1593508512255
+https://finance.yahoo.com/markets/crypto/articles/charles-schwab-unveils-24-7-185400016.html|Charles Schwab Unveils 24/7 Crypto Futures Trading|1622630998477
+https://finance.yahoo.com/markets/stocks/articles/69-old-furniture-store-chain-170700563.html|69-year-old furniture store chain files for Chapter 11 bankruptcy|1432821596592
+https://www.marketwatch.com/story/about-95-of-day-traders-lose-money-but-a-new-rule-will-make-it-easier-to-do-so-anyway-b576498b?mod=mw_rss_topstories|Only 5% of day traders make money, but the SEC is now making it easier for more people to try it anyway|https://images.mktw.net/im-73942616
