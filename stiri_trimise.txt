@@ -2284,3 +2284,7 @@ https://www.producthunt.com/products/cignara|Cignara|1531746790731
 https://finance.yahoo.com/sectors/healthcare/articles/solventum-corporation-solv-fell-hcit-131703220.html|Solventum Corporation (SOLV) Fell as Its HCIT Unit Hurt by AI Disruption Fears|1495020689067
 https://finance.yahoo.com/markets/live/stock-market-today-dow-jumps-nasdaq-sinks-after-broadcom-earnings-flop-230054846.html|Stock market today: Dow jumps, Nasdaq sinks after Broadcom earnings flop|1526304640581
 https://www.marketwatch.com/story/tech-is-flashing-a-warning-sign-last-seen-in-2020-strategist-larry-mcdonald-sees-a-massive-rotation-coming-c8d5a2fe?mod=mw_rss_topstories|Tech is flashing a warning sign last seen in 2020. Strategist Larry McDonald sees a massive rotation coming.|https://images.mktw.net/im-23959201
+https://www.producthunt.com/products/build-club|Build Club Campus|1495020689067
+https://finance.yahoo.com/sectors/technology/articles/cpu-demand-rapidly-rising-amid-161121648.html|CPU Demand Rapidly Rising Amid Expanding Agentic AI, Says Barclays, Raises PT On Advanced Micro (AMD) To $665|1432821596592
+https://finance.yahoo.com/markets/stocks/articles/lumentum-holdings-lite-announces-650-161120112.html|Lumentum Holdings (LITE) Announces $650.4 Million Private Share Exchange Transaction|1432821596592
+https://www.marketwatch.com/story/elon-musks-spacex-paid-to-secure-its-ticker-symbol-ahead-of-blockbuster-ipo-61a57e6b?mod=mw_rss_topstories|Elon Musk’s SpaceX paid to secure its ticker symbol ahead of blockbuster IPO|https://images.mktw.net/im-79898000
