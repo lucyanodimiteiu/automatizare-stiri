@@ -2280,3 +2280,7 @@ https://www.producthunt.com/products/curata-3|Curata|1581091226825
 https://finance.yahoo.com/sectors/technology/articles/australias-megaport-secures-four-ai-221757083.html|Megaport secures 4 AI deals, to raise $594 million to build inference cloud|1504711434969
 https://finance.yahoo.com/markets/crypto/articles/bitcoin-cant-compete-ai-trade-222214239.html|Bitcoin Can't Compete With the AI Trade|1457369804613
 https://www.marketwatch.com/story/maxed-out-on-tsmc-samsung-and-sk-hynix-what-emerging-market-funds-are-buying-now-baf9e828?mod=mw_rss_topstories|Maxed out on TSMC, Samsung and SK Hynix, what emerging-market funds are buying now|https://images.mktw.net/im-45486902
+https://www.producthunt.com/products/cignara|Cignara|1531746790731
+https://finance.yahoo.com/sectors/healthcare/articles/solventum-corporation-solv-fell-hcit-131703220.html|Solventum Corporation (SOLV) Fell as Its HCIT Unit Hurt by AI Disruption Fears|1495020689067
+https://finance.yahoo.com/markets/live/stock-market-today-dow-jumps-nasdaq-sinks-after-broadcom-earnings-flop-230054846.html|Stock market today: Dow jumps, Nasdaq sinks after Broadcom earnings flop|1526304640581
+https://www.marketwatch.com/story/tech-is-flashing-a-warning-sign-last-seen-in-2020-strategist-larry-mcdonald-sees-a-massive-rotation-coming-c8d5a2fe?mod=mw_rss_topstories|Tech is flashing a warning sign last seen in 2020. Strategist Larry McDonald sees a massive rotation coming.|https://images.mktw.net/im-23959201
