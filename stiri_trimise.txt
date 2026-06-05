@@ -2308,3 +2308,7 @@ https://www.producthunt.com/products/astra-security|Astra Autonomous Pentest|151
 https://finance.yahoo.com/markets/stocks/articles/memory-chips-rage-markets-micron-160000501.html|Memory chips are all the rage in markets, with Micron and SK Hynix becoming trillion-dollar companies|1611974789855
 https://finance.yahoo.com/sectors/energy/articles/eog-resources-stock-eog-underperforming-160306464.html|EOG Resources Stock: Is EOG Underperforming the Energy Sector?|1473341304170
 https://www.marketwatch.com/story/my-older-sister-and-i-co-own-a-home-where-my-son-lives-what-happens-if-she-dies-2913b928?mod=mw_rss_topstories|I own a house with my sister, but the mortgage is in her name. Could this come back to bite me?|https://images.mktw.net/im-17462636
+https://www.producthunt.com/products/treadmill-pro|Treadmill Pro|1457369804613
+https://finance.yahoo.com/markets/stocks/articles/anthropic-scales-most-powerful-ai-033300925.html|Anthropic scales its most powerful AI a day after filing to IPO|1457369804613
+https://finance.yahoo.com/markets/crypto/articles/circle-stock-slips-stripe-visa-204350840.html|Circle Stock Slips as Stripe, Visa, Mastercard Explore Stablecoin Platform|1639762681485
+https://www.marketwatch.com/story/one-quadrillion-is-the-number-used-to-describe-the-wealth-effect-of-south-koreas-stock-market-miracle-8ecad9dd?mod=mw_rss_topstories|One quadrillion is the number used to describe the wealth effect of South Korea’s stock-market miracle|https://images.mktw.net/im-62414836
