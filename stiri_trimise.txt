@@ -2332,3 +2332,7 @@ https://www.producthunt.com/products/moodloom|Moodloom|1581091226825
 https://www.wsj.com/economy/jobs/technology-sector-leads-u-s-layoff-plans-ae1d722d?siteid=yhoof2&yptr=yahoo|Technology Sector Leads U.S. Layoff Plans|1495020689067
 https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-plunge-broadcom-sinks-103616197.html|Nasdaq Futures Plunge as Broadcom Sinks on Disappointing AI Chip Sales Forecast|1457369804613
 https://www.marketwatch.com/story/this-credit-card-pointsmaxxer-booked-a-16-000-first-class-emirates-flight-for-400-and-you-can-too-46f99294?mod=mw_rss_topstories|How this traveler booked a $16,000 first-class Emirates flight for $400 — and you can, too|https://images.mktw.net/im-21314263
+https://www.producthunt.com/products/leni|Leni|1531746790731
+https://www.investors.com/news/technology/ibm-stock-google-cloud-ai-partnership/?src=A00220&yptr=yahoo|IBM Stock Rises As Tech Giant Enters Cloud Partnership On Agentic AI With Google|1504711434969
+https://finance.yahoo.com/markets/stocks/articles/salesforce-stock-buy-underrated-ai-142501700.html|Salesforce Stock: Buy the Underrated AI Company Now as Pessimism Peaks|1432821596592
+https://www.marketwatch.com/story/bitcoin-is-suffering-from-an-attention-deficit-as-momentum-traders-have-moved-on-17d2c140?mod=mw_rss_topstories|Bitcoin is suffering from an ‘attention’ deficit, as momentum traders have moved on|https://images.mktw.net/im-50412126
