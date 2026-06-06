@@ -2356,3 +2356,7 @@ https://www.producthunt.com/products/qwertys|QWERTYS|1677442135703
 https://finance.yahoo.com/markets/stocks/articles/alphabet-inc-best-goldman-sachs-084007616.html|Is Alphabet Inc. the Best Goldman Sachs Tech Stock to Buy Now?|1495020689067
 https://finance.yahoo.com/markets/stocks/articles/far-micron-technology-mu-susquehanna-081021079.html|How Far Can Micron Technology (MU) Go? Susquehanna Sees Over 80% Upside|1586339949916
 https://www.marketwatch.com/story/marvell-micron-shares-tumble-as-the-chip-sector-suffers-its-worst-day-in-6-years-a7c1701a?mod=mw_rss_topstories|Marvell, Micron shares tumble as the chip sector suffers its worst day in 6 years|https://images.mktw.net/im-41304049
+https://www.producthunt.com/products/manus-shopify-connector|Manus Shopify Connector|1498050108023
+https://finance.yahoo.com/economy/policy/articles/fed-chairman-kevin-warsh-now-101900872.html|New Fed Chairman Kevin Warsh Is Now in a Position Where Rate Cuts Are Virtually Impossible, and the Stock Market Could Pay the Price|1519389950473
+https://finance.yahoo.com/markets/stocks/articles/ai-bubble-looks-fit-burst-103000477.html|The AI bubble looks fit to burst, Bank of America director says. Here’s your road map for riding out a crash|1504711434969
+https://www.marketwatch.com/story/apples-wwdc-will-be-a-make-or-break-moment-for-the-companys-fledgling-ai-strategy-42086cc1?mod=mw_rss_topstories|Apple’s WWDC will be a make-or-break moment for the company’s fledgling AI strategy|https://images.mktw.net/im-69111944
