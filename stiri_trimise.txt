@@ -2420,3 +2420,7 @@ https://www.producthunt.com/products/free-job-postings-api|Job Postings API|1620
 https://finance.yahoo.com/economy/articles/75-u-homes-now-unaffordable-133002794.html|75% of U.S. Homes are Now Unaffordable as Dave Ramsey Calls This ‘The Most Unrealistic Real Estate Market in 100 Years’|1611974789855
 https://finance.yahoo.com/markets/stocks/articles/stock-market-verge-doing-something-132600062.html|The Stock Market Is on the Verge of Doing Something Not Witnessed in 155 Years -- and the Implications for Wall Street Are Frightening|1504711434969
 https://www.digi24.ro/stiri/economie/finante-economie/cristian-paun-despre-pilonul-ii-e-proprietate-privata-orice-interventie-ar-genera-scandal-urias-si-ar-distruge-increderea-in-stat-3804265|Cristian Păun despre Pilonul II: „E proprietate privată; orice intervenție ar genera scandal uriaș și ar distruge încrederea în stat”|1432821596592
+https://www.producthunt.com/products/wave-16|Wave|1655720031554
+https://finance.yahoo.com/markets/stocks/articles/spacex-1-75-trillion-ipo-163111038.html|Will SpaceX’s $1.75 Trillion IPO Valuation Survive Friday’s Market Rout?|1535320903710
+https://finance.yahoo.com/markets/stocks/articles/pagaya-technologies-ltd-pgy-good-145821931.html|Is Pagaya Technologies Ltd. (PGY) A Good Stock To Buy Now?|1495020689067
+https://www.marketwatch.com/story/these-are-the-markets-new-hot-stocks-as-investors-flee-from-tech-826096c2?mod=mw_rss_topstories|These are the market’s new hot stocks as investors flee from tech|https://images.mktw.net/im-55764909
