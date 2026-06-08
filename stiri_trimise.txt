@@ -2460,3 +2460,7 @@ https://www.producthunt.com/products/vaani-2|Vaani|1677442135703
 https://finance.yahoo.com/markets/crypto/articles/bernstein-says-bitcoin-store-value-135400617.html|Bernstein Says Bitcoin’s ‘Store Of Value’ Thesis Remains Intact|1504711434969
 https://finance.yahoo.com/markets/crypto/articles/bitmine-makes-biggest-ethereum-purchase-135300568.html|Bitmine Makes Biggest Ethereum Purchase Of 2026|1432821596592
 https://www.marketwatch.com/story/microns-stock-bounces-back-in-a-big-way-the-memory-trade-is-alive-and-well-3466929f?mod=mw_rss_topstories|Micron’s stock bounces back in a big way: ‘The memory trade is alive and well’|https://images.mktw.net/im-40268001
+https://www.producthunt.com/products/honen|Honen|1519389950473
+https://finance.yahoo.com/markets/stocks/articles/lam-research-lrcx-raises-wfe-171218986.html|Lam Research (LRCX) Raises WFE Forecast at BofA Global Technology Conference|1498050108023
+https://finance.yahoo.com/markets/stocks/articles/crispr-therapeutics-2-4-billion-171300687.html|CRISPR Therapeutics Has $2.4 Billion in Cash and an Approved Drug. Why Is Its Stock Trading Nearly 40% Below the Wall Street Consensus?|1432821596592
+https://www.marketwatch.com/story/filed-an-extension-for-your-income-taxes-the-irs-is-still-charging-you-fdea68a0?mod=mw_rss_topstories|Filed an extension for your income taxes? The IRS is still charging you.|https://images.mktw.net/im-16245233
