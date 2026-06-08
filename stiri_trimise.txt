@@ -2468,3 +2468,7 @@ https://www.producthunt.com/products/sigma-file-manager|Sigma File Manager|14950
 https://finance.yahoo.com/markets/stocks/articles/companies-essentially-failing-experts-warn-101500369.html|'Companies are essentially failing': Experts warn of disturbing disparity between 'old' and 'new' stocks. How to cash in|1432821596592
 https://finance.yahoo.com/markets/stocks/articles/bank-america-says-only-20-111500384.html|Bank of America says only 20 S&P 500 stocks hit record highs in May — the same number as the dot-com bubble peak in 2000|1457369804613
 https://www.marketwatch.com/story/your-next-videogame-console-could-cost-1-000-and-it-has-nothing-to-do-with-better-hardware-8cb180dd?mod=mw_rss_topstories|Is your tech portfolio on the wrong side of the AI boom? Why a $1,000 videogame console will squeeze hardware stocks.|https://images.mktw.net/im-629110
+https://www.producthunt.com/products/browserbase|Browse.sh|1620712943543
+https://finance.yahoo.com/sectors/technology/articles/business-ai-facing-4-harsh-124203140.html|The business of AI is facing 4 harsh realities|1495020689067
+https://finance.yahoo.com/markets/article/ai-stock-mania-is-taking-over-the-markets-in-2026-123000964.html|AI stock mania is taking over the markets in 2026|1586339949916
+https://www.marketwatch.com/story/eli-lilly-stock-jumps-after-late-stage-trial-of-next-generation-weight-loss-drug-edfae9a2?mod=mw_rss_topstories|Eli Lilly stock rises after late-stage trial of next-generation weight-loss drug|https://images.mktw.net/im-38580764
