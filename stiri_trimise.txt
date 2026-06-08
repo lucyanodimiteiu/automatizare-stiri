@@ -2472,3 +2472,7 @@ https://www.producthunt.com/products/browserbase|Browse.sh|1620712943543
 https://finance.yahoo.com/sectors/technology/articles/business-ai-facing-4-harsh-124203140.html|The business of AI is facing 4 harsh realities|1495020689067
 https://finance.yahoo.com/markets/article/ai-stock-mania-is-taking-over-the-markets-in-2026-123000964.html|AI stock mania is taking over the markets in 2026|1586339949916
 https://www.marketwatch.com/story/eli-lilly-stock-jumps-after-late-stage-trial-of-next-generation-weight-loss-drug-edfae9a2?mod=mw_rss_topstories|Eli Lilly stock rises after late-stage trial of next-generation weight-loss drug|https://images.mktw.net/im-38580764
+https://www.producthunt.com/products/ntsc-rs|NTSC-RS|1655720031554
+https://finance.yahoo.com/markets/crypto/articles/cryptocurrency-exchange-bybit-open-spacex-144043401.html|Cryptocurrency exchange Bybit to open SpaceX tokenized IPO access|1639762681485
+https://finance.yahoo.com/markets/stocks/articles/petco-faces-tough-competition-momentum-142500425.html|Petco Faces Tough Competition, But Momentum Is Building|1432821596592
+https://www.marketwatch.com/story/elon-musk-says-spacex-doesnt-need-magic-to-put-ai-data-centers-up-in-space-30f2d564?mod=mw_rss_topstories|Elon Musk says SpaceX doesn’t need ‘magic’ to put AI data centers up in space|https://images.mktw.net/im-71362137
