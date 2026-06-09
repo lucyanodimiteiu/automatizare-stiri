@@ -2476,3 +2476,7 @@ https://www.producthunt.com/products/ntsc-rs|NTSC-RS|1655720031554
 https://finance.yahoo.com/markets/crypto/articles/cryptocurrency-exchange-bybit-open-spacex-144043401.html|Cryptocurrency exchange Bybit to open SpaceX tokenized IPO access|1639762681485
 https://finance.yahoo.com/markets/stocks/articles/petco-faces-tough-competition-momentum-142500425.html|Petco Faces Tough Competition, But Momentum Is Building|1432821596592
 https://www.marketwatch.com/story/elon-musk-says-spacex-doesnt-need-magic-to-put-ai-data-centers-up-in-space-30f2d564?mod=mw_rss_topstories|Elon Musk says SpaceX doesn’t need ‘magic’ to put AI data centers up in space|https://images.mktw.net/im-71362137
+https://www.producthunt.com/products/supaste|Supaste|1518770660439
+https://finance.yahoo.com/markets/article/companies-are-cashing-in-on-consumers-unwillingness-to-bargain-shop-131126071.html|Companies are cashing in on consumers' unwillingness to bargain shop|1586339949916
+https://finance.yahoo.com/markets/stocks/articles/defense-spending-surging-misl-bets-123956145.html|Defense Spending Is Surging. MISL Bets on Tech. ITA Bets on Tradition.|1432821596592
+https://www.marketwatch.com/story/openai-files-confidentially-for-ipo-but-theres-a-catch-3f13fc13?mod=mw_rss_topstories|OpenAI files confidentially for IPO — but there’s a catch|https://images.mktw.net/im-42876452
