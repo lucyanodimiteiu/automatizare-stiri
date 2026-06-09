@@ -2488,3 +2488,7 @@ https://www.producthunt.com/products/agentos-run-agents-like-a-company|AgentOS|1
 https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-mint-millionaire-welders-205809171.html|SpaceX IPO to Mint Millionaire Welders as Experts Warn of Post-Listing Slumps|1586339949916
 https://finance.yahoo.com/sectors/energy/articles/post-war-oil-trade-could-210000522.html|Post-War Oil Trade Could Look Nothing Like It Did Before Hormuz|1526778548025
 https://www.marketwatch.com/story/gsk-just-announced-its-biggest-purchase-in-eight-years-to-rev-up-cancer-portfolio-it-had-previously-wound-down-a95e6065?mod=mw_rss_topstories|GSK just announced its biggest purchase in eight years to rev up cancer portfolio it had previously wound down|https://images.mktw.net/im-45781033
+https://www.producthunt.com/products/vcboom|VC Boom|1531746790731
+https://finance.yahoo.com/markets/stocks/articles/carlyle-finalises-2-8bn-acquisition-113512302.html|Carlyle finalises $2.8bn acquisition of majority stake in MAI Capital|1432821596592
+https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-ai-trade-takes-center-stage-225640973.html|Stock market today: Dow, S&P 500, Nasdaq futures rise as AI trade takes center stage|1586339949916
+https://www.marketwatch.com/story/oracles-stock-has-surged-on-ai-hype-now-it-has-to-deliver-the-earnings-to-match-3b56592b?mod=mw_rss_topstories|Oracle’s stock has surged on AI hype. Now it has to deliver the earnings to match.|https://images.mktw.net/im-49193114
