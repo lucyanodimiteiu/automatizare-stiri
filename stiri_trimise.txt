@@ -2492,3 +2492,7 @@ https://www.producthunt.com/products/vcboom|VC Boom|1531746790731
 https://finance.yahoo.com/markets/stocks/articles/carlyle-finalises-2-8bn-acquisition-113512302.html|Carlyle finalises $2.8bn acquisition of majority stake in MAI Capital|1432821596592
 https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-ai-trade-takes-center-stage-225640973.html|Stock market today: Dow, S&P 500, Nasdaq futures rise as AI trade takes center stage|1586339949916
 https://www.marketwatch.com/story/oracles-stock-has-surged-on-ai-hype-now-it-has-to-deliver-the-earnings-to-match-3b56592b?mod=mw_rss_topstories|Oracle’s stock has surged on AI hype. Now it has to deliver the earnings to match.|https://images.mktw.net/im-49193114
+https://www.producthunt.com/products/reve-2-0|Reve 2.0|1586339949916
+https://finance.yahoo.com/economy/articles/56-old-beloved-fast-food-005500959.html|56-year-old beloved fast-food chain closes over 700 locations|1432821596592
+https://finance.yahoo.com/markets/article/a-gangnam-style-stock-gets-an-ai-sequel-chart-of-the-day-135037570.html|A 'Gangnam Style' stock gets an AI sequel: Chart of the Day|1586339949916
+https://www.marketwatch.com/story/washington-is-quietly-changing-the-rules-for-americas-railroads-and-the-timing-couldnt-be-worse-5a12538a?mod=mw_rss_topstories|Washington is quietly changing the rules for this vital American industry — and the timing couldn’t be worse|https://images.mktw.net/im-45214215
