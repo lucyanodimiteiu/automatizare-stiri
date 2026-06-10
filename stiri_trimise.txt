@@ -2516,3 +2516,7 @@ https://www.producthunt.com/products/orchestraml|OrchestraML|1498050108023
 https://finance.yahoo.com/economy/articles/giant-winemaker-closes-historic-winery-231314312.html|Giant winemaker closes historic winery facility, lays off staff|1519389950473
 https://finance.yahoo.com/sectors/technology/articles/samsara-raises-guidance-amid-data-155907233.html|Samsara raises guidance amid data center boom|1432821596592
 https://www.marketwatch.com/story/this-investing-strategy-has-beaten-the-market-with-exposure-to-cheap-ai-stocks-5e743b12?mod=mw_rss_topstories|This stock-market strategy has cheap exposure to AI and points to an advantage for closed-end funds|https://images.mktw.net/im-62163141
+https://www.producthunt.com/products/agentcad|agentcad|1457369804613
+https://www.investors.com/research/ai-stock-comfort-systems-fix-stock/?src=A00220&yptr=yahoo|This AI Stock Took Sell-Off In Stride. It's At A New Buy Point.|1457369804613
+https://finance.yahoo.com/economy/policy/articles/humans-suddenly-look-better-ai-164000956.html|Humans suddenly look better than AI when it comes to company costs — at least for now. Here’s the surprising change|1586339949916
+https://www.marketwatch.com/story/this-proposed-federal-budget-cut-could-eliminate-job-training-for-42-000-vulnerable-seniors-2520ac73?mod=mw_rss_topstories|This proposed federal budget cut could eliminate job training for 42,000 vulnerable seniors|https://images.mktw.net/im-09237562
