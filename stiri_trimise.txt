@@ -2540,3 +2540,7 @@ https://www.producthunt.com/products/agnt-hub|AGNT.Hub|1581091226825
 https://finance.yahoo.com/sectors/healthcare/articles/investors-finally-sick-ai-stocks-130003472.html|When Investors Finally Get Sick of AI Stocks, This Medical Devices ETF Could Be a Long-Term Winner|1504711434969
 https://finance.yahoo.com/sectors/energy/articles/magnolia-oil-gas-mgy-gained-131310932.html|Magnolia Oil & Gas (MGY) Gained From Energy Sector Rally|1432821596592
 https://www.marketwatch.com/story/nike-has-just-had-its-stock-downgraded-one-day-before-the-world-cup-starts-0ac8cd74?mod=mw_rss_topstories|Why Nike saw its stock downgraded a day before the World Cup’s kickoff|https://images.mktw.net/im-61601204
+https://www.producthunt.com/products/blenderhunt|BlenderHunt|1531746790731
+https://finance.yahoo.com/markets/stocks/articles/unrealized-potential-microsoft-msft-role-145532014.html|Unrealized Potential of Microsoft Corporation’s (MSFT) Role in Advancing Agentic AI|1457369804613
+https://finance.yahoo.com/markets/stocks/articles/market-approves-netflix-nflx-withdrawal-145216411.html|Market Approves Netflix’s (NFLX) Withdrawal from the Acquisition|1535320903710
+https://www.marketwatch.com/story/oracles-stock-slides-after-earnings-as-the-steep-price-of-ai-spooks-investors-0653b309?mod=mw_rss_topstories|Oracle’s stock slides after earnings, as the steep price of AI spooks investors|https://images.mktw.net/im-32079769
