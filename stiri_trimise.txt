@@ -2520,3 +2520,7 @@ https://www.producthunt.com/products/agentcad|agentcad|1457369804613
 https://www.investors.com/research/ai-stock-comfort-systems-fix-stock/?src=A00220&yptr=yahoo|This AI Stock Took Sell-Off In Stride. It's At A New Buy Point.|1457369804613
 https://finance.yahoo.com/economy/policy/articles/humans-suddenly-look-better-ai-164000956.html|Humans suddenly look better than AI when it comes to company costs — at least for now. Here’s the surprising change|1586339949916
 https://www.marketwatch.com/story/this-proposed-federal-budget-cut-could-eliminate-job-training-for-42-000-vulnerable-seniors-2520ac73?mod=mw_rss_topstories|This proposed federal budget cut could eliminate job training for 42,000 vulnerable seniors|https://images.mktw.net/im-09237562
+https://www.producthunt.com/products/iart-ai|iArt.ai|1620712943543
+https://finance.yahoo.com/video/spacex-openai-ipo-wave-investors-175555019.html|The SpaceX–OpenAI IPO wave: What investors must do now|1432821596592
+https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-marvell-stock-mrvl/?src=A00220&yptr=yahoo|Stock Market Today: Nasdaq Ends Higher In Recovery Move, Dow Dips; Apple Sinks On AI News|1586339949916
+https://www.marketwatch.com/story/the-spacex-ipo-could-lead-to-8-of-americas-current-account-deficit-being-refinanced-in-single-day-a013a428?mod=mw_rss_topstories|The SpaceX IPO could lead to 8% of America’s current-account deficit being refinanced in a single day|https://images.mktw.net/im-20946149
