@@ -2552,3 +2552,7 @@ https://www.producthunt.com/products/incorruptible-by-eric-ries|Incorruptible by
 https://finance.yahoo.com/economy/policy/articles/us-trade-deficit-narrows-april-124152789.html|Record petroleum exports help to shrink US trade deficit in April|1639762681485
 https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-one-best-nasdaq-172408352.html|Is Broadcom (AVGO) One of the Best NASDAQ Stocks to Buy and Hold for 3 Years?|1504711434969
 https://www.marketwatch.com/story/my-elderly-mother-and-i-own-a-home-together-will-medicaid-force-its-sale-fdfbad4a?mod=mw_rss_topstories|My elderly mother and I own a home together. Will Medicaid force its sale?|https://images.mktw.net/im-22467075
+https://www.producthunt.com/products/journey-now|Journey Now|1495020689067
+https://finance.yahoo.com/personal-finance/mortgages/article/is-the-housing-market-going-to-crash-in-2026-learn-what-experts-predict-170038773.html|Is the housing market going to crash in 2026? Learn what experts predict.|1526304640581
+https://finance.yahoo.com/sectors/energy/articles/manhattan-uranium-gains-approval-advance-194524444.html|Manhattan Uranium Gains Approval to Advance Drilling at Nevada Uranium Project|1495020689067
+https://www.marketwatch.com/story/chatgpt-price-war-report-comes-as-data-shows-ai-usage-already-tailing-off-0ab2f174?mod=mw_rss_topstories|ChatGPT price-war report comes as data shows AI usage already tailing off|https://images.mktw.net/im-58661209
