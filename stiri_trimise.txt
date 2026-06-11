@@ -2568,3 +2568,7 @@ https://www.producthunt.com/products/terminal-mode-by-even-realities|Terminal Mo
 https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-oracle-positioned-094244679.html|Jim Cramer Explains How Oracle Positioned Itself Ahead of the Hyperscaler Fundraising Boom|1498050108023
 https://finance.yahoo.com/markets/article/spacex-fever-is-testing-the-chip-trade-chart-of-the-day-100000045.html|SpaceX fever is testing the chip trade: Chart of the Day|1601132359864
 https://www.marketwatch.com/story/foster-children-are-getting-their-own-version-of-trump-accounts-but-major-questions-remain-a755290e?mod=mw_rss_topstories|Foster children are getting their own version of ‘Trump accounts,’ but major questions remain|https://images.mktw.net/im-94179605
+https://www.producthunt.com/products/asmi-ai|Asmi AI|1504711434969
+https://finance.yahoo.com/markets/stocks/articles/aar-corp-air-gaining-aging-135654905.html|AAR Corp (AIR) is Gaining from an Aging Fleet of Airplanes|1586339949916
+https://finance.yahoo.com/economy/policy/articles/ve-recovered-millions-lost-revenue-143000986.html|I’ve Recovered Millions in Lost Revenue for Businesses. Here’s What Leaders Must Focus on During Economic Uncertainty|1586339949916
+https://www.marketwatch.com/story/we-asked-ai-to-predict-the-2026-world-cup-winner-it-picked-something-that-has-never-happened-53231520?mod=mw_rss_topstories|We asked AI to predict the 2026 World Cup winner. It picked a team that’s never won.|https://images.mktw.net/im-08183921
