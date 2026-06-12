@@ -2604,3 +2604,7 @@ https://www.producthunt.com/products/firma-dev|Firma.dev|1457369804613
 https://finance.yahoo.com/markets/stocks/articles/qualys-qlys-weather-ai-challenges-150022969.html|Can Qualys (QLYS) Weather AI Challenges?|1586339949916
 https://finance.yahoo.com/markets/stocks/articles/ai-infrastructure-stock-650-wall-150050612.html|This AI Infrastructure Stock Is Up 650% This Year. Wall Street Still Sees More Upside.|1504711434969
 https://www.marketwatch.com/story/how-elon-musk-nailed-the-spacex-ipo-im-not-sure-that-this-could-have-gone-much-better-8149d479?mod=mw_rss_topstories|How Elon Musk nailed the SpaceX IPO: ‘I’m not sure that this could have gone much better’|https://images.mktw.net/im-96641209
+https://www.producthunt.com/products/medicyn|Medicyn|1461749280684
+https://finance.yahoo.com/sectors/energy/articles/gm-stock-alert-know-general-163116797.html|GM Stock Alert: What to Know as General Motors Announces Energy Storage Pivot|1473341304170
+https://finance.yahoo.com/markets/stocks/articles/florida-man-selling-2-6-164500038.html|A Florida man is selling his $2.6 million home — and will accept OpenAI, Anthropic or SpaceX stock as payment|1495020689067
+https://www.marketwatch.com/story/this-hidden-investing-flaw-is-costing-you-money-talking-to-political-opponents-fixes-it-fc1f7be3?mod=mw_rss_topstories|This hidden investing flaw is costing you money. Talking to political opponents fixes it.|https://images.mktw.net/im-86423466
