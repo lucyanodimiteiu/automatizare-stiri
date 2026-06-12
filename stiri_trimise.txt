@@ -2592,3 +2592,7 @@ https://www.producthunt.com/products/keep-8|Keep|1581091226825
 https://finance.yahoo.com/sectors/healthcare/articles/charles-river-labs-crl-pulled-152635926.html|Charles River Labs (CRL) Pulled Back Due to AI Disruption Fears|1586339949916
 https://finance.yahoo.com/markets/stocks/articles/spacex-stock-now-trading-buy-152500858.html|SpaceX Stock Is Now Trading. Should You Buy SPCX Today?|1457369804613
 https://www.marketwatch.com/story/it-seems-too-good-to-be-true-at-a-steak-dinner-retirement-seminar-the-guy-said-annuities-can-outperform-the-market-is-that-true-33e11b0a?mod=mw_rss_topstories|‘It seems too good to be true’: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?|https://images.mktw.net/im-09446228
+https://www.producthunt.com/products/bob-s-cli|Bob's CLI|1531746790731
+https://finance.yahoo.com/markets/stocks/articles/ai-bubble-looks-fit-burst-171500617.html|The AI bubble looks fit to burst, Bank of America director says. Here’s your road map for riding out a crash|1432821596592
+https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-iran-deal-spacex-ipo-spcx-stock/?src=A00220&yptr=yahoo|Stock Market Today: Dow Leads On Iran Deal Hopes; SpaceX Bolts Up On First Day Of Trading (Live Coverage)|1504711434969
+https://www.marketwatch.com/story/amd-is-seen-as-a-cpu-stock-but-its-gaining-ground-here-too-69a55e0f?mod=mw_rss_topstories|AMD is seen as a CPU stock — but it’s gaining ground here, too|https://images.mktw.net/im-34746867
