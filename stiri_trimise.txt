@@ -2636,3 +2636,7 @@ https://finance.yahoo.com/markets/stocks/articles/genesis-energy-l-p-gel-1553487
 https://www.digi24.ro/stiri/economie/suntem-mai-predispusi-la-socuri-fmi-avertizeaza-zona-euro-relaxarea-fiscala-suplimentara-ar-putea-alimenta-problemele-economice-3811371|„Suntem mai predispuși la șocuri”. FMI avertizează zona euro: „Relaxarea fiscală suplimentară ar putea alimenta problemele economice”|1457369804613
 https://www.pv-magazine.com/2026/06/12/trinasolar-launches-620-w-topcon-shield-module-for-north-american-market/|Trinasolar launches 620 W TOPCon ‘Shield’ module for North American market|1457369804613
 https://hackaday.com/2026/06/13/gentleos-a-simple-os-for-your-old-pc/|GentleOS, A Simple OS For Your Old PC|https://hackaday.com/wp-content/uploads/2026/06/gentleos-featured.jpg?w=800
+https://www.producthunt.com/products/plenx-plex-client-for-nintendo-switch|pleNx — Plex client for Nintendo Switch|1593508512255
+https://finance.yahoo.com/markets/stocks/articles/rosenblatt-raises-price-target-walt-171411938.html|Rosenblatt Raises its Price Target on The Walt Disney Company (DIS)|1586339949916
+https://finance.yahoo.com/markets/stocks/articles/visa-v-integrate-payments-openai-171404119.html|Visa (V) to Integrate Payments into OpenAI for AI Agent Transaction|1504711434969
+https://www.pv-magazine.com/2026/06/12/the-hydrogen-stream-wartsila-testing-100-hydrogen-engine/|The Hydrogen Stream: Wärtsilä testing 100% hydrogen engine|1457369804613
