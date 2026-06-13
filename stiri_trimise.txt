@@ -2608,3 +2608,7 @@ https://www.producthunt.com/products/medicyn|Medicyn|1461749280684
 https://finance.yahoo.com/sectors/energy/articles/gm-stock-alert-know-general-163116797.html|GM Stock Alert: What to Know as General Motors Announces Energy Storage Pivot|1473341304170
 https://finance.yahoo.com/markets/stocks/articles/florida-man-selling-2-6-164500038.html|A Florida man is selling his $2.6 million home — and will accept OpenAI, Anthropic or SpaceX stock as payment|1495020689067
 https://www.marketwatch.com/story/this-hidden-investing-flaw-is-costing-you-money-talking-to-political-opponents-fixes-it-fc1f7be3?mod=mw_rss_topstories|This hidden investing flaw is costing you money. Talking to political opponents fixes it.|https://images.mktw.net/im-86423466
+https://www.producthunt.com/products/pond-5|Pond|1432821596592
+https://finance.yahoo.com/economy/policy/articles/us-producer-prices-increase-more-130231291.html|US producer inflation posts largest annual gain in 3-1/2 years as energy prices surge|1504711434969
+https://finance.yahoo.com/markets/crypto/articles/bitcoin-hold-august-2024-low-190002413.html|Can Bitcoin Hold the August 2024 Low?|1640826514546
+https://www.marketwatch.com/story/theres-a-68-chance-the-stock-market-ends-the-year-higher-why-the-headlines-shouldnt-disrupt-your-portfolio-3d78cfae?mod=mw_rss_topstories|There’s a 68% chance the stock market ends the year higher. Why the headlines shouldn’t disrupt your portfolio.|https://images.mktw.net/im-500263
