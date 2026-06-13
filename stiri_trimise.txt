@@ -2652,3 +2652,7 @@ https://finance.yahoo.com/sectors/energy/articles/fuel-tax-changes-hit-six-21000
 https://www.marketwatch.com/story/the-weird-reason-why-a-teams-world-cup-loss-can-trigger-a-sharp-drop-in-stock-prices-ac385f51?mod=mw_rss_topstories|When a World Cup team loses, its country’s stock market also goes down. Here’s the weird reason why.|https://images.mktw.net/im-851016
 https://www.pv-magazine.com/2026/06/12/renewables-powered-data-centers-feasible-with-sevenfold-solar-and-wind-overbuild-study-finds/|Renewables-powered data centers feasible with sevenfold solar and wind overbuild, study finds|1432821596592
 https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban|Amazon security research reportedly led to the White House’s Anthropic Fable ban|1495020689067
+https://www.producthunt.com/products/cuebuddy|CueBuddy|1457369804613
+https://www.pv-magazine.com/2026/06/12/valenciaport-instala-los-paneles-fotovoltaicos-de-su-fachada-vertical/|Port of Valencia deploying PV on breakwaters|1504711434969
+https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence|My first 24 hours with Siri AI on the Mac|1586339949916
+https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/|KPMG pulls report on AI usage due to apparent hallucinations|1495020689067
