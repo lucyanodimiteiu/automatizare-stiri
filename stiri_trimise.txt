@@ -2612,3 +2612,7 @@ https://www.producthunt.com/products/pond-5|Pond|1432821596592
 https://finance.yahoo.com/economy/policy/articles/us-producer-prices-increase-more-130231291.html|US producer inflation posts largest annual gain in 3-1/2 years as energy prices surge|1504711434969
 https://finance.yahoo.com/markets/crypto/articles/bitcoin-hold-august-2024-low-190002413.html|Can Bitcoin Hold the August 2024 Low?|1640826514546
 https://www.marketwatch.com/story/theres-a-68-chance-the-stock-market-ends-the-year-higher-why-the-headlines-shouldnt-disrupt-your-portfolio-3d78cfae?mod=mw_rss_topstories|There’s a 68% chance the stock market ends the year higher. Why the headlines shouldn’t disrupt your portfolio.|https://images.mktw.net/im-500263
+https://www.producthunt.com/products/locin-ai|LocIn AI|1677442135703
+https://finance.yahoo.com/sectors/energy/articles/rotterdams-growing-oil-storage-fraud-230000776.html|Rotterdam's Growing Oil Storage Fraud Problem Is Costing Traders Millions|1432821596592
+https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-trails-rivals-2026-233002889.html|Microsoft Stock Trails Rivals in 2026. How to Play MSFT Stock Here.|1586339949916
+https://www.marketwatch.com/story/this-is-not-a-flash-in-the-pan-why-value-stocks-are-beating-growth-by-such-a-wide-margin-b2bddccc?mod=mw_rss_topstories|‘This is not a flash in the pan’: Why value stocks are beating growth by such a wide margin|https://images.mktw.net/im-10354058
