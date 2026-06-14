@@ -2688,3 +2688,7 @@ https://www.producthunt.com/products/allergo-allergy-translation-cards|Allergo|1
 https://finance.yahoo.com/markets/stocks/articles/luxury-retail-chain-wins-court-191300574.html|Luxury retail chain wins court approval, exits bankruptcy|1457369804613
 https://finance.yahoo.com/markets/stocks/articles/lumentum-lite-jpmorgan-pushback-helps-193000476.html|Lumentum (LITE): JPMorgan Pushback Helps Keep the AI Optical Networking Case Intact|1504711434969
 https://hackaday.com/2026/06/13/the-pacemaker-patch/|The Pacemaker Patch|https://hackaday.com/wp-content/uploads/2026/06/pace.png?w=800
+https://www.producthunt.com/products/slashy-3|Slashy|1593508512255
+https://finance.yahoo.com/markets/stocks/articles/target-corporation-tgt-shows-why-200353633.html|Target Corporation (TGT) Shows Why Store-Based Fulfillment Still Matters in Digital Retail|1457369804613
+https://finance.yahoo.com/markets/stocks/articles/mercadolibre-inc-meli-shows-why-195949027.html|MercadoLibre Inc. (MELI) Shows Why Mexico Remains Central to Latin America’s E-Commerce Expansion|1504711434969
+https://hackaday.com/2026/06/14/bavarian-court-tells-gemini-it-cant-be-a-real-boy-until-it-tells-the-truth/|Bavarian Court Tells Gemini It Can’t Be a Real Boy Until It Tells the Truth|https://hackaday.com/wp-content/uploads/2026/06/jametlene-reskp-Q79XFGuTFfM-unsplash.jpg?w=800
