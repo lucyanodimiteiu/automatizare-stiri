@@ -2680,3 +2680,7 @@ https://www.producthunt.com/products/memoriq|Memoriq|1620712943543
 https://finance.yahoo.com/markets/stocks/articles/charlie-munger-finfluencers-mislead-purpose-141500769.html|Charlie Munger: Finfluencers 'mislead you on purpose' — This is how the late billionaire recommends you build wealth|1457369804613
 https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-spacex/?src=A00220&yptr=yahoo|Dow Jones Futures Due With Market At Key Levels; Iran Deal In Focus, SpaceX's Next Test|1586339949916
 https://hackaday.com/2026/06/14/opencal-computed-axial-lithographic-3d-printing-for-everyone/|OpenCAL: Computed Axial Lithographic 3D Printing For Everyone|https://hackaday.com/wp-content/uploads/2026/06/20260326_OpenCAL_AVL_1187-e1781375341363.jpg?w=800
+https://www.producthunt.com/products/momentra-aesthetic-camera|Momentra|1655720031554
+https://finance.yahoo.com/markets/crypto/articles/bitcoin-safest-crypto-own-now-174508158.html|Is Bitcoin the Safest Crypto to Own Right Now?|1621416894562
+https://finance.yahoo.com/markets/stocks/articles/1-plain-day-dividend-king-172649453.html|1 Plain-As-Day Dividend King to Buy on the Dip That Has Hiked Its Payout for 70 Consecutive Years|1586339949916
+https://hackaday.com/2026/06/14/double-the-vram-of-an-rtx-3070/|Double the VRAM of an RTX 3070|https://hackaday.com/wp-content/uploads/2026/06/3070memSwap.jpg?w=800
