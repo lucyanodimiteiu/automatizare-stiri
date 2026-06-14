@@ -2684,3 +2684,7 @@ https://www.producthunt.com/products/momentra-aesthetic-camera|Momentra|16557200
 https://finance.yahoo.com/markets/crypto/articles/bitcoin-safest-crypto-own-now-174508158.html|Is Bitcoin the Safest Crypto to Own Right Now?|1621416894562
 https://finance.yahoo.com/markets/stocks/articles/1-plain-day-dividend-king-172649453.html|1 Plain-As-Day Dividend King to Buy on the Dip That Has Hiked Its Payout for 70 Consecutive Years|1586339949916
 https://hackaday.com/2026/06/14/double-the-vram-of-an-rtx-3070/|Double the VRAM of an RTX 3070|https://hackaday.com/wp-content/uploads/2026/06/3070memSwap.jpg?w=800
+https://www.producthunt.com/products/allergo-allergy-translation-cards|Allergo|1518770660439
+https://finance.yahoo.com/markets/stocks/articles/luxury-retail-chain-wins-court-191300574.html|Luxury retail chain wins court approval, exits bankruptcy|1457369804613
+https://finance.yahoo.com/markets/stocks/articles/lumentum-lite-jpmorgan-pushback-helps-193000476.html|Lumentum (LITE): JPMorgan Pushback Helps Keep the AI Optical Networking Case Intact|1504711434969
+https://hackaday.com/2026/06/13/the-pacemaker-patch/|The Pacemaker Patch|https://hackaday.com/wp-content/uploads/2026/06/pace.png?w=800
