@@ -2676,3 +2676,7 @@ https://www.producthunt.com/products/pool-4|Pool|1519389950473
 https://finance.yahoo.com/sectors/technology/articles/why-wells-fargo-warning-surging-130003643.html|Why Wells Fargo Is Warning That Surging AI Token Costs Is a Death Knell for Hyperscaler Stocks Like Meta and Microsoft|1495020689067
 https://finance.yahoo.com/markets/commodities/articles/gold-mining-stocks-look-gold-131502955.html|Gold Mining Stocks Look Like a ‘Gold Mine.’ Start Buying Now Before Time Runs Out.|1586339949916
 https://www.marketwatch.com/story/spacex-shows-investors-still-want-moonshots-the-fed-may-test-that-theory-this-week-d7771f3a?mod=mw_rss_topstories|SpaceX shows investors still want moonshots. The Fed may test that theory this week.|https://images.mktw.net/im-71206903
+https://www.producthunt.com/products/memoriq|Memoriq|1620712943543
+https://finance.yahoo.com/markets/stocks/articles/charlie-munger-finfluencers-mislead-purpose-141500769.html|Charlie Munger: Finfluencers 'mislead you on purpose' — This is how the late billionaire recommends you build wealth|1457369804613
+https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-spacex/?src=A00220&yptr=yahoo|Dow Jones Futures Due With Market At Key Levels; Iran Deal In Focus, SpaceX's Next Test|1586339949916
+https://hackaday.com/2026/06/14/opencal-computed-axial-lithographic-3d-printing-for-everyone/|OpenCAL: Computed Axial Lithographic 3D Printing For Everyone|https://hackaday.com/wp-content/uploads/2026/06/20260326_OpenCAL_AVL_1187-e1781375341363.jpg?w=800
