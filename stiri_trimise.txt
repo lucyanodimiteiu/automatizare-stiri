@@ -2660,3 +2660,7 @@ https://www.producthunt.com/products/shellmate-2|ShellMate|1461749280684
 https://finance.yahoo.com/economy/policy/articles/european-carmakers-send-mixed-signals-193858607.html|European Carmakers Send Mixed Signals with "Made in Europe" Demand|1586339949916
 https://finance.yahoo.com/markets/currencies/articles/dollar-little-changed-markets-assess-194441237.html|Dollar Little Changed as Markets Assess Odds for US-Iran Peace Deal|1611974789855
 https://www.pv-magazine.com/2026/06/12/hot-weather-and-clear-skies-give-europe-a-bumper-may/|Hot weather and clear skies give Europe a bumper May|1509391366360
+https://www.producthunt.com/products/clutch-alarm|Clutch Alarm|1586339949916
+https://finance.yahoo.com/markets/stocks/articles/smaller-checks-winning-middle-market-224639002.html|Smaller checks are winning in the middle market—and with less risk|1504711434969
+https://finance.yahoo.com/markets/stocks/articles/spacex-historic-ipo-opens-door-225811128.html|SpaceX’s historic IPO opens the door for OpenAI and Anthropic’s mega-listings|1432821596592
+https://www.pv-magazine.com/2026/06/12/first-9-in-1-heat-pump-transforms-load-into-an-energy-hub/|First 9-in-1 heat pump transforms load into an energy hub|1432821596592
