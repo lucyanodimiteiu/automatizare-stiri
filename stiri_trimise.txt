@@ -2696,3 +2696,7 @@ https://www.producthunt.com/products/cloudback|Cloudback for Linear|158109122682
 https://finance.yahoo.com/markets/stocks/articles/missing-boat-ai-stock-thats-212000790.html|Are You Missing the Boat on This AI Stock That's Up 104% This Year?|1504711434969
 https://www.marketwatch.com/story/trump-says-u-s-had-reached-peace-deal-with-iran-57a93e56?mod=mw_rss_topstories|Trump says U.S. has reached peace deal with Iran|https://images.mktw.net/im-51966340
 https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range|The FBI built a small town to simulate cyberattacks|1586339949916
+https://www.producthunt.com/products/athenic-ai|Athenic 2.0|1531746790731
+https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-15-224751171.html|Stock market today: S&P 500, Nasdaq, Dow futures jump after US and Iran reach peace deal|1520607162513
+https://finance.yahoo.com/markets/articles/instant-view-markets-cheer-deal-231236893.html|Instant View: Markets cheer deal but see staying elevated|1526304640581
+https://www.marketwatch.com/story/will-the-real-kevin-warsh-please-stand-up-ahead-of-his-first-fed-meeting-economists-honestly-dont-know-what-to-expect-6fa95c8c?mod=mw_rss_topstories|Will the real Kevin Warsh please stand up? Ahead of his first Fed meeting, economists honestly don’t know what to expect.|https://images.mktw.net/im-73074176
