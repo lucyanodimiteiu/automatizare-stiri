@@ -2656,3 +2656,7 @@ https://www.producthunt.com/products/cuebuddy|CueBuddy|1457369804613
 https://www.pv-magazine.com/2026/06/12/valenciaport-instala-los-paneles-fotovoltaicos-de-su-fachada-vertical/|Port of Valencia deploying PV on breakwaters|1504711434969
 https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence|My first 24 hours with Siri AI on the Mac|1586339949916
 https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/|KPMG pulls report on AI usage due to apparent hallucinations|1495020689067
+https://www.producthunt.com/products/shellmate-2|ShellMate|1461749280684
+https://finance.yahoo.com/economy/policy/articles/european-carmakers-send-mixed-signals-193858607.html|European Carmakers Send Mixed Signals with "Made in Europe" Demand|1586339949916
+https://finance.yahoo.com/markets/currencies/articles/dollar-little-changed-markets-assess-194441237.html|Dollar Little Changed as Markets Assess Odds for US-Iran Peace Deal|1611974789855
+https://www.pv-magazine.com/2026/06/12/hot-weather-and-clear-skies-give-europe-a-bumper-may/|Hot weather and clear skies give Europe a bumper May|1509391366360
