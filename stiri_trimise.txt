@@ -2668,3 +2668,7 @@ https://www.producthunt.com/products/conan|Conan|1677442135703
 https://finance.yahoo.com/markets/stocks/articles/poet-technologies-poet-rides-market-065858309.html|POET Technologies (POET) Rides Market Leaders’ Semiconductor Optimism, Climbs 11%|1504711434969
 https://finance.yahoo.com/markets/stocks/articles/spacex-cfo-bret-johnsen-quietly-080000950.html|SpaceX CFO Bret Johnsen quietly engineered its historic IPO and became an overnight billionaire|1457369804613
 https://www.pv-magazine.com/2026/06/12/chinese-pv-industry-brief-daqo-expands-beyond-polysilicon/|Chinese PV Industry Brief: Daqo expands beyond polysilicon|1432821596592
+https://www.producthunt.com/products/reverie-fm|Reverie.fm|1498050108023
+https://finance.yahoo.com/markets/stocks/articles/bofa-hartnett-warns-bullish-positioning-110000962.html|BofA’s Hartnett Warns Bullish Positioning Remains Entrenched Despite 5% Bond Yields|1586339949916
+https://finance.yahoo.com/markets/stocks/articles/ultra-rich-americans-moving-cash-111000663.html|Ultra-rich Americans are moving cash out of the market and hoarding historic levels. Here’s where they’re putting it|1535320903710
+https://hackaday.com/2026/06/14/is-a-cs-degree-doa-thanks-to-llms-ieee-says-tbd/|Is a CS Degree DOA thanks to LLMs? IEEE Says TBD.|https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg?w=800
