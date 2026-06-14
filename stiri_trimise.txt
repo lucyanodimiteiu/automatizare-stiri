@@ -2664,3 +2664,7 @@ https://www.producthunt.com/products/clutch-alarm|Clutch Alarm|1586339949916
 https://finance.yahoo.com/markets/stocks/articles/smaller-checks-winning-middle-market-224639002.html|Smaller checks are winning in the middle market—and with less risk|1504711434969
 https://finance.yahoo.com/markets/stocks/articles/spacex-historic-ipo-opens-door-225811128.html|SpaceX’s historic IPO opens the door for OpenAI and Anthropic’s mega-listings|1432821596592
 https://www.pv-magazine.com/2026/06/12/first-9-in-1-heat-pump-transforms-load-into-an-energy-hub/|First 9-in-1 heat pump transforms load into an energy hub|1432821596592
+https://www.producthunt.com/products/conan|Conan|1677442135703
+https://finance.yahoo.com/markets/stocks/articles/poet-technologies-poet-rides-market-065858309.html|POET Technologies (POET) Rides Market Leaders’ Semiconductor Optimism, Climbs 11%|1504711434969
+https://finance.yahoo.com/markets/stocks/articles/spacex-cfo-bret-johnsen-quietly-080000950.html|SpaceX CFO Bret Johnsen quietly engineered its historic IPO and became an overnight billionaire|1457369804613
+https://www.pv-magazine.com/2026/06/12/chinese-pv-industry-brief-daqo-expands-beyond-polysilicon/|Chinese PV Industry Brief: Daqo expands beyond polysilicon|1432821596592
