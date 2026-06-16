@@ -2744,3 +2744,7 @@ https://www.producthunt.com/products/stride-10|Stride|https://image.pollinations
 https://finance.yahoo.com/markets/stocks/articles/broadridge-financial-stock-performance-compared-114455442.html|How Is Broadridge Financial’s Stock Performance Compared to Other Fintech Stocks?|1495020689067
 https://finance.yahoo.com/markets/stocks/articles/spacexs-float-could-lift-tide-114711041.html|How SpaceX's float could lift the tide for European space tech|1457369804613
 https://www.marketwatch.com/story/spacex-trading-hits-bonkers-levels-as-a-wave-of-new-etfs-see-a-massive-cash-influx-8f5364b0?mod=mw_rss_topstories|SpaceX trading hits ‘bonkers’ levels as new ETFs see a massive cash influx|https://images.mktw.net/im-23264219
+https://www.producthunt.com/products/looquee|looquee|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/stocks/articles/madison-large-cap-fund-picks-141611619.html|Madison Large Cap Fund Picks Salesforce (CRM) Despite Market Sell-Off|1535320903710
+https://finance.yahoo.com/markets/stocks/articles/workday-wday-slid-over-ai-141044370.html|Workday (WDAY) Slid Over AI Risk|1581091226825
+https://www.marketwatch.com/story/wall-street-cant-stop-talking-about-mangos-stocks-as-the-magnificent-seven-becomes-passe-61b5a453?mod=mw_rss_topstories|Wall Street can’t stop talking about ‘MANGOS’ stocks as the ‘Magnificent Seven’ becomes passé|https://images.mktw.net/im-09303293
