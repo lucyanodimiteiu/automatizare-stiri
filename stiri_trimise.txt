@@ -2784,3 +2784,7 @@ https://www.producthunt.com/products/supergoal|SuperGoal|https://image.pollinati
 https://finance.yahoo.com/economy/policy/articles/latin-americas-trade-china-surges-140220276.html|Latin America's trade with China surges but US dominance holds, IDB finds|1432821596592
 https://finance.yahoo.com/economy/articles/truckload-market-upswing-ushers-driver-140037801.html|Truckload market’s upswing ushers in driver pay hikes|1611974789855
 https://www.marketwatch.com/story/rumble-gets-22-000-nvidia-chips-but-the-video-companys-ceo-insists-this-isnt-a-fad-like-pivot-b52b2036?mod=mw_rss_topstories|Rumble gets 22,000 Nvidia chips, but the video company’s CEO insists this isn’t a fad-like pivot|https://images.mktw.net/im-29025890
+https://www.producthunt.com/products/spanly|Spanly|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/technology/ai/articles/servicenow-now-wipro-partnership-close-190001095.html|ServiceNow (NOW): A Wipro Partnership to Close the Gap Between AI Pilots and Full Enterprise Deployment|1620712943543
+https://finance.yahoo.com/markets/commodities/articles/sugar-prices-jump-slack-monsoon-182438507.html|Sugar Prices Jump on Slack Monsoon Rain in India|1495020689067
+https://www.marketwatch.com/story/its-unavoidable-apple-says-it-will-be-forced-to-raise-prices-due-to-the-ai-boom-e3d1e4c4?mod=mw_rss_topstories|It’s ‘unavoidable’: Apple says it will be forced to raise prices due to the AI boom|https://images.mktw.net/im-02178896
