@@ -2840,3 +2840,7 @@ https://www.producthunt.com/products/api-to-mcp|API to MCP|https://image.pollina
 https://finance.yahoo.com/small-business/articles/fame-gets-rooms-jake-paul-134000761.html|'Fame gets me in the right rooms': Jake Paul raises 9-figure fund to be the 'best 'celeb' investor of my generation'|1620712943543
 https://finance.yahoo.com/markets/stocks/articles/prosper-stars-stripes-short-position-140402853.html|Prosper Stars & Stripes’ Short Position Via Transportation (VIA) Paid Off|1586339949916
 https://www.digi24.ro/stiri/economie/transporturi/radu-miruta-a-respins-bugetele-mai-multor-companii-de-stat-printre-care-si-tarom-este-evident-construit-pe-date-nerealiste-3823013|Radu Miruţă a respins bugetele mai multor companii de stat, printre care şi Tarom: Este evident construit pe date nerealiste|1495020689067
+https://www.producthunt.com/products/meshpilot|MeshPilot|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/stocks-supported-geopolitical-risks-recede-151709682.html|Stocks Supported as Geopolitical Risks Recede|1523995462485
+https://finance.yahoo.com/technology/ai/articles/salesforce-crm-inks-definitive-agreement-150313756.html|Salesforce (CRM) Inks Definitive Agreement for Fin Acquisition|1622630998477
+https://www.digi24.ro/stiri/actualitate/soferii-nu-vor-plati-taxa-de-pod-la-giurgiu-ruse-sambata-pe-20-iunie-anuntul-cnair-3822463|Șoferii nu vor plăti taxa de pod la Giurgiu–Ruse sâmbătă, pe 20 iunie. Anunțul CNAIR|1655720031554
