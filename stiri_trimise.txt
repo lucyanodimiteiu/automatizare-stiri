@@ -2892,3 +2892,7 @@ https://finance.yahoo.com/markets/stocks/articles/cellebrite-clbt-total-addressa
 https://finance.yahoo.com/small-business/articles/fried-chicken-chain-closes-another-221700513.html|Fried chicken chain closes another location|1620712943543
 https://www.pv-magazine.com/2026/06/19/huaweis-fusionsolar9-0-solution-aims-to-redefine-optimal-lcoe-for-utility-scale-solar-projects/|Huawei’s FusionSolar9.0 solution aims to redefine optimal LCOE for utility-scale solar projects|1432821596592
 https://hackaday.com/2026/06/20/seeing-the-world-in-radio-waves-with-the-quadrf/|Seeing the World in Radio Waves with the QuadRF|https://hackaday.com/wp-content/uploads/2026/06/quadrf_drone_demo.png?w=800
+https://www.producthunt.com/products/reframe-7|Reframe|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/stocks/articles/analysts-arlo-technologies-arlo-203516330.html|What Do Analysts Say About Arlo Technologies (ARLO)?|1495020689067
+https://finance.yahoo.com/technology/ai/articles/niq-global-intelligence-niq-unveils-203508037.html|NIQ Global Intelligence (NIQ) Unveils AI-Powered Cadence Platform to Unify Marketing Intelligence and Decision-Making|1495020689067
+https://www.pv-magazine.com/2026/06/19/china-wafer-output-set-to-rise-despite-weak-demand-and-inventory-pressure/|China wafer output set to rise despite weak demand and inventory pressure|1495020689067
