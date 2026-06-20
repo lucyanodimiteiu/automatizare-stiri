@@ -2880,3 +2880,7 @@ https://www.producthunt.com/products/slack|Slackbot’s MCP Client|https://image
 https://finance.yahoo.com/markets/stocks/articles/why-vinfast-vfs-one-penny-172817524.html|Here is Why Vinfast (VFS) is One of the Penny Stocks With Explosive Growth Potential|1432821596592
 https://finance.yahoo.com/technology/ai/articles/hive-hive-buzz-hpc-secures-172800619.html|HIVE’s (HIVE) BUZZ HPC Secures $220M GPU Cloud Contract for Sovereign AI Infrastructure|1504711434969
 https://www.marketwatch.com/story/im-73-and-living-100-off-dividends-from-my-stocks-how-can-i-create-even-more-income-74b372f1?mod=mw_rss_topstories|I’m 73 and living 100% off dividends from my stocks. How can I create even more income?|https://images.mktw.net/im-19047862
+https://www.producthunt.com/products/are-you-in-the-weights|Are you in the Weights?|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/mongodb-mdb-one-tech-stocks-190453346.html|Is MongoDB (MDB) One Of The Tech Stocks To Sell According To Billionaires?|1677442135703
+https://finance.yahoo.com/technology/ai/articles/insight-enterprises-nsit-launches-managed-190445534.html|Insight Enterprises (NSIT) Launches Managed Exposure Defense to Combat AI-Driven Cyber Threats|1504711434969
+https://www.marketwatch.com/story/want-to-splurge-on-travel-in-retirement-heres-how-to-plan-for-it-40bb26f2?mod=mw_rss_topstories|Want to splurge on travel in retirement? Here’s how to plan for it.|https://images.mktw.net/im-39708141
