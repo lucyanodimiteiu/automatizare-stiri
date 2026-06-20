@@ -2888,3 +2888,7 @@ https://www.producthunt.com/products/releasedock|ReleaseDock|https://image.polli
 https://finance.yahoo.com/markets/stocks/articles/bernstein-remains-bullish-kanzhun-limited-203550695.html|Bernstein Remains Bullish On Kanzhun Limited (BZ), Cites Billings Growth|1498050108023
 https://finance.yahoo.com/markets/stocks/articles/ncino-ncno-one-stocks-under-203541667.html|Is nCino (NCNO) One Of The Stocks Under $20 That Will Explode?|1519389950473
 https://www.pv-magazine.com/2026/06/19/the-era-of-unlimited-cheap-inventory-is-ending/|‘The era of unlimited cheap inventory is ending’|1586339949916
+https://finance.yahoo.com/markets/stocks/articles/cellebrite-clbt-total-addressable-market-203532606.html|Cellebrite (CLBT)’s Total Addressable Market Is Large, Growing, And Likely Understated, According To DA Davidson|https://image.pollinations.ai/prompt/financial%20trading%20floor%20with%20screens%20showing%20charts
+https://finance.yahoo.com/small-business/articles/fried-chicken-chain-closes-another-221700513.html|Fried chicken chain closes another location|1620712943543
+https://www.pv-magazine.com/2026/06/19/huaweis-fusionsolar9-0-solution-aims-to-redefine-optimal-lcoe-for-utility-scale-solar-projects/|Huawei’s FusionSolar9.0 solution aims to redefine optimal LCOE for utility-scale solar projects|1432821596592
+https://hackaday.com/2026/06/20/seeing-the-world-in-radio-waves-with-the-quadrf/|Seeing the World in Radio Waves with the QuadRF|https://hackaday.com/wp-content/uploads/2026/06/quadrf_drone_demo.png?w=800
