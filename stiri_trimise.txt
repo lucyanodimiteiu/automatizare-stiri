@@ -2856,3 +2856,7 @@ https://www.producthunt.com/products/mutter-ai-dictation|Mutter AI Dictation|htt
 https://finance.yahoo.com/technology/ai/articles/pe-yet-prove-ai-bets-220208825.html|PE has yet to prove its AI bets to investors|1432821596592
 https://finance.yahoo.com/markets/stocks/articles/cathie-wood-dumps-nearly-60-223300469.html|Cathie Wood dumps nearly $60 million in popular growth stocks|1457369804613
 https://www.digi24.ro/stiri/externe/rusia/unde-a-disparut-sefa-bancii-centrale-a-rusiei-care-a-transformat-tara-intr-o-fortareata-financiara-o-posibila-schimbare-seismica-3823071|Unde a dispărut șefa băncii centrale a Rusiei, care a transformat țara într-o fortăreață financiară: O posibilă „schimbare seismică”|1586339949916
+https://www.producthunt.com/products/workclaw|WorkClaw|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/economy/policy/article/warsh-wants-markets-to-guide-the-fed-not-the-other-way-around-190514731.html|Warsh wants markets to guide the Fed, not the other way around|1581091226825
+https://finance.yahoo.com/personal-finance/taxes/article/california-billionaires-tax-has-enough-signatures-for-2026-ballot-what-to-know-152556461.html|California billionaires tax has enough signatures for 2026 ballot: What to know|1531746790731
+https://www.pv-magazine.com/2026/06/20/bess-as-a-swiss-army-knife-for-data-centers/|BESS as a ‘Swiss Army knife’ for data centers|1457369804613
