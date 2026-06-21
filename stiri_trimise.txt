@@ -2932,3 +2932,7 @@ https://www.producthunt.com/products/poolside|Laguna by Poolside|https://image.p
 https://www.marketwatch.com/story/the-loneliness-crisis-has-gotten-so-bad-that-lawmakers-are-ready-to-spend-millions-of-dollars-to-fight-it-f7e7c7b7?mod=mw_rss_topstories|The loneliness crisis has gotten so bad that lawmakers are ready to spend millions of dollars to fight it|https://images.mktw.net/im-27309697
 https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history|How Roomba started a robot revolution|https://image.pollinations.ai/prompt/industrial%20robot%20arm%20welding%20in%20a%20factory%2C%20spar
 https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/|TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance|1586339949916
+https://finance.yahoo.com/markets/articles/dave-ramsey-tells-couple-supporting-223739064.html|Dave Ramsey Tells Couple Supporting 84-Year-Old Father-in-Law With $33,000 of Debt: ‘It Won’t End Until You End It’|https://image.pollinations.ai/prompt/modern%20technology%20office%20with%20holographic%20displays%20
+https://www.theverge.com/column/950975/electric-air-taxis-lawsuits|Electric air taxis are stuck in the courtroom|1677442135703
+https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/|When the Trump administration cracks down on Anthropic, who benefits?|1504711434969
+https://altfins.com/blog/best-solana-api/|Best Solana API: How to Choose the Right One for Your Project in 2026|1504711434969
