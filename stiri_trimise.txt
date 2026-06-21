@@ -2928,3 +2928,7 @@ https://www.producthunt.com/products/oioi|oioi|https://image.pollinations.ai/pro
 https://finance.yahoo.com/markets/stocks/articles/2-reasons-wait-buying-spacex-195900079.html|2 Reasons to Wait Before Buying SpaceX Shares, and 1 Reason to Buy Right Now|1457369804613
 https://finance.yahoo.com/markets/stocks/articles/veteran-tech-investor-meta-one-194448233.html|Veteran Tech Investor: Meta Is ‘One of the Best Advertising Machines Ever Built’ With 46% Upside|1504711434969
 https://hackaday.com/2026/06/21/smallrun-net-enters-the-marketplace-market/|SmallRun.net Enters the Marketplace Market|https://hackaday.com/wp-content/uploads/2026/06/SmallRun-market-feat.png?w=800
+https://www.producthunt.com/products/poolside|Laguna by Poolside|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://www.marketwatch.com/story/the-loneliness-crisis-has-gotten-so-bad-that-lawmakers-are-ready-to-spend-millions-of-dollars-to-fight-it-f7e7c7b7?mod=mw_rss_topstories|The loneliness crisis has gotten so bad that lawmakers are ready to spend millions of dollars to fight it|https://images.mktw.net/im-27309697
+https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history|How Roomba started a robot revolution|https://image.pollinations.ai/prompt/industrial%20robot%20arm%20welding%20in%20a%20factory%2C%20spar
+https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/|TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance|1586339949916
