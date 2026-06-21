@@ -2924,3 +2924,7 @@ https://www.producthunt.com/products/backgrind|Backgrind|https://image.pollinati
 https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-reason-capital-132816663.html|Jim Cramer Explains the Reason Capital One (COF) Became a “Virtual Trampoline”|1461749280684
 https://finance.yahoo.com/markets/stocks/articles/spacex-just-had-biggest-ipo-180400880.html|SpaceX Just Had the Biggest IPO in History. Here's What It Tells Investors About Buying Anthropic and OpenAI When They Go Public.|1457369804613
 https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets|Polymarket reportedly paid people to post fake videos of themselves placing bets|1495020689067
+https://www.producthunt.com/products/oioi|oioi|https://image.pollinations.ai/prompt/offshore%20wind%20turbines%20in%20the%20ocean%20at%20sunset%2C%
+https://finance.yahoo.com/markets/stocks/articles/2-reasons-wait-buying-spacex-195900079.html|2 Reasons to Wait Before Buying SpaceX Shares, and 1 Reason to Buy Right Now|1457369804613
+https://finance.yahoo.com/markets/stocks/articles/veteran-tech-investor-meta-one-194448233.html|Veteran Tech Investor: Meta Is ‘One of the Best Advertising Machines Ever Built’ With 46% Upside|1504711434969
+https://hackaday.com/2026/06/21/smallrun-net-enters-the-marketplace-market/|SmallRun.net Enters the Marketplace Market|https://hackaday.com/wp-content/uploads/2026/06/SmallRun-market-feat.png?w=800
