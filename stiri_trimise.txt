@@ -2904,3 +2904,7 @@ https://www.producthunt.com/products/grok-by-spacexai-for-word|Grok by SpaceXAI 
 https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-slumps-fed-224000383.html|Weekly Wrap: Bitcoin Slumps As Fed Turns Hawkish On Interest Rates|1518770660439
 https://finance.yahoo.com/markets/stocks/articles/robinhood-markets-stock-outperforming-p-002040795.html|Is Robinhood Markets Stock Outperforming the S&P 500?|1535320903710
 https://www.pv-magazine.com/2026/06/19/jinkosolar-achieves-34-82-efficiency-for-perovskite-silicon-tandem-solar-cell/|JinkoSolar achieves 34.82% efficiency for perovskite-silicon tandem solar cell|1655720031554
+https://www.producthunt.com/products/atomic-mail-agentic|Atomic Mail Agentic|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/ignore-own-peril-jim-cramer-103500129.html|'Ignore it at your own peril': Jim Cramer says the bull market's key pillars are crumbling — what that means for you|1526304640581
+https://finance.yahoo.com/economy/policy/articles/bomb-bank-battle-holding-back-103000324.html|The ‘bomb bank’ battle holding back Britain’s race to rearm|1432821596592
+https://www.theverge.com/tech/952245/sony-xperia-1-viii-review|Sony’s Xperia 1 VIII is still a phone for the fans|1622630998477
