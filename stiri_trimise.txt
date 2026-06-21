@@ -2920,3 +2920,7 @@ https://www.producthunt.com/products/agent-37-38|Agent 37 Cloud|https://image.po
 https://finance.yahoo.com/small-business/articles/she-saved-200k-quit-her-160412245.html|She saved $200K, quit her $250K tech job, and now pays herself $33K to run a matcha cafe in Manhattan|1504711434969
 https://finance.yahoo.com/technology/ai/articles/next-1-trillion-ai-winner-164907486.html|The Next $1 Trillion AI Winner May Already Be Hiding Inside Nvidia's Supply Chain|1593508512255
 https://hackaday.com/2026/06/21/hacking-the-mi-band-10-smart-band-and-its-bestechnic-soc/|Hacking the Mi Band 10 Smart Band and its Bestechnic SoC|https://hackaday.com/wp-content/uploads/2026/06/xiaomi_mi_band_10_doom_aaron_christophel_youtube.jpg
+https://www.producthunt.com/products/backgrind|Backgrind|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-reason-capital-132816663.html|Jim Cramer Explains the Reason Capital One (COF) Became a “Virtual Trampoline”|1461749280684
+https://finance.yahoo.com/markets/stocks/articles/spacex-just-had-biggest-ipo-180400880.html|SpaceX Just Had the Biggest IPO in History. Here's What It Tells Investors About Buying Anthropic and OpenAI When They Go Public.|1457369804613
+https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets|Polymarket reportedly paid people to post fake videos of themselves placing bets|1495020689067
