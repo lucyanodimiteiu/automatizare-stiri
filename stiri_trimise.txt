@@ -2936,3 +2936,7 @@ https://finance.yahoo.com/markets/articles/dave-ramsey-tells-couple-supporting-2
 https://www.theverge.com/column/950975/electric-air-taxis-lawsuits|Electric air taxis are stuck in the courtroom|1677442135703
 https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/|When the Trump administration cracks down on Anthropic, who benefits?|1504711434969
 https://altfins.com/blog/best-solana-api/|Best Solana API: How to Choose the Right One for Your Project in 2026|1504711434969
+https://finance.yahoo.com/technology/ai/articles/why-does-donald-trump-marvell-133141323.html|Why Does Donald Trump Like Marvell Technology (MRVL)?|https://image.pollinations.ai/prompt/Donald%20Trump%20speaking%20at%20a%20podium%20with%20American%2
+https://finance.yahoo.com/markets/stocks/articles/3-penny-stocks-under-5-132000082.html|3 Penny Stocks Under $5 Backed by Real Revenue Growth|1498050108023
+https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data|The Atlantic created a searchable database of the music used to train AI|1432821596592
+https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/|Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27|1504711434969
