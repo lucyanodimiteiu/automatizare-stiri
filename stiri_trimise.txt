@@ -2960,3 +2960,7 @@ https://www.producthunt.com/products/skybridge|Skybridge|https://image.pollinati
 https://finance.yahoo.com/markets/crypto/articles/ex-trump-advisor-makes-bold-201601908.html|Ex-Trump advisor makes bold case for Bitcoin|1640826514546
 https://finance.yahoo.com/markets/article/how-fed-chairman-kevin-warsh-just-screwed-ai-tech-beasts-103000167.html|How Fed Chairman Kevin Warsh just screwed AI tech beasts|1655720031554
 https://www.marketwatch.com/story/caterpillars-stock-hits-a-milestone-as-roaring-industrials-rally-sweeps-up-wall-street-391057f7?mod=mw_rss_topstories|Caterpillar’s stock hits a milestone as AI-fueled industrials rally sweeps up Wall Street|https://images.mktw.net/im-90161339
+https://www.producthunt.com/products/algofly-ai|AlgoFly AI|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/options/articles/oracle-stock-tumbles-higher-capex-140002312.html|Oracle Stock Tumbles on Higher Capex and Equity Raise - Shorting ORCL Puts Works|1581091226825
+https://finance.yahoo.com/technology/ai/articles/adyen-betting-big-agentic-ai-140002576.html|Adyen Is Betting Big on Agentic AI. The Rally Could Just Be Getting Started.|1504711434969
+https://www.marketwatch.com/story/trump-may-say-hes-banning-wall-street-from-buying-homes-does-the-bipartisan-housing-bill-actually-do-that-14c8ee5f?mod=mw_rss_topstories|Trump may say he’s banning Wall Street from buying homes. Does the bipartisan housing bill actually do that?|https://images.mktw.net/im-78018892
