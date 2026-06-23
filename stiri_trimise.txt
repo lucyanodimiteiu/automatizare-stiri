@@ -2976,3 +2976,7 @@ https://www.producthunt.com/products/bestdefense-io|BestDefense.io|https://image
 https://finance.yahoo.com/energy/articles/britain-energy-crisis-driving-manufacturing-230000636.html|Britain’s Energy Crisis Is Driving Manufacturing Offshore|1461749280684
 https://finance.yahoo.com/technology/ai/articles/ai-arms-race-isn-t-000000017.html|The AI Arms Race Isn’t About Technology – It’s About Electricity|1593508512255
 https://www.marketwatch.com/story/wall-street-loves-growth-stocks-but-these-10-losers-are-primed-to-win-0202e491?mod=mw_rss_topstories|Wall Street loves growth stocks — but these 10 ‘losers’ are primed to win|https://images.mktw.net/im-93067408
+https://www.producthunt.com/products/hush-df34eafa-13f7-4d91-856f-162c2a9d81ee|Hush|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://www.investors.com/news/ai-stocks-bubble-comparisons-1999-what-strategists-say/?src=A00220&yptr=yahoo|AI Stocks In A Bubble? Comparisons To 1999 Appear. What Strategists Say.|1531746790731
+https://finance.yahoo.com/real-estate/articles/newly-minted-spacex-millionaires-preparing-113000986.html|Newly minted SpaceX millionaires are preparing for their first big purchases — and luxury real estate is top of mind|1457369804613
+https://www.marketwatch.com/story/spacex-sheds-400-billion-in-value-as-stock-slides-below-its-ipo-day-closing-price-c7fe0ec5?mod=mw_rss_topstories|SpaceX sheds $400 billion in value as stock slides below its IPO-day closing price|https://images.mktw.net/im-25865866
