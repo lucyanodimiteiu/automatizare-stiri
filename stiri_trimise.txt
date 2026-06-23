@@ -2992,3 +2992,7 @@ https://www.producthunt.com/products/nanocorp|NanoCorp|https://image.pollination
 https://finance.yahoo.com/economy/articles/52-old-outback-steakhouse-rival-194700477.html|52-year-old Outback Steakhouse rival chain closes 24 locations|1498050108023
 https://finance.yahoo.com/technology/ai/articles/explainer-three-ways-trump-could-get-a-stake-in-ai-firms-for-the-us-101045237.html|Explainer-Three ways Trump could get a stake in AI firms for the US|1504711434969
 https://www.marketwatch.com/story/everyday-investors-fueled-the-spacex-trading-frenzy-now-they-face-a-bear-market-c45e8a76?mod=mw_rss_topstories|Everyday investors fueled the SpaceX trading frenzy. Now they face a bear market.|https://images.mktw.net/im-92064459
+https://www.producthunt.com/products/openart|OpenArt Director|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/stocks/articles/b-riley-remains-bullish-capital-124714804.html|B. Riley Remains Bullish on Capital Southwest Corporation (CSWC)|1432821596592
+https://finance.yahoo.com/markets/crypto/articles/exodus-movement-inc-nyseamerican-exod-124958011.html|Is Exodus Movement, Inc. (NYSEAMERICAN:EXOD) among the Best Crypto Exchange Stocks to Buy Following Bitcoin’s Recovery?|1622630998477
+https://www.marketwatch.com/story/spacex-stocks-wild-price-swings-since-its-ipo-show-how-risky-leveraged-etfs-can-be-17edf612?mod=mw_rss_topstories|SpaceX stock’s wild price swings since its IPO show how risky leveraged ETFs can be|1519389950473
