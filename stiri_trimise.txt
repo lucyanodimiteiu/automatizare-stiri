@@ -3016,3 +3016,7 @@ https://www.producthunt.com/products/tencent-edgeone-2|Tencent EdgeOne Makers|ht
 https://finance.yahoo.com/markets/stocks/articles/five-wait-c-h-robinson-230000176.html|After a five-year wait, C.H. Robinson makes a broker acquisition|1581091226825
 https://finance.yahoo.com/energy/articles/bernstein-initiates-nextera-energy-nee-213201381.html|Bernstein Initiates NextEra Energy (NEE) with a Bullish View. Here is Why|1545173168
 https://www.marketwatch.com/story/coming-to-america-sk-hynix-plans-depository-receipt-listing-on-the-nasdaq-c3c9695e?mod=mw_rss_topstories|Coming to America: SK Hynix plans depository receipt listing on the Nasdaq|https://images.mktw.net/im-78053221
+https://www.producthunt.com/products/propane|Propane|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-eye-rebound-from-tech-rout-with-micron-in-focus-230105138.html|Stock market today: S&P 500, Nasdaq eye rebound from tech rout with Micron in focus|1495020689067
+https://finance.yahoo.com/technology/ai/articles/schroders-capital-cio-ai-returns-114643447.html|Schroders Capital CIO: AI is about returns, not headcounts|1655720031554
+https://www.marketwatch.com/story/heres-what-happened-after-17-other-semiconductor-stock-one-day-plunges-over-the-last-15-years-c9b9ad8d?mod=mw_rss_topstories|Here’s what happened after 17 other one-day plunges in semiconductor stocks over the last 15 years|https://images.mktw.net/im-80546653
