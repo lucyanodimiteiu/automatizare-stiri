@@ -3004,3 +3004,7 @@ https://www.producthunt.com/products/neuralagent|NeuralAgent 3.0|https://image.p
 https://finance.yahoo.com/markets/stocks/articles/stocks-erase-early-gains-alphabet-152339980.html|Stocks Erase Early Gains as Alphabet and Software Companies Fall|1620712943543
 https://finance.yahoo.com/markets/stocks/articles/j-m-smuckers-stock-performance-151814876.html|How Is J. M. Smucker's Stock Performance Compared to Other Consumer Defensive Stocks?|1504711434969
 https://www.marketwatch.com/story/spacex-reveals-pricing-details-for-what-could-be-one-of-the-years-biggest-debt-deals-8c027a85?mod=mw_rss_topstories|SpaceX pulls off one of the biggest AI debt deals yet|https://images.mktw.net/im-90791778
+https://www.producthunt.com/products/rosply|Rosply|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/why-nzs-capital-sees-tyler-134946964.html|Here’s Why NZS Capital Sees Tyler Technologies (TYL) as Resilient to AI Concerns|1518770660439
+https://finance.yahoo.com/technology/ai/articles/jfrog-frog-gain-ai-135828405.html|Will JFrog (FROG) Gain From AI?|1504711434969
+https://www.marketwatch.com/story/cerebras-delivers-its-first-earnings-report-but-its-not-enough-to-lift-the-stock-8e80cb6d?mod=mw_rss_topstories|Cerebras delivers its first earnings report — but it’s not enough to lift the stock|https://images.mktw.net/im-17537719
