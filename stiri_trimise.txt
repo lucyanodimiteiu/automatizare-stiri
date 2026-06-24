@@ -3008,3 +3008,7 @@ https://www.producthunt.com/products/rosply|Rosply|https://image.pollinations.ai
 https://finance.yahoo.com/markets/stocks/articles/why-nzs-capital-sees-tyler-134946964.html|Here’s Why NZS Capital Sees Tyler Technologies (TYL) as Resilient to AI Concerns|1518770660439
 https://finance.yahoo.com/technology/ai/articles/jfrog-frog-gain-ai-135828405.html|Will JFrog (FROG) Gain From AI?|1504711434969
 https://www.marketwatch.com/story/cerebras-delivers-its-first-earnings-report-but-its-not-enough-to-lift-the-stock-8e80cb6d?mod=mw_rss_topstories|Cerebras delivers its first earnings report — but it’s not enough to lift the stock|https://images.mktw.net/im-17537719
+https://www.producthunt.com/products/hotkeyclash|HotkeyClash|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/technology/ai/articles/jabil-shares-jumped-earnings-ai-174757408.html|Jabil Shares Jumped on Earnings as AI Demand Boosts Its Business. JBL Stock Is No Longer Cheap.|1586339949916
+https://finance.yahoo.com/small-business/articles/3rd-month-row-saia-opens-180627443.html|For a 3rd month in a row, Saia opens new terminals|1432821596592
+https://www.marketwatch.com/story/micron-and-sandisk-lead-a-sharp-tech-selloff-in-a-gut-check-moment-for-ai-stocks-cd92fa5d?mod=mw_rss_topstories|Micron and Sandisk lead a sharp tech selloff in a ‘gut-check’ moment for AI stocks|https://images.mktw.net/im-52699443
