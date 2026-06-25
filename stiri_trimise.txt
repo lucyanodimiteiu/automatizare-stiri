@@ -3060,3 +3060,7 @@ https://www.producthunt.com/products/browseract|BrowserAct|https://image.pollina
 https://finance.yahoo.com/markets/stocks/articles/fedex-boost-revenue-behind-premium-233524517.html|FedEx boost revenue behind premium parcel, freight volumes|1520607162513
 https://finance.yahoo.com/personal-finance/mortgages/article/will-the-housing-market-crash-in-2026-170038540.html|Will the housing market crash in 2026?|1526304640581
 https://www.marketwatch.com/story/here-are-five-themes-wall-street-left-behind-while-chasing-a-single-trade-2fc5a2ab?mod=mw_rss_topstories|Here are five themes Wall Street left behind while chasing a single trade|https://images.mktw.net/im-44634654
+https://www.producthunt.com/products/zaro|Zaro|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/technology/live/tech-stocks-live-ai-trade-roars-back-after-micron-earnings-crush-estimates-143422690.html|Tech stocks live: AI trade roars back after Micron earnings crush estimates|1518770660439
+https://finance.yahoo.com/markets/crypto/articles/rlusd-just-overtook-ethereum-xrp-132443106.html|RLUSD Just Overtook Ethereum on the XRP Ledger: Can It Help XRP this Time?|1639762681485
+https://www.marketwatch.com/story/rocket-lab-lockheed-martin-among-the-partners-in-spacexs-military-space-laser-project-1b8d61e2?mod=mw_rss_topstories|Rocket Lab, Lockheed Martin among the partners in SpaceX’s military space-laser project|https://images.mktw.net/im-29972515
