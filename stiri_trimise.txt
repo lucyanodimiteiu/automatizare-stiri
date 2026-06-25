@@ -3080,3 +3080,7 @@ https://www.producthunt.com/products/dub-ninja|Dub Ninja|https://image.pollinati
 https://finance.yahoo.com/markets/stocks/articles/credo-technology-crdo-starts-outperform-134655229.html|Credo Technology (CRDO) Starts With Outperform Rating as Optical AI Connectivity Opportunity Expands|1461749280684
 https://finance.yahoo.com/markets/commodities/articles/interview-barcharts-ai-market-analyst-143055098.html|An Interview with Barchart's AI Market Analyst CARL|1504711434969
 https://www.marketwatch.com/story/the-s-p-500-is-at-a-critical-crossroads-a-break-lower-could-signal-more-losses-ahead-f425063c?mod=mw_rss_topstories|The S&P 500 is at a critical crossroads. A break lower could signal more losses ahead.|https://images.mktw.net/im-14421532
+https://www.producthunt.com/products/nashra-turn-followers-into-clients|Nashra|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/options/articles/cboe-launches-p-500-prediction-161500319.html|Cboe Launches S&P 500 Prediction Market|1495020689067
+https://www.investors.com/news/sk-hynix-ai-chip-company-ipo/?src=A00220&yptr=yahoo|AI Chip Company Sets $29 Billion U.S. Offering In Another Big-Time IPO|1531746790731
+https://www.marketwatch.com/story/spacex-is-a-bad-buy-why-openai-and-anthropic-will-be-too-2448ea73?mod=mw_rss_topstories|SpaceX stock is a terrible buy — what that actually means for the bull market|https://images.mktw.net/im-84176786
