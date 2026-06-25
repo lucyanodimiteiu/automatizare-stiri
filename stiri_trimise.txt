@@ -3076,3 +3076,7 @@ https://www.producthunt.com/products/tough-tongue-ai-2|Tough Tongue AI for Sales
 https://finance.yahoo.com/markets/articles/midyear-market-outlook-symposium-essential-120019569.html|Midyear Market Outlook Symposium to Provide Essential Overview|1611974789855
 https://finance.yahoo.com/technology/ai/articles/qualcomm-buy-ai-startup-modular-120736810.html|Qualcomm to buy startup Modular for $4 billion in AI software push|1655720031554
 https://www.marketwatch.com/story/why-palantirs-stock-is-having-its-worst-month-in-years-even-in-the-midst-of-an-ai-boom-aad92671?mod=mw_rss_topstories|Why Palantir’s stock is having its worst month in years — even in the midst of an AI boom|https://images.mktw.net/im-47990992
+https://www.producthunt.com/products/dub-ninja|Dub Ninja|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/credo-technology-crdo-starts-outperform-134655229.html|Credo Technology (CRDO) Starts With Outperform Rating as Optical AI Connectivity Opportunity Expands|1461749280684
+https://finance.yahoo.com/markets/commodities/articles/interview-barcharts-ai-market-analyst-143055098.html|An Interview with Barchart's AI Market Analyst CARL|1504711434969
+https://www.marketwatch.com/story/the-s-p-500-is-at-a-critical-crossroads-a-break-lower-could-signal-more-losses-ahead-f425063c?mod=mw_rss_topstories|The S&P 500 is at a critical crossroads. A break lower could signal more losses ahead.|https://images.mktw.net/im-14421532
