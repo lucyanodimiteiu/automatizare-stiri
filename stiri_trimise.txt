@@ -3084,3 +3084,7 @@ https://www.producthunt.com/products/nashra-turn-followers-into-clients|Nashra|h
 https://finance.yahoo.com/markets/options/articles/cboe-launches-p-500-prediction-161500319.html|Cboe Launches S&P 500 Prediction Market|1495020689067
 https://www.investors.com/news/sk-hynix-ai-chip-company-ipo/?src=A00220&yptr=yahoo|AI Chip Company Sets $29 Billion U.S. Offering In Another Big-Time IPO|1531746790731
 https://www.marketwatch.com/story/spacex-is-a-bad-buy-why-openai-and-anthropic-will-be-too-2448ea73?mod=mw_rss_topstories|SpaceX stock is a terrible buy — what that actually means for the bull market|https://images.mktw.net/im-84176786
+https://www.producthunt.com/products/clickup|Brain² by ClickUp|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/brown-capital-management-small-company-135315670.html|The Brown Capital Management Small Company Fund Picked Credo Technology (CRDO) Amid Multiple Durable Growth Drivers|1495020689067
+https://finance.yahoo.com/technology/ai/articles/nice-nice-upgraded-buy-da-134632010.html|NICE (NICE) Upgraded to Buy by DA Davidson as AI Disruption Fears Ease|1593508512255
+https://www.marketwatch.com/story/a-world-rejecting-opec-controls-could-usher-in-oil-below-50-a-barrel-3d7eda1b?mod=mw_rss_topstories|A world rejecting OPEC controls could usher in oil below $50 a barrel|https://images.mktw.net/im-64773488
