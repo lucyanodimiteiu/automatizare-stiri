@@ -3116,3 +3116,7 @@ https://www.producthunt.com/products/dmv-department-of-machine-verification|DMV 
 https://finance.yahoo.com/healthcare/articles/germany-merck-acquire-bio-techne-105736325.html|Germany’s Merck to Acquire Bio-Techne in $11.3 Billion Deal|1518770660439
 https://finance.yahoo.com/markets/crypto/articles/managing-bitcoin-volatility-case-yield-110030092.html|Managing Bitcoin Volatility: The Case for Yield & Equity DRIPs|1591994843349
 https://www.marketwatch.com/story/spacexs-new-bonds-are-flashing-a-warning-sign-as-investors-pump-the-brakes-on-ai-frenzy-752ad44b?mod=mw_rss_topstories|SpaceX’s new bonds are flashing a warning sign, as investors pump the brakes on AI frenzy|https://images.mktw.net/im-80723995
+https://www.producthunt.com/products/agent-arena|Agent Arena|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/fluence-stock-hit-hard-ai-145558459.html|Fluence Stock Was Hit Hard by the AI Sell-off. How to Play the Dip in FLNC Here.|1581091226825
+https://finance.yahoo.com/markets/stocks/articles/keysight-technologies-keys-rallied-earnings-144744649.html|Keysight Technologies (KEYS) Rallied on Earnings Beat and Improved Outlook|1586339949916
+https://www.marketwatch.com/story/servicenow-salesforce-and-other-software-stocks-surge-as-the-openai-threat-weakens-bb1eacfb?mod=mw_rss_topstories|ServiceNow, Salesforce and other software stocks surge as the OpenAI threat weakens|https://images.mktw.net/im-701755
