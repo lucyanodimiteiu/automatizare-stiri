@@ -3112,3 +3112,7 @@ https://www.producthunt.com/products/aurora-21|Aurora Notch|https://image.pollin
 https://finance.yahoo.com/small-business/articles/whatsapps-pick-indian-fintech-founder-085856477.html|WhatsApp's pick of Indian fintech founder signals scale of payment ambitions|1586339949916
 https://finance.yahoo.com/technology/ai/articles/anthropic-shutdown-chinas-z-ai-091333035.html|After Anthropic shutdown, China's Z.ai closes frontier gap as it plans dual listing|1586339949916
 https://www.marketwatch.com/story/healthcare-stocks-have-become-a-haven-for-investors-ditching-tech-81c544d0?mod=mw_rss_topstories|Healthcare stocks have become a haven for investors ditching tech|https://images.mktw.net/im-25984552
+https://www.producthunt.com/products/dmv-department-of-machine-verification|DMV by Agent Community|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/healthcare/articles/germany-merck-acquire-bio-techne-105736325.html|Germany’s Merck to Acquire Bio-Techne in $11.3 Billion Deal|1518770660439
+https://finance.yahoo.com/markets/crypto/articles/managing-bitcoin-volatility-case-yield-110030092.html|Managing Bitcoin Volatility: The Case for Yield & Equity DRIPs|1591994843349
+https://www.marketwatch.com/story/spacexs-new-bonds-are-flashing-a-warning-sign-as-investors-pump-the-brakes-on-ai-frenzy-752ad44b?mod=mw_rss_topstories|SpaceX’s new bonds are flashing a warning sign, as investors pump the brakes on AI frenzy|https://images.mktw.net/im-80723995
