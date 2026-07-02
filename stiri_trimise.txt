@@ -3368,3 +3368,7 @@ https://www.producthunt.com/products/quick-sub-2-video-subtitling|Quick Sub 2: V
 https://www.investors.com/research/ibd-stock-of-the-day/cognex-stock-cgnx-winner-industrial-automation/?src=A00220&yptr=yahoo|Cognex, IBD Stock Of The Day, Called Play On Industrial Automation Trend|1503376780353
 https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-2-223136955.html|Stock market today: Dow rises, S&P 500 and Nasdaq dip after June jobs report falls short|1526304640581
 https://www.marketwatch.com/story/if-you-lost-money-on-trump-crypto-ventures-dont-whine-1839a774?mod=mw_rss_topstories|If you lost money on Trump crypto ventures, don’t whine|https://images.mktw.net/im-41881424
+https://www.producthunt.com/products/macuse|Macuse|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/energy/articles/energy-transfer-et-expands-nederland-081607112.html|Energy Transfer (ET) Expands Nederland NGL Export Terminal to Increase Capacity by 295,000 Bpd|1545173168
+https://finance.yahoo.com/healthcare/articles/bd-bdx-receives-vizient-innovative-081614285.html|BD (BDX) Receives Vizient Innovative Technology Contract for CentroVena One Insertion System|1519389950473
+https://www.marketwatch.com/story/oil-prices-are-now-back-to-prewar-levels-but-the-market-is-not-heres-what-could-happen-next-c2883aa7?mod=mw_rss_topstories|Oil prices are now back to prewar levels, but the market is not. Here’s what could happen next.|https://images.mktw.net/im-42583726
