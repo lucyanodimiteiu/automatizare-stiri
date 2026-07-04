@@ -3452,3 +3452,7 @@ https://www.producthunt.com/products/checklistfox|ChecklistFox|https://image.pol
 https://finance.yahoo.com/technology/articles/chinese-robot-maker-unitree-wins-052743978.html|Chinese robot maker Unitree wins approval for $619 million Shanghai IPO|1504711434969
 https://finance.yahoo.com/technology/articles/lika-raises-4-56m-commercialise-063600380.html|lika raises £4.56m to commercialise solid-state batteries technology|1495020689067
 https://www.pv-magazine.com/2026/07/03/agrivoltaic-cold-frame-system-for-controlled-environment-crop-cultivation/|Agrivoltaic cold frame system for controlled-environment crop cultivation|1495020689067
+https://www.producthunt.com/products/termi-protocol|Termi Protocol|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/global-equity-fund-inflows-rise-094754157.html|Global equity fund inflows rise as investors add tech stocks after market dip|1504711434969
+https://finance.yahoo.com/video/inside-cannes-executives-said-leading-100000839.html|Inside Cannes: What Executives Said About Leading in the AI Era|1504711434969
+https://www.pv-magazine.com/2026/07/03/bhutan-secures-funding-for-310-mw-of-solar/|Bhutan secures funding for 310 MW of solar|1509391366360
