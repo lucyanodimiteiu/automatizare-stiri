@@ -3472,3 +3472,7 @@ https://finance.yahoo.com/markets/stocks/articles/chubb-vs-travelers-companies-r
 https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-kept-waiting-142412506.html|Jim Cramer Says He Kept Waiting for Breaks in Stocks Like Lam Research Which Never Came|1655720031554
 https://hackaday.com/2026/07/04/five-solar-air-heating-methods-tested/|Five Solar Air Heating Methods Tested|https://hackaday.com/wp-content/uploads/2026/06/solar-heater-main.png?w=800
 https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion|White House deletes thousands of web pages about energy conservation as heatwave slams US|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://hackaday.com/2026/07/03/microdistillery-for-microchemistry/|Microdistillery for Microchemistry|https://hackaday.com/wp-content/uploads/2026/06/micro-still-main.png?w=800
+https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy|Matic’s robot vacuum is getting a $250 price hike in September|https://image.pollinations.ai/prompt/industrial%20robot%20arm%20welding%20in%20a%20factory%2C%20spar
+https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/|What is Mistral AI? Everything to know about the OpenAI competitor|1432821596592
+https://altfins.com/blog/3-crypto-trading-strategies-that-work-in-a-bear-market-2026/|3 Crypto Trading Strategies That Work in a Bear Market (2026)|1586339949916
