@@ -3456,3 +3456,7 @@ https://www.producthunt.com/products/termi-protocol|Termi Protocol|https://image
 https://finance.yahoo.com/markets/stocks/articles/global-equity-fund-inflows-rise-094754157.html|Global equity fund inflows rise as investors add tech stocks after market dip|1504711434969
 https://finance.yahoo.com/video/inside-cannes-executives-said-leading-100000839.html|Inside Cannes: What Executives Said About Leading in the AI Era|1504711434969
 https://www.pv-magazine.com/2026/07/03/bhutan-secures-funding-for-310-mw-of-solar/|Bhutan secures funding for 310 MW of solar|1509391366360
+https://www.producthunt.com/products/centryai|CentryAI|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/2-high-yield-dividend-stocks-123500448.html|2 High-Yield Dividend Stocks Just Got Kicked Out of the S&P 500. Is Either a Buy Now?|1586339949916
+https://finance.yahoo.com/healthcare/articles/earnings-preview-expect-ge-healthcare-111556444.html|Earnings Preview: What To Expect From GE HealthCare Technologies’ Report|1586339949916
+https://www.pv-magazine.com/2026/07/03/blocking-el-nino-and-extreme-events-redistribute-solar-resource-in-2026-so-far/|Blocking, El Niño and extreme events redistribute solar resource in 2026 so far|1531746790731
