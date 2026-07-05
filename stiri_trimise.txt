@@ -3506,3 +3506,7 @@ https://hackaday.com/2026/07/04/make-a-diy-e-ink-faceplate-for-valves-steam-mach
 https://www.producthunt.com/products/pennen|Pennen|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
 https://finance.yahoo.com/markets/crypto/articles/strategys-latest-plan-1-more-082000078.html|Is Strategy's Latest Plan 1 More Reason to Sell Bitcoin?|https://image.pollinations.ai/prompt/golden%20bitcoin%20coin%20on%20a%20dark%20reflective%20surface%
 https://finance.yahoo.com/small-business/articles/one-small-business-ai-key-100159658.html|For one small business, AI was key to a quick start and expansion|https://image.pollinations.ai/prompt/modern%20glass%20office%20building%20exterior%2C%20city%20skyli
+https://www.producthunt.com/products/toku-reader|Toku Reader|1495020689067
+https://finance.yahoo.com/markets/stocks/articles/8-top-10-wealth-creating-110000224.html|8 of the top 10 wealth-creating stocks over 100 years are Big Tech. But these two outliers still created $2.6T|1586339949916
+https://finance.yahoo.com/technology/ai/articles/77-companies-pushing-ai-workers-103000676.html|77% of companies are pushing AI on workers — employment lawyers say you have almost no right to refuse|1457369804613
+https://www.theverge.com/column/960600/xbox-is-a-disaster|Xbox is a disaster|1586339949916
