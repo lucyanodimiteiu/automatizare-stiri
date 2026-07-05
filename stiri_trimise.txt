@@ -3510,3 +3510,7 @@ https://www.producthunt.com/products/toku-reader|Toku Reader|1495020689067
 https://finance.yahoo.com/markets/stocks/articles/8-top-10-wealth-creating-110000224.html|8 of the top 10 wealth-creating stocks over 100 years are Big Tech. But these two outliers still created $2.6T|1586339949916
 https://finance.yahoo.com/technology/ai/articles/77-companies-pushing-ai-workers-103000676.html|77% of companies are pushing AI on workers — employment lawyers say you have almost no right to refuse|1457369804613
 https://www.theverge.com/column/960600/xbox-is-a-disaster|Xbox is a disaster|1586339949916
+https://www.producthunt.com/products/mentiondrop|MentionDrop MCP|https://image.pollinations.ai/prompt/financial%20trading%20floor%20with%20screens%20showing%20charts
+https://finance.yahoo.com/small-business/articles/stress-free-35-000-retire-121227705.html|Stress Free on $35,000 a Year: Retire to Spain’s Costa del Sol at 62|1531746790731
+https://finance.yahoo.com/technology/ai/articles/3-ai-data-center-power-123057075.html|3 AI Data Center Power Stocks to Buy in July|1495020689067
+https://www.marketwatch.com/story/hybrids-are-the-breakout-star-of-the-u-s-car-market-as-ev-demand-fades-96dce1c3?mod=mw_rss_topstories|Hybrids are the breakout star of the U.S. car market as EV demand fades|https://images.mktw.net/im-61231260
