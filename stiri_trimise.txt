@@ -3546,3 +3546,5 @@ https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-july-7-2
 https://finance.yahoo.com/energy/articles/cheniere-energy-partners-l-p-225352790.html|Cheniere Energy Partners, L.P. (CQP) Strengthens Financial Position with $2B Offering Amid LNG Expansion Plans|1581091226825
 https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence|Infuriating Google commercial imagines the founding fathers embracing AI|1518770660439
 https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/|Uber’s European expansion plans may have hit a speed bump|1535320903710
+https://www.theverge.com/tech/959604/sourdough-sidekick-review-king-arthur-starter|The Sourdough Sidekick automates the boring bit of baking|https://image.pollinations.ai/prompt/modern%20technology%20office%20with%20holographic%20displays%20
+https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/|What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public|1461749280684
