@@ -3552,3 +3552,7 @@ https://finance.yahoo.com/markets/options/articles/fepi-25-yield-masks-painful-1
 https://www.pv-magazine.com/2026/07/06/documenting-risk/|Documenting risk|https://image.pollinations.ai/prompt/financial%20trading%20floor%20with%20screens%20showing%20charts
 https://www.theverge.com/podcast/961470/keurig-coffee-k-up-version-history|How Keurig saved — and ruined — your coffee|1620712943543
 https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/|Almost 90 new unicorns have been minted so far this year — here they are|1519389950473
+https://www.producthunt.com/products/stanley-studio|Stanley Studio|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/sailpoint-sail-backs-q2-guidance-100239515.html|SailPoint (SAIL) Backs Q2 Guidance at Investor Day|1593508512255
+https://finance.yahoo.com/markets/stocks/articles/ubs-raises-price-target-jfrog-100232910.html|UBS Raises its Price Target on JFrog (FROG)|1677442135703
+https://www.marketwatch.com/story/as-oil-exits-the-danger-zone-heres-what-history-suggests-happens-next-for-stocks-7724a8a9?mod=mw_rss_topstories|As oil exits the ‘danger zone,’ here’s what history suggests happens next for stocks|https://images.mktw.net/im-71500550
