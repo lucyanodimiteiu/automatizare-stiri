@@ -3612,3 +3612,7 @@ https://www.producthunt.com/products/dupely|Dupely|https://image.pollinations.ai
 https://finance.yahoo.com/markets/article/this-surprising-wrinkle-in-the-2026-bull-market-could-drive-stocks-higher-120223653.html|This surprising wrinkle in the 2026 bull market could drive stocks higher|1520607162513
 https://finance.yahoo.com/research/reports/ARGUS_47537_MarketUpdate_1783445759000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei|Market Update: LUV|1535320903710
 https://www.marketwatch.com/story/apple-is-closing-in-on-nvidia-as-it-looks-to-reclaim-title-of-largest-u-s-company-04f41546?mod=mw_rss_topstories|Apple is closing in on Nvidia as it looks to reclaim title of largest U.S. company|https://images.mktw.net/im-26168769
+https://www.producthunt.com/products/katalyst|Katalyst|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/stock-indexes-supported-strength-chipmakers-140836812.html|Stock Indexes Supported by Strength in Chipmakers and AI Stocks|1620712943543
+https://finance.yahoo.com/economy/articles/bank-america-warns-america-now-202300727.html|Bank of America warns America now has 2 economies|1519389950473
+https://www.marketwatch.com/story/think-the-u-s-stock-market-is-too-heavily-exposed-to-ai-its-even-worse-abroad-7524d770?mod=mw_rss_topstories|Think the U.S. stock market is too heavily exposed to AI? It’s even worse abroad.|https://images.mktw.net/im-09997984
