@@ -3608,3 +3608,7 @@ https://www.producthunt.com/products/ogment-mcp-builder|Ogment AI|https://image.
 https://finance.yahoo.com/technology/articles/widepoint-wyy-says-itms-command-100212190.html|WidePoint (WYY) Says ITMS Command Center Deployment Remains on Schedule|1593508512255
 https://finance.yahoo.com/technology/articles/why-palo-alto-panw-among-100218783.html|Here’s Why Palo Alto (PANW) is Among the 8 High Growth Cybersecurity Stocks to Buy Now|1614064641938
 https://www.marketwatch.com/story/elon-musks-terafab-could-give-a-major-boost-to-this-corner-of-the-chip-sector-27ad6099?mod=mw_rss_topstories|Elon Musk’s Terafab could give a major boost to this corner of the chip sector|https://images.mktw.net/im-79898000
+https://www.producthunt.com/products/dupely|Dupely|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/article/this-surprising-wrinkle-in-the-2026-bull-market-could-drive-stocks-higher-120223653.html|This surprising wrinkle in the 2026 bull market could drive stocks higher|1520607162513
+https://finance.yahoo.com/research/reports/ARGUS_47537_MarketUpdate_1783445759000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei|Market Update: LUV|1535320903710
+https://www.marketwatch.com/story/apple-is-closing-in-on-nvidia-as-it-looks-to-reclaim-title-of-largest-u-s-company-04f41546?mod=mw_rss_topstories|Apple is closing in on Nvidia as it looks to reclaim title of largest U.S. company|https://images.mktw.net/im-26168769
