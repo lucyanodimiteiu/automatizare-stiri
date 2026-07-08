@@ -3664,3 +3664,7 @@ https://www.producthunt.com/products/poptask|PopTask for Apple|https://image.pol
 https://finance.yahoo.com/markets/stocks/articles/coinbase-gets-u-k-approval-131000733.html|Coinbase Gets U.K. Approval To Offer Stock Trading|1622630998477
 https://finance.yahoo.com/markets/currencies/articles/stubborn-dollar-threatens-major-breakout-131004981.html|Stubborn Dollar Threatens Major Breakout Against Euro and Franc|1593508512255
 https://www.marketwatch.com/story/this-chart-shows-stamp-prices-over-the-years-as-usps-hikes-postage-again-this-weekend-affbb84b?mod=mw_rss_topstories|This chart shows stamp prices over the years as USPS hikes postage again this weekend|https://images.mktw.net/im-845985
+https://www.producthunt.com/products/jamboree|Jamboree|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/stocks/articles/ai-startup-ceo-pleaded-guilty-143543113.html|AI startup CEO pleaded guilty in US to trading on insider tips from lawyers|1620712943543
+https://finance.yahoo.com/energy/articles/prices-fall-crack-spread-signals-143125610.html|As prices fall, crack spread signals a split in oil markets|1535320903710
+https://www.marketwatch.com/story/higher-gas-prices-arent-the-only-way-rising-tensions-with-iran-will-hit-home-0a995066?mod=mw_rss_topstories|Higher gas prices aren’t the only way rising tensions with Iran will hit home|https://images.mktw.net/im-32393894
