@@ -3648,3 +3648,7 @@ https://www.producthunt.com/products/yc-company-explorer|ExploreYC|https://image
 https://www.investors.com/news/trump-iran-ceasefire-oil-refinery-stocks/?src=A00220&yptr=yahoo|Refinery Stocks Lead S&P 500 After Trump Ceasefire Comment|1495020689067
 https://finance.yahoo.com/research/reports/ARGUS_47545_MarketOutlook_1783509782000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei|Daily Spotlight: Equities Post Strong First Half|1495020689067
 https://www.marketwatch.com/story/why-the-stock-markets-biggest-laggards-might-be-your-best-defense-against-a-summer-selloff-be079d8e?mod=mw_rss_topstories|Why the stock market’s biggest laggards might be your best defense against a summer selloff|https://images.mktw.net/im-72472488
+https://www.producthunt.com/products/agents-cli|agents-cli|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/stocks/articles/stocks-bonds-retreat-trump-says-143654327.html|Stocks, bonds retreat after Trump says Iran MOU 'is over'|1581091226825
+https://finance.yahoo.com/markets/articles/claiming-social-security-62-reduce-164007503.html|Claiming Social Security at 62 Can Reduce Your Benefit by Up to 30%. When It Still Makes Sense|1495020689067
+https://www.marketwatch.com/story/oil-prices-jump-by-the-most-in-two-months-after-trump-suggests-u-s-iran-cease-fire-is-over-9fa7caee?mod=mw_rss_topstories|Oil prices touch two-week highs  after Trump suggests U.S.-Iran cease-fire is over|https://images.mktw.net/im-02006560
