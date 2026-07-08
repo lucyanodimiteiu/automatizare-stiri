@@ -3656,3 +3656,7 @@ https://www.producthunt.com/products/veryfi|On-Device Field Extraction by Veryfi
 https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-corporation-noc-top-093636760.html|Northrop Grumman Corporation (NOC) Is A Top Pick In Billionaire Talpins’ Filings|1518770660439
 https://finance.yahoo.com/research/reports/ARGUS_47549_MarketUpdate_1783532732000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei|Market Update: CMCSA, GAP|1611974789855
 https://www.marketwatch.com/story/oil-surges-as-strait-of-hormuz-is-back-into-full-conflict-conditions-6ef59562?mod=mw_rss_topstories|Oil surges as Strait of Hormuz is back into ‘full conflict conditions’|https://images.mktw.net/im-64703426
+https://www.producthunt.com/products/willow-voice|Willow Frontier Pro|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/stocks/articles/3-ai-memory-stocks-watch-105836282.html|3 AI Memory Stocks to Watch in July 2026|1461749280684
+https://finance.yahoo.com/energy/articles/adnoc-xrg-mitsui-expand-energy-113646500.html|ADNOC, XRG, and Mitsui Expand Energy Partnership Across LNG and Trading|1473341304170
+https://www.marketwatch.com/story/nvidias-stock-trades-at-a-juicy-discount-according-to-bofa-93f46d19?mod=mw_rss_topstories|Nvidia’s stock trades at a juicy discount, according to BofA|https://images.mktw.net/im-95940565
