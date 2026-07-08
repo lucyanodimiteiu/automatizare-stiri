@@ -3624,3 +3624,7 @@ https://www.producthunt.com/products/glideo|Glideo|https://image.pollinations.ai
 https://finance.yahoo.com/markets/stocks/articles/honeywell-spinoff-solstice-buy-element-124022495.html|Solstice buys Element Solutions in $14.5 billion deal, sharpens focus on AI market|1586339949916
 https://finance.yahoo.com/markets/stocks/articles/better-chip-stock-intel-versus-122000698.html|Better Chip Stock: Intel Versus Taiwan Semiconductor|1504711434969
 https://www.marketwatch.com/story/adobes-stock-is-temptingly-cheap-should-investors-bite-196258b5?mod=mw_rss_topstories|Adobe’s stock is temptingly cheap. Should investors bite?|https://images.mktw.net/im-57417876
+https://www.producthunt.com/products/ellis-your-conversations-remembered|Ellis|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/article/tech-stocks-on-track-for-record-annual-inflows-as-investors-pile-into-the-ai-trade-154703501.html|Tech stocks on track for record annual inflows as investors pile into the AI trade|1498050108023
+https://finance.yahoo.com/markets/stocks/articles/p-global-spgi-strong-fundamentals-154600333.html|S&P Global (SPGI): Strong Fundamentals Amid AI Uncertainties?|1457369804613
+https://www.marketwatch.com/story/rivians-stock-sale-triggers-worst-rout-for-the-shares-in-nearly-two-years-6791789e?mod=mw_rss_topstories|Rivian’s stock sale triggers worst rout for the shares in nearly two years|https://images.mktw.net/im-27296887
