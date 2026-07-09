@@ -3704,3 +3704,7 @@ https://www.producthunt.com/products/gate-ai-2|Constellation Gate AI|https://ima
 https://finance.yahoo.com/markets/article/3-stealthy-stock-market-events-that-should-worry-investors-122001754.html|3 stealthy stock market events that should worry investors|1581091226825
 https://finance.yahoo.com/markets/stocks/articles/chinas-nexchip-raise-890-million-123320122.html|China's Nexchip to raise $890 million in Hong Kong share sale|1457369804613
 https://www.marketwatch.com/story/a-slower-ai-payoff-risks-tipping-the-economy-into-recession-apollo-says-5d495f6c?mod=mw_rss_topstories|A slower AI payoff risks tipping the economy into recession, Apollo says|https://images.mktw.net/im-46119533
+https://www.producthunt.com/products/monogram-ai|Monogram AI|1518770660439
+https://finance.yahoo.com/markets/stocks/articles/state-street-triple-play-capturing-150606114.html|State Street’s Triple Play: Capturing the U.S. Broad Market Benchmarks|1520607162513
+https://finance.yahoo.com/healthcare/articles/agilent-technologies-inc-stock-positioned-145022167.html|Is Agilent Technologies, Inc. (A) Stock Positioned for Growth as Life Sciences Sector Trends Stabilize?|1495020689067
+https://www.marketwatch.com/story/why-a-hidden-divergence-between-the-vix-and-nasdaq-volatility-has-the-smart-money-on-edge-cda23cc0?mod=mw_rss_topstories|Why a hidden divergence between the VIX and Nasdaq volatility has the smart money on edge|https://images.mktw.net/im-615981
