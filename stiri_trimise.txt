@@ -3684,3 +3684,7 @@ https://www.producthunt.com/products/tasks-txt|Tasks.txt|https://image.pollinati
 https://www.investors.com/news/technology/chip-stocks-fall-despite-samsung-profit-surge/?src=A00220&yptr=yahoo|Micron, Chip Stocks Fall Despite Samsung Profit Surge|1457369804613
 https://finance.yahoo.com/technology/ai/articles/spacexai-plans-launch-model-cursor-210200389.html|SpaceXAI plans to launch new model with Cursor as soon as Wednesday, The Information reports|1498050108023
 https://www.digi24.ro/stiri/economie/economia-romaniei-a-stagnat-in-t1-fata-de-finalul-lui-2025-adrian-negrescu-traversam-o-epoca-de-gheata-investitionala-3854485|Economia României a stagnat în T1 față de finalul lui 2025. Adrian Negrescu: „Traversăm o epocă de gheață investițională”|1504711434969
+https://www.producthunt.com/products/timbal-ai|Timbal AI|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/crypto/articles/cleanspark-short-interest-climbs-33-013200151.html|CleanSpark Short Interest Climbs to 33% as Bitcoin Pressure Builds|1518546305927
+https://finance.yahoo.com/energy/articles/why-ai-boom-break-u-000000959.html|Why the AI Boom Is About to Break the U.S. Power Grid|1655720031554
+https://www.marketwatch.com/story/major-drugmaker-loses-27-billion-in-market-value-after-failed-trial-b891fc61?mod=mw_rss_topstories|Major drugmaker loses $27 billion in market value after failed trial|https://images.mktw.net/im-88416588
