@@ -3688,3 +3688,7 @@ https://www.producthunt.com/products/timbal-ai|Timbal AI|https://image.pollinati
 https://finance.yahoo.com/markets/crypto/articles/cleanspark-short-interest-climbs-33-013200151.html|CleanSpark Short Interest Climbs to 33% as Bitcoin Pressure Builds|1518546305927
 https://finance.yahoo.com/energy/articles/why-ai-boom-break-u-000000959.html|Why the AI Boom Is About to Break the U.S. Power Grid|1655720031554
 https://www.marketwatch.com/story/major-drugmaker-loses-27-billion-in-market-value-after-failed-trial-b891fc61?mod=mw_rss_topstories|Major drugmaker loses $27 billion in market value after failed trial|https://images.mktw.net/im-88416588
+https://www.producthunt.com/products/opper-ai|Opper AI|https://image.pollinations.ai/prompt/European%20Parliament%20building%20in%20Brussels%2C%20EU%20flag
+https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-9-us-strikes-iran-223149196.html|Stock market today: S&P 500, Dow, Nasdaq edge up as focus turns to AI despite war jitters|1504711434969
+https://finance.yahoo.com/markets/currencies/articles/dollar-stands-tall-gulf-tensions-012057150.html|Dollar dips as labor market remains stable, US-Iran tensions rise|1586339949916
+https://www.marketwatch.com/story/pepsico-cuts-prices-on-snacks-its-not-enough-to-drive-growth-in-north-america-5bc0c111?mod=mw_rss_topstories|PepsiCo cut snack prices again, but not enough to get American consumers to buy more|https://images.mktw.net/im-71662360
