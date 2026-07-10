@@ -3736,3 +3736,7 @@ https://www.producthunt.com/products/mispher-agentic-transcription-for-mac|Misph
 https://finance.yahoo.com/technology/article/chip-giant-sk-hynix-jumps-14-in-us-market-debut-193700352.html|Chip giant SK Hynix jumps 14% in US market debut|1535320903710
 https://finance.yahoo.com/personal-finance/mortgages/article/seller-paid-rate-buydown-how-it-works-and-how-to-ask-for-one-154043373.html|Seller-paid rate buydown: How it works and how to ask for one|1432821596592
 https://www.marketwatch.com/story/sk-hynixs-stock-looks-primed-for-a-pop-in-its-nasdaq-debut-38054370?mod=mw_rss_topstories|SK Hynix’s stock pops in its Nasdaq debut|https://images.mktw.net/im-06135510
+https://www.producthunt.com/products/chatcut-ai-video-editor|ChatCut|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-sk-hynix-stock/?src=A00220&yptr=yahoo|Stock Market Today: Dow Rises; SK Hynix Pops In U.S. Trading Debut; WD-40 Glides Higher (Live Coverage)|1498050108023
+https://finance.yahoo.com/markets/live/stock-market-today-friday-july-10-dow-sp-nasdaq-113921604.html|Stock market today: Dow, S&P 500, Nasdaq rise as US-Iran talks continue, SK Hynix stock pops|1495020689067
+https://www.marketwatch.com/story/delta-reports-record-revenue-and-a-profit-beat-even-as-fuel-costs-surge-b1e33336?mod=mw_rss_topstories|Delta faces jet-fuel jitters even as it sees strong travel demand|https://images.mktw.net/im-35939079
