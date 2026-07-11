@@ -3780,3 +3780,7 @@ https://www.producthunt.com/products/san-fran-sim|San Fran Sim|https://image.pol
 https://finance.yahoo.com/technology/ai/articles/taiwanese-chipmaker-nanya-plans-6-092507004.html|Taiwanese chipmaker Nanya plans $6 billion in spending in 2027, riding AI boom|1677442135703
 https://finance.yahoo.com/energy/articles/chevron-signs-five-wa-gas-091000252.html|Chevron Signs Five-Year WA Gas Supply Deal With Alinta Energy|1473341304170
 https://www.marketwatch.com/story/fed-chair-warsh-will-be-in-the-hot-seat-as-lawmakers-press-for-his-read-on-the-economy-959ac784?mod=mw_rss_topstories|Fed Chair Warsh will be in the hot seat as lawmakers press for his read on the economy|https://images.mktw.net/im-62250329
+https://www.producthunt.com/products/kickbacks-cli|Kickbacks CLI|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/analysis-trump-makes-stock-market-100516059.html|Analysis-Trump makes the stock market his scoreboard, but many Americans aren't even in the game|1526304640581
+https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-july-10-rates-are-mixed-today-mostly-higher-100000913.html|Mortgage and refinance interest rates today, Friday, July 10: Rates are mixed today, mostly higher|1559526324
+https://www.marketwatch.com/story/the-u-s-stock-market-is-becoming-too-big-to-fail-b3473e40?mod=mw_rss_topstories|The U.S. stock market is becoming ‘too big to fail’|https://images.mktw.net/im-62310076
