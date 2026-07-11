@@ -3808,3 +3808,7 @@ https://finance.yahoo.com/markets/crypto/articles/bitcoin-dropped-2-then-rebound
 https://finance.yahoo.com/technology/ai/articles/salesforce-receives-double-blow-over-181700627.html|Salesforce receives double blow over an AI product|1581091226825
 https://www.pv-magazine.com/2026/07/11/end-of-life-module-recycling-unviable-if-material-diversity-is-not-considered/|End-of-life solar module recycling unviable if material diversity is not considered|https://image.pollinations.ai/prompt/solar%20panel%20farm%20in%20a%20sunny%20desert%20landscape%2C%2
 https://hackaday.com/2026/07/11/clay-extruder-enables-printable-pottery/|Clay Extruder Enables Printable Pottery|https://hackaday.com/wp-content/uploads/2026/07/clay_extruder.png?w=800
+https://finance.yahoo.com/video/supermarket-turned-cashiers-millionaires-190154431.html|The Supermarket That Turned Cashiers Into Millionaires|https://image.pollinations.ai/prompt/financial%20trading%20floor%20with%20screens%20showing%20charts
+https://finance.yahoo.com/markets/crypto/articles/sec-rethinking-approach-etfs-heres-193500087.html|The SEC Is Rethinking Its Approach to ETFs. Here's What It Could Mean For Crypto Investors|1639762681485
+https://www.pv-magazine.com/2026/07/11/hizenergy-presents-pcs-for-ci-applications/|HIZEnergy presents PCS for C&I applications|1518770660439
+https://hackaday.com/2026/07/10/reject-modernity-return-to-80s-learn-c/|Reject Modernity, Return to 80s, Learn C.|https://hackaday.com/wp-content/uploads/2026/07/learnCtheoldway.jpg?w=800
