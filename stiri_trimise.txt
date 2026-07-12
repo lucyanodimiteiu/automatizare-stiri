@@ -3836,3 +3836,7 @@ https://finance.yahoo.com/small-business/articles/pizza-chain-closing-50-locatio
 https://finance.yahoo.com/markets/stocks/articles/main-management-market-note-july-211934726.html|Main Management Market Note, July 10, 2026|1432821596592
 https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer|The perfect kit for all your tiny repairs|1495020689067
 https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/|Meta removes controversial AI feature on Instagram after backlash|1457369804613
+https://www.producthunt.com/products/servicebeard|ServiceBeard|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/technology/live/tech-stocks-live-sk-hynix-begins-trading-on-nasdaq-spacex-stock-tumbles-131003284.html|Tech stocks live: SK Hynix begins trading on Nasdaq, SpaceX stock tumbles|1457369804613
+https://finance.yahoo.com/technology/ai/articles/apple-vs-nvidia-one-growing-230002166.html|Apple vs. Nvidia: One Is Growing 10x Faster and Trades Cheaper. The Better AI Dividend Stock Is Clear.|1531746790731
+https://hackaday.com/2026/07/11/porting-doom-to-the-casio-loopy/|Porting DOOM to the Casio Loopy|https://hackaday.com/wp-content/uploads/2026/07/casio_loopy_doom_throaty_mumbo_youtube.jpg?w=800
