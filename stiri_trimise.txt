@@ -3875,3 +3875,4 @@ https://finance.yahoo.com/technology/ai/articles/lol-funny-apple-says-ex-1900004
 https://finance.yahoo.com/technology/ai/articles/ai-bubble-burst-190000071.html|Is the AI Bubble About to Burst?|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
 https://finance.yahoo.com/technology/ai/articles/why-micron-technology-nasdaq-mu-115645715.html|Why Micron Technology (MU) Is Securing Long-Term AI Memory Demand With $22 Billion in Customer Commitments|1432821596592
 https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy|Lorde says Ray-Ban Meta AI glasses are ‘not sexy’|1432821596592
+https://hackaday.com/2026/07/12/porting-the-nvidia-gpu-driver-to-haiku-for-3d-acceleration/|Porting the Nvidia GPU Driver to Haiku for 3D Acceleration|https://hackaday.com/wp-content/uploads/2026/07/haiku_3d_accelerated_nvidia_gpu_action_retro_youtube
