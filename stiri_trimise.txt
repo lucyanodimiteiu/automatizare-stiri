@@ -3867,3 +3867,6 @@ https://finance.yahoo.com/markets/stocks/articles/rubrik-rbrk-one-best-coming-13
 https://finance.yahoo.com/markets/stocks/articles/globalfoundries-gfs-announces-production-readiness-132550167.html|GlobalFoundries (GFS) Announces Production Readiness of SLATE Wafer-to-Wafer Bonding Technology|1518770660439
 https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra|Apple’s failed self-driving car program left a legacy of powerful AI chips|1504711434969
 https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/|TechCrunch Mobility: A robotaxi ultimatum|1504711434969
+https://finance.yahoo.com/markets/stocks/articles/figure-technology-figr-stocks-set-075928541.html|Figure Technology (FIGR): Stocks Set to Explode in the Next 2 Years|https://image.pollinations.ai/prompt/modern%20technology%20office%20with%20holographic%20displays%20
+https://finance.yahoo.com/markets/stocks/articles/nvro-metals-partners-hecla-mining-075953955.html|NVRO Metals Partners with Hecla Mining (HL) for Tailings Processing|1461749280684
+https://hackaday.com/2026/07/12/building-a-better-cnc-hot-wire-foam-cutter/|Building a Better CNC Hot Wire Foam Cutter|https://hackaday.com/wp-content/uploads/2026/07/hot_wire_foam_cutting_cnc_michael_rechtin_youtube.jp
