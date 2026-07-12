@@ -3832,3 +3832,7 @@ https://finance.yahoo.com/markets/commodities/articles/oil-shock-revives-rate-hi
 https://www.pv-magazine.com/2026/07/10/eu-publishes-draft-terms-of-4th-hydrogen-auction/|EU publishes draft terms of 4th hydrogen auction|1677442135703
 https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch|A tasty RPG that will make you very hungry|1519389950473
 https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/|Reed Jobs would rather talk about curing cancer than his last name|1586339949916
+https://finance.yahoo.com/small-business/articles/pizza-chain-closing-50-locations-023300151.html|Pizza chain closing up to 50 locations after years of declines|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/main-management-market-note-july-211934726.html|Main Management Market Note, July 10, 2026|1432821596592
+https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer|The perfect kit for all your tiny repairs|1495020689067
+https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/|Meta removes controversial AI feature on Instagram after backlash|1457369804613
