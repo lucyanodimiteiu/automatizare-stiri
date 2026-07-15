@@ -4012,3 +4012,7 @@ https://www.producthunt.com/products/flutterflow|Campus|https://image.pollinatio
 https://finance.yahoo.com/technology/ai/articles/microsoft-ceo-adds-fuel-palantir-030700396.html|Microsoft CEO adds fuel to Palantir CEO’s AI warning|1498050108023
 https://finance.yahoo.com/markets/stocks/articles/oracle-stock-down-60-why-153500878.html|Oracle Stock Is Down 60%: Why Its AI Cloud Explosion Makes It a Compelling Buy|1432821596592
 https://www.marketwatch.com/story/copper-is-shadowing-the-hyperscaler-stocks-but-wait-for-a-dip-before-buying-8fe7adcc?mod=mw_rss_topstories|Copper is shadowing the AI hyperscaler stocks — but wait for a dip before buying|https://images.mktw.net/im-50957956
+https://www.producthunt.com/products/v2fun|V2Fun|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/news/asian-stocks-gain-drop-us-015011670.html|Stocks rise after soft US inflation reading with Middle East in focus|1457369804613
+https://www.investors.com/news/technology/johnson-johnson-stock-jj-earnings-q2-2026/?src=A00220&yptr=yahoo|Healthcare Bellwether J&J Beats And Raises, But Shares Dip|1586339949916
+https://www.marketwatch.com/story/its-a-buyers-market-for-bonds-aeba3adc?mod=mw_rss_topstories|It’s a buyer’s market for bonds|https://images.mktw.net/im-09631695
