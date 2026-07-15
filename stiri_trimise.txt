@@ -4008,3 +4008,7 @@ https://www.producthunt.com/products/flodesk-studio|Flodesk Studio|1457369804613
 https://finance.yahoo.com/markets/article/asml-raises-outlook-on-strong-orders-for-advanced-chipmaking-equipment-120303217.html|ASML raises outlook on strong orders for advanced chipmaking equipment|1495020689067
 https://finance.yahoo.com/research/reports/ARGUS_47620_TopBottomInsiderActivity_1784119035000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei|Daily – Vickers Top Buyers & Sellers for 07/15/2026|1586339949916
 https://www.marketwatch.com/story/most-americans-dont-know-how-to-prevent-dementia-heres-what-you-can-do-85fb4bfc?mod=mw_rss_topstories|Most Americans don’t know how to prevent dementia. Here’s what you can do.|https://images.mktw.net/im-63109205
+https://www.producthunt.com/products/flutterflow|Campus|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/technology/ai/articles/microsoft-ceo-adds-fuel-palantir-030700396.html|Microsoft CEO adds fuel to Palantir CEO’s AI warning|1498050108023
+https://finance.yahoo.com/markets/stocks/articles/oracle-stock-down-60-why-153500878.html|Oracle Stock Is Down 60%: Why Its AI Cloud Explosion Makes It a Compelling Buy|1432821596592
+https://www.marketwatch.com/story/copper-is-shadowing-the-hyperscaler-stocks-but-wait-for-a-dip-before-buying-8fe7adcc?mod=mw_rss_topstories|Copper is shadowing the AI hyperscaler stocks — but wait for a dip before buying|https://images.mktw.net/im-50957956
