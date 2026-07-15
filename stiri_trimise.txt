@@ -4016,3 +4016,7 @@ https://www.producthunt.com/products/v2fun|V2Fun|https://image.pollinations.ai/p
 https://finance.yahoo.com/news/asian-stocks-gain-drop-us-015011670.html|Stocks rise after soft US inflation reading with Middle East in focus|1457369804613
 https://www.investors.com/news/technology/johnson-johnson-stock-jj-earnings-q2-2026/?src=A00220&yptr=yahoo|Healthcare Bellwether J&J Beats And Raises, But Shares Dip|1586339949916
 https://www.marketwatch.com/story/its-a-buyers-market-for-bonds-aeba3adc?mod=mw_rss_topstories|It’s a buyer’s market for bonds|https://images.mktw.net/im-09631695
+https://www.producthunt.com/products/eddie-your-ai-video-editor|Review by Eddie AI|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/crypto/articles/near-price-may-rally-45-082914412.html|NEAR Price May Rally 45% Amid Ongoing AI Crypto Resurge|1581091226825
+https://finance.yahoo.com/economy/articles/chinas-june-trade-tops-forecasts-025658981.html|China's exports ride AI boom as domestic economy struggles|1495020689067
+https://www.marketwatch.com/story/a-big-dividend-cut-and-a-2-billion-charge-conagras-results-signal-more-pain-ahead-for-food-industry-8613bd71?mod=mw_rss_topstories|A big dividend cut and a $2 billion charge: Conagra’s results signal more pain ahead for food industry|https://images.mktw.net/im-30788355
