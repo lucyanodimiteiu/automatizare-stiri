@@ -4068,3 +4068,7 @@ https://www.producthunt.com/products/weave-9|Weave|https://image.pollinations.ai
 https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-16-dow-sp-500-nasdaq-103116735.html|Stock market today: Dow rises, S&P 500 and Nasdaq fall as chip stocks slide after TSMC earnings|1535320903710
 https://finance.yahoo.com/markets/stocks/articles/zoominfo-technologies-gtm-one-most-144816235.html|Is ZoomInfo Technologies (GTM) One of the Most Undervalued Stocks Under $5 to Buy?|1586339949916
 https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories|‘Respect is important’: If my financial adviser said, ‘Hey,’ my wife and I would walk out. Where do you draw the line?|https://images.mktw.net/im-60496419
+https://www.producthunt.com/products/the-eureka-database|The Eureka Database|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/billionaire-leon-cooperman-top-3-163016721.html|Billionaire Leon Cooperman’s Top 3 Stocks: Buy, Sell or Hold|1581091226825
+https://finance.yahoo.com/markets/crypto/articles/visa-launches-stablecoin-platform-minting-162300938.html|Visa Launches Stablecoin Platform for Minting, Wallets and Payments|1457369804613
+https://www.marketwatch.com/story/mortgage-rates-jump-to-the-highest-level-of-2026-7a35f79e?mod=mw_rss_topstories|Mortgage rates jump to the highest level of 2026|https://images.mktw.net/im-08894094
