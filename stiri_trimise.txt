@@ -4044,3 +4044,7 @@ https://www.producthunt.com/products/crustdata-2|Crustdata Recruiter|https://ima
 https://finance.yahoo.com/healthcare/articles/mark-cuban-pushes-back-ai-133116969.html|Mark Cuban Pushes Back on AI Doctors, Says Healthcare Conglomerates Will 'Delay and Deny' Progress|1593508512255
 https://finance.yahoo.com/markets/stocks/articles/does-intercontinental-exchange-ice-long-133732184.html|Does Intercontinental Exchange (ICE) Have Long Runway for Growth?|1518770660439
 https://www.marketwatch.com/story/ai-is-so-big-its-now-impossible-for-investors-to-avoid-9271e03f?mod=mw_rss_topstories|AI is so big, it’s now impossible for investors to avoid|https://images.mktw.net/im-36473530
+https://www.producthunt.com/products/eqk-eq-with-ai|EQK|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/technology/ai/articles/tech-giants-spending-700-billion-163000838.html|Tech giants spending $700 billion on AI data centers are recruiting military veterans to fill thousands of jobs|1620712943543
+https://finance.yahoo.com/economy/policy/article/we-are-committed-to-the-2-inflation-goal-warsh-tells-house-lawmakers-123000475.html|'We are committed to the 2% inflation goal,' Warsh tells House lawmakers|1526778548025
+https://www.marketwatch.com/story/united-airlines-gets-hit-by-a-6-billion-added-fuel-cost-headwind-dacb07b6?mod=mw_rss_topstories|United Airlines gets hit by a $6 billion added-fuel-cost headwind|https://images.mktw.net/im-82149330
