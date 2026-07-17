@@ -4124,3 +4124,7 @@ https://www.producthunt.com/products/yapper-leaderboard|Yapper Leaderboard|15810
 https://finance.yahoo.com/markets/live/stock-market-today-friday-july-17-dow-sp-500-nasdaq-092345307.html|Stock market today: Nasdaq hammered by chips sell-off, Dow and S&P 500 fall after Netflix whiff|1535320903710
 https://finance.yahoo.com/markets/stocks/articles/stocks-stumble-oil-set-weekly-011728443.html|World stocks fall in semiconductor rout; oil rises on Middle East escalation|1432821596592
 https://www.marketwatch.com/story/iran-war-hasnt-hurt-the-u-s-economy-too-badly-but-the-danger-isnt-over-yet-82f7d46a?mod=mw_rss_topstories|Iran war hasn’t hurt the U.S. economy too badly — but the danger isn’t over yet|https://images.mktw.net/im-37391387
+https://www.producthunt.com/products/aye-browser|Aye|1504711434969
+https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-netflix-earnings-nflx-stock-spacex-stock/?src=A00220&yptr=yahoo|Stock Market Today: Dow Sees Red While Amgen Shares Tease A Buy Point (Live Coverage)|1586339949916
+https://finance.yahoo.com/markets/stocks/articles/trump-media-sell-wall-street-172000415.html|Trump Media will sell Wall Street ‘the fastest’ access to Trump’s market-moving Truth Social posts in pay-to-win model|1432821596592
+https://www.marketwatch.com/story/what-its-like-to-get-end-of-life-financial-advice-from-a-cfp-whos-also-a-death-doula-903a270a?mod=mw_rss_topstories|A bad health diagnosis will upend your financial plan, but you can set it right again|https://images.mktw.net/im-31097646
