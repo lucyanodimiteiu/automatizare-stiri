@@ -4168,3 +4168,7 @@ https://www.producthunt.com/products/openmarkdown|OpenMarkdown|https://image.pol
 https://finance.yahoo.com/markets/stocks/articles/asian-shares-sink-tokyo-down-043403906.html|The sell-off for AI stars worsens, while oil prices keep jumping|1677442135703
 https://finance.yahoo.com/healthcare/articles/eli-lilly-pay-3-8b-040100270.html|Eli Lilly to Pay up to $3.8B for AtaiBeckley in Big Pharma’s Latest Psychedelic Foray|1495020689067
 https://www.digi24.ro/stiri/externe/razboiul-din-iran-a-dat-nastere-unui-monstru-energetic-china-plusurile-si-minusurile-economiei-beijingului-3867499|Războiul din Iran a dat naștere unui „monstru” energetic: China. Plusurile și minusurile economiei Beijingului|1611974789855
+https://www.producthunt.com/products/buzzy-2|Buzzy|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/iron-mountains-q2-2026-earnings-081045427.html|Iron Mountain's Q2 2026 Earnings: What to Expect|1498050108023
+https://finance.yahoo.com/markets/stocks/articles/small-cap-stocks-crushing-p-091200695.html|Small-Cap Stocks Are Crushing the S&P 500. This ETF Could Be the Smartest Buy of 2026|1520607162513
+https://www.digi24.ro/stiri/economie/energia-regenerabila-mai-ales-fotovoltaica-pune-presiune-pe-reteaua-electrica-a-germaniei-berlinul-vrea-sa-reduca-subventiile-3867799|Energia regenerabilă, mai ales fotovoltaică, pune presiune pe rețeaua electrică a Germaniei. Berlinul vrea să reducă subvențiile|1586339949916
