@@ -4180,3 +4180,7 @@ https://www.producthunt.com/products/mirage-15|Mirage|https://image.pollinations
 https://finance.yahoo.com/technology/ai/articles/bloom-energy-ai-data-center-121408154.html|Bloom Energy’s AI Data Center Growth Story Is Starting to Crack|1620712943543
 https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-airbnb-report-105820399.html|Earnings Preview: What To Expect From Airbnb’s Report|1581091226825
 https://www.marketwatch.com/story/how-a-homegrown-chinese-chip-maker-became-the-memory-industrys-biggest-wild-card-c3f603af?mod=mw_rss_topstories|How a homegrown Chinese chip maker became the memory industry’s biggest wild card|https://images.mktw.net/im-09404690
+https://www.producthunt.com/products/clark-agent|Clark|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/news/this-weeks-ai-winners-and-losers-131654035.html|This week's AI winners and losers|1461749280684
+https://finance.yahoo.com/economy/policy/articles/warsh-believes-americas-700b-ai-125500516.html|Warsh believes America's $700B AI buildout will lower prices — but his colleagues warn it will fuel persistent inflation|1432821596592
+https://www.marketwatch.com/story/forget-gasoline-why-the-price-surge-in-this-under-the-radar-fuel-is-the-real-threat-to-the-u-s-economy-710b9470?mod=mw_rss_topstories|Forget gasoline: Why the price surge in this under-the-radar fuel is the real threat to the U.S. economy|https://images.mktw.net/im-43691652
