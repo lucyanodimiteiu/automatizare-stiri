@@ -4184,3 +4184,7 @@ https://www.producthunt.com/products/clark-agent|Clark|https://image.pollination
 https://finance.yahoo.com/news/this-weeks-ai-winners-and-losers-131654035.html|This week's AI winners and losers|1461749280684
 https://finance.yahoo.com/economy/policy/articles/warsh-believes-americas-700b-ai-125500516.html|Warsh believes America's $700B AI buildout will lower prices — but his colleagues warn it will fuel persistent inflation|1432821596592
 https://www.marketwatch.com/story/forget-gasoline-why-the-price-surge-in-this-under-the-radar-fuel-is-the-real-threat-to-the-u-s-economy-710b9470?mod=mw_rss_topstories|Forget gasoline: Why the price surge in this under-the-radar fuel is the real threat to the U.S. economy|https://images.mktw.net/im-43691652
+https://www.producthunt.com/products/docusmart-ai|DocuSmart AI|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/technology/article/ceo-spacexs-record-ipo-was-the-space-economys-opening-act-heres-what-comes-next-140618299.html|CEO: SpaceX's record IPO was the space economy's opening act. Here's what comes next.|1495020689067
+https://finance.yahoo.com/markets/stocks/articles/discount-chain-closing-75-stores-150700942.html|Discount chain closing 75 stores, admits 1,000s are 'substandard'|1504711434969
+https://www.marketwatch.com/story/ai-may-force-these-workers-to-retire-earlier-than-planned-b590f0a8?mod=mw_rss_topstories|AI may force these workers to retire earlier than planned|https://images.mktw.net/im-61724702
