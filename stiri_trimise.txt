@@ -4216,3 +4216,7 @@ https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-outperform-nvidia-
 https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-thin-volumes-163433731.html|Ethereum Price Prediction: Thin Volumes Increase Risk of a Drop Below $1.8K|1519389950473
 https://www.pv-magazine.com/2026/07/18/an-ex-nrel-scientist-is-using-ai-to-bypass-high-pressure-solar-sales-reps/|New AI tool brings transparency to the solar buying process|1504711434969
 https://hackaday.com/2026/07/17/using-solar-air-heating-to-dry-clothes/|Using Solar Air Heating to Dry Clothes|https://hackaday.com/wp-content/uploads/2026/07/solar-dryer-main.png?w=800
+https://finance.yahoo.com/technology/articles/massive-tsmc-deal-huge-stride-230300784.html|Massive TSMC deal is huge stride for US in high-tech race|https://image.pollinations.ai/prompt/modern%20technology%20office%20with%20holographic%20displays%20
+https://finance.yahoo.com/markets/stocks/articles/14-p-500-stocks-over-153002917.html|14 S&P 500 Stocks Are Up Over 100% in 2026. Why Micron Is My Favorite for the Rest of the Year.|1495020689067
+https://www.pv-magazine.com/2026/07/18/from-import-dependence-to-global-competitiveness-indias-solar-manufacturing-story/|From import dependence to global competitiveness: India’s solar manufacturing story|1466611653911
+https://hackaday.com/2026/07/18/your-ai-ham-radio-buddy/|Your AI Ham Radio Buddy|https://hackaday.com/wp-content/uploads/2026/07/hamgpt.png?w=800
