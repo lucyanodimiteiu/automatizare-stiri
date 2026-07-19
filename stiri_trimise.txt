@@ -4278,3 +4278,7 @@ https://hackaday.com/2026/07/19/automated-pressure-advance-using-a-bed-leveling-
 https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games|The future of physical games is not looking great|https://image.pollinations.ai/prompt/modern%20technology%20office%20with%20holographic%20displays%20
 https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas|The grueling, 630-mile road race where the only fuel is sunlight|https://image.pollinations.ai/prompt/modern%20technology%20office%20with%20holographic%20displays%20
 https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/|Netflix paid $587M for Ben Affleck’s AI filmmaking startup|1677442135703
+https://finance.yahoo.com/markets/stocks/articles/trump-media-djt-climbs-paid-224604918.html|Trump Media (DJT) Climbs on Paid Early-Access to Market-Moving Posts|https://image.pollinations.ai/prompt/financial%20trading%20floor%20with%20screens%20showing%20charts
+https://finance.yahoo.com/technology/ai/articles/ai-expectations-hit-fever-pitch-224601324.html|AI Expectations Hit a Fever Pitch|1498050108023
+https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories|Oil prices surge, stock futures flat as fighting between U.S. and Iran intensifies|https://images.mktw.net/im-40422582
+https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/|What to watch for after Jensen Huang’s Japan visit|1432821596592
