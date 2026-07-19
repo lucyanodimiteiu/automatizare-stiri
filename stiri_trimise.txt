@@ -4224,3 +4224,7 @@ https://finance.yahoo.com/markets/options/articles/meet-tmgn-0-88-fee-184258691.
 https://finance.yahoo.com/markets/commodities/articles/high-yields-covid-volumes-drive-183955811.html|High yields, Covid-like volumes drive 23% gain in United’s cargo revenue|1677442135703
 https://www.pv-magazine.com/2026/07/17/china-imposes-new-consumption-tax-on-pv-cells-batteries-amid-industry-consolidation-push/|China imposes new consumption tax on PV cells, batteries amid industry consolidation push|1498050108023
 https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review|Surprise! Facial recognition smart locks are actually good|1457369804613
+https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-market-dead-211424173.html|Jim Cramer Says the Market Is “Dead Wrong” About These 5 Oversold Stocks|https://image.pollinations.ai/prompt/financial%20trading%20floor%20with%20screens%20showing%20charts
+https://finance.yahoo.com/markets/stocks/articles/apple-core-business-cash-flow-210334811.html|Apple’s Core Business Cash Flow Machine Will Support Innovation and Diversification|1586339949916
+https://www.pv-magazine.com/2026/07/17/south-korea-announces-1-gw-solar-tender/|South Korea announces 1 GW solar tender|1509391366360
+https://www.theverge.com/games/961152/denshattack-review|More games should be on rails (literally)|1432821596592
