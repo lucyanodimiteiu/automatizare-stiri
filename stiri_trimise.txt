@@ -4240,3 +4240,7 @@ https://www.producthunt.com/products/rewisp-an-ambient-memory-for-your-mac|Rewis
 https://finance.yahoo.com/markets/stocks/articles/meet-17-old-whos-helping-093000127.html|Meet the 17-year-old who's helping his parents retire — but is it risky to put your finances in a kids hands?|1565514020179
 https://finance.yahoo.com/markets/articles/dave-ramsey-says-save-money-100000037.html|Dave Ramsey says you can save money by raising your car insurance deductible. We did the math to see if it works|1504711434969
 https://www.pv-magazine.com/2026/07/17/ingeteam-announces-central-inverter-for-utility-scale-bess/|Ingeteam announces central inverter for utility-scale BESS|1457369804613
+https://www.producthunt.com/products/kobbe|Kobbe|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/economy/policy/articles/fed-chair-kevin-warsh-welcome-105600406.html|Fed Chair Kevin Warsh, Welcome to Your No-Win Scenario, Courtesy of President Donald Trump|1531746790731
+https://finance.yahoo.com/technology/ai/articles/half-workers-rely-ai-more-110000818.html|Half of workers say they rely on AI more than they should — here are 3 habits that can help you stay ahead of AI|1432821596592
+https://www.pv-magazine.com/2026/07/17/chinese-pv-industry-brief-pv-manufacturers-forecast-heavy-losses-as-oversupply-persists/|Chinese PV Industry Brief: module manufacturers forecast heavy losses as oversupply persists|1504711434969
