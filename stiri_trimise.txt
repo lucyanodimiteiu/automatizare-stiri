@@ -4220,3 +4220,7 @@ https://finance.yahoo.com/technology/articles/massive-tsmc-deal-huge-stride-2303
 https://finance.yahoo.com/markets/stocks/articles/14-p-500-stocks-over-153002917.html|14 S&P 500 Stocks Are Up Over 100% in 2026. Why Micron Is My Favorite for the Rest of the Year.|1495020689067
 https://www.pv-magazine.com/2026/07/18/from-import-dependence-to-global-competitiveness-indias-solar-manufacturing-story/|From import dependence to global competitiveness: India’s solar manufacturing story|1466611653911
 https://hackaday.com/2026/07/18/your-ai-ham-radio-buddy/|Your AI Ham Radio Buddy|https://hackaday.com/wp-content/uploads/2026/07/hamgpt.png?w=800
+https://finance.yahoo.com/markets/options/articles/meet-tmgn-0-88-fee-184258691.html|Meet TMGN, the 0.88% Fee ETF Betting on Tech Giants and Options Income|https://image.pollinations.ai/prompt/Bitcoin%20ETF%20approval%20concept%2C%20golden%20BTC%20coin%20w
+https://finance.yahoo.com/markets/commodities/articles/high-yields-covid-volumes-drive-183955811.html|High yields, Covid-like volumes drive 23% gain in United’s cargo revenue|1677442135703
+https://www.pv-magazine.com/2026/07/17/china-imposes-new-consumption-tax-on-pv-cells-batteries-amid-industry-consolidation-push/|China imposes new consumption tax on PV cells, batteries amid industry consolidation push|1498050108023
+https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review|Surprise! Facial recognition smart locks are actually good|1457369804613
