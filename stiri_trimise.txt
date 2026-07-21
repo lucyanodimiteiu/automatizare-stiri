@@ -4366,3 +4366,7 @@ https://www.producthunt.com/products/tterm|tterm|https://image.pollinations.ai/p
 https://finance.yahoo.com/markets/stocks/articles/chinese-planes-ready-challenge-boeing-172102880.html|Are Chinese Planes Ready to Challenge Boeing, Airbus Duopoly and Their Suppliers in Commercial Aviation?|1457369804613
 https://finance.yahoo.com/research/reports/ARGUS_47684_MarketUpdate_1784653658000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei|Market Update: DPZ, GE, ISRG, RF|1526304640581
 https://www.marketwatch.com/story/oil-prices-may-fall-but-gasoline-prices-wont-look-at-the-trap-were-in-7f4c3738?mod=mw_rss_topstories|Oil prices may fall, but gasoline prices won’t. Look at the trap we’re in.|https://images.mktw.net/im-81565111
+https://www.producthunt.com/products/tidy-5|Tidy|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/technology/ai/articles/hut-8-signs-9-8-103701538.html|Hut 8 signs $9.8 billion AI data center lease, fully commercializes Texas campus|1593508512255
+https://finance.yahoo.com/markets/stocks/articles/stocks-set-open-higher-chipmakers-103210139.html|Stocks Set to Open Higher as Chipmakers Rebound, Corporate Earnings in Focus|1601132359864
+https://www.marketwatch.com/story/why-micron-and-other-chip-stocks-are-bouncing-back-so-strongly-3f6d3cee?mod=mw_rss_topstories|Why Micron and other chip stocks are bouncing back so strongly|https://images.mktw.net/im-40268001
