@@ -4346,3 +4346,7 @@ https://www.producthunt.com/products/topolines|Topolines|https://image.pollinati
 https://finance.yahoo.com/news/dollar-near-one-week-high-013614377.html|Dollar softens as investors weigh Middle East jitters against inflation data|1581091226825
 https://finance.yahoo.com/economy/policy/articles/exclusive-boeing-asks-us-intervene-093610195.html|Exclusive-Boeing asks US to intervene over record EU loan to Airbus|1432821596592
 https://www.marketwatch.com/story/china-contemplates-tit-for-tat-export-controls-against-u-s-on-ai-technologies-report-e6493c74?mod=mw_rss_topstories|China contemplates tit-for-tat  export controls against U.S. on AI technologies: report|https://images.mktw.net/im-53475004
+https://www.producthunt.com/products/cartai|CartAI|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://www.investors.com/news/charles-schwab-earnings-q2-interactive-brokers-earnings/?src=A00220&yptr=yahoo|Charles Schwab Earnings Due As Interactive Brokers Awaits|1461749280684
+https://finance.yahoo.com/markets/stocks/articles/amc-entertainment-amc-record-revenue-111110279.html|Is AMC Entertainment’s (AMC) Record Revenue Proof That the Theater Recovery Is Finally Real?|1531746790731
+https://www.marketwatch.com/story/the-co-founder-of-stocktwits-dumped-chip-stocks-before-a-20-slide-where-hes-putting-his-money-now-07e8724f?mod=mw_rss_topstories|The co-founder of Stocktwits dumped chip stocks before a 20% slide. Where he’s putting his money now.|https://images.mktw.net/im-97631246
