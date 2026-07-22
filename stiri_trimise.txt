@@ -4426,3 +4426,7 @@ https://www.producthunt.com/products/acme-bot|ACME.BOT|https://image.pollination
 https://finance.yahoo.com/technology/ai/articles/microsoft-vs-amazon-1-ai-113002967.html|Microsoft vs. Amazon: 1 AI Giant Is the Better Buy Ahead of Earnings|1519389950473
 https://finance.yahoo.com/markets/stocks/articles/alphabet-earnings-ideal-time-acquainted-111548818.html|Alphabet Earnings an Ideal Time to Get Acquainted With These ETFs|1457369804613
 https://www.marketwatch.com/story/owning-a-pet-has-become-a-luxury-vets-worry-about-higher-prices-and-shrinking-pet-population-survey-finds-dca5ad2b?mod=mw_rss_topstories|‘Owning a pet has become a luxury’ — vets worry about higher prices and shrinking pet population, survey finds|https://images.mktw.net/im-38764474
+https://www.producthunt.com/products/migma-ai|Migma AI|https://image.pollinations.ai/prompt/financial%20trading%20floor%20with%20screens%20showing%20charts
+https://finance.yahoo.com/markets/stocks/articles/us-stock-index-forecasts-earnings-132212865.html|US Stock Index Forecasts – Earnings Season and Technical Support Drive Bounces|1586339949916
+https://finance.yahoo.com/technology/ai/articles/amd-expected-unveil-ai-customers-133002724.html|AMD Is Expected to Unveil New AI Customers. One Detail Matters Most for AMD Stock.|1586339949916
+https://www.marketwatch.com/story/servicenows-stock-gains-as-earnings-show-momentum-in-cybersecurity-86e7a038?mod=mw_rss_topstories|ServiceNow’s stock rises as earnings show momentum in cybersecurity|https://images.mktw.net/im-701755
