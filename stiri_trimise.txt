@@ -4390,3 +4390,7 @@ https://www.producthunt.com/products/lev8|Lev8|https://image.pollinations.ai/pro
 https://finance.yahoo.com/energy/articles/terra-innovatum-waiken-ilw-deploy-155657670.html|Terra Innovatum, Waiken ILW Will Deploy Microreactors for Data Center Infrastructure|1677442135703
 https://www.digi24.ro/stiri/economie/camera-de-comert-americana-in-romania-cere-ca-finalizarea-pnrr-sa-fie-o-prioritate-pentru-intreaga-clasa-politica-3871943|Camera de Comerț Americană în România cere ca finalizarea PNRR să fie o prioritate pentru întreaga clasă politică|1432821596592
 https://www.pv-magazine.com/2026/07/21/germanys-degraded-peatlands-offer-up-to-268-gw-of-solar-potential/|Germany’s degraded peatlands offer up to 268 GW of solar potential|1466611653911
+https://www.producthunt.com/products/skim-5|Skim|https://image.pollinations.ai/prompt/offshore%20wind%20turbines%20in%20the%20ocean%20at%20sunset%2C%
+https://finance.yahoo.com/markets/currencies/articles/dollar-drifts-us-iran-conflict-052226780.html|Dollar gains as US-Iran war gauged; sterling eases as Burnham steps in|1620712943543
+https://www.digi24.ro/stiri/economie/raspunsul-rheinmetall-dupa-ce-a-lipsit-de-la-prima-licitatie-pentru-santierul-naval-mangalia-3872991|Răspunsul Rheinmetall după ce a lipsit de la prima licitație pentru Șantierul Naval Mangalia|1498050108023
+https://www.pv-magazine.com/2026/07/22/remote-goldfields-town-targets-80-renewables-with-solar-and-battery-microgrid/|Remote Australian mining town targets 80% renewables with solar and battery microgrid|1508514177221
