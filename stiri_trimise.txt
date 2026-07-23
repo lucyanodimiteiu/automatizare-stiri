@@ -4438,3 +4438,7 @@ https://www.producthunt.com/products/redential|Redential|https://image.pollinati
 https://finance.yahoo.com/technology/ai/articles/university-tennessee-sues-anthropic-over-154109605.html|Anthropic sued for infringing neural network technology patents|1518770660439
 https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-july-21-2026-silver-ticks-up-near-60-in-early-trading-153300173.html|Silver prices today, Tuesday, July 21, 2026: Silver ticks up near $60 in early trading|1586339949916
 https://www.digi24.ro/stiri/economie/energie/bogdan-ivan-vrea-taxe-mai-mici-la-carburanti-ce-masuri-propune-fostul-ministru-al-energiei-3874605|Bogdan Ivan vrea taxe mai mici la carburanți. Ce măsuri propune fostul ministru al Energiei|1504711434969
+https://www.producthunt.com/products/lattics-2|Lattics|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://www.investors.com/news/technology/tsmc-stock-taiwan-semi-tsm-raise-prices/?src=A00220&yptr=yahoo|TSMC Plans To Raise Prices, Says Report. Stock Jumps.|1677442135703
+https://finance.yahoo.com/energy/articles/constellation-energys-quarterly-earnings-preview-133703154.html|Constellation Energy's Quarterly Earnings Preview: What You Need to Know|1473341304170
+https://www.marketwatch.com/story/the-bull-market-faces-higher-likelihood-of-a-fed-rate-hike-as-iran-crisis-intensifies-58f268e8?mod=mw_rss_topstories|The bull market faces higher likelihood of a Fed rate hike as Iran crisis intensifies|https://images.mktw.net/im-84665103
