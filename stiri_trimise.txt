@@ -4486,3 +4486,7 @@ https://www.producthunt.com/products/blaxel|Blaxel Agent Drive|https://image.pol
 https://finance.yahoo.com/energy/articles/prediction-stock-could-become-leader-143055822.html|Prediction: This Stock Could Become a Leader in Advanced Nuclear Energy|1545173168
 https://www.barrons.com/livecoverage/tesla-stock-price-earnings-elon-musk-ai-evs/card/tesla-stock-rises-in-early-trading-ziLY1t1FQDKdQEb8VIBx?siteid=yhoof2&yptr=yahoo|Tesla Stock Rises In Early Trading|1544636331
 https://www.marketwatch.com/story/the-august-stock-market-slump-is-a-myth-so-why-does-wall-street-keep-repeating-it-bc47db44?mod=mw_rss_topstories|The August stock-market slump is a myth — so why does Wall Street keep repeating it?|https://images.mktw.net/im-11202820
+https://www.producthunt.com/products/swenest|Swenest|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/crypto/articles/balance-stablecoin-collapses-bitcoin-vault-154200744.html|Balance Stablecoin Collapses After Bitcoin Vault Is Drained|1518770660439
+https://finance.yahoo.com/markets/crypto/articles/intellistake-takes-full-control-gravity-154500948.html|Intellistake Takes Full Control of Gravity as Prediction-Market Volumes Surge|1535320903710
+https://www.marketwatch.com/story/amds-rivalry-with-nvidia-is-increasingly-moving-into-a-new-realm-ac63eceb?mod=mw_rss_topstories|AMD’s rivalry with Nvidia is increasingly moving into a new realm|https://images.mktw.net/im-34746867
