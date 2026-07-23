@@ -4442,3 +4442,7 @@ https://www.producthunt.com/products/lattics-2|Lattics|https://image.pollination
 https://www.investors.com/news/technology/tsmc-stock-taiwan-semi-tsm-raise-prices/?src=A00220&yptr=yahoo|TSMC Plans To Raise Prices, Says Report. Stock Jumps.|1677442135703
 https://finance.yahoo.com/energy/articles/constellation-energys-quarterly-earnings-preview-133703154.html|Constellation Energy's Quarterly Earnings Preview: What You Need to Know|1473341304170
 https://www.marketwatch.com/story/the-bull-market-faces-higher-likelihood-of-a-fed-rate-hike-as-iran-crisis-intensifies-58f268e8?mod=mw_rss_topstories|The bull market faces higher likelihood of a Fed rate hike as Iran crisis intensifies|https://images.mktw.net/im-84665103
+https://www.producthunt.com/products/humalike-2|Humalike x Hermes|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/crypto/articles/uniswap-price-forecast-uni-outpaces-163100571.html|Uniswap Price Forecast: UNI Outpaces the Market and Could Keep Going If This Happens|1520607162513
+https://finance.yahoo.com/technology/ai/articles/alibaba-best-chinese-ai-play-163106852.html|Is Alibaba the Best Chinese AI Play After Apple’s Endorsement?|1620712943543
+https://www.digi24.ro/stiri/economie/agricultura/fermierii-din-dolj-in-pragul-dezastrului-sute-de-culturi-de-porumb-si-floarea-soarelui-aproape-ca-s-au-uscat-3874707|Fermierii din Dolj, în pragul dezastrului: sute de culturi de porumb și floarea-soarelui aproape că s-au uscat din cauza secetei|1495020689067
