@@ -4458,3 +4458,7 @@ https://www.producthunt.com/products/podcastorai|PodcastorAI|https://image.polli
 https://finance.yahoo.com/markets/options/articles/etfs-just-set-trading-volume-000321661.html|ETFs Just Set a Trading Volume Record|1432821596592
 https://finance.yahoo.com/markets/stocks/articles/bloom-energy-soars-14-8-011716251.html|Bloom Energy (BE) Soars 14.8% on Sharp PT Upgrade Ahead of Q2 Earnings|1457369804613
 https://www.marketwatch.com/story/oil-nears-100-a-barrel-after-houthis-claim-strikes-on-saudi-arabian-tankers-4d9949c2?mod=mw_rss_topstories|Oil nears $100 a barrel after Houthis claim strikes on Saudi Arabian tankers|https://images.mktw.net/im-46870434
+https://www.producthunt.com/products/speakworld|Speakworld|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/technology/live/tech-stocks-live-tech-heavy-nasdaq-climbs-ahead-of-big-tech-earnings-kickoff-164334720.html|Tech stocks live: Tesla earnings miss, Google spending soars sending both stocks lower|1457369804613
+https://www.investors.com/news/technology/google-stock-google-earnings-ai-model-leadership-gemini/?src=A00220&yptr=yahoo|Google Stock Falls Amid Questions Over AI Leadership, Gemini 4 Roadmap|1531746790731
+https://www.marketwatch.com/story/ai-stocks-are-echoing-a-1990s-market-split-jpmorgan-warns-the-next-few-weeks-are-critical-408ed725?mod=mw_rss_topstories|AI stocks are echoing a 1990s market split. JPMorgan warns the next few weeks are critical.|https://images.mktw.net/im-20286946
