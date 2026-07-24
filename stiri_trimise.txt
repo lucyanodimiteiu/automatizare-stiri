@@ -4494,3 +4494,7 @@ https://www.producthunt.com/products/megaphone-3|Megaphone|https://image.pollina
 https://finance.yahoo.com/personal-finance/student-loans/article/best-student-loan-refinance-companies-104900001.html|Best student loan refinance companies of 2026|1554224155
 https://finance.yahoo.com/technology/article/alphabet-earnings-offer-a-moment-of-truth-in-this-tech-stock-battle-121514421.html|Alphabet earnings offer a moment of truth in this tech stock battle|1495020689067
 https://www.marketwatch.com/story/the-stock-markets-calm-surface-is-cracking-heres-how-to-prepare-for-an-august-shock-7d655813?mod=mw_rss_topstories|The stock market’s calm is cracking. Here’s how to prepare for an August shock.|https://images.mktw.net/im-16284182
+https://www.producthunt.com/products/promptql|PromptQL|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/personal-finance/mortgages/article/what-is-pmi-private-mortgage-insurance-193818313.html|What is private mortgage insurance (PMI)? Definition, cost, and how to avoid it|1639762681485
+https://finance.yahoo.com/markets/crypto/articles/gtn-payward-push-xstocks-beyond-154800997.html|GTN and Payward Push xStocks Beyond U.S. Shares Into Global Markets|1526304640581
+https://www.marketwatch.com/story/trump-rolls-out-a-new-wave-of-tariffs-here-are-the-latest-rates-449af1d3?mod=mw_rss_topstories|Trump rolls out a new wave of global tariffs. Here are the latest rates.|https://images.mktw.net/im-07634208
