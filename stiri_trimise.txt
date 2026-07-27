@@ -4606,3 +4606,7 @@ https://www.producthunt.com/products/robynn-ai-self-improving-websites|Robynn AI
 https://finance.yahoo.com/markets/articles/dave-ramsey-says-save-money-124500438.html|Dave Ramsey says you can save money by raising your car insurance deductible. We did the math to see if it works|1498050108023
 https://finance.yahoo.com/markets/stocks/articles/trump-jr-investment-firm-posts-133017684.html|Trump Jr.'s Investment Firm Posts 200% Returns, Helped by Polymarket's Meteoric Rise|1495020689067
 https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories|Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns|https://images.mktw.net/im-69899727
+https://www.producthunt.com/products/comms-ai-agents-inside-imessage|Comms|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/stocks/articles/american-airlines-stock-plunges-fuel-150002420.html|American Airlines Stock Plunges as Fuel Costs Surge. How to Play AAL Now.|1461749280684
+https://finance.yahoo.com/technology/ai/articles/elon-musk-just-revealed-quiet-150002342.html|Elon Musk Just Revealed a Quiet Win for Tesla’s AI Ambitions|1457369804613
+https://www.marketwatch.com/story/more-cracks-emerge-in-ai-related-bonds-as-meta-microsoft-earnings-loom-04275db2?mod=mw_rss_topstories|More cracks emerge in AI-related bonds as Meta, Microsoft earnings loom|https://images.mktw.net/im-62652088
