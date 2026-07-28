@@ -4650,3 +4650,7 @@ https://www.producthunt.com/products/lottiefiles|Lottie Creator 2.0|https://imag
 https://finance.yahoo.com/economy/policy/articles/fed-chair-leads-two-day-191144302.html|Fed Chair leads two-day meeting as fear grips markets|1504711434969
 https://finance.yahoo.com/markets/commodities/articles/monday-mornings-markets-bring-mind-112310421.html|What Do Monday Morning's Markets Bring to Mind?|1611974789855
 https://www.marketwatch.com/story/why-palantirs-stock-is-missing-out-on-a-big-software-rally-08acc5bf?mod=mw_rss_topstories|Why Palantir’s stock is missing out on a big software rally|https://images.mktw.net/im-47990992
+https://www.producthunt.com/products/liminal-4|Liminal|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/crypto/articles/influencer-sells-2-ferraris-buy-183000659.html|Influencer sells 2 Ferraris to buy Bitcoin dip|1591994843349
+https://finance.yahoo.com/markets/options/articles/fanatics-buy-bgc-group-assets-130941346.html|Fanatics to buy BGC Group assets to launch prediction market exchange|1586339949916
+https://www.marketwatch.com/story/bloom-energy-sees-sales-top-1-billion-as-ai-proves-a-validation-moment-for-fuel-cell-technology-5cb69476?mod=mw_rss_topstories|Bloom Energy sees sales top $1 billion as AI proves a validation moment for fuel-cell technology|https://images.mktw.net/im-86937501
