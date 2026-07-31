@@ -4794,3 +4794,7 @@ https://www.producthunt.com/products/scam-ai|Halo by Scam AI|https://image.polli
 https://www.investors.com/news/stock-market-rises-amid-apple-amazon-meta-microsoft-earnings-soaring-yields-weekly-review/?src=A00220&yptr=yahoo|Stock Market Rises Amid Apple, Amazon, Meta, Microsoft Earnings, Soaring Yields: Weekly Review|1520607162513
 https://finance.yahoo.com/news/us-labor-costs-increase-second-124525640.html|Private sector wage gains lift US labor costs in Q2, underlying trend benign|1677442135703
 https://www.marketwatch.com/story/s-p-500-heads-for-the-first-july-decline-since-2014-here-are-the-stocks-that-led-the-selloff-5677f63b?mod=mw_rss_topstories|S&P 500 heads for the first July decline since 2014. Here are the stocks that led the selloff.|https://images.mktw.net/im-62125189
+https://www.producthunt.com/products/screencap|Screencap|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-fed-080847136.html|US Dollar Price Forecast: Fed Holds Rates, Markets Turn to PCE and BoE Decision|1611974789855
+https://finance.yahoo.com/energy/articles/shell-reports-9-8-billion-084500321.html|Shell Reports $9.8 Billion in Adjusted Earnings as Energy Prices Surge|1473341304170
+https://www.marketwatch.com/story/warshs-fed-is-failing-to-stick-to-its-own-principles-for-good-monetary-policy-0d4e45ef?mod=mw_rss_topstories|Warsh’s Fed is failing to stick to its own principles for good monetary policy|https://images.mktw.net/im-28420523
