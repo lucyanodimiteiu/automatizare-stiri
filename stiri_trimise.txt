@@ -4806,3 +4806,7 @@ https://www.producthunt.com/products/cleanlist-ai|Cleanlist AI|https://image.pol
 https://finance.yahoo.com/markets/commodities/articles/metals-traders-move-battle-talent-134358478.html|Base metals traders on the move as battle for talent intensifies|1504711434969
 https://finance.yahoo.com/markets/crypto/articles/quarter-canadians-now-own-crypto-134900396.html|A Quarter Of Canadians Now Own Crypto|1622630998477
 https://www.marketwatch.com/story/did-china-build-a-top-tier-ai-model-by-itself-a-new-report-suggests-nvidia-chips-played-a-role-ad4644cd?mod=mw_rss_topstories|Did China build a top-tier AI model by itself? A new report suggests Nvidia chips played a role.|https://images.mktw.net/im-39936449
+https://www.producthunt.com/products/depthdata|DepthData|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/blackstone-inc-bx-profit-jumped-144643971.html|Blackstone Inc. (BX)’s Profit Jumped 26% on AI Bets but the Stock Barely Moved. Here’s Why.|1518770660439
+https://finance.yahoo.com/technology/ai/articles/why-wells-fargo-thinks-intel-144604980.html|Why Wells Fargo Thinks Intel’s AI Business Is Getting Even Stronger|1432821596592
+https://www.marketwatch.com/story/hsas-can-be-a-great-retirement-tool-if-youre-healthy-or-wealthy-5a3e2991?mod=mw_rss_topstories|Health savings accounts can be a great retirement tool – if you’re healthy or wealthy|https://images.mktw.net/im-35013032
