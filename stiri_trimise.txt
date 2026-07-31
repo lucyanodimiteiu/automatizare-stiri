@@ -4802,3 +4802,7 @@ https://www.producthunt.com/products/mectrics|mectrics|https://image.pollination
 https://finance.yahoo.com/technology/ai/articles/taiwans-ase-tech-raises-2026-094743410.html|Taiwan's ASE Tech raises 2026 capex by $2 billion on strong demand|1457369804613
 https://finance.yahoo.com/technology/article/qualcomm-stock-slides-after-q3-earnings-top-revenue-expectations-as-smartphone-market-slows-160509349.html|Qualcomm stock slides after Q3 earnings top revenue expectations as smartphone market slows|1535320903710
 https://www.marketwatch.com/story/supply-chain-legend-tim-cook-finally-meets-his-match-with-apples-memory-crunch-9bce0b11?mod=mw_rss_topstories|Supply-chain legend Tim Cook finally meets his match with Apple’s memory crunch|https://images.mktw.net/im-81941445
+https://www.producthunt.com/products/cleanlist-ai|Cleanlist AI|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/commodities/articles/metals-traders-move-battle-talent-134358478.html|Base metals traders on the move as battle for talent intensifies|1504711434969
+https://finance.yahoo.com/markets/crypto/articles/quarter-canadians-now-own-crypto-134900396.html|A Quarter Of Canadians Now Own Crypto|1622630998477
+https://www.marketwatch.com/story/did-china-build-a-top-tier-ai-model-by-itself-a-new-report-suggests-nvidia-chips-played-a-role-ad4644cd?mod=mw_rss_topstories|Did China build a top-tier AI model by itself? A new report suggests Nvidia chips played a role.|https://images.mktw.net/im-39936449
