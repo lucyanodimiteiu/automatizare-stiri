@@ -4874,3 +4874,7 @@ https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-coul
 https://finance.yahoo.com/technology/ai/articles/microsoft-ai-cybersecurity-push-could-160912618.html|Microsoft’s AI Cybersecurity Push Could Become a Major Growth Driver for MSFT Stock|1586339949916
 https://www.pv-magazine.com/2026/07/31/study-shows-consequences-of-pv-related-fires-are-generally-limited-in-severity/|Study shows consequences of PV-related fires are generally limited in severity|1655720031554
 https://www.theverge.com/games/971660/the-mermaid-mask-review|The Mermaid Mask is a perfect vacation murder mystery|1457369804613
+https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-26-52-week-232000438.html|Microsoft Stock Is Up 26% From Its 52-Week Low: Buy the Rally or Wait It Out?|https://image.pollinations.ai/prompt/Microsoft%20office%20building%20modern%20glass%20architecture%2
+https://finance.yahoo.com/technology/ai/articles/google-piles-off-balance-sheet-153002569.html|Google Piles On Off-Balance-Sheet Risk to Fuel Its AI Chip Push|1620712943543
+https://hackaday.com/2026/08/01/stewart-platform-walker-gains-feeling-in-legs-from-resistors/|Stewart Platform Walker Gains Feeling In Legs From Resistors|https://hackaday.com/wp-content/uploads/2026/07/stewart-robot.jpg?w=800
+https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/|Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps|https://image.pollinations.ai/prompt/diplomatic%20meeting%20room%2C%20flags%2C%20negotiation%20table
