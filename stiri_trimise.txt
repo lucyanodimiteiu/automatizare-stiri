@@ -4870,3 +4870,7 @@ https://finance.yahoo.com/markets/articles/claiming-62-vs-67-150-212105783.html|
 https://www.pv-magazine.com/2026/07/31/colombia-awards-725-mw-of-solar-on-second-day-of-green-energy-auction/|Colombia awards 725 MW of solar on second day of green energy auction|1508514177221
 https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak|Pixel 11 specs and price leak with no surprises|1518770660439
 https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/|Inside the London hacker house taking a stand against founder burnout|1495020689067
+https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-could-buy-220500371.html|Warren Buffett's Berkshire Could Buy Almost Any S&P 500 Company With Its $397 Billion Cash Pile, but Keeps Waiting for a Better Price|https://image.pollinations.ai/prompt/diplomatic%20meeting%20room%2C%20flags%2C%20negotiation%20table
+https://finance.yahoo.com/technology/ai/articles/microsoft-ai-cybersecurity-push-could-160912618.html|Microsoft’s AI Cybersecurity Push Could Become a Major Growth Driver for MSFT Stock|1586339949916
+https://www.pv-magazine.com/2026/07/31/study-shows-consequences-of-pv-related-fires-are-generally-limited-in-severity/|Study shows consequences of PV-related fires are generally limited in severity|1655720031554
+https://www.theverge.com/games/971660/the-mermaid-mask-review|The Mermaid Mask is a perfect vacation murder mystery|1457369804613
