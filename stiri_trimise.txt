@@ -4920,3 +4920,7 @@ https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-sr
 https://www.producthunt.com/products/yoursitee|YourSitee|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
 https://hackaday.com/2026/08/02/turning-fruits-into-ethylene-and-ethane-refrigerant/|Turning Fruits Into Ethylene and Ethane Refrigerant|https://hackaday.com/wp-content/uploads/2026/07/fruit_mix_ethanol_refrigerant_hyperspace_pirate_yout
 https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/|TechCrunch Mobility: Two roads diverged — for robotaxis|https://image.pollinations.ai/prompt/industrial%20robot%20arm%20welding%20in%20a%20factory%2C%20spar
+https://www.producthunt.com/products/timeos-ultimate-task-manager-for-pro|TimeOS 2.0|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/stocks/articles/more-20-sell-off-earnings-133002721.html|After a More Than 20% Sell-Off on Earnings, Corning Stock Is Still a ‘Buy’ for the AI Infrastructure Trade|1531746790731
+https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music|Fender’s CEO seems to think your bandmates are just analog AI|1518770660439
+https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/|These App Store hidden gems prove there’s still room for great software in the AI era|1519389950473
