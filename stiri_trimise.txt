@@ -5013,3 +5013,7 @@ https://www.producthunt.com/products/yokoso-2|Yokoso|1495020689067
 https://finance.yahoo.com/small-business/articles/ben-broca-raised-30-million-143000749.html|Ben Broca raised $30 million and built a $10 million AI company with 10,000 customers — without hiring a single employee|1457369804613
 https://finance.yahoo.com/markets/stocks/articles/diamond-hill-capital-large-cap-142443559.html|Diamond Hill Capital Large Cap Strategy Exited Wix.com (WIX) Amid Weak Results and AI Disruption|1457369804613
 https://www.marketwatch.com/story/stocks-return-to-record-highs-investors-who-sat-tight-during-the-recent-momentum-crash-are-being-rewarded-8c960105?mod=mw_rss_topstories|Stocks return to record highs. Investors who sat tight during the recent momentum crash are being rewarded.|https://images.mktw.net/im-51646007
+https://www.producthunt.com/products/vinyl-for-mac|Vinyl for Mac|1504711434969
+https://finance.yahoo.com/technology/ai/articles/oracle-orcl-ai-demand-fund-153151928.html|Oracle (ORCL) Has the AI Demand. Can It Fund the Infrastructure?|1586339949916
+https://finance.yahoo.com/technology/ai/articles/datadog-ddog-grows-revenue-over-153259286.html|Datadog (DDOG) Grows Revenue by Over 30% as AI Demand Accelerates|1504711434969
+https://www.marketwatch.com/story/upstarts-ai-upgrades-pay-off-as-a-pickup-in-loan-growth-helps-send-the-stock-higher-32e7ec9d?mod=mw_rss_topstories|Upstart’s AI upgrades pay off, as a pickup in loan growth helps send the stock higher|https://images.mktw.net/im-36097024
