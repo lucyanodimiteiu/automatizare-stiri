@@ -4989,3 +4989,7 @@ https://www.producthunt.com/products/growthbook|GrowthBook 5.0|https://image.pol
 https://finance.yahoo.com/markets/live/earnings-live-updates-130425228.html|Earnings live updates: Caterpillar stock surges 9% as AI build-out boosts power unit|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
 https://finance.yahoo.com/markets/article/why-amd-is-a-yahoo-finance-alphaspace-rockstar-131746048.html|Why AMD is a Yahoo Finance AlphaSpace rockstar|https://image.pollinations.ai/prompt/bank%20vault%20interior%20with%20gold%20bars%2C%20professional%
 https://www.marketwatch.com/story/oil-prices-rise-after-vessel-reports-being-hit-in-strait-of-hormuz-db6ce867?mod=mw_rss_topstories|Oil prices take a dive as Qatar and Bessent note talks to reopen Strait of Hormuz|https://images.mktw.net/im-62167213
+https://www.producthunt.com/products/airproof-ai|AirProof AI|1498050108023
+https://finance.yahoo.com/markets/stocks/articles/sandisk-jumps-8-micron-gains-145231594.html|Sandisk Jumps 8%, Micron Gains 6%, SK Hynix Climbs 4% as Wall Street Hikes Price Targets on AI Memory Boom|1461749280684
+https://finance.yahoo.com/markets/stocks/articles/2-unstoppable-growth-etfs-worth-150500275.html|2 Unstoppable Growth ETFs Worth Buying and Holding Through Every Market Cycle|1520607162513
+https://www.marketwatch.com/story/job-openings-fell-to-a-3-month-low-is-the-labor-market-losing-momentum-05fcbc49?mod=mw_rss_topstories|Job openings fell to a 3-month low. Is the labor market losing momentum?|https://images.mktw.net/im-08087070
