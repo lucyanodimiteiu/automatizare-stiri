@@ -5001,3 +5001,7 @@ https://www.producthunt.com/products/atlaso|Atlaso|1593508512255
 https://finance.yahoo.com/markets/options/articles/ask-advisor-long-term-care-170741083.html|Ask an Advisor: We Pay $500 Monthly for Long-Term Care Insurance and Have Paid $72k. Should We Keep It?|1620712943543
 https://www.marketwatch.com/story/these-charts-suggest-the-s-p-500-is-looking-like-a-bargain-take-them-with-a-grain-of-salt-f109548f?mod=mw_rss_topstories|These charts suggest the S&P 500 is looking like a bargain. Take them with a grain of salt.|https://images.mktw.net/im-06896390
 https://www.digi24.ro/stiri/economie/companii/supermarketurile-anunta-masuri-pentru-reducerea-consumului-de-electricitate-3893049|Supermarketurile anunță măsuri pentru reducerea consumului de electricitate|https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJv
+https://www.producthunt.com/products/glasp-mcp-connector|Glasp MCP Connector|1581091226825
+https://finance.yahoo.com/technology/ai/articles/magnificent-7-earnings-tell-us-113002351.html|Here’s What Magnificent 7 Earnings Tell Us About the AI Trade in 2026|1586339949916
+https://finance.yahoo.com/energy/articles/shell-sells-european-onshore-renewables-113000632.html|Shell Sells European Onshore Renewables Portfolio to TotalEnergies|1466611653911
+https://www.marketwatch.com/story/the-wegovy-pills-surprise-miss-is-one-reason-novo-nordisks-stock-is-down-ec0fe43d?mod=mw_rss_topstories|The Wegovy pill’s ‘surprise miss’ is one reason Novo Nordisk’s stock is down|https://images.mktw.net/im-59781356
