@@ -5025,3 +5025,7 @@ https://www.producthunt.com/products/vibe-buddy|Vibe Buddy|1432821596592
 https://finance.yahoo.com/technology/article/amazon-meta-and-microsoft-stocks-surge-as-ai-hyperscalers-post-strong-earnings-results-163729332.html|Amazon, Meta, and Microsoft stocks surge as AI hyperscalers post strong earnings results|1586339949916
 https://finance.yahoo.com/markets/stocks/articles/amazon-stock-hits-3-trillion-164347585.html|Amazon stock hits $3 trillion market cap on Q2 cloud earnings|1526304640581
 https://www.marketwatch.com/story/mcdonalds-admits-its-value-meals-have-become-too-confusing-dc076468?mod=mw_rss_topstories|McDonald’s says its value meals have become too complicated|https://images.mktw.net/im-44634285
+https://www.producthunt.com/products/adant-ai|AdAnt AI|1518770660439
+https://finance.yahoo.com/markets/article/white-house-props-up-yen-against-backdrop-of-washington-tokyo-trade-deal-195211366.html|White House props up yen against backdrop of Washington-Tokyo trade deal|1586339949916
+https://finance.yahoo.com/markets/stocks/articles/billionaire-ken-griffin-just-saved-200506637.html|Billionaire Ken Griffin Just Saved Situational Awareness, But Here’s What a Rescue Call From Citadel Really Sounds Like — ‘I… Heard the Grim Reaper’s Scythe’|1586339949916
+https://www.marketwatch.com/story/traders-are-using-options-to-chase-a-runaway-rebound-in-stocks-pushing-the-market-even-higher-9b08d4ab?mod=mw_rss_topstories|Traders are using options to chase a runaway rebound in stocks, pushing the market even higher|https://images.mktw.net/im-63350193
