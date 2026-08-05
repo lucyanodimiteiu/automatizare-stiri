@@ -5033,3 +5033,7 @@ https://www.producthunt.com/products/keystroke-2|Keystroke|1519389950473
 https://finance.yahoo.com/markets/options/articles/covered-call-etfs-explained-8-232105238.html|Covered Call ETFs Explained: How That 8% Yield Actually Works (and What You Give Up)|1531746790731
 https://finance.yahoo.com/energy/articles/big-oil-warns-global-fuel-230000108.html|Big Oil Warns Global Fuel Stocks Are Running Dangerously Low|1526778548025
 https://www.marketwatch.com/story/elon-musk-addresses-memory-chip-stock-concerns-with-one-simple-observation-df134d47?mod=mw_rss_topstories|Elon Musk addresses memory-chip stock concerns with one simple observation|https://images.mktw.net/im-50057077
+https://www.producthunt.com/products/kiro|Kiro Crew|1655720031554
+https://finance.yahoo.com/energy/articles/glencores-energy-trading-profits-soar-114012391.html|Glencore's energy trading profits soar on Iran war|1473341304170
+https://finance.yahoo.com/technology/ai/articles/volta-secures-10bn-ai-lab-120455829.html|Volta secures $10bn AI lab partnership, $5bn infrastructure programme|1432821596592
+https://www.marketwatch.com/story/walt-disneys-stock-climbs-as-company-cites-toy-story-5-for-earnings-growth-fe0c86c1?mod=mw_rss_topstories|Walt Disney’s stock climbs as company cites ‘Toy Story 5’ for earnings growth|https://images.mktw.net/im-99622573
