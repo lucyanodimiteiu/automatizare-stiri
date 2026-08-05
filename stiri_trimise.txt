@@ -5045,3 +5045,7 @@ https://www.producthunt.com/products/nextdoor-company|NextDoor.Company|149805010
 https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-5-dow-sp-500-nasdaq-oil-093653327.html|Stock market today: Dow, S&P 500 climb as Trump says Hormuz deal is close, Nasdaq gives up gains|1461749280684
 https://finance.yahoo.com/technology/article/circle-ceo-jeremy-allaire-billions-of-agents-will-soon-flood-the-workforce-160009916.html|Circle CEO Jeremy Allaire: 'Billions of agents' will soon flood the workforce|1432821596592
 https://www.marketwatch.com/story/5-things-investors-should-know-about-the-stock-markets-latest-rapid-fire-comeback-55f23d87?mod=mw_rss_topstories|5 things investors should know about the stock market’s latest rapid-fire comeback|https://images.mktw.net/im-00322352
+https://www.producthunt.com/products/npm-i-g-hotcell|npm i -g hotcell|1457369804613
+https://www.investors.com/research/breakout-stocks-technical-analysis/stocks-to-watch-raymond-james-us-bancorp-tapestry-lead-breakout-index/?src=A00220&yptr=yahoo|Stocks To Watch On Wall Street's Radar — Several In Or Near Buy Range|1586339949916
+https://finance.yahoo.com/markets/world-indices/articles/asia-shares-surge-tech-mood-014132859.html|Stocks mixed with Nasdaq down; gold prices jump|1495020689067
+https://www.marketwatch.com/story/alphabets-stock-drops-as-google-loses-another-key-ai-executive-38de45a2?mod=mw_rss_topstories|Alphabet’s stock drops as Google loses another key AI executive|https://images.mktw.net/im-75702741
