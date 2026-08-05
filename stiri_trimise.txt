@@ -5021,3 +5021,7 @@ https://www.producthunt.com/products/dashi-metrics|Dashi Metrics|1432821596592
 https://finance.yahoo.com/markets/stocks/articles/shopify-shop-evolution-e-commerce-130323593.html|Shopify (SHOP): Evolution from E-Commerce Platform to AI Operating System|1457369804613
 https://www.investors.com/news/technology/palantir-stock-palantir-earnings-q22026-preview/?src=A00220&yptr=yahoo|Palantir Aims For 12th Straight Revenue Acceleration, But U.S. Growth Is Key|1586339949916
 https://www.marketwatch.com/story/chipotle-pulls-jalapenos-from-some-locations-after-salmonella-investigation-heres-what-to-know-20d8c66f?mod=mw_rss_topstories|Chipotle pulls jalapenos from some locations after salmonella investigation. Here’s what to know.|https://images.mktw.net/im-77547915
+https://www.producthunt.com/products/vibe-buddy|Vibe Buddy|1432821596592
+https://finance.yahoo.com/technology/article/amazon-meta-and-microsoft-stocks-surge-as-ai-hyperscalers-post-strong-earnings-results-163729332.html|Amazon, Meta, and Microsoft stocks surge as AI hyperscalers post strong earnings results|1586339949916
+https://finance.yahoo.com/markets/stocks/articles/amazon-stock-hits-3-trillion-164347585.html|Amazon stock hits $3 trillion market cap on Q2 cloud earnings|1526304640581
+https://www.marketwatch.com/story/mcdonalds-admits-its-value-meals-have-become-too-confusing-dc076468?mod=mw_rss_topstories|McDonald’s says its value meals have become too complicated|https://images.mktw.net/im-44634285
