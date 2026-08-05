@@ -5053,3 +5053,7 @@ https://www.producthunt.com/products/x-money-2|X Money|https://image.pollination
 https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-climb-tech-rally-103857213.html|Nasdaq Futures Climb as Tech Rally Continues on Palantir Boost, U.S. JOLTS Report and SpaceX Earnings on Tap|1457369804613
 https://finance.yahoo.com/technology/ai/articles/caterpillar-lifts-2026-sales-growth-104404244.html|Caterpillar lifts 2026 sales growth forecast as AI buildout powers on|1620712943543
 https://www.marketwatch.com/story/taxes-are-on-the-ballot-this-fall-as-republicans-and-democrats-grow-further-apart-on-whether-to-raise-them-c7990380?mod=mw_rss_topstories|Taxes are on the ballot this fall as Republicans and Democrats grow further apart on whether to raise them|https://images.mktw.net/im-27008048
+https://www.producthunt.com/products/aegisora|Aegisora|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/tetra-technologies-inc-q2-2026-123000320.html|TETRA Technologies, Inc. Q2 2026 Earnings Call Summary|1581091226825
+https://finance.yahoo.com/technology/ai/articles/131-poisoned-ai-packages-hit-123042550.html|131 Poisoned AI Packages Hit Microsoft’s (MSFT) npm. CrowdStrike (CRWD) Couldn’t Ask for a Better Sales Pitch|1593508512255
+https://www.marketwatch.com/story/figmas-push-into-ai-agents-drives-an-earnings-beat-1f6e200a?mod=mw_rss_topstories|Figma’s push into AI agents drives an earnings beat|https://images.mktw.net/im-97979674
