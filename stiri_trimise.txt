@@ -5149,3 +5149,7 @@ https://www.producthunt.com/products/rindler|Rindler|https://image.pollinations.
 https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-us-markets-171440703.html|Jim Cramer Says US Markets Will Regret Letting SK hynix Inc. (NASDAQ:SKHY) In|1461749280684
 https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-july-jobs-report-cloudflare-stock/?src=A00220&yptr=yahoo|Stock Market Today: Nasdaq Pops As July Jobs Miss Dampens Rates View; Gold Stocks Shine (Live Coverage)|1520607162513
 https://www.marketwatch.com/story/spacexs-stock-is-having-one-of-its-best-days-ever-with-the-first-lockup-expiration-now-behind-it-cd55946c?mod=mw_rss_topstories|SpaceX’s stock is having one of its best days ever — with the first lockup expiration now behind it|https://images.mktw.net/im-00481430
+https://www.producthunt.com/products/crew-a-tiny-crew-for-claude-code|Crew|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/stocks/articles/veteran-manager-buys-2-etfs-020300490.html|Veteran manager buys 2 ETFs as market shifts|1535320903710
+https://finance.yahoo.com/technology/ai/articles/openai-asks-us-judge-dismiss-061124418.html|OpenAI seeks dismissal of Apple's trade secrets lawsuit|1531746790731
+https://www.marketwatch.com/story/doximitys-stock-skyrockets-50-on-medical-ai-excitement-can-the-rally-last-1a5cedce?mod=mw_rss_topstories|Doximity’s stock skyrockets 50% on medical AI excitement. Can the rally last?|https://images.mktw.net/im-01965109
