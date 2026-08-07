@@ -5153,3 +5153,7 @@ https://www.producthunt.com/products/crew-a-tiny-crew-for-claude-code|Crew|https
 https://finance.yahoo.com/markets/stocks/articles/veteran-manager-buys-2-etfs-020300490.html|Veteran manager buys 2 ETFs as market shifts|1535320903710
 https://finance.yahoo.com/technology/ai/articles/openai-asks-us-judge-dismiss-061124418.html|OpenAI seeks dismissal of Apple's trade secrets lawsuit|1531746790731
 https://www.marketwatch.com/story/doximitys-stock-skyrockets-50-on-medical-ai-excitement-can-the-rally-last-1a5cedce?mod=mw_rss_topstories|Doximity’s stock skyrockets 50% on medical AI excitement. Can the rally last?|https://images.mktw.net/im-01965109
+https://www.producthunt.com/products/reference-2|Reference|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/news/nutrien-misses-profit-estimates-lower-093426074.html|Nutrien misses profit estimates as lower volumes blunt higher fertilizer prices|1498050108023
+https://finance.yahoo.com/small-business/articles/goodbye-mansions-hello-jail-nevada-100000078.html|Goodbye mansions, hello jail: Nevada woman stole $26 million from construction boss — then the IRS caught up with her|1432821596592
+https://www.digi24.ro/stiri/economie/energie/radu-miruta-despre-scufundarea-barjelor-pe-dunare-guvernul-incearca-astfel-de-solutii-dar-sa-aduca-ploaie-nu-poate-3897857|Radu Miruță, despre scufundarea barjelor pe Dunăre: „Guvernul încearcă astfel de soluții, dar să aducă ploaie nu poate”|1457369804613
