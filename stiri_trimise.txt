@@ -5237,3 +5237,7 @@ https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warr
 https://finance.yahoo.com/technology/ai/articles/uk-vc-bets-big-ai-103220903.html|UK VC bets big on AI, leaving other sectors starved for cash|1495020689067
 https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs|The gaming site sponsored by Walmart lays off its editorial staff|1620712943543
 https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/|OpenAI says it slowed Astra model development over security concerns|1581091226825
+https://finance.yahoo.com/markets/stocks/articles/analyst-wall-street-thinks-cpu-125533234.html|This Analyst On Wall Street Thinks The CPU Trade Is Overdone, Should You Sell ARM (ARM) Stock?|https://image.pollinations.ai/prompt/busy%20international%20cargo%20port%2C%20containers%20stacked%2
+https://finance.yahoo.com/markets/articles/ted-benna-built-401-k-125500076.html|Ted Benna built the 401(k) 40 years ago — now he says it fails lower-income workers and is pushing a simpler alternative|1518770660439
+https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo|Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore|1504711434969
+https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/|After Rippling blew millions on AI in months, it built an employee ROI tool|1504711434969
