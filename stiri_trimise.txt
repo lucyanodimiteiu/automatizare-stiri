@@ -5205,3 +5205,7 @@ https://www.producthunt.com/products/stepshot-2|StepShot|https://image.pollinati
 https://finance.yahoo.com/markets/commodities/articles/lower-oil-prices-lend-support-000000831.html|Lower Oil Prices Lend Support For The Gold Rally|1586339949916
 https://finance.yahoo.com/energy/articles/data-center-boom-powering-utility-233002015.html|The Data Center Boom Is Powering Utility Earnings. Here Is My Favorite Way to Play the Trend.|1432821596592
 https://www.digi24.ro/stiri/economie/energie/avertismentul-expertilor-romania-risca-rationalizari-obligatorii-si-blackout-din-cauza-lipsei-investitiilor-apel-catre-anre-3898165|Avertismentul experților: România riscă raționalizări obligatorii și blackout, din cauza lipsei investițiilor. Apel către ANRE|1545173168
+https://www.producthunt.com/products/bevel-4|Hexis|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/technology/ai/articles/where-invest-ai-2026-guide-030049481.html|Where to Invest in AI in 2026: A Guide for Advisors|1498050108023
+https://www.pv-magazine.com/2026/08/07/high-energy-prices-reshape-dutch-solar-market-ahead-of-net-metering-phaseout/|High energy prices reshape Dutch solar market ahead of net-metering phaseout|1526304640581
+https://hackaday.com/2026/08/07/chernobyls-robots-or-the-hackathon-from-hell/|Chernobyl’s Robots, or the Hackathon From Hell|https://hackaday.com/wp-content/uploads/2026/08/radiation_map_chernobyl_nuclear_power_plant_1986_cho
