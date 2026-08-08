@@ -5181,3 +5181,7 @@ https://www.producthunt.com/products/blueberry-6|Blueberry|https://image.pollina
 https://finance.yahoo.com/markets/stocks/articles/krispy-kreme-posts-43-ebitda-163348365.html|Krispy Kreme Posts 43% EBITDA Growth as Turnaround Gains Momentum|1677442135703
 https://finance.yahoo.com/markets/crypto/articles/ondo-perps-hits-7-billion-215819332.html|Ondo Perps hits $7 billion in volume weeks after launch|1495020689067
 https://www.digi24.ro/stiri/economie/energie/nuclearelectrica-mai-putem-castiga-doua-trei-zile-ce-se-intampla-cu-reactorul-2-de-la-cernavoda-daca-dunarea-continua-sa-scada-3897753|Nuclearelectrica: „Mai putem câștiga două-trei zile”. Ce se întâmplă cu reactorul 2 de la Cernavodă dacă Dunărea continuă să scadă|1620712943543
+https://www.producthunt.com/products/orite|Orite|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://www.digi24.ro/stiri/economie/finante-economie/cristian-paun-despre-scaderea-consumului-poporul-plateste-nota-de-plata-prin-taxare-sau-inflatie-statul-ramane-obez-si-resursofag-3897691|Cristian Păun, despre scăderea consumului: „Poporul plătește nota de plată prin taxare sau inflație. Statul rămâne obez și resursofag”|1504711434969
+https://www.pv-magazine.com/2026/08/07/is-the-traditional-ppa-dying-in-southern-africa/|Is the traditional PPA dying in Southern Africa?|1611974789855
+https://hackaday.com/2026/08/07/this-filesystem-is-born-to-fail/|This Filesystem is Born to Fail|https://hackaday.com/wp-content/uploads/2017/03/tux-on-htop-featured.jpg?w=800
