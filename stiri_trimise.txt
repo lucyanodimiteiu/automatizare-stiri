@@ -5317,3 +5317,5 @@ https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/|
 https://www.producthunt.com/products/macrobite|Macrobite|1498050108023
 https://finance.yahoo.com/markets/stocks/articles/microsoft-sits-12-below-high-144300863.html|Microsoft Sits 12% Below Its High After the Largest One-Day Market Value Gain on Record. Here's What History Suggests Comes Next.|https://image.pollinations.ai/prompt/Microsoft%20office%20building%20modern%20glass%20architecture%2
 https://finance.yahoo.com/markets/stocks/articles/scott-galloway-warned-us-stock-142000770.html|Scott Galloway warned the US stock market could crash within 24 months thanks to AI. Protect your nest egg while you can|1457369804613
+https://www.producthunt.com/products/radiushq|radiusHQ|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/stocks/articles/leveraged-etfs-turned-south-korea-140002821.html|How Leveraged ETFs Turned South Korea’s Stock Market Into a Casino and Why the U.S. Might Be Next|1526304640581
