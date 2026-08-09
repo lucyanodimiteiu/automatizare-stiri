@@ -5282,3 +5282,6 @@ https://finance.yahoo.com/energy/articles/360-energy-pulse-mattered-week-2130437
 https://finance.yahoo.com/technology/ai/articles/ground-control-private-equity-ai-213905036.html|Ground control to private equity: has AI landed on the factory floor?|1593508512255
 https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-hit-coldcard-221100213.html|Weekly Wrap: Bitcoin Hit By Coldcard Hack And Clarity Act Disappointment|https://image.pollinations.ai/prompt/golden%20bitcoin%20coin%20on%20a%20dark%20reflective%20surface%
 https://finance.yahoo.com/technology/ai/articles/us-regulator-rejects-dutch-fintech-224025636.html|US regulator rejects Dutch fintech Bunq's application for national bank charter|1504711434969
+https://www.producthunt.com/products/solouno|SoloUno|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/energy/articles/oil-traders-stay-bearish-despite-230000144.html|Oil Traders Stay Bearish Despite Deepening Middle East Disruptions|1586339949916
+https://finance.yahoo.com/news/sec-drops-insider-trading-suit-021049395.html|SEC drops insider trading suit against ex-healthcare executive pardoned by Trump|1677442135703
