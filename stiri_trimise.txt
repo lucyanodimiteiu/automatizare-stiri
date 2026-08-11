@@ -5476,3 +5476,7 @@ https://www.producthunt.com/products/amp-by-canyontechs-ai|AMP by CanyonTechs AI
 https://finance.yahoo.com/technology/ai/articles/openai-acquires-nextslide-support-chatgpt-093411285.html|OpenAI acquires NextSlide to support ChatGPT development|1586339949916
 https://finance.yahoo.com/markets/options/articles/rmds-start-soon-want-convert-123106570.html|I Want to Convert $900k to a Roth Before RMDs Start. Do I Have to Wait 5 Years to Access It?|1495020689067
 https://www.marketwatch.com/story/health-insurers-are-dumping-medicare-advantage-plans-heres-how-many-seniors-could-be-affected-646b4e99?mod=mw_rss_topstories|Health insurers are dumping Medicare Advantage plans. Here’s how many seniors could be affected.|https://images.mktw.net/im-58061136
+https://www.producthunt.com/products/agent-manager|agent-manager|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/crypto/articles/billionaire-sues-ex-employee-over-005000617.html|Billionaire sues ex-employee over alleged theft|1519389950473
+https://finance.yahoo.com/markets/stocks/articles/stocks-set-muted-open-oil-103153665.html|Stocks Set for Muted Open as Oil Rises on Hormuz Uncertainty, U.S. Inflation Data Awaited|1498050108023
+https://www.marketwatch.com/story/social-security-expands-list-of-conditions-to-314-illnesses-for-faster-disability-claims-b1883c2d?mod=mw_rss_topstories|Social Security expands list of conditions to 314 illnesses for faster disability claims|https://images.mktw.net/im-94199573
