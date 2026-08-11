@@ -5448,3 +5448,7 @@ https://www.producthunt.com/products/tines|Tines 3B|https://image.pollinations.a
 https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-11-dow-sp-500-nasdaq-102827503.html|Stock market today: Dow, S&P 500, Nasdaq futures waver as US, Iran harden stances|1526304640581
 https://finance.yahoo.com/real-estate/articles/multiplex-named-main-contractor-london-110000408.html|Multiplex named main contractor for London’s 99 City Road development|1432821596592
 https://www.marketwatch.com/story/these-11-midcaps-are-popular-right-now-among-investment-newsletters-but-not-because-of-their-market-valuations-a0bf0fbb?mod=mw_rss_topstories|These 11 midcaps are popular right now among investment newsletters but not because of their market valuations|https://images.mktw.net/im-268382
+https://www.producthunt.com/products/betterclaw|BetterClaw|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/crypto/articles/paysafe-debuts-paysafewallet-poland-114105071.html|Paysafe debuts PaysafeWallet in Poland|1495020689067
+https://finance.yahoo.com/technology/ai/articles/nvidia-partners-wall-street-firms-114236431.html|Nvidia partners with Wall Street firms on $500B AI financing|1457369804613
+https://www.marketwatch.com/story/as-lumentum-gears-up-for-earnings-heres-a-sign-the-optical-trade-is-clawing-back-de284355?mod=mw_rss_topstories|As Lumentum gears up for earnings, here’s a sign the optical trade is clawing back|https://images.mktw.net/im-93320117
