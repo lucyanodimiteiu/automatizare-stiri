@@ -5432,3 +5432,7 @@ https://www.producthunt.com/products/bb|bb|https://image.pollinations.ai/prompt/
 https://finance.yahoo.com/technology/ai/articles/heres-why-iren-edge-neocloud-192000275.html|Here's Why Iren Has an Edge in the Neocloud Market, According to Meta's Mark Zuckerberg|1535320903710
 https://finance.yahoo.com/markets/stocks/articles/costco-vs-general-mills-comparing-194801511.html|Costco vs. General Mills: Comparing Revenue Trends Between These Consumer Staples Companies|1457369804613
 https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories|‘The market is obviously on fire’: Is it a mistake to take $1,000 from my brokerage account to pay my car loan?|https://images.mktw.net/im-56530103
+https://www.producthunt.com/products/gotcha-5|Gotcha|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/bofa-jpmorgan-oppenheimer-name-3-205320683.html|BofA, JPMorgan, Oppenheimer Name Their 3 Favorite AI Stocks, One Has a $255 Target|1593508512255
+https://finance.yahoo.com/energy/articles/contact-energy-profit-jumps-utility-010300364.html|Contact Energy Profit Jumps as Utility Eyes 250-MW Data Center|1473341304170
+https://www.marketwatch.com/story/the-bessent-bond-market-scorecard-doesnt-look-as-strong-as-it-once-did-afe2f93e?mod=mw_rss_topstories|The Bessent bond-market scorecard doesn’t look as strong as it once did|https://images.mktw.net/im-88171097
