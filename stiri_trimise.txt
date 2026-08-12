@@ -5508,3 +5508,7 @@ https://finance.yahoo.com/technology/article/tech-stocks-still-have-plenty-of-be
 https://finance.yahoo.com/technology/ai/articles/wall-street-giants-partner-nvidia-163441421.html|Nvidia partners with Wall Street giants to raise $500 billion for AI buildout|1586339949916
 https://www.digi24.ro/stiri/economie/romania-printre-statele-care-indeplinesc-cerintele-sua-privind-transparenta-fiscala-ce-arata-evaluarea-departamentului-de-stat-3902183|România, printre statele care îndeplinesc cerințele SUA privind transparența fiscală. Ce arată evaluarea Departamentului de Stat|1586339949916
 https://www.pv-magazine.com/2026/08/12/irelands-leap-of-faith-to-power-data-centers/|Ireland’s leap of faith to power data centers|1432821596592
+https://www.producthunt.com/products/cerenovus|Cerenovus|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/small-business/articles/colis-priv-expands-last-mile-180127257.html|Colis Privé expands last-mile delivery business into Spain and Portugal|1518770660439
+https://www.investors.com/news/technology/monday-stock-monday-earnings-q22026/?src=A00220&yptr=yahoo|Monday.com Falls As Software Maker's Guidance Trumps Earnings Beat|1526778548025
+https://www.digi24.ro/stiri/comisia-europeana-nu-exista-riscuri-pe-termen-scurt-pentru-aprovizionarea-cu-energie-situatia-ramane-insa-tensionata-3902205|Comisia Europeană: Nu există riscuri pe termen scurt pentru aprovizionarea cu energie. Situația rămâne însă tensionată|1495020689067
