@@ -5632,3 +5632,7 @@ https://www.producthunt.com/products/human-behavior|Human Behavior|https://image
 https://www.investors.com/news/microsoft-stock-why-post-earnings-momentum-set-to-continue/?src=A00220&yptr=yahoo|What Dip? Why Microsoft Stock's Post-Earnings Momentum Is Set To Continue.|1581091226825
 https://finance.yahoo.com/markets/stocks/articles/forget-nvidia-michael-burry-bill-164857627.html|Forget Nvidia: Michael Burry and Bill Ackman Are Buying These Two Beaten Down Stocks — Should You?|1601132359864
 https://www.marketwatch.com/story/why-september-is-the-worst-month-of-the-year-for-the-stock-market-59285c78?mod=mw_rss_topstories|Why September is the worst month of the year for the stock market|https://images.mktw.net/im-88456022
+https://www.producthunt.com/products/phinq|Phinq|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/hedge-funds-upped-short-ai-080808612.html|Hedge funds upped short AI bets in July, Hazeltree says|1620712943543
+https://finance.yahoo.com/markets/stocks/articles/taiwans-foxconn-reports-35-rise-062345360.html|Taiwan's Foxconn reports 35% rise in Q2 profit on AI demand, beats forecasts|1586339949916
+https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories|Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street.|https://images.mktw.net/im-75636714
