@@ -5752,3 +5752,7 @@ https://finance.yahoo.com/markets/options/articles/mark-cuban-says-win-lottery-1
 https://finance.yahoo.com/markets/stocks/articles/strategy-holds-firm-l3harris-technologies-154059875.html|The Strategy Holds Firm on L3Harris Technologies (LHX)|1519389950473
 https://www.pv-magazine.com/2026/08/14/chinese-pv-industry-brief-longi-plans-100-mw-perovskite-silicon-tandem-solar-cell-pilot-line/|Chinese PV Industry Brief: Longi plans 100 MW perovskite-silicon tandem solar cell pilot line|1509391366360
 https://hackaday.com/2026/08/14/automatic-naptime-with-babybjorn-bouncing-servo/|Automatic Naptime with BabyBjorn Bouncing Servo|https://hackaday.com/wp-content/uploads/2026/08/babyrockerfeat.png?w=800
+https://finance.yahoo.com/healthcare/articles/sharpest-exchanges-abbvs-earnings-call-161011826.html|The Sharpest Exchanges From ABBV's Earnings Call|https://image.pollinations.ai/prompt/modern%20technology%20office%20with%20holographic%20displays%20
+https://finance.yahoo.com/markets/crypto/articles/swissquote-gets-mugged-crypto-winter-162003960.html|Swissquote Gets Mugged by Crypto Winter|1639762681485
+https://www.pv-magazine.com/2026/08/14/what-makes-women-join-stay-and-progress-in-solar/|What makes women join, stay and progress in Solar+?|1508514177221
+https://hackaday.com/2026/08/14/uninvasive-eeg-interface-could-be-used-to-play-games/|Uninvasive EEG Interface Could Be Used To Play Games|https://hackaday.com/wp-content/uploads/2026/08/Octopus-16.-Start-measure-EEG-2-48-screenshot-1-e178
