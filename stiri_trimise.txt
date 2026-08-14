@@ -5680,3 +5680,7 @@ https://www.producthunt.com/products/gemini-3-7-flash|Gemini 3.7 Flash|https://i
 https://finance.yahoo.com/markets/crypto/articles/polymarket-hires-former-uber-executive-194200317.html|Polymarket Hires Former Uber Executive To Lead Growth Initiative|1535320903710
 https://finance.yahoo.com/markets/stocks/articles/robinhood-crypto-slump-got-headlines-194949580.html|Robinhood’s Crypto Slump Got the Headlines. Its 10x Business Got Ignored.|1621416894562
 https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-sistemul-energetic-este-stabil-cum-este-compensata-energia-nucleara-lipsa-3906081|Ilie Bolojan: „Sistemul energetic este stabil”. Cum este compensată energia nucleară lipsă|1473341304170
+https://www.producthunt.com/products/min-4|min.|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/energy/articles/t1-energy-inc-q2-2026-211739838.html|T1 Energy Inc Q2 2026 Earnings Call Summary|1545173168
+https://finance.yahoo.com/markets/stocks/articles/paramount-skydance-psky-executives-sold-211643420.html|Paramount Skydance (PSKY) Insiders Retain Stakes Despite Tax Sales|1581091226825
+https://www.digi24.ro/stiri/externe/ue/preturile-combustibililor-in-bulgaria-ar-urma-sa-scada-in-urmatoarele-luni-3906017|Preţurile combustibililor în Bulgaria ar urma să scadă în următoarele luni|1526304640581
