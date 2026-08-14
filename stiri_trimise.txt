@@ -5756,3 +5756,7 @@ https://finance.yahoo.com/healthcare/articles/sharpest-exchanges-abbvs-earnings-
 https://finance.yahoo.com/markets/crypto/articles/swissquote-gets-mugged-crypto-winter-162003960.html|Swissquote Gets Mugged by Crypto Winter|1639762681485
 https://www.pv-magazine.com/2026/08/14/what-makes-women-join-stay-and-progress-in-solar/|What makes women join, stay and progress in Solar+?|1508514177221
 https://hackaday.com/2026/08/14/uninvasive-eeg-interface-could-be-used-to-play-games/|Uninvasive EEG Interface Could Be Used To Play Games|https://hackaday.com/wp-content/uploads/2026/08/Octopus-16.-Start-measure-EEG-2-48-screenshot-1-e178
+https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rate-predictions-through-2030-will-the-market-crash-195826935.html|Mortgage rate predictions through 2030: Will the market crash?|https://image.pollinations.ai/prompt/financial%20trading%20floor%20with%20screens%20showing%20charts
+https://www.investors.com/news/five-below-upgrade-retail-stock/?src=A00220&yptr=yahoo|Retail Stock Almost Touches Buy Point As Analyst Upgrades, Citing Big Transformation|1498050108023
+https://www.pv-magazine.com/2026/08/14/dewa-study-assesses-pv-cleaning-robot-performance-and-safety/|DEWA study assesses PV cleaning robot performance and safety|1457369804613
+https://hackaday.com/2026/08/14/this-week-in-security-bugtraq-ai-hacks-and-being-dumb-on-planes/|This Week in Security: BugTraq, AI Hacks, and Being Dumb On Planes|https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?w=800
