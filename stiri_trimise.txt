@@ -5684,3 +5684,7 @@ https://www.producthunt.com/products/min-4|min.|https://image.pollinations.ai/pr
 https://finance.yahoo.com/energy/articles/t1-energy-inc-q2-2026-211739838.html|T1 Energy Inc Q2 2026 Earnings Call Summary|1545173168
 https://finance.yahoo.com/markets/stocks/articles/paramount-skydance-psky-executives-sold-211643420.html|Paramount Skydance (PSKY) Insiders Retain Stakes Despite Tax Sales|1581091226825
 https://www.digi24.ro/stiri/externe/ue/preturile-combustibililor-in-bulgaria-ar-urma-sa-scada-in-urmatoarele-luni-3906017|Preţurile combustibililor în Bulgaria ar urma să scadă în următoarele luni|1526304640581
+https://www.producthunt.com/products/freebuff-2|Freebuff|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/personal-finance/investing/article/options-trading-strategies-163751717.html|9 options trading strategies for beginners, ranked by risk|1457369804613
+https://www.pv-magazine.com/2026/08/14/partial-u-s-eclipse-produced-similar-daily-solar-energy-losses-to-higher-obscurationeuropean-locations/|Partial U.S. eclipse produced similar daily solar energy losses to higher-obscuration European locations|1620712943543
+https://hackaday.com/2026/08/13/rare-ibm-pc-brought-back-to-life/|Rare IBM PC Brought Back To Life|https://hackaday.com/wp-content/uploads/2026/08/The-Mystery-IBM-Nobody-Can-Identify-—-Restoration-Re
