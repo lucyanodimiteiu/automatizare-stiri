@@ -5776,3 +5776,7 @@ https://www.investors.com/news/sec-cryptocurrency-rules-innovation-trading-clari
 https://finance.yahoo.com/markets/crypto/articles/us-securities-regulator-cancels-meeting-214845828.html|US securities regulator cancels meeting to vote on crypto rules|https://image.pollinations.ai/prompt/cryptocurrency%20trading%20screen%20with%20green%20and%20red%20
 https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal|You can now turn off Google Gemini&#8217;s visible watermarks|https://image.pollinations.ai/prompt/Google%20campus%20colorful%20modern%20buildings%2C%20with%20hum
 https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/|Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria|1457369804613
+https://finance.yahoo.com/markets/live/earnings-live-updates-applied-materials-stock-falls-after-solid-earnings-fail-to-impress-202302733.html|Earnings live updates: Applied Materials stock falls after solid earnings fail to impress|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://www.wsj.com/business/auto-transport-roundup-market-talk-d1984eb0?siteid=yhoof2&yptr=yahoo|Auto & Transport Roundup: Market Talk|1520607162513
+https://www.pv-magazine.com/2026/08/15/making-the-data-center-business-case/|Making the data center business case|1531746790731
+https://www.theverge.com/gadgets/980261/clair-obscur-pixel-11-gaming-laptop-4k-bluray-deal-sale|2025 GOTY Clair Obscur: Expedition 33 is down to $33|1586339949916
