@@ -5780,3 +5780,7 @@ https://finance.yahoo.com/markets/live/earnings-live-updates-applied-materials-s
 https://www.wsj.com/business/auto-transport-roundup-market-talk-d1984eb0?siteid=yhoof2&yptr=yahoo|Auto & Transport Roundup: Market Talk|1520607162513
 https://www.pv-magazine.com/2026/08/15/making-the-data-center-business-case/|Making the data center business case|1531746790731
 https://www.theverge.com/gadgets/980261/clair-obscur-pixel-11-gaming-laptop-4k-bluray-deal-sale|2025 GOTY Clair Obscur: Expedition 33 is down to $33|1586339949916
+https://finance.yahoo.com/markets/stocks/articles/ceo-steve-huffman-once-said-215704227.html|CEO Steve Huffman Once Said of Creating Reddit, ‘I Just Didn't Want To Look Stupid In Front Of My Parents’ — Now RDDT Stock is Joining the S&P 500 Index|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld|The MSI Claw EX is the most important PC handheld since Steam Deck — I still wouldn’t buy one|https://image.pollinations.ai/prompt/silicon%20wafer%20with%20microchips%20under%20bright%20lab%20li
+https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/|Google will now allow users to remove visible watermark from its AI generations|1504711434969
+https://altfins.com/blog/what-professional-traders-look-for-in-a-prop-trading-platform-2026-guide/|What Professional Traders Look for in a Prop Trading Platform: 2026 Guide|1504711434969
