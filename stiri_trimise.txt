@@ -5809,3 +5809,6 @@ https://finance.yahoo.com/technology/ai/articles/openai-revenue-run-rate-reporte
 https://www.producthunt.com/products/big-mike|Big Mike|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
 https://finance.yahoo.com/markets/crypto/articles/equity-perp-volume-surges-17x-065426849.html|Equity Perp Volume Surges 17x as Chip Stocks Draw Crypto Traders|1639762681485
 https://finance.yahoo.com/markets/stocks/articles/why-nutrien-ntr-raising-guidance-083605403.html|Why Is Nutrien (NTR) Raising Guidance While Nitrogen Volumes Slide?|1586339949916
+https://www.producthunt.com/products/talvo-2|Talvo|https://image.pollinations.ai/prompt/European%20Parliament%20building%20in%20Brussels%2C%20EU%20flag
+https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-t-mobile-075709120.html|Jim Cramer Said T-Mobile US Inc. (NASDAQ:TMUS)’s Shares Reflected A Fear Of The Future|1498050108023
+https://finance.yahoo.com/news/u-terrapower-south-koreas-sk-080937803.html|U.S. TerraPower, South Korea's SK Innovation sign preliminary deal on global SMR projects|1432821596592
