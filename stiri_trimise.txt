@@ -5985,3 +5985,7 @@ https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-rais
 https://finance.yahoo.com/healthcare/articles/fulcrum-therapeutics-slate-medicines-merge-161113808.html|Fulcrum Therapeutics & Slate Medicines Merge for Next-Generation Migraine Therapies|1495020689067
 https://www.pv-magazine.com/2026/08/17/agastya-energy-plans-12-gw-ingot-and-wafer-manufacturing-facility-in-andhra-pradesh/|Agastya Energy plans 12 GW ingot, wafer factory in India|1457369804613
 https://hackaday.com/2026/08/17/printing-fdm-filaments-that-are-just-plain-weird/|Printing FDM Filaments that are just Plain Weird|https://hackaday.com/wp-content/uploads/2026/08/canadian_filament_carbon_capture_pumpkin_spice_zack_
+https://www.investors.com/research/ibd-stock-of-the-day/fortinet-stock-artificial-intelligence-acquisition/?src=A00220&yptr=yahoo|Fortinet, IBD Stock Of The Day, Steps Up AI Acquisitions To Build Cloud Platform|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://www.investors.com/news/nvidia-stock-sb-energy-stock-openai-billion-deal-softbank/?src=A00220&yptr=yahoo|Nvidia Reportedly Infuses Cash Into Potential AI Infrastructure IPO. Here's Why|1593508512255
+https://www.pv-magazine.com/2026/08/17/solar-crosses-3-tw-threshold/|Solar crosses 3 TW threshold|1526304640581
+https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities|Sonos finally added Live Activities controls for your iPhone lockscreen|1432821596592
