@@ -5926,3 +5926,6 @@ https://www.producthunt.com/products/opentrade|OpenTrade|https://image.pollinati
 https://finance.yahoo.com/markets/stocks/articles/3-bill-ackmans-stock-picks-200700109.html|3 of Bill Ackman's New Stock Picks Are Interesting: S&P Global Trades 28% Below Its High While Visa and Mastercard Sit Near Theirs|1461749280684
 https://www.digi24.ro/stiri/economie/energie/cu-cat-a-scazut-consumul-de-energie-al-romanilor-in-prima-jumatate-a-anului-date-ins-3908937|Cu cât a scăzut consumul de energie al românilor în prima jumătate a anului. Date INS|1432821596592
 https://www.pv-magazine.com/2026/08/17/el-salvador-launches-regulatory-framework-for-solar-self-consumption/|El Salvador launches regulatory framework for solar self-consumption|1457369804613
+https://www.producthunt.com/products/skriptr|Skriptr|1586339949916
+https://www.pv-magazine.com/2026/08/17/edf-offers-uk-customers-free-seven-year-service-warranty-on-air-source-heat-pumps/|EDF offers UK customers free seven-year service, warranty on air-source heat pumps|1495020689067
+https://www.theverge.com/tech/980137/peak-design-city-line-review|I’m hooked on Peak Design’s new City bags|1457369804613
