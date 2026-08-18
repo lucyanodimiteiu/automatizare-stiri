@@ -6074,3 +6074,7 @@ https://www.producthunt.com/products/taku-ai|Taku AI|https://image.pollinations.
 https://finance.yahoo.com/markets/stocks/articles/american-states-water-company-awr-112851977.html|American States Water Company (AWR): This Quiet Dividend King Keeps Raising the Bar|1531746790731
 https://finance.yahoo.com/markets/stocks/articles/klarna-posts-q2-profit-revenue-growth-trims-volume-outlook-113515385.html|Klarna posts Q2 profit, revenue growth, trims volume outlook|1457369804613
 https://www.marketwatch.com/story/the-ti-84-has-ruled-math-classes-for-decades-can-cheaper-calculators-gain-ground-4c4554af?mod=mw_rss_topstories|The TI-84 has ruled math classes for decades. Can cheaper calculators gain ground?|https://images.mktw.net/im-49464438
+https://www.producthunt.com/products/meterless-ai|Meterless.ai|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/small-business/articles/bankrupt-italian-chain-shuts-50-230000785.html|Bankrupt Italian chain shuts 50 restaurants, exits state entirely|1620712943543
+https://finance.yahoo.com/markets/stocks/article/anthropic-could-beat-elon-musks-spacex-for-largest-2026-ipo-prediction-markets-show-122619825.html|Anthropic could beat Elon Musk's SpaceX for largest 2026 IPO, prediction markets show|1611974789855
+https://www.marketwatch.com/story/disney-sues-fcc-over-broadcast-license-threat-9fb4745d?mod=mw_rss_topstories|Disney sues FCC over broadcast-license threat|https://images.mktw.net/im-53280046
