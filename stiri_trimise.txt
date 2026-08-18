@@ -6070,3 +6070,7 @@ https://www.producthunt.com/products/clara-ai-sdr|Clara AI SDR|https://image.pol
 https://www.pv-magazine.com/2026/08/18/india-adds-record-27-gw-of-solar-capacity-in-h1/|India adds record 27 GW of solar capacity in H1|1508514177221
 https://www.theverge.com/tech/980226/cat-ipad-kid-pet-tech-games-youtube|Oops! My cat is an iPad kid|1519389950473
 https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/|Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’|1504711434969
+https://www.producthunt.com/products/taku-ai|Taku AI|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/american-states-water-company-awr-112851977.html|American States Water Company (AWR): This Quiet Dividend King Keeps Raising the Bar|1531746790731
+https://finance.yahoo.com/markets/stocks/articles/klarna-posts-q2-profit-revenue-growth-trims-volume-outlook-113515385.html|Klarna posts Q2 profit, revenue growth, trims volume outlook|1457369804613
+https://www.marketwatch.com/story/the-ti-84-has-ruled-math-classes-for-decades-can-cheaper-calculators-gain-ground-4c4554af?mod=mw_rss_topstories|The TI-84 has ruled math classes for decades. Can cheaper calculators gain ground?|https://images.mktw.net/im-49464438
