@@ -6066,3 +6066,7 @@ https://www.producthunt.com/products/tiny-funnel|Tiny Funnel|https://image.polli
 https://finance.yahoo.com/news/analysis-canadas-pipeline-ambitions-hinge-100608458.html|Analysis-Canada's pipeline ambitions hinge on uncertain output expansion|1432821596592
 https://www.pv-magazine.com/2026/08/18/solar-remains-latvias-largest-electricity-source-in-july/|Solar remains Latvia’s largest electricity source in July|1586339949916
 https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/|Detroit startup Grounded raises $5M to customize electric and gas-powered vans|1504711434969
+https://www.producthunt.com/products/clara-ai-sdr|Clara AI SDR|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://www.pv-magazine.com/2026/08/18/india-adds-record-27-gw-of-solar-capacity-in-h1/|India adds record 27 GW of solar capacity in H1|1508514177221
+https://www.theverge.com/tech/980226/cat-ipad-kid-pet-tech-games-youtube|Oops! My cat is an iPad kid|1519389950473
+https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/|Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’|1504711434969
