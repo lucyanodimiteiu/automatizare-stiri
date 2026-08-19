@@ -6191,3 +6191,7 @@ https://finance.yahoo.com/technology/ai/articles/cerebras-cbrs-rockets-19-2-1927
 https://finance.yahoo.com/personal-finance/investing/article/centralized-vs-decentralized-exchanges-191328712.html|Centralized vs. decentralized exchanges: What's the difference?|1495020689067
 https://www.pv-magazine.com/2026/08/19/chinese-automotive-glass-giant-announces-vehicle-integrated-solar-roof/|Chinese automotive glass giant announces vehicle-integrated solar roof|1432821596592
 https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/|OpenAI institutes new safeguards after Hugging Face breach|1432821596592
+https://www.producthunt.com/products/astute-2|Astute|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-oil-treasurys-094421171.html|Stock market today: Dow, S&P 500, Nasdaq fall as oil rises amid US-Iran tensions, 30-year yield hits highest level in decades|1461749280684
+https://www.investors.com/news/spacex-stock-rebound-150-debut-price-resistance-falcon-9-launches-ownership/?src=A00220&yptr=yahoo|SpaceX Stock Tests Resistance, Attempts To Retake Debut Price|1457369804613
+https://www.pv-magazine.com/2026/08/19/low-concentrator-photovoltaic-receiver-for-wireless-laser-power-transmission/|Low concentrator photovoltaic receiver for wireless laser power transmission|1586339949916
