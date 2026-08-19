@@ -6299,3 +6299,7 @@ https://finance.yahoo.com/markets/commodities/articles/cotton-prices-headed-high
 https://finance.yahoo.com/markets/stocks/articles/billionaire-dan-loeb-buying-boring-145802385.html|Billionaire Dan Loeb Is Buying This Boring Non-AI Stock the Market Is Ignoring|1495020689067
 https://www.pv-magazine.com/2026/08/19/turkiyes-pv-module-manufacturing-capacity-tops-13-2-gw/|Türkiye’s PV module manufacturing capacity tops 13.2 GW|1432821596592
 https://hackaday.com/2026/08/19/building-custom-backyard-solar-lights/|Building Custom Backyard Solar Lights|https://hackaday.com/wp-content/uploads/2026/08/4-e1787036636172.jpg?w=800
+https://finance.yahoo.com/markets/stocks/articles/chipmaker-sell-off-weighs-stock-151322080.html|Chipmaker Sell-Off Weighs on Stock Indices|https://image.pollinations.ai/prompt/silicon%20wafer%20with%20microchips%20under%20bright%20lab%20li
+https://finance.yahoo.com/markets/stocks/articles/amer-sports-shares-strong-2q-154017376.html|Amer Sports Shares Up After Strong 2Q Performance, Raises 2026 Guidance|1461749280684
+https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo|Does giving a camera wings dodge the FCC’s drone ban?|1495020689067
+https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/|Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities|1586339949916
