@@ -6176,3 +6176,7 @@ https://finance.yahoo.com/technology/articles/ai-era-duolingo-betting-humans-160
 https://www.pv-magazine.com/2026/08/19/indias-model-solar-villages/|India’s model solar villages|1581091226825
 https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready|Tesla is finally launching the Cybercab — let’s hope it’s ready|1593508512255
 https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/|TikTok explores peer-to-peer payments via DMs, report says|1432821596592
+https://www.investors.com/news/vix-stock-market-fear-gauge/?src=A00220&yptr=yahoo|'Fear Gauge' Falls To Year's Low. A Bad Sign For The Stock Market?|https://image.pollinations.ai/prompt/Wall%20Street%20stock%20exchange%20trading%20floor%20with%20dig
+https://www.investors.com/news/technology/paypal-stock-stripe-openrouter-purchase-advent/?src=A00220&yptr=yahoo|Stripe Purchase Of AI Firm OpenRouter Unlikely To Derail PayPal Deal|1531746790731
+https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026|Peacock is raising prices by up to $3|1519389950473
+https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/|Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21|1432821596592
