@@ -6170,3 +6170,5 @@ https://finance.yahoo.com/markets/stocks/articles/anthropic-reportedly-aiming-va
 https://finance.yahoo.com/markets/stocks/articles/fund-strategic-sale-old-dominion-144535323.html|The Fund’s Strategic Sale of Old Dominion Freight Line (ODFL) Locked in Gains|1677442135703
 https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale|Samsung’s Galaxy Buds 3 Pro are almost half off today|1518770660439
 https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/|Cursor capitalizes on GitHub frustration, launches rival hosting platform|1504711434969
+https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission|Apple squashes EU beef with new App Store rules|https://image.pollinations.ai/prompt/modern%20glass%20office%20building%20exterior%2C%20city%20skyli
+https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/|DOJ’s probe into Andreessen Horowitz over board seats baffles VCs|1526304640581
