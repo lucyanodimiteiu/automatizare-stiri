@@ -6239,3 +6239,7 @@ https://www.producthunt.com/products/loopcase|Loopcase|https://image.pollination
 https://finance.yahoo.com/technology/ai/articles/aramark-armk-ai-data-center-144447852.html|Aramark’s (ARMK) AI Data Center Push Gains Traction Amid Strong Q3 Results|1495020689067
 https://finance.yahoo.com/markets/stocks/articles/sap-sap-mispriced-ai-fears-144250521.html|Is SAP (SAP) Mispriced as AI Fears Overshadow Its Core ERP Strength?|1504711434969
 https://www.marketwatch.com/story/berkshire-hathaway-bet-big-on-the-u-s-housing-market-you-probably-shouldnt-follow-suit-55c3e1c3?mod=mw_rss_topstories|Berkshire Hathaway bet big on the U.S. housing market. You probably shouldn’t follow suit.|https://images.mktw.net/im-54650878
+https://www.producthunt.com/products/expert-chase-deleted-1107920|Expert Chase 2.0|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/articles/bessent-doubles-down-bond-market-145709628.html|Bessent Doubles Down on the Bond Market Nobody Wanted|1526304640581
+https://finance.yahoo.com/markets/crypto/articles/looking-diversify-portfolio-heres-1-153700685.html|Looking to Diversify Your Portfolio? Here's 1 Cryptocurrency You Should Consider.|1621416894562
+https://www.marketwatch.com/story/i-want-to-be-a-snowbird-but-im-not-sure-my-2-million-nest-egg-can-sustain-two-homes-ce903e6b?mod=mw_rss_topstories|I want to be a snowbird, but I’m not sure my $2 million nest egg can sustain two homes|https://images.mktw.net/im-73305524
