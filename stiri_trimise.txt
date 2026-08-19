@@ -6279,3 +6279,7 @@ https://www.investors.com/etfs-and-funds/sectors/sp-500-stocks-soar-to-record-hi
 https://finance.yahoo.com/technology/ai/articles/chip-designer-velaura-ai-valued-120112868.html|Chip designer Velaura AI valued at more than $1 billion in funding round|1655720031554
 https://www.digi24.ro/stiri/economie/energie/programul-casa-verde-baterii-nu-se-va-baza-pe-principiul-primul-venit-primul-servit-explicatiile-dianei-buzoianu-3913375|Programul Casa Verde Baterii nu se va baza pe principiul „primul venit, primul servit”. Explicațiile Dianei Buzoianu|1473341304170
 https://www.pv-magazine.com/2026/08/19/ensuring-safety-of-plug-in-solar/|Ensuring safety of plug-in solar|1504711434969
+https://finance.yahoo.com/healthcare/articles/life-couriers-gains-ceo-sale-122516957.html|Life Couriers gains new CEO with sale to private equity firm|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/commodities/articles/soybean-gains-extending-tuesday-morning-122219222.html|Soybean Gains Extending to Tuesday Morning Following Lower Tour Pod Counts|1581091226825
+https://www.pv-magazine.com/2026/08/19/grid-and-storage-readiness-to-drive-next-phase-of-renewable-energy-growth-icra/|India’s under-construction renewable pipeline surpasses 150 GW|1593508512255
+https://hackaday.com/2026/08/19/simple-diy-stm32-oscilloscope-project/|Simple DIY STM32 Oscilloscope Project|https://hackaday.com/wp-content/uploads/2026/08/stm32_oscilloscope_F207_nucleo_board_bttlab_youtube.
