@@ -6287,3 +6287,7 @@ https://www.producthunt.com/products/zyntax-coding-ide-for-android|Zyntax IDE|ht
 https://finance.yahoo.com/markets/stocks/articles/renaissance-technologies-taken-position-crowdstrike-133002394.html|Renaissance Technologies Has Taken a New Position in CrowdStrike. What This Means for CRWD Stock.|1531746790731
 https://finance.yahoo.com/markets/stocks/articles/cognex-corp-cgnx-elevated-growth-132913511.html|Cognex Corp’s (CGNX) Elevated Growth Supported by Cost Discipline and Sales Strength|1504711434969
 https://www.pv-magazine.com/2026/08/19/czechias-largest-bess-goes-online/|Czechia’s largest BESS goes online|1520607162513
+https://www.producthunt.com/products/kihub|KiHub|https://image.pollinations.ai/prompt/diplomatic%20meeting%20room%2C%20flags%2C%20negotiation%20table
+https://finance.yahoo.com/markets/stocks/articles/could-legence-lgn-major-winner-134914355.html|Could Legence (LGN) Be a Major Winner From the AI Data Center Construction Boom?|1519389950473
+https://finance.yahoo.com/markets/crypto/articles/prediction-market-novig-sees-125-133600488.html|New Prediction Market Novig Sees $125 Million In Trading Volumes|1611974789855
+https://www.marketwatch.com/story/servicenows-stock-leads-a-software-rally-heres-whats-energizing-investors-0ad74dd1?mod=mw_rss_topstories|ServiceNow’s stock leads a software rally. Here’s what’s energizing investors.|https://images.mktw.net/im-56113489
