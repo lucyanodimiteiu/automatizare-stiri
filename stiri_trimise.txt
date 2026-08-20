@@ -6314,3 +6314,6 @@ https://www.producthunt.com/products/antibot|Antibot|https://image.pollinations.
 https://finance.yahoo.com/technology/ai/articles/artificial-intelligence-technology-solutions-secures-144858027.html|Artificial Intelligence Technology Solutions Secures Third ROSA Order as Property Management Client Expands Deployment|1495020689067
 https://finance.yahoo.com/markets/stocks/article/home-depot-q2-earnings-beat-forecasts-as-customers-stick-to-small-projects-housing-market-remains-frozen-113055971.html|Home Depot Q2 earnings beat forecasts as customers stick to small projects, housing market remains 'frozen'|1457369804613
 https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai|OpenAI hit the brakes. Now what?|1457369804613
+https://finance.yahoo.com/technology/ai/articles/amazon-thinks-ai-change-way-155418754.html|Amazon Thinks AI Is About to Change the Way We Shop. Goodbye, Search Bar.|https://image.pollinations.ai/prompt/Amazon%20warehouse%20with%20robotic%20arms%20sorting%20packages
+https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos|GTA VI keeps leaking ahead of its gameplay premiere|1495020689067
+https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/|Cognition CEO denies report that SpaceX tried to acquire the startup|1457369804613
