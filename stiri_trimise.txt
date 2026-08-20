@@ -6329,3 +6329,7 @@ https://finance.yahoo.com/markets/crypto/articles/wall-street-backed-bitcoin-the
 https://finance.yahoo.com/technology/ai/articles/baidu-q2-revenue-misses-advertising-173231521.html|Baidu Q2 Revenue Misses as Advertising Slides—Is the AI Thesis Still Intact?|1518770660439
 https://www.pv-magazine.com/2026/08/20/essential-system-testing-every-solar-project-needs-for-long-term-performance/|Essential system testing every solar project needs for long-term performance|1504711434969
 https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/|Gambling on the Little League World Series? Sports bettors have gone too far|1495020689067
+https://www.investors.com/news/technology/tech-stocks-ai-anthropic-revenue-ipo/?src=A00220&yptr=yahoo|Tech Stocks Fall On War, Macro Woes. Is Anthropic Revenue Projection Also A Factor?|https://image.pollinations.ai/prompt/diplomatic%20meeting%20room%2C%20flags%2C%20negotiation%20table
+https://www.barrons.com/livecoverage/stock-market-news-today-081826/card/the-stealth-ai-stocks-are-dragging-down-the-dow-again-LkQ2IzAsTqWDAmI6Gdkh?siteid=yhoof2&yptr=yahoo|The Stealth AI Stocks Are Dragging Down the Dow Again|1655720031554
+https://www.pv-magazine.com/2026/08/20/byd-comienza-a-vender-kits-solares-de-48-kwp-en-233-concesionarios-en-brasil/|BYD starts sales of 4.8 kW solar kits in Brazil|1495020689067
+https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/|AI was supposed to win people over by now — it hasn’t|1586339949916
