@@ -6333,3 +6333,7 @@ https://www.investors.com/news/technology/tech-stocks-ai-anthropic-revenue-ipo/?
 https://www.barrons.com/livecoverage/stock-market-news-today-081826/card/the-stealth-ai-stocks-are-dragging-down-the-dow-again-LkQ2IzAsTqWDAmI6Gdkh?siteid=yhoof2&yptr=yahoo|The Stealth AI Stocks Are Dragging Down the Dow Again|1655720031554
 https://www.pv-magazine.com/2026/08/20/byd-comienza-a-vender-kits-solares-de-48-kwp-en-233-concesionarios-en-brasil/|BYD starts sales of 4.8 kW solar kits in Brazil|1495020689067
 https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/|AI was supposed to win people over by now — it hasn’t|1586339949916
+https://www.producthunt.com/products/rentnation|Rentnation|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/commodities/articles/silver-mining-etf-better-buy-185659763.html|Which Silver Mining ETF Is the Better Buy: Global X's SIL or iShares' SLVP?|1581091226825
+https://finance.yahoo.com/personal-finance/mortgages/article/will-the-housing-market-crash-in-2026-gen-z-is-rooting-for-it-170038540.html|Will the housing market crash in 2026? Gen Z is rooting for it|1535320903710
+https://www.pv-magazine.com/2026/08/20/where-and-how-to-cut-back-contact-topcon-solar-cells-to-minimize-recombination-losses/|Where and how to cut back-contact TOPCon solar cells to minimize recombination losses|1466611653911
