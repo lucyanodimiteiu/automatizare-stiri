@@ -6307,3 +6307,6 @@ https://finance.yahoo.com/markets/options/articles/qqq-just-gamma-flipped-market
 https://finance.yahoo.com/markets/stocks/articles/dell-near-time-highs-record-160333836.html|Dell Near All-Time Highs on Record Revenue, AI Demand|1498050108023
 https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub|Google Gemini is getting a dedicated student hub|1586339949916
 https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/|Stripe didn’t really buy OpenRouter because of the ‘singularity’|1432821596592
+https://finance.yahoo.com/markets/stocks/articles/xos-shares-rocket-120-securing-134229777.html|Xos Shares Rocket 120% After Securing First U.S. Air Force Contract|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://www.theverge.com/gadgets/982242/ipad-air-m4-garmin-inreach-deal-sale|Grab an iPad Air M4 for its lowest price since the June increase|https://image.pollinations.ai/prompt/Amazon%20warehouse%20with%20robotic%20arms%20sorting%20packages
+https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/|OpenAI seeks to one-up Anthropic with new customer privacy protections|1620712943543
