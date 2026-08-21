@@ -6542,3 +6542,7 @@ https://www.producthunt.com/products/epho-claude-code-in-the-cloud|Epho|https://
 https://finance.yahoo.com/markets/crypto/articles/standard-chartered-forecasts-bitcoin-retest-172300311.html|Standard Chartered Forecasts Bitcoin Will Retest All-Time High|1640826514546
 https://www.investors.com/stock-lists/stock-spotlight/ai-stock-jfrog-frog-jumps-entry-earnings-accelerate/?src=A00220&yptr=yahoo|AI Stock JFrog Jumps 159% From A Low, Eyes Entry As Earnings Accelerate|1457369804613
 https://www.marketwatch.com/story/6-ai-hardware-stocks-to-own-for-the-remainder-of-the-year-according-to-an-analyst-ec0bad4e?mod=mw_rss_topstories|6 AI hardware stocks to own for the remainder of the year, according to an analyst|https://images.mktw.net/im-559376
+https://www.producthunt.com/products/pixelread-ai-ocr|PixelRead AI OCR|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/technology/articles/t-stands-gain-verizon-loses-230000780.html|AT&T stands to gain as Verizon loses a customer related battle|1518770660439
+https://finance.yahoo.com/markets/stocks/articles/yellowcake-commercial-scale-ur-energy-085956708.html|From Yellowcake to Commercial Scale: Can Ur-Energy (URG) Live Up to Its Uranium Hype?|1545173168
+https://www.marketwatch.com/story/the-treasury-the-fed-and-the-threat-to-your-money-774442ad?mod=mw_rss_topstories|The Treasury, the Fed and the threat to your money|https://images.mktw.net/im-64820392
