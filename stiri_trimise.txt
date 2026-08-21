@@ -6574,3 +6574,6 @@ https://finance.yahoo.com/markets/stocks/articles/end-market-strength-data-cente
 https://finance.yahoo.com/news/refinance-same-lender-171238158.html|Should you refinance with the same lender?|1586339949916
 https://hackaday.com/2026/08/21/spoofed-serial-number-unlocks-cricut-machine/|Spoofed Serial Number Unlocks Cricut Machine|https://hackaday.com/wp-content/uploads/2026/08/photo_2026-07-01-13.48.56-e1787211707856.jpeg?w=800
 https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal|$100 Best Buy gift cards will be $60 at stores Saturday|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/article/scott-bessent-just-cried-uncle-on-the-bond-market-chart-of-the-day-100000219.html|Scott Bessent just cried uncle on the bond market: Chart of the Day|https://image.pollinations.ai/prompt/financial%20trading%20floor%20with%20screens%20showing%20charts
+https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch|Walmart is finally adding Apple Pay and Google Pay|1432821596592
+https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/|How AI accounting startup Rillet raised $100M and became a unicorn in 48-hours|1677442135703
