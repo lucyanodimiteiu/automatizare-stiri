@@ -6558,3 +6558,7 @@ https://finance.yahoo.com/economy/policy/articles/paul-krugman-dismisses-bond-ma
 https://www.pv-magazine.com/2026/08/21/inclusion-means-judging-ideas-on-their-merits/|‘Inclusion means judging ideas on their merits’|1581091226825
 https://hackaday.com/2026/08/21/pvc-pipe-turned-diy-digital-telescope/|PVC Pipe Turned DIY Digital Telescope|https://hackaday.com/wp-content/uploads/2026/08/I-Made-a-DIY-Smart-Telescope-At-Home-14-11-screensho
 https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri|Apple is laying off staffers working on the Vision Pro and Siri|https://image.pollinations.ai/prompt/Apple%20headquarters%20glass%20building%20in%20Cupertino%2C%20C
+https://www.producthunt.com/products/onecli|OneCLI|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/stocks/articles/stocks-slip-open-bond-rout-103859903.html|Stocks Slip Before the Open as Bond Rout Resumes; Walmart Sinks After Earnings|1495020689067
+https://finance.yahoo.com/economy/policy/articles/bank-america-warns-kevin-warsh-110500512.html|Bank of America warns Kevin Warsh’s Fed strategy ‘works like a tax on the economy’ — how to protect your money|1611974789855
+https://www.marketwatch.com/story/im-leaving-my-grandkids-money-but-they-must-pass-financial-literacy-classes-to-get-it-is-that-fair-8a630648?mod=mw_rss_topstories|I plan to leave money to grandkids — but they must pass financial-literacy classes to get it. Is that fair?|https://images.mktw.net/im-50566471
