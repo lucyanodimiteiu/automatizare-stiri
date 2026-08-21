@@ -6467,3 +6467,6 @@ https://finance.yahoo.com/markets/options/articles/huge-unusual-put-options-volu
 https://finance.yahoo.com/technology/ai/articles/payments-firm-stripe-buy-ai-173651437.html|Payments firm Stripe to buy marketplace OpenRouter in AI push|1531746790731
 https://www.pv-magazine.com/2026/08/21/bombshell-report-alleges-u-s-solar-recycling-is-mostly-landfilling-offshoring-in-disguise/|Report alleges U.S. solar recycling is mostly landfilling, offshoring in disguise|1495020689067
 https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion|It’s Greg Brockman’s OpenAI now|1432821596592
+https://www.investors.com/news/ai-stocks-debt-whitefiber-nebius-neocloud/?src=A00220&yptr=yahoo|These AI Companies Pile Up Massive Debt|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://www.pv-magazine.com/2026/08/21/air-bubbles-boost-cooling-and-hydrogen-production-in-photovoltaic-thermal-system/|Air bubbles boost cooling and hydrogen production in photovoltaic-thermal system|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/|OpenAI is gaining on Anthropic with business users, new data indicates|1461749280684
