@@ -6581,3 +6581,7 @@ https://finance.yahoo.com/markets/stocks/articles/jim-cramer-names-4-indispensab
 https://finance.yahoo.com/technology/ai/articles/nutanix-stock-big-lift-agentic-152518231.html|Nutanix Stock Can Get a Big Lift From Agentic AI Growth, AMD Investment|1531746790731
 https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend|Pixel 11 gets in on the digicam trend|1593508512255
 https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/|Nvidia partners with data center developer Cloverleaf|1432821596592
+https://finance.yahoo.com/markets/stocks/articles/td-cowen-just-upgraded-dominion-160420369.html|TD Cowen Just Upgraded Dominion Energy. Here's Why.|https://image.pollinations.ai/prompt/power%20plant%20at%20sunset%20with%20dramatic%20sky%2C%203D%20r
+https://finance.yahoo.com/markets/stocks/articles/ashtead-technology-gets-sunk-delayed-153709680.html|Ashtead Technology Gets Sunk by Delayed Projects|1461749280684
+https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo|HoverAir’s transforming modular drone has already been halted in the US|1495020689067
+https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/|Anthropic’s Opus 4.6 is a smut-machine|1586339949916
