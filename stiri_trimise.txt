@@ -6615,3 +6615,6 @@ https://finance.yahoo.com/technology/ai/articles/t-t-says-not-scared-231933381.h
 https://www.producthunt.com/products/kerasformers|KerasFormers|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
 https://finance.yahoo.com/technology/ai/articles/riot-platforms-riot-cleanspark-clsk-014919566.html|Riot Platforms (RIOT) & CleanSpark (CLSK): Bitcoin Miners are Becoming AI Landlords. Riot Just Signed a $9 Billion Lease to Prove It|1432821596592
 https://finance.yahoo.com/markets/stocks/articles/workday-wday-just-had-best-235327561.html|Workday (WDAY) Just Had its Best Trading Day in a Decade. Here’s Why Silver Lake Wants In|1457369804613
+https://www.producthunt.com/products/maccess|Maccess|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/euphoria-despair-korea-reckons-stock-014700635.html|From euphoria to despair, Korea reckons with stock mania's emotional toll|1432821596592
+https://finance.yahoo.com/technology/ai/articles/crowdstrike-holdings-crwd-palo-alto-013941449.html|CrowdStrike Holdings (CRWD) & Palo Alto Networks (PANW): Cybersecurity Stocks Hit Record Highs After a Conference Made AI’s Dark Side Clear|1495020689067
