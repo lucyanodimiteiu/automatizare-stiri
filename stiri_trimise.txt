@@ -6686,3 +6686,6 @@ https://finance.yahoo.com/healthcare/articles/ars-pharma-spry-cuts-spending-2208
 https://finance.yahoo.com/technology/ai/articles/brookfield-bn-pivots-toward-ai-220206558.html|Brookfield (BN) Pivots Toward AI and Nuclear Power in Record-Breaking Quarter|1519389950473
 https://finance.yahoo.com/markets/stocks/articles/amer-sports-revenue-grew-32-223708007.html|Amer Sports (AS) Revenue Grew 32% Last Quarter. Can Arc’teryx and Salomon Sustain the Pace?|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
 https://finance.yahoo.com/markets/crypto/articles/bitfufu-fufu-increased-hashrate-allocated-215607748.html|BitFuFu (FUFU) Increased Hashrate Allocated to Self-Mining 47%. Why Did Revenue Collapse 63%?|1495020689067
+https://www.producthunt.com/products/kanasensei|KanaSensei|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/technology/ai/articles/keysight-keys-raised-outlook-ai-224547726.html|Keysight (KEYS) Raised Its Outlook. Is AI Testing Becoming a Durable Growth Engine?|1677442135703
+https://finance.yahoo.com/markets/stocks/articles/la-z-boy-lzb-fell-225733519.html|La-Z-Boy (LZB) Fell 16% After Hours. Is Retail Growth Hiding a Wholesale Problem?|1432821596592
