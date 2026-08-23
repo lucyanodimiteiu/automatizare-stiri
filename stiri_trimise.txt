@@ -6695,3 +6695,5 @@ https://finance.yahoo.com/technology/ai/articles/vnet-group-vnet-expanding-rapid
 https://www.producthunt.com/products/yattayo|Yattayo|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
 https://finance.yahoo.com/economy/articles/91-old-supermarket-chain-closes-231700441.html|91-year-old supermarket chain closes stores, lays off employees|1593508512255
 https://finance.yahoo.com/markets/stocks/articles/ugi-ugi-closed-9-4-234928137.html|UGI (UGI) Closed 9.4% Higher on a Reported KKR Bid. Does $42.50 Fully Value Its AI-Power Opportunity?|1586339949916
+https://www.producthunt.com/products/tab-notes|Tab Notes|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/technology/ai/articles/micron-mu-fell-7-ai-001235695.html|Micron (MU) Fell 7%. Is the AI Memory Trade Now Too Expensive?|1620712943543
