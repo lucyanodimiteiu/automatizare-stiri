@@ -6835,3 +6835,7 @@ https://www.marketwatch.com/story/visa-and-mastercard-shares-hit-fresh-records-u
 https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa|Robotaxis are real now — so is the pushback|https://image.pollinations.ai/prompt/industrial%20robot%20arm%20welding%20in%20a%20factory%2C%20spar
 https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom|The Witcher 4 developers target a 2028 release|https://image.pollinations.ai/prompt/offshore%20wind%20turbines%20in%20the%20ocean%20at%20sunset%2C%
 https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/|Trump bought SpaceX shares two weeks after blockbuster IPO|1581091226825
+https://finance.yahoo.com/technology/ai/articles/soundhound-making-big-ai-bet-153002501.html|SoundHound Is Making a Big AI Bet That Could Be a Margin Game Changer|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/articles/heres-truth-much-save-want-145000314.html|Here's the Truth About How Much You Need to Save If You Want to End Up a Millionaire|1495020689067
+https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase|ESPN streaming plans are getting more expensive|1457369804613
+https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/|Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space|1495020689067
