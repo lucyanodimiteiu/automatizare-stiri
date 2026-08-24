@@ -6839,3 +6839,7 @@ https://finance.yahoo.com/technology/ai/articles/soundhound-making-big-ai-bet-15
 https://finance.yahoo.com/markets/articles/heres-truth-much-save-want-145000314.html|Here's the Truth About How Much You Need to Save If You Want to End Up a Millionaire|1495020689067
 https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase|ESPN streaming plans are getting more expensive|1457369804613
 https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/|Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space|1495020689067
+https://finance.yahoo.com/economy/policy/articles/3-reasons-not-claim-social-152200430.html|3 Reasons Not to Claim Social Security at 67|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/jim-cramer-holds-back-support-151600261.html|Jim Cramer holds back support for surging beverage stock|1432821596592
+https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked|Lenovo confirms Legion Go issues after gamers report bricked devices|1586339949916
+https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/|Alabama launches investigation into OpenAI’s hack of Hugging Face|1457369804613
