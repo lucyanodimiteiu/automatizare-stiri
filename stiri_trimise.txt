@@ -6829,3 +6829,7 @@ https://finance.yahoo.com/markets/commodities/articles/why-bank-america-strategi
 https://finance.yahoo.com/markets/stocks/articles/ge-vernova-under-1-000-130300789.html|Is GE Vernova Under $1,000 a Bargain or a Trap? Here's the Honest Answer.|1432821596592
 https://www.pv-magazine.com/2026/08/24/india-adds-3-gw-of-open-access-solar-in-q2/|India adds 3 GW of open-access solar in Q2|1466611653911
 https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul|The cat-and-mouse game over 3D-printed guns has begun|1586339949916
+https://finance.yahoo.com/markets/stocks/articles/trump-continues-trading-stocks-warp-134453676.html|Trump Continues Trading Stocks at Warp Speed: Berkshire Bought, Meta Sold|https://image.pollinations.ai/prompt/Donald%20Trump%20speaking%20at%20a%20podium%20with%20American%2
+https://finance.yahoo.com/markets/stocks/articles/duolingo-stock-shaking-off-ai-141502170.html|Duolingo Stock Is Shaking Off AI Fears|1586339949916
+https://www.marketwatch.com/story/visa-and-mastercard-shares-hit-fresh-records-underscoring-a-resilient-u-s-consumer-ef328548?mod=mw_rss_topstories|Visa and Mastercard stocks hit fresh records, underscoring a resilient U.S. consumer|https://images.mktw.net/im-45897466
+https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa|Robotaxis are real now — so is the pushback|https://image.pollinations.ai/prompt/industrial%20robot%20arm%20welding%20in%20a%20factory%2C%20spar
