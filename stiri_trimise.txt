@@ -6833,3 +6833,5 @@ https://finance.yahoo.com/markets/stocks/articles/trump-continues-trading-stocks
 https://finance.yahoo.com/markets/stocks/articles/duolingo-stock-shaking-off-ai-141502170.html|Duolingo Stock Is Shaking Off AI Fears|1586339949916
 https://www.marketwatch.com/story/visa-and-mastercard-shares-hit-fresh-records-underscoring-a-resilient-u-s-consumer-ef328548?mod=mw_rss_topstories|Visa and Mastercard stocks hit fresh records, underscoring a resilient U.S. consumer|https://images.mktw.net/im-45897466
 https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa|Robotaxis are real now — so is the pushback|https://image.pollinations.ai/prompt/industrial%20robot%20arm%20welding%20in%20a%20factory%2C%20spar
+https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom|The Witcher 4 developers target a 2028 release|https://image.pollinations.ai/prompt/offshore%20wind%20turbines%20in%20the%20ocean%20at%20sunset%2C%
+https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/|Trump bought SpaceX shares two weeks after blockbuster IPO|1581091226825
