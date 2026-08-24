@@ -6743,3 +6743,5 @@ https://hackaday.com/2026/08/23/3d-printing-a-railway-pump-car/|3D Printing a Ra
 https://finance.yahoo.com/markets/stocks/articles/third-point-starts-raise-alarm-193002621.html|Third Point Starts to Raise Alarm Bells on Broadcom After Dumping AVGO Stock in Q2|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
 https://finance.yahoo.com/markets/stocks/articles/david-einhorn-just-bet-61-201730899.html|David Einhorn Just Bet $61.5 Million on PayPal. Why PYPL Looks Cheap Again.|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
 https://www.pv-magazine.com/2026/08/24/seci-discovers-inr-5-99-kwh-tariff-for-4-hour-peak-renewable-power/|India hits $0.068/kWh tariff in 4-hour peak renewable power tender|1519389950473
+https://www.producthunt.com/products/trama-mac-automation-in-plain-language|Trama|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://www.pv-magazine.com/2026/08/24/european-ppa-prices-rise-2-3-in-july/|European PPA prices rise 2.3% in July|1531746790731
