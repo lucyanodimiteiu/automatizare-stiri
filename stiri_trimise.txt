@@ -6973,3 +6973,6 @@ https://www.producthunt.com/products/keymap|Keymap|https://image.pollinations.ai
 https://finance.yahoo.com/markets/stocks/articles/rout-chipmakers-weighs-broader-market-151143186.html|Rout in Chipmakers Weighs on Broader Market|1498050108023
 https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-post-strongest-weekly-154700094.html|Bitcoin ETFs Post Strongest Weekly Inflows in 10 Months as Price Surges|1518546305927
 https://www.pv-magazine.com/2026/08/25/silver-prices-rebound-as-ai-data-centers-add-to-industrial-demand/|Silver prices rebound as AI, data centers add to industrial demand|1504711434969
+https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-trade-desk-160841144.html|Do Wall Street Analysts Like The Trade Desk Stock?|https://image.pollinations.ai/prompt/busy%20international%20cargo%20port%2C%20containers%20stacked%2
+https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration|Trump is upping the price of Big Tech’s favorite visa|1457369804613
+https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/|Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious|1457369804613
