@@ -6969,3 +6969,7 @@ https://finance.yahoo.com/technology/articles/descartes-acquires-tai-100m-143403
 https://finance.yahoo.com/markets/options/articles/1-trade-now-inflation-still-144025344.html|Make This 1 Trade Now as Inflation Still Runs Hot|1432821596592
 https://www.pv-magazine.com/2026/08/25/sweden-could-face-150000-metric-tons-of-end-of-life-panels-annually/|Sweden could face 150,000 metric tons of end-of-life panels annually|1508514177221
 https://hackaday.com/2026/08/25/anatomy-of-an-sla-resin-printing-disaster/|Anatomy of an SLA Resin Printing Disaster|https://hackaday.com/wp-content/uploads/2026/07/ResinPrinting.jpg?w=800
+https://www.producthunt.com/products/keymap|Keymap|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/stocks/articles/rout-chipmakers-weighs-broader-market-151143186.html|Rout in Chipmakers Weighs on Broader Market|1498050108023
+https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-post-strongest-weekly-154700094.html|Bitcoin ETFs Post Strongest Weekly Inflows in 10 Months as Price Surges|1518546305927
+https://www.pv-magazine.com/2026/08/25/silver-prices-rebound-as-ai-data-centers-add-to-industrial-demand/|Silver prices rebound as AI, data centers add to industrial demand|1504711434969
