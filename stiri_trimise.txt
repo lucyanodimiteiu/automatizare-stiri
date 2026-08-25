@@ -6893,3 +6893,7 @@ https://www.producthunt.com/products/alchemize|Alchemize|https://image.pollinati
 https://finance.yahoo.com/technology/ai/articles/most-investors-overlook-msfts-ai-103500124.html|Most Investors Overlook MSFT's AI Moat. I Think That's a Mistake.|1495020689067
 https://finance.yahoo.com/technology/ai/articles/nvidia-faces-growth-test-rubin-100234535.html|Nvidia faces growth test as Rubin debut meets AI financing scrutiny|1457369804613
 https://www.pv-magazine.com/2026/08/25/a-closer-look-at-catl-tener-s-6-017-mwh-bess/|A closer look at CATL Tener S 6.017 MWh BESS|1473341304170
+https://www.producthunt.com/products/diet-claude|Diet Claude|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://www.marketwatch.com/story/the-debt-fueled-ai-build-out-may-already-be-too-big-to-fail-02ed6dad?mod=mw_rss_topstories|The debt-fueled AI build-out may already be too big to fail|https://images.mktw.net/im-88071963
+https://www.pv-magazine.com/2026/08/25/greece-introduces-new-spatial-planning-rules-for-pv/|Greece introduces new spatial planning rules for PV|https://image.pollinations.ai/prompt/solar%20panel%20farm%20and%20wind%20turbines%20in%20green%20lan
+https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price|Greenworks’ MaximusZ electric riding mower has five motors and a few compromises|1535320903710
