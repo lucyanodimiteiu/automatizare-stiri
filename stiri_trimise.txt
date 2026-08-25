@@ -6889,3 +6889,7 @@ https://www.producthunt.com/products/ninjo-ai|Ninjō AI|https://image.pollinatio
 https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-tuesday-august-25-2026-rates-mixed-this-morning-100000955.html|Mortgage and refinance rates today, Tuesday, August 25, 2026: Rates mixed this morning|1554224155
 https://finance.yahoo.com/technology/ai/articles/ai-chipmaker-enflame-sets-subscription-date-for-near-900-million-shanghai-ipo-030523823.html|AI chipmaker Enflame sets subscription date for near $900 million Shanghai IPO|1581091226825
 https://www.marketwatch.com/story/he-once-mentored-scott-bessent-now-stanley-druckenmiller-is-criticizing-the-treasury-secretary-c229d410?mod=mw_rss_topstories|He once mentored Scott Bessent. Now Stanley Druckenmiller is criticizing the treasury secretary.|https://images.mktw.net/im-336694
+https://www.producthunt.com/products/alchemize|Alchemize|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/technology/ai/articles/most-investors-overlook-msfts-ai-103500124.html|Most Investors Overlook MSFT's AI Moat. I Think That's a Mistake.|1495020689067
+https://finance.yahoo.com/technology/ai/articles/nvidia-faces-growth-test-rubin-100234535.html|Nvidia faces growth test as Rubin debut meets AI financing scrutiny|1457369804613
+https://www.pv-magazine.com/2026/08/25/a-closer-look-at-catl-tener-s-6-017-mwh-bess/|A closer look at CATL Tener S 6.017 MWh BESS|1473341304170
