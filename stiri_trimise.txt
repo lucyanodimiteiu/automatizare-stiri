@@ -6945,3 +6945,7 @@ https://www.producthunt.com/products/marble-7|Marble MCP|https://image.pollinati
 https://finance.yahoo.com/markets/stocks/articles/honeywell-aerospace-hona-spin-off-111401744.html|Honeywell Aerospace (HONA) Spin-Off Unlocks Standalone Value Amid Strong Market Outlook|1526304640581
 https://finance.yahoo.com/markets/stocks/articles/ross-stores-raises-forecast-surge-104901428.html|Ross Stores raises forecast after surge in Q2 sales and store openings|1581091226825
 https://www.marketwatch.com/story/has-ai-gotten-any-better-at-stock-picking-a7cfb998?mod=mw_rss_topstories|Has AI gotten any better at stock picking?|https://images.mktw.net/im-11520190
+https://www.producthunt.com/products/dockduck|DockDuck|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/stocks/articles/navigating-w-w-grainger-gww-112512831.html|Navigating W.W. Grainger’s (GWW) New Competitive Landscape|1504711434969
+https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-trades-significant-120002108.html|Amazon.com (AMZN) Trades at Significant Discount to Intrinsic Value|1586339949916
+https://www.marketwatch.com/story/options-traders-are-betting-on-the-quietest-nvidia-earnings-reaction-in-years-it-could-be-an-opportunity-for-ai-bulls-91955793?mod=mw_rss_topstories|Options traders are betting on the quietest Nvidia earnings reaction in years. It could be an opportunity for AI bulls.|https://images.mktw.net/im-74554647
