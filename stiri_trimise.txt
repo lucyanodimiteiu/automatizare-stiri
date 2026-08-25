@@ -6905,3 +6905,7 @@ https://www.producthunt.com/products/particle-studio|Particle Studio|https://ima
 https://finance.yahoo.com/technology/ai/articles/india-ai-data-center-firm-orders-9000-nvidia-vera-rubin-systems-094222289.html|India AI Data Center Firm Orders 9,000 Nvidia Vera Rubin Systems|1586339949916
 https://finance.yahoo.com/markets/stocks/articles/oura-smart-ring-ipo-could-123039747.html|Oura smart ring IPO could raise $3 billion at $16 billion valuation|1457369804613
 https://www.marketwatch.com/story/yes-the-government-can-take-your-home-after-a-medicaid-recipient-dies-heres-how-to-protect-yourself-fab0aafa?mod=mw_rss_topstories|Yes, the government can take your home after a Medicaid recipient dies. Here’s how to protect yourself.|https://images.mktw.net/im-23497773
+https://www.producthunt.com/products/assistly-4|Assistly|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-cathie-wood-agree-191300323.html|Stanley Druckenmiller and Cathie Wood agree on 2 tech giant stocks|1519389950473
+https://finance.yahoo.com/markets/crypto/articles/option-traders-bet-bitcoin-price-132500757.html|Option Traders Bet On Bitcoin’s Price Topping $82,000|1518546305927
+https://www.marketwatch.com/story/major-alibaba-figures-make-purchases-as-chinese-giant-sells-10-billion-of-stock-879b52ec?mod=mw_rss_topstories|Major Alibaba figures make purchases as Chinese giant sells $10 billion of stock|https://images.mktw.net/im-290982
