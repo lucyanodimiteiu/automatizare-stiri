@@ -6965,3 +6965,7 @@ https://finance.yahoo.com/markets/stocks/articles/shein-owes-investors-same-amou
 https://finance.yahoo.com/healthcare/articles/biontech-moved-higher-broader-biotech-141115749.html|BioNTech Moved Higher as the Broader Biotech Sector Hit a Post-Pandemic Peak, but BNTX Stock Needs Stronger Fundamentals to Keep Climbing|1461749280684
 https://www.pv-magazine.com/2026/08/25/portugals-largest-solar-plant-enters-administration-amid-low-output-falling-power-prices/|Portugal’s largest solar plant enters administration amid low output, falling power prices|1495020689067
 https://hackaday.com/2026/08/25/artificial-intelligence-as-it-once-was/|Artificial Intelligence as It Once Was|https://hackaday.com/wp-content/uploads/2026/08/eliza.png?w=800
+https://finance.yahoo.com/technology/articles/descartes-acquires-tai-100m-143403427.html|Descartes acquires Tai for $100M|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/options/articles/1-trade-now-inflation-still-144025344.html|Make This 1 Trade Now as Inflation Still Runs Hot|1432821596592
+https://www.pv-magazine.com/2026/08/25/sweden-could-face-150000-metric-tons-of-end-of-life-panels-annually/|Sweden could face 150,000 metric tons of end-of-life panels annually|1508514177221
+https://hackaday.com/2026/08/25/anatomy-of-an-sla-resin-printing-disaster/|Anatomy of an SLA Resin Printing Disaster|https://hackaday.com/wp-content/uploads/2026/07/ResinPrinting.jpg?w=800
