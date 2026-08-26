@@ -6976,3 +6976,7 @@ https://www.pv-magazine.com/2026/08/25/silver-prices-rebound-as-ai-data-centers-
 https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-trade-desk-160841144.html|Do Wall Street Analysts Like The Trade Desk Stock?|https://image.pollinations.ai/prompt/busy%20international%20cargo%20port%2C%20containers%20stacked%2
 https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration|Trump is upping the price of Big Tech’s favorite visa|1457369804613
 https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/|Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious|1457369804613
+https://www.producthunt.com/products/session-indexer|session-indexer|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/stocks/articles/sga-raised-bet-alphabet-goog-133755704.html|SGA Raised Its Bet on Alphabet (GOOG) as AI Demand Accelerates|1495020689067
+https://finance.yahoo.com/markets/crypto/articles/gemini-expands-prediction-market-offering-133800875.html|Gemini Expands Prediction Market Offering|1535320903710
+https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale|At just $8, you owe it to yourself to grab Inscryption|1495020689067
