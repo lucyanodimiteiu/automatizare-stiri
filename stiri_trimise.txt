@@ -6995,3 +6995,7 @@ https://finance.yahoo.com/markets/options/articles/huge-unusual-put-call-option-
 https://finance.yahoo.com/markets/commodities/articles/corn-holding-onto-double-digit-172115969.html|Corn Holding onto Double Digit Gains at Midday|1677442135703
 https://hackaday.com/2026/08/25/blow-those-pyros-with-a-telephone/|Blow Those Pyros With A Telephone!|https://hackaday.com/wp-content/uploads/2026/08/pyro-phone-featured.jpg?w=800
 https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley|Gamescom Opening Night Live 2026: The biggest announcements and trailers|https://image.pollinations.ai/prompt/diplomatic%20meeting%20room%2C%20flags%2C%20negotiation%20table
+https://finance.yahoo.com/news/credit-score-refinance-mortgage-223510184.html|What credit score is needed to refinance your mortgage?|https://image.pollinations.ai/prompt/bank%20vault%20interior%20with%20gold%20bars%2C%20professional%
+https://finance.yahoo.com/markets/stocks/articles/dear-semtech-stock-fans-mark-180035994.html|Dear Semtech Stock Fans, Mark Your Calendars for August 25|1581091226825
+https://www.pv-magazine.com/2026/08/26/wa-seeks-1-8-gw-of-renewable-energy-generation-in-new-cis-tender/|Australia seeks 1.8 GW of renewable energy generation in new CIS tender|1611974789855
+https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/|Robotics startup Generalist reaches $3B valuation, sources say|1620712943543
