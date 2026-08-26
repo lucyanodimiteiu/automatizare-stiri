@@ -6980,3 +6980,7 @@ https://www.producthunt.com/products/session-indexer|session-indexer|https://ima
 https://finance.yahoo.com/markets/stocks/articles/sga-raised-bet-alphabet-goog-133755704.html|SGA Raised Its Bet on Alphabet (GOOG) as AI Demand Accelerates|1495020689067
 https://finance.yahoo.com/markets/crypto/articles/gemini-expands-prediction-market-offering-133800875.html|Gemini Expands Prediction Market Offering|1535320903710
 https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale|At just $8, you owe it to yourself to grab Inscryption|1495020689067
+https://finance.yahoo.com/markets/stocks/articles/billionaire-leon-cooperman-says-investors-145743521.html|Billionaire Leon Cooperman Says Investors Are Acting Like ‘Pavlov’s Dog’ — Reveals 2 New Stock Picks|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/technology/ai/articles/bofa-finds-ai-creating-credit-150700772.html|BofA finds AI is creating a credit divide that could reach consumers|1531746790731
+https://hackaday.com/2026/08/25/cheap-ai-token-resellers-the-secret-ingredient-is-fraud/|Cheap AI Token Resellers: The Secret Ingredient is Fraud|https://hackaday.com/wp-content/uploads/2019/03/botnet.jpg?w=800
+https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer|The Witcher 3 is getting a remaster|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
