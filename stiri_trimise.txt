@@ -6984,3 +6984,6 @@ https://finance.yahoo.com/markets/stocks/articles/billionaire-leon-cooperman-say
 https://finance.yahoo.com/technology/ai/articles/bofa-finds-ai-creating-credit-150700772.html|BofA finds AI is creating a credit divide that could reach consumers|1531746790731
 https://hackaday.com/2026/08/25/cheap-ai-token-resellers-the-secret-ingredient-is-fraud/|Cheap AI Token Resellers: The Secret Ingredient is Fraud|https://hackaday.com/wp-content/uploads/2019/03/botnet.jpg?w=800
 https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer|The Witcher 3 is getting a remaster|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/analysts-see-nearly-40-gains-155754848.html|Analysts See Nearly 40% Gains In Nancy Pelosi's Latest Stock Buys|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down|Dreame’s dream of a rocket-powered car is dead|1593508512255
+https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/|India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call|1586339949916
