@@ -7007,3 +7007,7 @@ https://www.producthunt.com/products/tellie-2|Tellie Prompter 1.5|https://image.
 https://www.investors.com/news/technology/nvidia-stock-nvda-poolside-deal-ai-investments/?src=A00220&yptr=yahoo|Nvidia Makes Waves With Poolside Deal, AI Investments|1655720031554
 https://finance.yahoo.com/markets/crypto/articles/coinbase-debuts-tokenized-stocks-network-201600568.html|Coinbase Debuts Tokenized Stocks On Base Network|1622630998477
 https://www.digi24.ro/stiri/actualitate/sistemul-de-termoficare-din-capitala-intr-un-moment-critic-o-treime-dintre-blocurile-din-bucuresti-nu-au-apa-calda-3922065|Sistemul de termoficare din Capitală, într-un moment critic: o treime dintre blocurile din București nu au apă caldă|1432821596592
+https://www.producthunt.com/products/mcp-builder-ai|MCP-Builder.ai|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/crypto/articles/crypto-exchange-trading-volumes-double-201500087.html|Crypto Exchange Trading Volumes Double In Five Days|1639762681485
+https://finance.yahoo.com/markets/stocks/articles/alibaba-diluted-shareholders-ai-insiders-203025926.html|Alibaba Diluted Shareholders for AI. Its Insiders Just Bought the Dip|1586339949916
+https://www.digi24.ro/stiri/economie/risc-ridicat-de-recesiune-a-economiei-avertizeaza-cfa-romania-analiza-dupa-confirmarea-ratingului-de-tara-3922155|Risc ridicat de recesiune a economiei, avertizează CFA România. Analiză după confirmarea ratingului de țară|1520607162513
