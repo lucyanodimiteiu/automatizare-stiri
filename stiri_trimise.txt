@@ -7075,3 +7075,7 @@ https://www.producthunt.com/products/hflow|HFlow|https://image.pollinations.ai/p
 https://finance.yahoo.com/markets/crypto/articles/trump-linked-crypto-firm-just-185645325.html|A Trump-Linked Crypto Firm Just Won Approval for a National Bank, and the Regulator’s Decision Listed Every Conflict of Interest But Approved It Anyway|1519389950473
 https://finance.yahoo.com/technology/ai/articles/nvidia-ai-servers-pricier-15-190022645.html|Nvidia’s AI Servers Are About to Get Pricier — What a 15%+ Hike Means for the Whole Stack|1461749280684
 https://www.marketwatch.com/story/judge-says-trump-administrations-blacklist-of-anthropic-was-illegal-5d3411e7?mod=mw_rss_topstories|Judge says Trump administration’s blacklist of Anthropic was illegal|https://images.mktw.net/im-44720228
+https://www.producthunt.com/products/hugging-face|Microduck|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/technology/ai/articles/keysight-keys-orders-just-topped-084051126.html|Keysight’s (KEYS) Orders Just Topped $2B Again, But Can Supply Keep Up|1498050108023
+https://finance.yahoo.com/markets/stocks/articles/lowe-low-leans-pro-online-083055124.html|Lowe’s (LOW) Leans On Pro And Online As DIY Cools|1504711434969
+https://www.marketwatch.com/story/meet-generation-renter-young-americans-who-no-longer-expect-ever-to-own-a-home-3cff63a9?mod=mw_rss_topstories|Meet Generation Renter — young Americans who no longer expect ever to own a home|https://images.mktw.net/im-73127713
