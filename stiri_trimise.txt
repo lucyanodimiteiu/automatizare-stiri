@@ -7167,3 +7167,7 @@ https://www.producthunt.com/products/creatium|Creatium Coach|https://image.polli
 https://finance.yahoo.com/markets/stocks/articles/stocks-set-open-lower-fresh-103552894.html|Stocks Set to Open Lower as Fresh U.S.-Iran Flare-Up Lifts Oil, Jobs Data Awaited|1586339949916
 https://finance.yahoo.com/technology/ai/articles/dollar-general-deploys-ai-across-102721598.html|Dollar General deploys AI across distribution centers, stores|1432821596592
 https://www.marketwatch.com/story/broadcom-earnings-need-to-answer-these-questions-for-the-stock-to-rally-again-f4e8f4f0?mod=mw_rss_topstories|Broadcom earnings need to answer these questions for the stock to rally again|https://images.mktw.net/im-35353496
+https://www.producthunt.com/products/thunderphone|ThunderPhone|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/p-global-spgi-remaining-divisions-133015336.html|S&P Global’s (SPGI) Remaining Divisions Showcase Strong Profitability Post Spin-Out|1457369804613
+https://finance.yahoo.com/markets/stocks/articles/tyler-technologies-tyl-boosts-2030-134223842.html|Tyler Technologies (TYL) Boosts 2030 Financial Goals After Successful Cloud Transition|1495020689067
+https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories|Dell’s AI servers drive a stellar earnings performance, and a raised outlook|https://images.mktw.net/im-49882740
