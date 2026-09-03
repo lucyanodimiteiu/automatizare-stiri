@@ -7223,3 +7223,7 @@ https://www.producthunt.com/products/readr-3|Readr|https://image.pollinations.ai
 https://finance.yahoo.com/economy/policy/articles/biggest-share-america-social-security-101500729.html|Biggest share of America’s Social Security benefits go to these boomers. Fair or Foul?|1457369804613
 https://finance.yahoo.com/markets/stocks/articles/marvell-beat-raised-guidance-why-102009844.html|Marvell Beat and Raised Guidance. Why Its Google Deal Still Spooked Investors|1457369804613
 https://www.marketwatch.com/story/an-old-stock-market-adage-applies-this-month-how-you-should-play-it-in-2026-ec4b9386?mod=mw_rss_topstories|An old stock-market adage applies this month — how you should play it in 2026|https://images.mktw.net/im-22069692
+https://www.producthunt.com/products/airtop|Agent Builder by Airtop|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/media-advertising/articles/google-defeats-us-bid-force-143055450.html|Google defeats US bid to force ad tech sale|1504711434969
+https://finance.yahoo.com/markets/stocks/articles/fund-added-ge-aerospace-ge-145059869.html|The Fund Added GE Aerospace (GE) Amid Market Skepticism|1586339949916
+https://www.marketwatch.com/story/goldfish-crackers-are-getting-a-makeover-as-new-health-trends-reshape-the-snack-aisle-32e89644?mod=mw_rss_topstories|Goldfish crackers are getting a makeover as new health trends reshape the snack aisle|https://images.mktw.net/im-50635743
