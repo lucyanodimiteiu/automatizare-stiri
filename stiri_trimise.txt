@@ -7251,3 +7251,7 @@ https://www.producthunt.com/products/clockwork-5|Clockwork|https://image.pollina
 https://finance.yahoo.com/markets/stocks/articles/movado-group-mov-145-old-093743372.html|Movado Group (MOV): 145-Year-Old Watchmaker Is Suddenly Turning Heads Again|1495020689067
 https://finance.yahoo.com/technology/ai/articles/profit-collapse-masks-qfin-qfin-092531452.html|A Profit Collapse Masks Qfin’s (QFIN) Bigger AI Ambitions|1457369804613
 https://www.marketwatch.com/story/trumps-threat-to-stop-trade-unless-theres-a-rate-cut-risks-shock-to-u-s-economy-2e6b9798?mod=mw_rss_topstories|Trump’s latest threat — to stop trading with some countries unless there’s a rate cut — risks shock to U.S. economy|https://images.mktw.net/im-72904333
+https://www.producthunt.com/products/chalked|Chalked for Mac|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/stocks/articles/duluth-trading-raises-2026-adjusted-141807803.html|Duluth Trading Raises 2026 Adjusted EBITDA Guidance as Profitability Improves|1432821596592
+https://finance.yahoo.com/markets/stocks/articles/texas-instruments-incorporated-txn-benefits-142036141.html|Texas Instruments Incorporated (TXN) Benefits from AI without Being Pure Play AI|1457369804613
+https://www.marketwatch.com/story/s-p-500-changes-are-coming-soon-these-stocks-could-be-named-to-the-index-today-2d0d7c14?mod=mw_rss_topstories|Bloom Energy was just named to the S&P 500. These other stocks are joining the index as well.|https://images.mktw.net/im-48239036
