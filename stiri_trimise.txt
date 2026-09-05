@@ -7259,3 +7259,7 @@ https://www.producthunt.com/products/sidebranch|sidebranch|https://image.pollina
 https://finance.yahoo.com/markets/stocks/articles/general-dynamics-stock-performance-compared-161254532.html|How Is General Dynamics' Stock Performance Compared to Other Aerospace & Defense Stocks?|1586339949916
 https://finance.yahoo.com/small-business/articles/nearly-200-old-retailer-exits-161700765.html|Nearly 200-year-old retailer exits an entire market|1432821596592
 https://www.marketwatch.com/story/micron-is-doubling-down-on-ai-memory-chips-that-could-pay-off-big-time-for-investors-da9e7f5e?mod=mw_rss_topstories|Micron is doubling down on AI memory chips. That could pay off big time for investors.|https://images.mktw.net/im-319090
+https://www.producthunt.com/products/gemini-3-8-flash|Google Gemini 3.8 Flash and Cyber|https://image.pollinations.ai/prompt/Google%20campus%20colorful%20modern%20buildings%2C%20with%20vis
+https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-isn-173128053.html|Jim Cramer Explains Why He Isn’t Ready to Pull the Trigger on Marvell (MRVL) Stock Yet|1677442135703
+https://finance.yahoo.com/technology/ai/articles/soluna-revenue-rose-73-excluding-182156379.html|Soluna’s Revenue Rose 73% Excluding an Accounting Change. Can Its AI Pipeline Deliver?|1531746790731
+https://www.marketwatch.com/story/heres-whats-worth-streaming-in-september-2026-on-netflix-hulu-hbo-max-and-more-a702e7dd?mod=mw_rss_topstories|Here’s what’s worth streaming in September 2026 on Netflix, Hulu, HBO Max and more|https://images.mktw.net/im-62390842
