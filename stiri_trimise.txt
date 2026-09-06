@@ -7315,3 +7315,7 @@ https://www.producthunt.com/products/speakeasydev|Kit by Speakeasy|https://image
 https://finance.yahoo.com/markets/stocks/articles/2-superior-growth-stocks-buy-172000494.html|2 Superior Growth Stocks to Buy and Hold for 10 Years|1432821596592
 https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-week-of-the-big-bond-scheme/?src=A00220&yptr=yahoo|Stock Market Week Ahead: Week Of The Big Bond Scheme|1520607162513
 https://www.pv-magazine.com/2026/09/04/south-korea-to-double-2027-budget-for-farm-solar-agrivoltaics/|South Korea to double 2027 budget for farm solar, agrivoltaics|1677442135703
+https://www.producthunt.com/products/tadata|Tadata|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-20-billion-groq-190737433.html|NVIDIA (NVDA)’s $20 Billion Groq Bet Goes Live This Year With New AI Racks|1531746790731
+https://finance.yahoo.com/technology/ai/articles/adobe-ends-18-era-ai-191300355.html|Adobe ends an 18-year era as AI pressure mounts|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://www.pv-magazine.com/2026/09/04/solars-infrastructure-obstacle-2/|Solar’s infrastructure obstacle|https://image.pollinations.ai/prompt/solar%20panel%20farm%20in%20a%20sunny%20desert%20landscape%2C%2
