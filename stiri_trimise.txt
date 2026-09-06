@@ -7323,3 +7323,7 @@ https://www.producthunt.com/products/at8pm|at8pm|https://image.pollinations.ai/p
 https://finance.yahoo.com/technology/ai/articles/salesforce-crm-ai-numbers-just-205654689.html|Salesforce (CRM)’s AI Numbers Just Gave Benioff His Swagger Back|1581091226825
 https://finance.yahoo.com/technology/ai/articles/musk-moves-spacex-spcx-orbital-204103387.html|Musk Moves Up SpaceX (SPCX)’s Orbital Data Center Timeline, Again|1518770660439
 https://www.pv-magazine.com/2026/09/04/why-agrivoltaics-have-yet-to-take-off-in-switzerland/|Why agrivoltaics have yet to take off in Switzerland|1432821596592
+https://finance.yahoo.com/media-advertising/articles/apple-aapl-raises-apple-tv-224834727.html|Apple (AAPL) Raises Apple TV and Apple One Prices Again in the U.S.|https://image.pollinations.ai/prompt/Apple%20headquarters%20glass%20building%20in%20Cupertino%2C%20C
+https://finance.yahoo.com/technology/ai/articles/goldman-sachs-gs-partner-ai-224114353.html|Goldman Sachs (GS) Partner: AI Risks Leaving the Next Generation of Bankers Unable to Think for Themselves|1457369804613
+https://www.pv-magazine.com/2026/09/04/the-hydrogen-stream-posco-bhp-advance-hydrogen-reduction-ironmaking-technology/|The Hydrogen Stream: Posco, BHP advance hydrogen reduction ironmaking technology|1457369804613
+https://hackaday.com/2026/09/06/printing-micron-scale-benchies-with-resin-and-turmeric/|Printing Micron-Scale Benchies With Resin and Turmeric|https://hackaday.com/wp-content/uploads/2026/09/micron_benchies.png?w=800
