@@ -7335,3 +7335,7 @@ https://finance.yahoo.com/technology/ai/articles/snowflake-snow-ai-flywheel-tran
 https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-avoiding-183939972.html|Jim Cramer Explains Why He Is Avoiding Big Predictions on Rocket Companies (RKT)|1586339949916
 https://www.pv-magazine.com/2026/09/07/large-scale-solar-hits-state-highs-as-curtailment-drops/|Australia’s large-scale solar hits new state records as curtailment falls|1504711434969
 https://hackaday.com/2026/09/06/nes-radar-tracks-flights-at-9600-baud/|NES Radar Tracks Flights at 9600 Baud|https://hackaday.com/wp-content/uploads/2026/09/NES-radar-feat.png?w=800
+https://www.producthunt.com/products/antalpha|Nina by Antalpha|https://image.pollinations.ai/prompt/cryptocurrency%20trading%20screen%20with%20green%20and%20red%20
+https://finance.yahoo.com/small-business/articles/stalled-exit-market-sponsors-consolidating-112415745.html|In a stalled exit market, sponsors are consolidating their way out|1519389950473
+https://finance.yahoo.com/markets/stocks/articles/chargepoint-chpt-posts-strong-q2-112224186.html|ChargePoint (CHPT) Posts Strong Q2 Results, But Q3 Outlook Raises Concerns|1457369804613
+https://www.marketwatch.com/story/why-the-launch-of-openais-latest-astra-model-reignited-the-memory-chip-trade-809e2edb?mod=mw_rss_topstories|Why the launch of OpenAI’s latest Astra model reignited the memory chip trade|https://images.mktw.net/im-43126373
