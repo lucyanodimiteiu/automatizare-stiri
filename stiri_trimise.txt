@@ -7331,3 +7331,7 @@ https://finance.yahoo.com/economy/policy/articles/scott-bessent-said-interest-ra
 https://www.pv-magazine.com/2026/09/04/tuv-rheinland-validates-4-kwh-generation-in-apteras-solar-electric-vehicle/|TÜV Rheinland validates 4 kWh generation in Aptera’s solar electric vehicle|1466611653911
 https://hackaday.com/2026/09/06/wordstar-lives-again-and-again/|WordStar Lives Again (and Again)|https://hackaday.com/wp-content/uploads/2026/09/ws.png?w=800
 https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft|Seattle Times and Newsday sue OpenAI and Microsoft for infringement|https://image.pollinations.ai/prompt/Microsoft%20office%20building%20modern%20glass%20architecture%2
+https://finance.yahoo.com/technology/ai/articles/snowflake-snow-ai-flywheel-transitions-183449975.html|Snowflake (SNOW)’s AI Flywheel Transitions into a Growth Engine|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-avoiding-183939972.html|Jim Cramer Explains Why He Is Avoiding Big Predictions on Rocket Companies (RKT)|1586339949916
+https://www.pv-magazine.com/2026/09/07/large-scale-solar-hits-state-highs-as-curtailment-drops/|Australia’s large-scale solar hits new state records as curtailment falls|1504711434969
+https://hackaday.com/2026/09/06/nes-radar-tracks-flights-at-9600-baud/|NES Radar Tracks Flights at 9600 Baud|https://hackaday.com/wp-content/uploads/2026/09/NES-radar-feat.png?w=800
