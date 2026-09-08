@@ -7371,3 +7371,7 @@ https://www.producthunt.com/products/paillor|Widgo|https://image.pollinations.ai
 https://finance.yahoo.com/media-advertising/articles/walt-disney-mortgaged-house-sold-093000183.html|Walt Disney mortgaged his house and sold his car to fund Snow White — his wife said she 'never felt secure'|1677442135703
 https://finance.yahoo.com/markets/stocks/articles/baidu-just-gained-shanghai-shenzhen-090038693.html|Baidu Just Gained Shanghai and Shenzhen Stock Connect Access. Is It Now a Better AI Bet Than Alibaba?|1531746790731
 https://www.marketwatch.com/story/why-a-stronger-japanese-currency-could-spell-trouble-for-ai-and-technology-stocks-6441f782?mod=mw_rss_topstories|Why a stronger Japanese currency could spell trouble for AI and technology stocks|https://images.mktw.net/im-57711625
+https://www.producthunt.com/products/switch-11|Switch|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/oreilly-automotives-stock-performance-compared-130234288.html|How Is O'Reilly Automotive's Stock Performance Compared to Other Consumer Cyclical Stocks?|1492144534655
+https://finance.yahoo.com/technology/articles/rising-cpu-demand-positions-arm-130912155.html|Rising CPU Demand Positions Arm Holdings (ARM) for Gains|1581091226825
+https://www.marketwatch.com/story/stocks-are-stumbling-after-labor-day-why-the-easy-gains-of-2026-may-be-over-1d31fa69?mod=mw_rss_topstories|Stocks stumble after Labor Day. This year’s easy gains may be over.|https://images.mktw.net/im-54743121
