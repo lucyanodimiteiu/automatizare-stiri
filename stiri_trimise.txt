@@ -7387,3 +7387,7 @@ https://www.producthunt.com/products/nametag-ai|Nametag|https://image.pollinatio
 https://finance.yahoo.com/energy/articles/sudan-could-become-red-sea-190000402.html|Sudan Could Become the Red Sea’s Next Energy Security Flashpoint|1473341304170
 https://finance.yahoo.com/markets/stocks/articles/ceco-environmental-ceco-raises-guidance-185137151.html|CECO Environmental (CECO) Raises Guidance After Thermon Deal — Can the Momentum Last?|1457369804613
 https://www.marketwatch.com/story/intels-stock-is-rising-as-the-company-looks-primed-to-boost-prices-even-more-8b8dfc99?mod=mw_rss_topstories|Intel’s stock is rising as the company looks primed to boost prices even more|https://images.mktw.net/im-70415856
+https://www.producthunt.com/products/type-com|Type.com|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/small-business/articles/102-old-mall-retailer-quietly-013700033.html|102-year-old mall retailer quietly closes 25 stores|1519389950473
+https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/?src=A00220&yptr=yahoo|Dow Jones Futures Fall As Oil Prices Push Stocks Toward Breaking Point; Apple iPhone Event Due|1523995462485
+https://www.marketwatch.com/story/strategists-say-s-p-500-could-top-8-000-but-risks-of-a-pullback-are-mounting-e1629564?mod=mw_rss_topstories|Strategists say S&P 500 could top 8,000 — but risks of a pullback are mounting|https://images.mktw.net/im-23957069
