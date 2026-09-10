@@ -7407,3 +7407,7 @@ https://www.producthunt.com/products/workid-ai|WorkID.ai|https://image.pollinati
 https://finance.yahoo.com/markets/stocks/articles/apple-foldable-iphone-could-wrestle-154447390.html|Apple’s Foldable iPhone Could Wrestle With Supply Chain Issues. What That Means for AAPL Stock.|1461749280684
 https://finance.yahoo.com/markets/stocks/articles/bank-america-bullish-sk-hynix-153622945.html|Bank of America Is Bullish on SK hynix Stock as the Memory Chip Market Stays Tight|1611974789855
 https://www.marketwatch.com/story/diesel-prices-hit-another-record-high-if-youre-shocked-wait-until-you-see-your-grocery-bill-afee7076?mod=mw_rss_topstories|Diesel prices hit another record high. If you’re shocked, wait until you see your grocery bill.|https://images.mktw.net/im-50035069
+https://www.producthunt.com/products/duckfightclub|DuckFightClub|https://image.pollinations.ai/prompt/shiny%20gold%20bars%20stacked%20in%20a%20vault%2C%20warm%20yell
+https://finance.yahoo.com/technology/ai/articles/stewart-asset-management-ai-infrastructure-135551486.html|Stewart Asset Management: AI Infrastructure Drives Lumentum Holdings’ (LITE) Potential|1655720031554
+https://finance.yahoo.com/markets/crypto/articles/chainlink-price-forecast-breakout-targets-140221089.html|Chainlink Price Forecast: LINK Breakout Targets $18 Rally|1432821596592
+https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories|Hunter Biden’s memecoin flops, falling 95% just hours after launch|https://images.mktw.net/im-16327030
