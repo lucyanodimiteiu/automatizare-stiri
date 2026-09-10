@@ -7423,3 +7423,7 @@ https://www.producthunt.com/products/mockmagic|Mock Magic: Video Presets|https:/
 https://www.investors.com/news/technology/palantir-stock-pltr-aipcon-nvidia-sovereign-ai/?src=A00220&yptr=yahoo|Palantir Touts 'Sovereign AI,' Nvidia Pact At Customer Forum|1504711434969
 https://finance.yahoo.com/markets/crypto/articles/crypto-mining-stocks-fall-harder-145423080.html|Crypto Mining Stocks Fall Harder Than Bitcoin on a Risk-Off Tape: Cipher Mining Sinks 6%, MARA and Riot Drop 4%|1622630998477
 https://www.marketwatch.com/story/history-shows-the-bar-to-disrupt-ai-is-surprisingly-high-says-bank-of-america-ddf543d4?mod=mw_rss_topstories|Derailing the AI train will be surprisingly difficult, according to Bank of America|https://images.mktw.net/im-25628337
+https://www.producthunt.com/products/typewise|Typewise Nova|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/technology/ai/articles/google-invest-15-billion-ai-070119247.html|Google to invest $15 billion AI infrastructure in Finland|1531746790731
+https://finance.yahoo.com/markets/stocks/articles/3-quantum-computing-stocks-issued-083500218.html|3 Quantum Computing Stocks Have Issued a $63 Million Warning This Year That Wall Street Cannot Ignore|1526778548025
+https://www.marketwatch.com/story/elon-musk-is-pulling-in-even-more-cash-meet-his-23-billion-underground-venture-b7e1a24f?mod=mw_rss_topstories|Elon Musk is pulling in even more cash. Meet his $23 billion underground venture.|https://images.mktw.net/im-08543207
