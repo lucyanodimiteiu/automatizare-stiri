@@ -7491,3 +7491,7 @@ https://www.producthunt.com/products/stackness|Stackness|https://image.pollinati
 https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-took-216-million-211140668.html|Ethereum ETFs Took In $216 Million on Friday. Bitcoin’s Lost Money for a Fourth Day and XRP’s Took Zero|1639762681485
 https://www.digi24.ro/stiri/economie/rate-mai-mari-pentru-romanii-cu-credite-in-euro-ce-urmeaza-cursul-e-mult-mai-dependent-de-situatia-noastra-interna-3945433|Rate mai mari pentru românii cu credite în euro. Ce urmează: „Cursul e mult mai dependent de situația noastră internă”|1677442135703
 https://www.pv-magazine.com/2026/09/12/the-race-for-space-solar/|The race for space solar|1586339949916
+https://www.producthunt.com/products/voxelwall|VoxelWall|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/technology/ai/articles/ai-agents-create-own-monitoring-225626156.html|AI Agents Create Their Own Monitoring Problem. Datadog and Dynatrace Are Racing to Own It|1519389950473
+https://finance.yahoo.com/technology/articles/american-tower-sees-2026-growth-230156550.html|American Tower Sees 2026 Growth Trough Before 5G, AI and 6G Catalysts Lift Demand|1504711434969
+https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c?mod=mw_rss_topstories|Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year|https://images.mktw.net/im-59292817
