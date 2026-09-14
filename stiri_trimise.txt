@@ -7539,3 +7539,7 @@ https://www.producthunt.com/products/appdesigns|appdesigns|https://image.pollina
 https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-14-133832281.html|Stock Market Today (Sept. 14, 2026): Nasdaq, S&P 500 falls on rising oil, AI tensions|1581091226825
 https://finance.yahoo.com/technology/ai/articles/chinas-deepseek-hires-dealmaker-cfo-163408342.html|China's DeepSeek hires dealmaker as CFO ahead of possible IPO|1432821596592
 https://www.digi24.ro/stiri/actualitate/politica/marius-budai-il-acuza-pe-ilie-bolojan-ca-ascunde-adevaratul-deficit-facturile-nu-au-disparut-doar-au-fost-puse-la-coada-3946287|Marius Budăi îl acuză pe Ilie Bolojan că „ascunde” adevăratul deficit: „Facturile nu au dispărut. Doar au fost puse la coadă”|1622630998477
+https://www.producthunt.com/products/deplo-2|Deplo|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/technology/ai/articles/ibex-ibex-turns-ai-threat-121949823.html|IBEX (IBEX) Turns The AI Threat Into Its Biggest Growth Engine|1432821596592
+https://finance.yahoo.com/markets/stocks/articles/wall-street-betting-against-designer-121631989.html|Wall Street Is Betting Against Designer Brands (DBI) Even as Profits Double|1495020689067
+https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories|CrowdStrike and Palo Alto Networks lead software stocks to a never-before-seen feat|https://images.mktw.net/im-21037838
