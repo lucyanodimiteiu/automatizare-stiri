@@ -7531,3 +7531,7 @@ https://www.producthunt.com/products/screencursor|ScreenCursor|https://image.pol
 https://finance.yahoo.com/markets/stocks/articles/exelon-stock-performance-compared-other-174300551.html|How Is Exelon’s Stock Performance Compared to Other Regulated Utilities Stocks|1457369804613
 https://finance.yahoo.com/markets/stocks/articles/jim-cramer-doubles-down-252b-175653335.html|Jim Cramer Doubles Down on This $252B AI Stock: “You Have to Buy” Every Dip|1531746790731
 https://www.pv-magazine.com/2026/09/14/spacebound-silicon/|Spacebound silicon|1535320903710
+https://www.producthunt.com/products/ovo|OVO|https://image.pollinations.ai/prompt/Apple%20headquarters%20glass%20building%20in%20Cupertino%2C%20C
+https://finance.yahoo.com/technology/ai/articles/morning-bid-slow-ai-103901753.html|Morning Bid: Go slow AI|1518770660439
+https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html|AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning|1495020689067
+https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories|How investors are reacting to the AI pause calls from Anthropic and other frontier labs|https://images.mktw.net/im-40389224
