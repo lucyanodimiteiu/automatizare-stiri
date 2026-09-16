@@ -7571,3 +7571,7 @@ https://www.producthunt.com/products/the-minimalist-entrepreneur-skills|The Mini
 https://finance.yahoo.com/markets/currencies/articles/dollar-climbs-stocks-sink-crude-143325158.html|Dollar Climbs as Stocks Sink and Crude Oil Surges|1461749280684
 https://finance.yahoo.com/markets/commodities/articles/5-freight-markets-why-spot-144332811.html|5 Freight Markets: Why Spot Rates Are Sending Mixed Signals|1457369804613
 https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories|‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?|https://images.mktw.net/im-55390155
+https://www.producthunt.com/products/narrative-3|Narrative|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/tesla-microsoft-amazon-forecast-tech-131133844.html|Tesla, Microsoft and Amazon Forecast: Tech Stocks Diverge|1495020689067
+https://finance.yahoo.com/markets/stocks/articles/xcel-energy-stock-xel-outperforming-133754654.html|Xcel Energy Stock: Is XEL Outperforming the Utility Sector?|1545173168
+https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories|Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’|https://images.mktw.net/im-93436982
