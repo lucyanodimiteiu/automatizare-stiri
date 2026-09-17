@@ -7615,3 +7615,7 @@ https://www.producthunt.com/products/text-agent-store|Text Agent Store|https://i
 https://finance.yahoo.com/small-business/articles/husband-3-years-away-retirement-090000553.html|My husband is 3 years away from retirement but I’m worried he’ll get fired before then — how do I protect my finances?|1565514020179
 https://finance.yahoo.com/markets/crypto/articles/ethereum-signals-10-drop-against-100314853.html|Ethereum Signals 10% Drop Against Bitcoin Amid CLARITY Act Setback|1457369804613
 https://www.marketwatch.com/story/this-is-the-only-cybersecurity-stock-that-can-post-big-gains-according-to-one-analyst-8ffe034f?mod=mw_rss_topstories|This is the only cybersecurity stock that can post big gains, according to one analyst|https://images.mktw.net/im-343657
+https://www.producthunt.com/products/creem|CREEM 2.0|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-see-450-million-135000092.html|Bitcoin ETFs See $450 Million In Outflows After Clarity Act Vote|1591994843349
+https://finance.yahoo.com/markets/crypto/articles/circle-unveils-arc-blockchain-135200065.html|Circle Unveils New Arc Blockchain|1593508512255
+https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories|The bond market is having a historically bad run. Why investors are buying now anyway.|https://images.mktw.net/im-19641233
