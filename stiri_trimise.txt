@@ -7667,3 +7667,7 @@ https://www.producthunt.com/products/lumiko|Lumiko|https://image.pollinations.ai
 https://finance.yahoo.com/markets/stocks/articles/pics-n-v-pics-delivers-155428079.html|PicS N.V. (PICS) Delivers Credit Portfolio Momentum and Q2 Outperformance Across the Board|1504711434969
 https://finance.yahoo.com/markets/crypto/articles/bitcoins-sharpest-rally-two-years-160103232.html|Bitcoin's Sharpest Rally in Two Years Ran Almost Entirely on Short Liquidations|1518546305927
 https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories|It’s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.|https://images.mktw.net/im-44290360
+https://www.producthunt.com/products/robot-recipes|Mise|1495020689067
+https://finance.yahoo.com/markets/stocks/articles/purecycle-pct-expands-purefive-regulatory-182105336.html|PureCycle (PCT) Expands PureFive Use as Regulatory Tailwinds Meet Execution Risk|1586339949916
+https://www.investors.com/news/technology/anthropic-ipo-delayed-openai-expects-massive-cash-burn/?src=A00220&yptr=yahoo|Anthropic Reportedly Delays IPO; OpenAI Expects Massive Cash Burn|1586339949916
+https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories|Many young investors can’t afford to invest without their parents’ help|https://images.mktw.net/im-96227400
