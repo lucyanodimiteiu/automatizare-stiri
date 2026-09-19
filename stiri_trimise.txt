@@ -7659,3 +7659,7 @@ https://www.producthunt.com/products/voicecap|VoiceCap|1586339949916
 https://finance.yahoo.com/markets/stocks/articles/outlook-cloudy-fed-rate-hike-040100680.html|‘Outlook Cloudy’: Fed Rate Hike Pits Bulls Against Bears Over Year-End Rally Odds|1432821596592
 https://finance.yahoo.com/markets/crypto/articles/sec-greenlights-tokenized-stocks-clarity-040100321.html|SEC Greenlights Tokenized Stocks After Clarity Act Fails in Senate|1457369804613
 https://www.marketwatch.com/story/most-of-what-you-know-about-data-centers-is-wrong-e6e8936c?mod=mw_rss_topstories|Most of what you know about data centers is wrong|https://images.mktw.net/im-32724460
+https://www.producthunt.com/products/punch-4|Punch|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/stocks/articles/cencora-cor-raised-guidance-bought-123837104.html|Cencora (COR) Raised Guidance and Bought Back $1B. What’s the Catch?|1457369804613
+https://finance.yahoo.com/markets/options/articles/robinhood-ceo-says-prediction-markets-112502975.html|Robinhood’s CEO Says Prediction Markets Are Starting a ‘Supercycle That Could Drive Trillions In Annual Volume’ After 12 Billion Contracts Traded in 2025|1526304640581
+https://www.marketwatch.com/story/the-old-new-thing-cisco-and-retro-tech-are-back-and-forming-the-ai-buildouts-backbone-cdffc0b7?mod=mw_rss_topstories|The old new thing: Cisco and retro tech are back and forming the AI buildout’s backbone|https://images.mktw.net/im-95036241
