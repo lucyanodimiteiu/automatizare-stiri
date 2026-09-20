@@ -7703,3 +7703,7 @@ https://www.producthunt.com/products/yabai|YABAI|https://image.pollinations.ai/p
 https://finance.yahoo.com/markets/stocks/articles/spx-technologies-spxc-buys-fis-184511019.html|SPX Technologies (SPXC) Buys FIS Water for $410M. Can Water Management Lift Cooling Returns?|1432821596592
 https://finance.yahoo.com/energy/articles/chevron-ceo-sends-strong-message-164700338.html|Chevron CEO sends a strong message on oil price and the economy|1504711434969
 https://www.pv-magazine.com/2026/09/19/teslas-10-1-billion-texas-solar-gigafactory-clears-key-tax-hurdle/|Tesla’s $10.1 billion Texas solar gigafactory clears key tax hurdle|1508514177221
+https://www.producthunt.com/products/mycel|Mycel|https://image.pollinations.ai/prompt/humanoid%20robot%20in%20a%20modern%20research%20laboratory%2C%2
+https://finance.yahoo.com/markets/stocks/articles/keybanc-raises-appfolio-appf-price-213318180.html|KeyBanc Raises AppFolio (APPF) Price Target: What Investors Need to Know|1620712943543
+https://finance.yahoo.com/technology/ai/articles/amazon-amzn-taps-uk-bond-212711015.html|Amazon (AMZN) Taps the UK Bond Market for the First Time to Help Fund its AI Buildout|1519389950473
+https://www.pv-magazine.com/2026/09/19/solar-module-imports-drop-48-in-brazil-in-h1/|Solar module imports drop 48% in Brazil in H1|1677442135703
