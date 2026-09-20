@@ -7683,3 +7683,7 @@ https://www.producthunt.com/products/transcendence|Mantra Timer|1495020689067
 https://finance.yahoo.com/technology/ai/articles/sailpoint-sail-falcon-next-gen-183101460.html|SailPoint’s (SAIL) Falcon Next-Gen SIEM Arrangement Fits Its Broader Identity Security Push|1586339949916
 https://finance.yahoo.com/markets/stocks/articles/centerpoint-energy-underperforming-nasdaq-182622146.html|Is CenterPoint Energy Underperforming the Nasdaq?|1545173168
 https://www.digi24.ro/stiri/economie/alexandru-nazare-intalnire-cu-ministrul-italian-al-economiei-si-finantelor-discutii-despre-combaterea-evaziunii-si-digitalizare-3954971|Alexandru Nazare, întâlnire cu ministrul italian al Economiei şi Finanţelor. Discuții despre combaterea evaziunii și digitalizare|1535320903710
+https://www.producthunt.com/products/squirrel-screen-time-savings|Squirrel|1655720031554
+https://finance.yahoo.com/markets/crypto/articles/sec-greenlights-tokenized-stocks-caveats-220732726.html|The SEC Greenlights Tokenized Stocks... With Caveats|1586339949916
+https://finance.yahoo.com/small-business/articles/tj-maxx-rival-closing-120-181700076.html|80-year-old discount fashion chain closing 120 stores|1504711434969
+https://www.pv-magazine.com/2026/09/19/uk-regulator-plans-bess-fees-to-cut-grid-connection-queue/|UK regulator plans BESS fees to cut grid connection queue|1504711434969
