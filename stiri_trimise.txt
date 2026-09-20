@@ -7699,3 +7699,7 @@ https://www.producthunt.com/products/minicart|Minicart|1581091226825
 https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo|Dow Jones Futures Due: Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas|1495020689067
 https://finance.yahoo.com/technology/ai/articles/bloom-energy-unveils-power-play-164510735.html|Bloom Energy (BE) Unveils a New Power Play for the AI Boom|1586339949916
 https://www.marketwatch.com/story/record-diesel-prices-are-exposing-pain-points-in-the-stock-market-and-economy-a2079b04?mod=mw_rss_topstories|Record diesel prices are exposing pain points in the stock market and economy|https://images.mktw.net/im-25666926
+https://www.producthunt.com/products/yabai|YABAI|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/spx-technologies-spxc-buys-fis-184511019.html|SPX Technologies (SPXC) Buys FIS Water for $410M. Can Water Management Lift Cooling Returns?|1432821596592
+https://finance.yahoo.com/energy/articles/chevron-ceo-sends-strong-message-164700338.html|Chevron CEO sends a strong message on oil price and the economy|1504711434969
+https://www.pv-magazine.com/2026/09/19/teslas-10-1-billion-texas-solar-gigafactory-clears-key-tax-hurdle/|Tesla’s $10.1 billion Texas solar gigafactory clears key tax hurdle|1508514177221
