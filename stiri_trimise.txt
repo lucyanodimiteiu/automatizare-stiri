@@ -7711,3 +7711,7 @@ https://www.producthunt.com/products/scrapboard-cloud-4|Scrapboard Cloud 4|https
 https://www.pv-magazine.com/2026/09/19/german-grid-operator-dispute-limits-battery-use-at-new-solar-storage-hybrid-plant/|German grid operator dispute limits battery use at new solar-storage hybrid plant|1466611653911
 https://hackaday.com/2026/09/20/reviving-tempest-attacks-with-an-injected-signal/|Reviving TEMPEST Attacks with an Injected Signal|https://hackaday.com/wp-content/uploads/2026/09/injected_TEMPEST.png?w=800
 https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown|No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.|1495020689067
+https://www.producthunt.com/products/the-101-plays-itself|The 101 Plays Itself|1457369804613
+https://finance.yahoo.com/technology/ai/articles/amodei-altman-musk-called-ai-173002836.html|Amodei, Altman, and Musk Called for an AI Slowdown. Here’s Why It’s a Warning Sign for ASML Shareholders.|1495020689067
+https://finance.yahoo.com/markets/stocks/articles/willis-lease-finance-wlfc-expands-174813287.html|Willis Lease Finance (WLFC) Expands Fleet with New Aircraft and Engine Acquisition|1495020689067
+https://www.digi24.ro/stiri/economie/agricultura/nori-de-praf-si-disperare-cum-afecteaza-lipsa-ploilor-culturile-din-vestul-tarii-fermier-in-40-de-ani-asa-ceva-nu-am-mai-intalnit-3955311|Nori de praf și disperare. Cum afectează lipsa ploilor culturile din vestul țării. Fermier: „În 40 de ani, așa ceva nu am mai întâlnit”|1495020689067
