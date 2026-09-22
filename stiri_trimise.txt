@@ -7735,3 +7735,7 @@ https://www.producthunt.com/products/slop-grader|slop-grader|https://image.polli
 https://finance.yahoo.com/markets/stocks/articles/11-p-500-sectors-fading-140003554.html|The 11 S&P 500 Sectors Are Fading Quickly. Protect Yourself Against a Stock Market Crash Now.|1586339949916
 https://finance.yahoo.com/markets/crypto/articles/avax-eyes-90-price-rally-140455182.html|AVAX Eyes 90% Price Rally As Wall Street Tests Avalanche for 24/7 Tokenized Trading|1495020689067
 https://www.marketwatch.com/story/as-the-s-p-500-nears-a-new-record-high-there-are-cracks-below-the-surface-6df3e90d?mod=mw_rss_topstories|As the S&P 500 nears a new record high, there are signs of weakness below the surface|https://images.mktw.net/im-91063523
+https://www.producthunt.com/products/keet-2|Keet|1655720031554
+https://finance.yahoo.com/markets/stocks/articles/orion-energy-oesx-raises-guidance-195100572.html|Orion Energy (OESX) Raises Guidance. How Firm is the Retailer Opportunity?|1495020689067
+https://finance.yahoo.com/technology/ai/articles/apple-wants-enter-ai-inference-203003873.html|Apple Wants to Enter the AI Inference Market. It Will Have to Swallow Its Pride First.|1495020689067
+https://www.marketwatch.com/story/these-beaten-down-stocks-could-bounce-back-in-january-if-history-is-any-guide-865a3f6b?mod=mw_rss_topstories|These beaten-down stocks could bounce back in January, if history is any guide|https://images.mktw.net/im-50018217
