@@ -7739,3 +7739,7 @@ https://www.producthunt.com/products/keet-2|Keet|1655720031554
 https://finance.yahoo.com/markets/stocks/articles/orion-energy-oesx-raises-guidance-195100572.html|Orion Energy (OESX) Raises Guidance. How Firm is the Retailer Opportunity?|1495020689067
 https://finance.yahoo.com/technology/ai/articles/apple-wants-enter-ai-inference-203003873.html|Apple Wants to Enter the AI Inference Market. It Will Have to Swallow Its Pride First.|1495020689067
 https://www.marketwatch.com/story/these-beaten-down-stocks-could-bounce-back-in-january-if-history-is-any-guide-865a3f6b?mod=mw_rss_topstories|These beaten-down stocks could bounce back in January, if history is any guide|https://images.mktw.net/im-50018217
+https://www.producthunt.com/products/vgpu|vgpu|1432821596592
+https://finance.yahoo.com/markets/article/crypto-winter-is-over-says-analyst-as-bitcoin-tops-86000-chart-of-the-day-124006079.html|'Crypto winter is over,' says analyst as bitcoin tops $86,000: Chart of the Day|1639762681485
+https://finance.yahoo.com/technology/ai/articles/sick-conspiracy-trump-dismisses-calls-123000393.html|'SICK conspiracy': Trump dismisses calls to rein in AI as his sons cash in on AI-linked defence and tech investments|1586339949916
+https://www.marketwatch.com/story/wall-street-and-ai-ruined-your-diversified-portfolio-f1255373?mod=mw_rss_topstories|Wall Street and AI ruined your ‘diversified’ portfolio|https://images.mktw.net/im-51471624
