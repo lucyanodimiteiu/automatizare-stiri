@@ -7787,3 +7787,7 @@ https://www.producthunt.com/products/solid-3|Solid|https://image.pollinations.ai
 https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-raises-dividend-8-183008175.html|Microsoft (MSFT) Raises Its Dividend 8%. Does AI Spending Change the Investment Case?|1457369804613
 https://finance.yahoo.com/markets/crypto/articles/weekend-chain-prices-monday-don-183331035.html|What Weekend On-Chain Prices Say About Monday, and What They Don’t|1432821596592
 https://www.marketwatch.com/story/is-gridlock-in-washington-actually-good-for-stocks-heres-what-historical-market-data-says-ea20746d?mod=mw_rss_topstories|Is gridlock in Washington actually good for stocks? Here’s what historical market data says.|https://images.mktw.net/im-84691328
+https://www.producthunt.com/products/ctrlops|CtrlOps 1.0|https://image.pollinations.ai/prompt/humanoid%20robot%20and%20human%20shaking%20hands%20in%20a%20bri
+https://finance.yahoo.com/markets/stocks/articles/retired-couple-1-4-million-013607065.html|Retired Couple With $1.4 Million Pays $0 Tax on a $52,000 Stock Gain. The Window Closes Dec. 31|1655720031554
+https://finance.yahoo.com/markets/stocks/articles/westinghouse-air-brake-wab-signs-014350177.html|Westinghouse Air Brake (WAB) Signs $700 Million-Plus Rail Services Deal. Can Profits Grow?|1495020689067
+https://www.marketwatch.com/story/the-next-phase-of-ai-is-here-pay-attention-to-this-profound-technological-shift-219cda30?mod=mw_rss_topstories|The next phase of AI is here. Pay attention to this profound technological shift.|https://images.mktw.net/im-70649647
